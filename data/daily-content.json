@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-04",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-08-04T05:18:38.227Z",
+  "word": {
+    "word": "obscure",
+    "phonetic": "/əbˈskjʊə(r)/",
+    "partOfSpeech": "adj./v.",
+    "definition": "模糊的；晦涩的；使模糊",
+    "example": "The origins of this tradition remain obscure to historians.",
+    "exampleTranslation": "这一传统的起源对历史学家来说仍然模糊不清。",
+    "ieltsLevel": "7",
+    "priority": "medium",
+    "movieQuote": {
+      "quote": "His motives remain obscure to all of us.",
+      "movie": "The Imitation Game",
+      "year": 2014,
+      "character": "Alan Turing"
+    },
+    "youglish": "https://youglish.com/getbyword?q=obscure"
+  },
+  "grammar": {
+    "title": "It作形式主语/宾语",
+    "category": "特殊句式",
+    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
+    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
+    "examples": [
+      {
+        "sentence": "It is essential to maintain a healthy work-life balance.",
+        "translation": "保持健康的工作生活平衡是必要的。",
+        "note": "形式主语"
+      },
+      {
+        "sentence": "I find it difficult to concentrate in noisy environments.",
+        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
+        "note": "形式宾语"
+      }
+    ],
+    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
+  },
+  "speaking": {
+    "part": "Part 3",
+    "topic": "Globalization",
+    "questions": [
+      "What are the main advantages of globalization?",
+      "Does globalization threaten local cultures?",
+      "How has globalization affected developing countries?",
+      "Will globalization continue in the future?"
+    ],
+    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "keywords": [
+      "accelerated",
+      "diffusion",
+      "unprecedented",
+      "exacerbate",
+      "dependency"
+    ],
+    "tips": "全球化话题常用经济文化双角度分析。"
+  },
+  "news": [
+    {
+      "title": "Satellite lofted for first Arab country",
+      "description": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
+      "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html",
+      "source": "China Daily - World",
+      "language": "en",
+      "category": "中国英文媒体"
+    },
+    {
+      "title": "WWII memorials solemn reminders of war tragedy",
+      "description": "Memorial days were set up by governments of the war’s major belligerents to remember those who died or sacrificed themselves, and to remind people of tragedies caused by war. Here are ways different c",
+      "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f1143a3108bc8c6721944.html",
+      "source": "China Daily - World",
+      "language": "en",
+      "category": "中国英文媒体"
+    },
+    {
+      "title": "Education, health fees among key concerns",
+      "description": "China to legislate on preschool education",
+      "link": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html",
+      "source": "China Daily - China",
+      "language": "en",
+      "category": "中国英文媒体"
+    },
+    {
+      "title": "微视频｜“新”在中国",
+      "description": "新时代的中国，日新月异。",
+      "link": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+      "source": "新华财经 - 时政",
+      "language": "zh",
+      "category": "中文媒体"
+    },
+    {
+      "title": "疫情防控措施优化 各地复商复市进行时",
+      "description": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+      "link": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+      "source": "新华财经 - 时政",
+      "language": "zh",
+      "category": "中文媒体"
+    },
+    {
+      "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+      "description": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
+      "link": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
+      "source": "新华财经 - 时政",
+      "language": "zh",
+      "category": "中文媒体"
+    },
+    {
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "description": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "source": "NYT - World",
+      "language": "en",
+      "category": "国际综合"
+    },
+    {
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "description": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "source": "NYT - World",
+      "language": "en",
+      "category": "国际综合"
+    },
+    {
+      "title": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
+      "description": "Juan Orlando Hernández, the former leader, faces fraud and money laundering charges after a Trump pardon overturned a drug-trafficking sentence.",
+      "link": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
+      "source": "NYT - World",
+      "language": "en",
+      "category": "国际综合"
+    },
+    {
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    }
+  ],
+  "stats": {
+    "totalWords": 32,
+    "totalGrammar": 30,
+    "totalSpeaking": 29,
+    "wordIndex": 19,
+    "grammarIndex": 17,
+    "speakingIndex": 19,
+    "priorityCounts": {
+      "high": 18,
+      "medium": 11,
+      "low": 3
+    },
+    "wordPriority": "medium",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 11
+  }
+}
