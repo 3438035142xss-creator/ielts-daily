@@ -1,0 +1,103 @@
+{
+  "description": "RSS新闻源配置 - 用于每日时政新闻抓取",
+  "sources": [
+    {
+      "name": "BBC News - World",
+      "category": "英文外刊",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "BBC News - Asia",
+      "category": "英文外刊",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "Reuters - World",
+      "category": "国际综合",
+      "url": "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best",
+      "language": "en"
+    },
+    {
+      "name": "The Guardian - World",
+      "category": "英文外刊",
+      "url": "https://www.theguardian.com/world/rss",
+      "language": "en"
+    },
+    {
+      "name": "The Economist - The world this week",
+      "category": "英文外刊",
+      "url": "https://www.economist.com/the-world-this-week/rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "China Daily - World",
+      "category": "中国英文媒体",
+      "url": "https://www.chinadaily.com.cn/rss/world_rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "China Daily - China",
+      "category": "中国英文媒体",
+      "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+      "language": "en"
+    },
+    {
+      "name": "CGTN - World",
+      "category": "中国英文媒体",
+      "url": "https://www.cgtn.com/subscribe/rss/section/world.xml",
+      "language": "en"
+    },
+    {
+      "name": "新华财经 - 时政",
+      "category": "中文媒体",
+      "url": "http://www.xinhuanet.com/politics/news_politics.xml",
+      "language": "zh"
+    },
+    {
+      "name": "人民网 - 国际",
+      "category": "中文媒体",
+      "url": "http://www.people.com.cn/rss/world.xml",
+      "language": "zh"
+    },
+    {
+      "name": "AP News - Top Stories",
+      "category": "国际综合",
+      "url": "https://feeds.apnews.com/apf-topnews",
+      "language": "en"
+    },
+    {
+      "name": "NYT - World",
+      "category": "国际综合",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "language": "en"
+    }
+  ],
+  "fallbackNews": [
+    {
+      "title": "Global Climate Summit Reaches New Agreement",
+      "description": "World leaders have reached a landmark agreement on carbon emission reduction targets at the latest UN climate conference.",
+      "link": "https://example.com/news1",
+      "source": "Fallback",
+      "language": "en",
+      "category": "Environment"
+    },
+    {
+      "title": "Tech Giants Invest Heavily in AI Research",
+      "description": "Major technology companies are pouring billions into artificial intelligence research, signaling a new wave of innovation.",
+      "link": "https://example.com/news2",
+      "source": "Fallback",
+      "language": "en",
+      "category": "Technology"
+    },
+    {
+      "title": "International Trade Negotiations Continue",
+      "description": "Trade representatives from multiple nations resumed talks aimed at reducing tariffs and promoting economic cooperation.",
+      "link": "https://example.com/news3",
+      "source": "Fallback",
+      "language": "en",
+      "category": "Economy"
+    }
+  ]
+}

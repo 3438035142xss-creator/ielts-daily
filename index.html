@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日雅思 · 时政与外刊</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <h1 class="title">每日雅思</h1>
+      <p class="subtitle">时政 · 外刊 · 单词 · 语法 · 口语</p>
+      <div class="date-badge" id="dateBadge">加载中...</div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- 今日单词 -->
+    <section class="card word-card">
+      <div class="card-header">
+        <span class="card-tag tag-word">今日单词</span>
+        <span class="card-index" id="wordIndex"></span>
+      </div>
+      <div class="word-main">
+        <h2 class="word-text" id="wordText">—</h2>
+        <button class="speak-btn" data-speak-target="word" title="朗读单词">🔊</button>
+        <span class="word-phonetic" id="wordPhonetic"></span>
+        <span class="word-pos" id="wordPos"></span>
+        <span class="word-level" id="wordLevel"></span>
+        <span class="word-priority" id="wordPriority"></span>
+      </div>
+      <p class="word-definition" id="wordDefinition"></p>
+      <div class="word-example">
+        <div class="example-row">
+          <p class="example-en" id="wordExampleEn"></p>
+          <button class="speak-btn-small" data-speak-target="example" title="朗读例句">🔊</button>
+        </div>
+        <p class="example-zh" id="wordExampleZh"></p>
+      </div>
+
+      <!-- 电影台词 -->
+      <div class="movie-quote" id="movieQuoteBox">
+        <div class="movie-header">
+          <span class="movie-label">🎬 电影场景</span>
+        </div>
+        <p class="movie-quote-text" id="movieQuoteText"></p>
+        <div class="movie-meta" id="movieMeta"></div>
+        <div class="movie-actions">
+          <button class="speak-btn-small" data-speak-target="movie" title="朗读台词">🔊 朗读台词</button>
+          <a class="movie-link" id="youglishLink" target="_blank" rel="noopener noreferrer">🎧 YouGlish 听真实发音</a>
+          <a class="movie-link" id="youtubeLink" target="_blank" rel="noopener noreferrer">▶ YouTube 搜电影片段</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 今日口语 -->
+    <section class="card speaking-card">
+      <div class="card-header">
+        <span class="card-tag tag-speaking">今日口语</span>
+        <span class="card-index" id="speakingIndex"></span>
+      </div>
+      <div class="speaking-meta">
+        <span class="speaking-part" id="speakingPart"></span>
+        <h2 class="speaking-topic" id="speakingTopic">—</h2>
+      </div>
+      <div class="speaking-questions" id="speakingQuestions"></div>
+      <div class="speaking-answer">
+        <div class="answer-header">
+          <strong>范例答案</strong>
+          <button class="speak-btn-small" data-speak-target="speaking" title="朗读范例">🔊 朗读</button>
+        </div>
+        <p class="answer-text" id="speakingAnswer"></p>
+      </div>
+      <div class="speaking-keywords" id="speakingKeywords"></div>
+      <div class="speaking-tip" id="speakingTip"></div>
+    </section>
+
+    <!-- 今日语法 -->
+    <section class="card grammar-card">
+      <div class="card-header">
+        <span class="card-tag tag-grammar">今日语法</span>
+        <span class="card-index" id="grammarIndex"></span>
+      </div>
+      <h2 class="grammar-title" id="grammarTitle">—</h2>
+      <div class="grammar-meta">
+        <span class="grammar-category" id="grammarCategory"></span>
+      </div>
+      <p class="grammar-explanation" id="grammarExplanation"></p>
+      <div class="grammar-structure">
+        <strong>结构：</strong><code id="grammarStructure"></code>
+      </div>
+      <div class="grammar-examples" id="grammarExamples"></div>
+      <div class="grammar-tip" id="grammarTip"></div>
+    </section>
+
+    <!-- 今日时政 -->
+    <section class="card news-card">
+      <div class="card-header">
+        <span class="card-tag tag-news">今日时政</span>
+        <span class="news-count" id="newsCount"></span>
+      </div>
+      <div class="news-filter">
+        <button class="filter-btn active" data-cat="all">全部</button>
+      </div>
+      <ul class="news-list" id="newsList">
+        <li class="loading-placeholder">加载中...</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>每日 UTC 00:00 自动更新 · 数据来源：BBC / Reuters / Economist / China Daily / 新华社 等</p>
+      <p class="footer-meta" id="footerMeta"></p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

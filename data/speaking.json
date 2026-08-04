@@ -1,0 +1,332 @@
+{
+  "description": "雅思口语话题库 - 每日轮换一个话题",
+  "topics": [
+    {
+      "part": "Part 1",
+      "topic": "Hometown",
+      "questions": [
+        "Where is your hometown?",
+        "What do you like most about your hometown?",
+        "Is there anything you dislike about your hometown?",
+        "Would you say your hometown is a good place to live?"
+      ],
+      "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+      "keywords": ["picturesque", "blend", "congestion", "robust", "cultural heritage"],
+      "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Study / Work",
+      "questions": [
+        "Are you a student or do you work?",
+        "What is your favorite subject / aspect of your job?",
+        "Why did you choose this field?",
+        "What do you plan to do in the future?"
+      ],
+      "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
+      "keywords": ["major in", "fascinating", "forefront", "innovation", "aspire"],
+      "tips": "用具体例子让回答生动，避免空泛。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Hobbies",
+      "questions": [
+        "What do you do in your free time?",
+        "How long have you had this hobby?",
+        "Is it an expensive hobby?",
+        "Do you prefer indoor or outdoor activities?"
+      ],
+      "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
+      "keywords": ["particularly fond of", "indispensable", "pricey", "composition", "unwind"],
+      "tips": "解释原因时使用对比结构，体现逻辑性。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a person who has influenced you",
+      "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
+      "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
+      "keywords": ["profoundly", "unwavering", "critically", "fearlessly", "resilience"],
+      "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a memorable journey",
+      "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
+      "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
+      "keywords": ["solo trip", "scenic", "chance encounter", "language barrier", "precious"],
+      "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a book that influenced you",
+      "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
+      "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
+      "keywords": ["powerful account", "derived", "profoundly", "perspective", "inevitable"],
+      "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Education",
+      "questions": [
+        "How has education changed in your country in recent years?",
+        "What role should technology play in education?",
+        "Do you think traditional schools will be replaced by online learning?",
+        "How can education systems better prepare students for the future?"
+      ],
+      "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+      "keywords": ["undergone", "holistic", "complementary", "mentorship", "obsolete"],
+      "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Environment",
+      "questions": [
+        "What are the most serious environmental problems in your country?",
+        "Who is more responsible for environmental protection: individuals or governments?",
+        "Do you think technological development harms or helps the environment?",
+        "What can be done to encourage people to be more environmentally friendly?"
+      ],
+      "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
+      "keywords": ["pressing", "legislative", "double-edged sword", "degradation", "collective"],
+      "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Food",
+      "questions": [
+        "What is your favorite food?",
+        "Do you like cooking?",
+        "Are there any foods you dislike?",
+        "Has your taste in food changed over the years?"
+      ],
+      "sampleAnswer": "My absolute favorite is hotpot, especially the spicy Sichuan style. I find the communal aspect of gathering around a steaming pot with friends incredibly appealing. While I enjoy cooking occasionally, I wouldn't call myself a skilled chef—I tend to stick to simple dishes like stir-fried vegetables and steamed fish. As for dislikes, I'm not particularly fond of overly sweet desserts or anything with a strong cilantro flavor. Over the years, my palate has definitely expanded; as a child, I avoided anything spicy, but now I've grown to appreciate the complexity of bold flavors.",
+      "keywords": ["communal", "appealing", "particularly fond of", "palate", "complexity"],
+      "tips": "描述食物时多用感官词汇，让回答生动。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Travel",
+      "questions": [
+        "Do you like traveling?",
+        "Where did you go on your last holiday?",
+        "Do you prefer traveling alone or with others?",
+        "What is your dream destination?"
+      ],
+      "sampleAnswer": "I'm absolutely passionate about traveling—there's nothing quite like exploring new places and immersing myself in different cultures. My last holiday took me to Xi'an, where I was captivated by the Terracotta Warriors and the city's rich historical atmosphere. When it comes to traveling companions, I prefer going with close friends; shared experiences tend to be more enjoyable, and navigating unfamiliar places together strengthens bonds. As for my dream destination, it would have to be Iceland—I've always been fascinated by its otherworldly landscapes, especially the Northern Lights and the geothermal hot springs.",
+      "keywords": ["passionate", "immersing", "captivated", "navigating", "otherworldly"],
+      "tips": "表达偏好时给出具体原因，避免单一答案。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a skill you want to learn",
+      "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
+      "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
+      "keywords": ["acquire", "barriers", "reputable", "inclusively", "marginalized"],
+      "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe an important decision you made",
+      "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
+      "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
+      "keywords": ["transformative", "trajectory", "exposure", "competitive", "daunting"],
+      "tips": "讲述决定时强调过程和结果，体现反思能力。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Technology",
+      "questions": [
+        "How has technology affected the way people communicate?",
+        "Do you think social media brings people closer or pushes them apart?",
+        "What are the potential dangers of over-reliance on technology?",
+        "How should children be introduced to technology?"
+      ],
+      "sampleAnswer": "Technology has fundamentally transformed communication, making it instantaneous and borderless, yet arguably more superficial. Social media is a classic double-edged sword: it enables us to maintain connections across vast distances, but it can also foster shallow interactions and social comparison, sometimes leaving users feeling more isolated than connected. Over-reliance on technology poses genuine risks, including diminished face-to-face communication skills, shortened attention spans, and privacy concerns stemming from the constant data collection. When introducing children to technology, I believe a balanced and gradual approach is essential—parents should set clear boundaries on screen time, actively engage with their children during digital activities, and ensure that technology serves as a tool for learning rather than a substitute for human interaction or outdoor play.",
+      "keywords": ["instantaneous", "borderless", "superficial", "diminished", "substitute"],
+      "tips": "科技话题常用利弊对比，注意使用转折连词。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Urbanization",
+      "questions": [
+        "What are the advantages and disadvantages of living in a big city?",
+        "How can cities become more livable?",
+        "Do you think urbanization will continue in the future?",
+        "What challenges do rural areas face as cities grow?"
+      ],
+      "sampleAnswer": "Living in a metropolis offers undeniable advantages: access to quality healthcare, diverse educational opportunities, and vibrant cultural life. However, these benefits come at a cost—sky-high housing prices, severe traffic congestion, and deteriorating air quality are common grievances. To make cities more livable, urban planners should prioritize green spaces, efficient public transportation, and sustainable architecture that reduces energy consumption. Urbanization will almost certainly continue, driven by economic opportunities and demographic shifts, but the challenge lies in managing this growth responsibly. As cities expand, rural areas face the dual threat of brain drain and economic decline, as young, educated individuals migrate in search of better prospects. Addressing this imbalance requires targeted policies that promote rural development and ensure equitable resource distribution.",
+      "keywords": ["metropolis", "vibrant", "deteriorating", "brain drain", "equitable"],
+      "tips": "城市话题常用因果分析，注意使用专业词汇。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Music",
+      "questions": [
+        "What kind of music do you like?",
+        "Do you play any musical instruments?",
+        "How often do you listen to music?",
+        "Has your taste in music changed over the years?"
+      ],
+      "sampleAnswer": "I have rather eclectic taste in music, but if I had to choose, I'd say I'm drawn to indie folk and classical music. I find the acoustic melodies of folk music deeply soothing, while classical compositions offer a kind of intellectual stimulation that few other genres can match. Although I don't play any instruments proficiently, I taught myself a bit of guitar during college. Music accompanies me throughout the day—I usually listen while commuting, working, or unwinding before bed. My taste has definitely evolved over time; as a teenager, I was obsessed with pop and rock, but as I've matured, I've developed an appreciation for more nuanced and sophisticated musical forms.",
+      "keywords": ["eclectic", "drawn to", "soothing", "proficiently", "nuanced"],
+      "tips": "谈论喜好时使用程度副词，体现表达的精准。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Weather",
+      "questions": [
+        "What is your favorite kind of weather?",
+        "Does the weather affect your mood?",
+        "Do you prefer hot or cold weather?",
+        "What do you do on rainy days?"
+      ],
+      "sampleAnswer": "I particularly enjoy crisp autumn days with clear blue skies and a gentle breeze—that perfect transition between summer's heat and winter's chill. Weather undeniably affects my mood; sunny days leave me feeling energetic and optimistic, whereas prolonged rainy spells tend to make me somewhat lethargic. Between hot and cold, I lean towards cooler weather, as I find it easier to bundle up in layers than to escape oppressive heat. On rainy days, I relish the opportunity to stay indoors with a good book and a hot cup of tea, finding the sound of rain against the window oddly comforting.",
+      "keywords": ["crisp", "transition", "prolonged", "lethargic", "relish"],
+      "tips": "描述天气时多用形容词，营造氛围。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a place you want to visit",
+      "cueCard": "Describe a place you would like to visit. You should say: where it is / how you know about it / what you would do there / and explain why you want to visit it.",
+      "sampleAnswer": "A place that has long captivated my imagination is Kyoto, Japan's former imperial capital. I first learned about it through a travel documentary that showcased its stunning temples, serene gardens, and well-preserved traditional architecture. If I had the chance to visit, I would spend my days exploring iconic sites like Kinkaku-ji and Fushimi Inari Shrine, participating in a traditional tea ceremony, and perhaps staying in a ryokan to experience authentic Japanese hospitality. What draws me to Kyoto is its remarkable harmony between nature and human craftsmanship—every garden, every temple seems designed to evoke a sense of tranquility and contemplation. In our fast-paced modern world, I believe Kyoto offers a rare opportunity to step back in time and reconnect with a more mindful way of living.",
+      "keywords": ["captivated", "imperial", "iconic", "tranquility", "contemplation"],
+      "tips": "描述地点时调动多种感官，营造画面感。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a challenging experience",
+      "cueCard": "Describe a challenge you faced and how you overcame it. You should say: what the challenge was / when it happened / how you dealt with it / and explain what you learned from the experience.",
+      "sampleAnswer": "One of the most daunting challenges I've faced was delivering a presentation in English at an international conference during my third year of university. As a non-native speaker with limited public speaking experience, the prospect of addressing an audience of experts was genuinely terrifying. To prepare, I devoted countless hours to refining my slides, rehearsing my delivery in front of a mirror, and seeking feedback from professors and peers. On the day of the presentation, my hands were shaking, but I focused on my breathing and reminded myself that I had prepared thoroughly. To my surprise, the presentation went smoothly, and the Q&A session that followed was intellectually stimulating rather than intimidating. This experience taught me that preparation is the best antidote to anxiety, and that growth often lies just beyond our comfort zones.",
+      "keywords": ["daunting", "prospect", "refining", "antidote", "comfort zones"],
+      "tips": "讲述挑战时突出过程和心理变化，体现成长。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Globalization",
+      "questions": [
+        "What are the main advantages of globalization?",
+        "Does globalization threaten local cultures?",
+        "How has globalization affected developing countries?",
+        "Will globalization continue in the future?"
+      ],
+      "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+      "keywords": ["accelerated", "diffusion", "unprecedented", "exacerbate", "dependency"],
+      "tips": "全球化话题常用经济文化双角度分析。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Health",
+      "questions": [
+        "Why are more people suffering from stress nowadays?",
+        "How can individuals maintain a healthy lifestyle?",
+        "Should governments regulate fast food?",
+        "What role does mental health play in overall well-being?"
+      ],
+      "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
+      "keywords": ["prevalence", "blurs", "contentious", "stigmatized", "holistic"],
+      "tips": "健康话题常用因果和建议结构。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Daily Routine",
+      "questions": [
+        "When do you usually get up?",
+        "What part of the day do you like most?",
+        "Has your routine changed much recently?",
+        "What would you like to change about your routine?"
+      ],
+      "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
+      "keywords": ["drag myself", "undeniably", "unwind", "blurred", "boost"],
+      "tips": "描述日常时使用频率副词，体现自然流畅。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Friends",
+      "questions": [
+        "Do you prefer spending time with friends or alone?",
+        "What do you usually do with your friends?",
+        "Do you think friends should have similar personalities?",
+        "How do you make new friends?"
+      ],
+      "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
+      "keywords": ["solitude", "invigorating", "diverse temperaments", "organically", "social circle"],
+      "tips": "谈论人际关系时使用情感词汇，体现深度。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a useful invention",
+      "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
+      "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
+      "keywords": ["transformative", "democratized", "revolutionized", "ubiquity", "erosion"],
+      "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a goal you achieved",
+      "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
+      "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
+      "keywords": ["decidedly", "accountability", "overhauled", "indescribable", "perseverance"],
+      "tips": "描述目标时强调努力过程，体现意志力。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Media",
+      "questions": [
+        "How has the media changed in recent years?",
+        "Do you trust the news media?",
+        "What responsibilities do journalists have?",
+        "How does social media influence public opinion?"
+      ],
+      "sampleAnswer": "The media landscape has been radically reshaped by digitalization, with traditional outlets losing ground to social platforms and independent content creators. Trust in mainstream media has declined in many countries, partly due to sensationalism, political bias, and the proliferation of misinformation that exploits social media algorithms. Journalists bear profound responsibilities: to verify facts rigorously, present multiple perspectives, and hold power to account—all while navigating commercial pressures and tight deadlines. Social media's influence on public opinion is profound but double-edged: it democratizes information sharing and gives voice to marginalized groups, yet it also creates echo chambers that reinforce existing beliefs and amplifies emotionally charged content at the expense of nuanced discussion. Cultivating media literacy has never been more essential.",
+      "keywords": ["radically", "sensationalism", "proliferation", "echo chambers", "media literacy"],
+      "tips": "媒体话题常用变化和影响分析。"
+    },
+    {
+      "part": "Part 3",
+      "topic": "Family",
+      "questions": [
+        "How have family structures changed in your country?",
+        "What role do grandparents play in modern families?",
+        "Is it better for children to grow up in large or small families?",
+        "How will family relationships change in the future?"
+      ],
+      "sampleAnswer": "Family structures in China have undergone significant transformations, shifting from extended multi-generational households to smaller nuclear families, particularly in urban areas where housing constraints and career demands prevail. Grandparents still play vital roles, often serving as primary caregivers for grandchildren while parents work, though this arrangement can sometimes generate intergenerational conflicts over child-rearing philosophies. Whether large or small families are preferable depends on context: large families offer richer social support and diverse role models, while small families can provide more individualized attention and resources per child. Looking ahead, I expect family relationships will become more diverse and flexible, with rising acceptance of single-parent families, blended families, and child-free couples. The fundamental function of families—providing love, support, and belonging—will endure, even as their forms multiply.",
+      "keywords": ["transformations", "nuclear", "caregivers", "intergenerational", "endure"],
+      "tips": "家庭话题常用对比和趋势分析。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Reading",
+      "questions": [
+        "Do you like reading?",
+        "What kind of books do you read?",
+        "Do you prefer e-books or paper books?",
+        "What was the last book you read?"
+      ],
+      "sampleAnswer": "I'm an avid reader, finding few pleasures as satisfying as getting lost in a good book. My reading tastes are fairly broad, encompassing literary fiction, biographies, and popular science. When it comes to format, I have a soft spot for paper books—the tactile sensation of turning pages and the unmistakable scent of printed paper create an irreplaceable reading experience. However, I also appreciate e-books for their convenience, especially when traveling. The last book I finished was 'Sapiens' by Yuval Noah Harari, a thought-provoking exploration of human history that fundamentally challenged my understanding of how civilizations develop.",
+      "keywords": ["avid", "encompassing", "tactile", "irreplaceable", "thought-provoking"],
+      "tips": "描述阅读时使用具体书名和感受，体现真实性。"
+    },
+    {
+      "part": "Part 1",
+      "topic": "Sports",
+      "questions": [
+        "Do you like sports?",
+        "What sports do you enjoy watching or playing?",
+        "How often do you exercise?",
+        "Did you play sports when you were a child?"
+      ],
+      "sampleAnswer": "I genuinely enjoy sports, both as a participant and a spectator. As a player, I'm particularly fond of badminton and swimming—they provide excellent cardiovascular workouts while being relatively gentle on the joints. As a spectator, I'm captivated by tennis and football, especially during major tournaments. I try to exercise at least three times a week, though work commitments sometimes interfere with this routine. As a child, I was quite active, participating in school basketball teams and spending countless afternoons cycling with friends. Those early experiences instilled in me a lifelong appreciation for physical activity and team spirit.",
+      "keywords": ["cardiovascular", "captivated", "tournaments", "instilled", "team spirit"],
+      "tips": "谈论运动时使用动作动词，体现活力。"
+    },
+    {
+      "part": "Part 2",
+      "topic": "Describe a piece of advice you received",
+      "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
+      "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
+      "keywords": ["agonizing", "prestigious", "intrinsic motivation", "external validation", "fulfilling"],
+      "tips": "描述建议时强调其深远影响，体现反思。"
+    }
+  ]
+}

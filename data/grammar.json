@@ -1,0 +1,545 @@
+{
+  "description": "雅思核心语法点库 - 每日轮换一个语法点",
+  "grammarPoints": [
+    {
+      "title": "现在完成时 vs 一般过去时",
+      "category": "时态",
+      "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
+      "structure": "have/has + 过去分词 vs 动词过去式",
+      "examples": [
+        {
+          "sentence": "I have lived in London for five years.",
+          "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
+          "note": "强调持续到现在"
+        },
+        {
+          "sentence": "I lived in London for five years.",
+          "translation": "我在伦敦住过五年。（现在已不住那里）",
+          "note": "仅陈述过去经历"
+        }
+      ],
+      "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
+    },
+    {
+      "title": "虚拟语气（与现在事实相反）",
+      "category": "虚拟语气",
+      "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
+      "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
+      "examples": [
+        {
+          "sentence": "If I were the mayor, I would invest more in public transport.",
+          "translation": "如果我是市长，我会投资更多在公共交通上。",
+          "note": "与现在事实相反"
+        }
+      ],
+      "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
+    },
+    {
+      "title": "定语从句：that vs which",
+      "category": "从句",
+      "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
+      "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
+      "examples": [
+        {
+          "sentence": "The book that/which I bought yesterday is excellent.",
+          "translation": "我昨天买的那本书很棒。",
+          "note": "限制性，that/which均可"
+        },
+        {
+          "sentence": "The book, which I bought yesterday, is excellent.",
+          "translation": "这本书，我昨天买的，很棒。",
+          "note": "非限制性，只能用which"
+        }
+      ],
+      "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
+    },
+    {
+      "title": "被动语态",
+      "category": "语态",
+      "explanation": "当动作的执行者不重要或未知，或想强调动作承受者时使用被动语态。结构为be + 过去分词。",
+      "structure": "主语 + be + 过去分词 (+ by + 执行者)",
+      "examples": [
+        {
+          "sentence": "The bridge was built in 1998.",
+          "translation": "这座桥建于1998年。",
+          "note": "强调承受者，执行者不重要"
+        },
+        {
+          "sentence": "The report will be submitted by next Friday.",
+          "translation": "报告将于下周五前提交。",
+          "note": "正式文体常用被动"
+        }
+      ],
+      "ieltsTip": "雅思写作Task 1流程图描述和学术写作中，被动语态是体现客观性的重要手段。"
+    },
+    {
+      "title": "现在分词作状语",
+      "category": "非谓语动词",
+      "explanation": "现在分词（-ing形式）作状语，可表示时间、原因、条件、让步、结果等，其逻辑主语须与主句主语一致。",
+      "structure": "现在分词(短语), 主句",
+      "examples": [
+        {
+          "sentence": "Having finished the assignment, she went out for a walk.",
+          "translation": "完成作业后，她出去散步了。",
+          "note": "完成时分词表示动作先于主句"
+        },
+        {
+          "sentence": "Not knowing the answer, he remained silent.",
+          "translation": "因为不知道答案，他保持沉默。",
+          "note": "表原因"
+        }
+      ],
+      "ieltsTip": "雅思写作中合理使用分词结构，可让句子更紧凑、更有变化，避免全是并列句。"
+    },
+    {
+      "title": "倒装句",
+      "category": "特殊句式",
+      "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
+      "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
+      "examples": [
+        {
+          "sentence": "Never have I seen such a breathtaking landscape.",
+          "translation": "我从未见过如此令人惊叹的风景。",
+          "note": "否定词提前，部分倒装"
+        },
+        {
+          "sentence": "Hardly had he arrived when the meeting started.",
+          "translation": "他刚到，会议就开始了。",
+          "note": "Hardly...when...结构"
+        }
+      ],
+      "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
+    },
+    {
+      "title": "强调句型",
+      "category": "特殊句式",
+      "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
+      "structure": "It is/was + 强调部分 + that/who + 其余",
+      "examples": [
+        {
+          "sentence": "It was in 2008 that the Olympics were held in Beijing.",
+          "translation": "正是在2008年奥运会在北京举办。",
+          "note": "强调时间状语"
+        },
+        {
+          "sentence": "It is the government that should take responsibility.",
+          "translation": "正是政府应当承担责任。",
+          "note": "强调主语"
+        }
+      ],
+      "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
+    },
+    {
+      "title": "比较级与最高级",
+      "category": "形容词副词",
+      "explanation": "比较级用于两者比较，最高级用于三者及以上。比较级前可用much, far, a lot, even, still等修饰；最高级前通常加the。",
+      "structure": "more + 多音节形容词; 形容词-er + than; the + 最高级",
+      "examples": [
+        {
+          "sentence": "Urban residents face significantly more pressure than rural dwellers.",
+          "translation": "城市居民面临比农村居民大得多的压力。",
+          "note": "more + 多音节词"
+        },
+        {
+          "sentence": "This is the most challenging task I have ever undertaken.",
+          "translation": "这是我承担过的最具挑战性的任务。",
+          "note": "最高级"
+        }
+      ],
+      "ieltsTip": "雅思写作Task 1比较数据时，比较级是核心工具，注意修饰词的使用以体现精确度。"
+    },
+    {
+      "title": "情态动词表推测",
+      "category": "情态动词",
+      "explanation": "must/may/might/could/can't + 动词原形表示对现在的推测；加have + 过去分词表示对过去的推测。",
+      "structure": "must/may/might/can't + have + 过去分词",
+      "examples": [
+        {
+          "sentence": "He must have missed the train, for he hasn't arrived yet.",
+          "translation": "他肯定没赶上火车，因为他还没到。",
+          "note": "must have done表肯定推测"
+        },
+        {
+          "sentence": "She can't have finished the work so quickly.",
+          "translation": "她不可能这么快就完成工作。",
+          "note": "can't have done表否定推测"
+        }
+      ],
+      "ieltsTip": "雅思阅读推理题中，理解情态动词的推测含义有助于准确判断作者态度。"
+    },
+    {
+      "title": "名词性从句",
+      "category": "从句",
+      "explanation": "名词性从句包括主语从句、宾语从句、表语从句、同位语从句，在句中起名词作用。常用that, whether, if及wh-词引导。",
+      "structure": "主句 + that/whether/wh- + 从句",
+      "examples": [
+        {
+          "sentence": "What surprised me most was his attitude.",
+          "translation": "最让我惊讶的是他的态度。",
+          "note": "主语从句"
+        },
+        {
+          "sentence": "The fact that she passed the exam delighted everyone.",
+          "translation": "她通过考试这个事实让所有人高兴。",
+          "note": "同位语从句"
+        }
+      ],
+      "ieltsTip": "雅思写作中名词性从句是表达复杂观点的利器，尤其主语从句开头能增强句式多样性。"
+    },
+    {
+      "title": "让步状语从句",
+      "category": "从句",
+      "explanation": "although/though/even though/even if/while/whereas引导让步状语从句，表示尽管…但是…，主句不能再用but。",
+      "structure": "Although/Even though + 从句, 主句",
+      "examples": [
+        {
+          "sentence": "Although the technology is advanced, it is not widely accessible.",
+          "translation": "虽然技术先进，但并未广泛普及。",
+          "note": "注意主句不用but"
+        },
+        {
+          "sentence": "While city life offers convenience, it also brings stress.",
+          "translation": "尽管城市生活便利，但也带来压力。",
+          "note": "while表让步"
+        }
+      ],
+      "ieltsTip": "雅思写作讨论利弊时，让步状语从句是体现辩证思维的必备结构。"
+    },
+    {
+      "title": "非谓语动词：不定式 vs 动名词",
+      "category": "非谓语动词",
+      "explanation": "某些动词后只能接不定式（decide, hope, agree等），某些只能接动名词（enjoy, avoid, finish等），有些两者均可但意义不同（stop, remember, forget）。",
+      "structure": "动词 + to do / 动词 + doing",
+      "examples": [
+        {
+          "sentence": "He stopped smoking. vs He stopped to smoke.",
+          "translation": "他戒烟了。/ 他停下来去抽烟。",
+          "note": "意义不同"
+        },
+        {
+          "sentence": "I remember locking the door. vs Remember to lock the door.",
+          "translation": "我记得锁了门。/ 记得去锁门。",
+          "note": "remember doing已做;remember to do未做"
+        }
+      ],
+      "ieltsTip": "雅思语法题和完形填空中，非谓语动词的搭配是高频考点，需要熟记。"
+    },
+    {
+      "title": "主谓一致",
+      "category": "一致性",
+      "explanation": "主语为单数概念时谓语用单数，复数概念用复数。注意集体名词、就近原则、就远原则等特殊情况。",
+      "structure": "主语 + 谓语（与主语数一致）",
+      "examples": [
+        {
+          "sentence": "The committee has/have reached a decision.",
+          "translation": "委员会已作出决定。",
+          "note": "强调整体用单数，强调成员用复数"
+        },
+        {
+          "sentence": "Either the students or the teacher is responsible.",
+          "translation": "要么学生，要么老师负责。",
+          "note": "either...or...就近原则"
+        }
+      ],
+      "ieltsTip": "雅思写作中主谓一致错误是常见的失分点，写完后务必检查主谓数的一致性。"
+    },
+    {
+      "title": "虚拟语气（与过去事实相反）",
+      "category": "虚拟语气",
+      "explanation": "表达对过去事实的假设时，if从句用had + 过去分词，主句用would/could/should/might + have + 过去分词。",
+      "structure": "If + 主语 + had done, 主语 + would have done",
+      "examples": [
+        {
+          "sentence": "If I had studied harder, I would have passed the exam.",
+          "translation": "如果我当初更努力学习，就会通过考试了。",
+          "note": "与过去事实相反"
+        }
+      ],
+      "ieltsTip": "雅思口语讨论过去经历或后悔时，使用虚拟语气可让表达更地道。"
+    },
+    {
+      "title": "独立主格结构",
+      "category": "特殊句式",
+      "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
+      "structure": "名词 + 分词/形容词, 主句",
+      "examples": [
+        {
+          "sentence": "Weather permitting, we will go hiking tomorrow.",
+          "translation": "天气允许的话，我们明天去远足。",
+          "note": "名词+现在分词"
+        },
+        {
+          "sentence": "The work finished, we went home happily.",
+          "translation": "工作完成了，我们高兴地回家了。",
+          "note": "名词+过去分词"
+        }
+      ],
+      "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
+    },
+    {
+      "title": "间接引语",
+      "category": "引语",
+      "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
+      "structure": "主语 + said/told + (that) + 宾语从句",
+      "examples": [
+        {
+          "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
+          "translation": "他说：「我累了。」→ 他说他累了。",
+          "note": "时态前移"
+        }
+      ],
+      "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
+    },
+    {
+      "title": "It作形式主语/宾语",
+      "category": "特殊句式",
+      "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
+      "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
+      "examples": [
+        {
+          "sentence": "It is essential to maintain a healthy work-life balance.",
+          "translation": "保持健康的工作生活平衡是必要的。",
+          "note": "形式主语"
+        },
+        {
+          "sentence": "I find it difficult to concentrate in noisy environments.",
+          "translation": "我发现自己在嘈杂环境中很难集中注意力。",
+          "note": "形式宾语"
+        }
+      ],
+      "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
+    },
+    {
+      "title": "同位语",
+      "category": "句法",
+      "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
+      "structure": "名词 + 同位成分（名词/that从句）",
+      "examples": [
+        {
+          "sentence": "Beijing, the capital of China, is a bustling metropolis.",
+          "translation": "北京，中国的首都，是个繁华的大都市。",
+          "note": "名词作同位语"
+        },
+        {
+          "sentence": "The news that our team won the championship spread quickly.",
+          "translation": "我们队夺冠的消息传得很快。",
+          "note": "同位语从句"
+        }
+      ],
+      "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
+    },
+    {
+      "title": "将来时态的表达",
+      "category": "时态",
+      "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
+      "structure": "will do / be going to do / be to do / be about to do",
+      "examples": [
+        {
+          "sentence": "Look at the clouds! It is going to rain.",
+          "translation": "看那些云！要下雨了。",
+          "note": "表迹象"
+        },
+        {
+          "sentence": "The Prime Minister is to visit China next month.",
+          "translation": "首相将于下个月访问中国。",
+          "note": "官方安排"
+        }
+      ],
+      "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
+    },
+    {
+      "title": "冠词的用法",
+      "category": "冠词",
+      "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
+      "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
+      "examples": [
+        {
+          "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
+          "translation": "狗是忠诚的动物。（三种泛指表达）",
+          "note": "泛指的三种方式"
+        },
+        {
+          "sentence": "Love is more important than money.",
+          "translation": "爱比金钱更重要。",
+          "note": "抽象名词零冠词"
+        }
+      ],
+      "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
+    },
+    {
+      "title": "分词作定语",
+      "category": "非谓语动词",
+      "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
+      "structure": "名词 + -ing/-ed(短语)",
+      "examples": [
+        {
+          "sentence": "The exciting news spread quickly.",
+          "translation": "这个令人兴奋的消息传得很快。",
+          "note": "现在分词表主动"
+        },
+        {
+          "sentence": "The book written by him is a bestseller.",
+          "translation": "他写的书是畅销书。",
+          "note": "过去分词表被动"
+        }
+      ],
+      "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
+    },
+    {
+      "title": "条件句的混合用法",
+      "category": "虚拟语气",
+      "explanation": "混合条件句指主从句时间不一致的条件句，需根据各自时间调整动词形式。如：与过去事实相反的条件 + 对现在的影响。",
+      "structure": "If + had done, would + do（过去条件+现在结果）",
+      "examples": [
+        {
+          "sentence": "If I had studied medicine, I would be a doctor now.",
+          "translation": "如果我当初学医，现在就是医生了。",
+          "note": "过去条件+现在结果"
+        }
+      ],
+      "ieltsTip": "雅思写作中混合条件句可体现对假设情况的深入分析，是高分句式。"
+    },
+    {
+      "title": "wish和hope的用法",
+      "category": "虚拟语气",
+      "explanation": "wish表愿望，从句用虚拟语气（与现在相反用过去式，与过去相反用过去完成时）；hope表希望，从句用陈述语气。",
+      "structure": "wish + 过去式/过去完成时; hope + 现在时/将来时",
+      "examples": [
+        {
+          "sentence": "I wish I were taller. / I hope you will succeed.",
+          "translation": "我希望我能更高些。/ 我希望你会成功。",
+          "note": "wish虚拟/hope陈述"
+        }
+      ],
+      "ieltsTip": "雅思口语中wish和hope的区分是常见考点，注意虚拟语气的运用。"
+    },
+    {
+      "title": "so...that与such...that",
+      "category": "结果状语",
+      "explanation": "so + 形容词/副词 + that从句；such + (a/an) + 形容词 + 名词 + that从句。so强调程度，such强调性质。",
+      "structure": "so + adj./adv. + that; such + (a/an) + adj. + n. + that",
+      "examples": [
+        {
+          "sentence": "The film was so boring that I fell asleep.",
+          "translation": "电影太无聊了，我睡着了。",
+          "note": "so + 形容词"
+        },
+        {
+          "sentence": "It was such a boring film that I fell asleep.",
+          "translation": "这是如此无聊的电影，我睡着了。",
+          "note": "such + 名词短语"
+        }
+      ],
+      "ieltsTip": "雅思写作中so/such...that结构可增强表达的感染力，让论述更生动。"
+    },
+    {
+      "title": "there be句型",
+      "category": "特殊句式",
+      "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
+      "structure": "There + be + 主语 + 状语",
+      "examples": [
+        {
+          "sentence": "There is a book and two pens on the desk.",
+          "translation": "桌上有本书和两支笔。",
+          "note": "就近原则，用is"
+        },
+        {
+          "sentence": "There exist various opinions on this issue.",
+          "translation": "在这个问题上存在各种观点。",
+          "note": "be可替换为exist/seem等"
+        }
+      ],
+      "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
+    },
+    {
+      "title": "省略与替代",
+      "category": "语篇衔接",
+      "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
+      "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
+      "examples": [
+        {
+          "sentence": "—Will he come? —I hope so.",
+          "translation": "—他会来吗？—我希望如此。",
+          "note": "so替代that he will come"
+        },
+        {
+          "sentence": "I don't like this shirt. Show me a smaller one.",
+          "translation": "我不喜欢这件衬衫。给我看件小一点的。",
+          "note": "one替代shirt"
+        }
+      ],
+      "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
+    },
+    {
+      "title": "现在完成进行时",
+      "category": "时态",
+      "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
+      "structure": "have/has been + 动词-ing",
+      "examples": [
+        {
+          "sentence": "I have been waiting for you for two hours.",
+          "translation": "我等你等了两个小时了。",
+          "note": "强调持续和等待感"
+        },
+        {
+          "sentence": "She has been working on this project since January.",
+          "translation": "她从一月起就一直在做这个项目。",
+          "note": "强调持续性"
+        }
+      ],
+      "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
+    },
+    {
+      "title": "直接引语转间接引语",
+      "category": "引语",
+      "explanation": "直接引语转间接引语时，需注意：1)人称变化；2)时态呼应（主句过去时从句时态前移）；3)时间地点状语变化；4)疑问句语序变为陈述语序。",
+      "structure": "He said, \"...\" → He said (that) ...",
+      "examples": [
+        {
+          "sentence": "He asked, \"Where do you live?\" → He asked where I lived.",
+          "translation": "他问：「你住哪儿？」→ 他问我住哪儿。",
+          "note": "疑问词+陈述语序"
+        }
+      ],
+      "ieltsTip": "雅思听力Section 3/4中常出现间接引语，注意时态和语序的变化。"
+    },
+    {
+      "title": "used to与be used to",
+      "category": "习惯表达",
+      "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
+      "structure": "used to + do; be/get used to + doing",
+      "examples": [
+        {
+          "sentence": "I used to play basketball, but now I prefer reading.",
+          "translation": "我过去常打篮球，但现在更喜欢阅读。",
+          "note": "used to + do"
+        },
+        {
+          "sentence": "I am used to getting up early.",
+          "translation": "我习惯早起。",
+          "note": "be used to + doing"
+        }
+      ],
+      "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
+    },
+    {
+      "title": "as的多种用法",
+      "category": "连词",
+      "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
+      "structure": "as + 从句（多重含义）",
+      "examples": [
+        {
+          "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
+          "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
+          "note": "时间/原因"
+        },
+        {
+          "sentence": "Tired as he was, he continued working.",
+          "translation": "尽管累了，他还是继续工作。",
+          "note": "让步（倒装）"
+        }
+      ],
+      "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
+    }
+  ]
+}

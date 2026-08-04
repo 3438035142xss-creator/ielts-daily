@@ -1,0 +1,550 @@
+{
+  "description": "雅思核心词汇库 - 按优先级轮换（high → medium → low）",
+  "priorityOrder": ["high", "medium", "low"],
+  "words": [
+    {
+      "word": "meticulous",
+      "phonetic": "/məˈtɪkjələs/",
+      "partOfSpeech": "adj.",
+      "definition": "极注意细节的；严谨的",
+      "example": "The researcher was meticulous in recording every experimental detail.",
+      "exampleTranslation": "这位研究员在记录每一个实验细节时都极为严谨。",
+      "ieltsLevel": "7+",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "I've always been meticulous about my work.",
+        "movie": "The Bourne Identity",
+        "year": 2002,
+        "character": "Jason Bourne"
+      },
+      "youglish": "https://youglish.com/getbyword?q=meticulous"
+    },
+    {
+      "word": "ubiquitous",
+      "phonetic": "/juːˈbɪkwɪtəs/",
+      "partOfSpeech": "adj.",
+      "definition": "无处不在的；普遍存在的",
+      "example": "Smartphones have become ubiquitous in modern society.",
+      "exampleTranslation": "智能手机在现代社会中已变得无处不在。",
+      "ieltsLevel": "7+",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "Surveillance is ubiquitous in this city.",
+        "movie": "The Dark Knight",
+        "year": 2008,
+        "character": "Lucius Fox"
+      },
+      "youglish": "https://youglish.com/getbyword?q=ubiquitous"
+    },
+    {
+      "word": "pragmatic",
+      "phonetic": "/præɡˈmætɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "务实的；实用主义的",
+      "example": "We need a pragmatic approach to solve this complex problem.",
+      "exampleTranslation": "我们需要一种务实的方法来解决这个复杂问题。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "We must be pragmatic about our chances.",
+        "movie": "The Martian",
+        "year": 2015,
+        "character": "Mark Watney"
+      },
+      "youglish": "https://youglish.com/getbyword?q=pragmatic"
+    },
+    {
+      "word": "resilient",
+      "phonetic": "/rɪˈzɪliənt/",
+      "partOfSpeech": "adj.",
+      "definition": "有韧性的；能迅速恢复的",
+      "example": "Children are often more resilient than adults when facing setbacks.",
+      "exampleTranslation": "面对挫折时，儿童往往比成年人更有韧性。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "Human beings are remarkably resilient creatures.",
+        "movie": "Cast Away",
+        "year": 2000,
+        "character": "Chuck Noland"
+      },
+      "youglish": "https://youglish.com/getbyword?q=resilient"
+    },
+    {
+      "word": "scrutinize",
+      "phonetic": "/ˈskruːtənaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "仔细审查；详审",
+      "example": "The committee scrutinized every clause of the proposed contract.",
+      "exampleTranslation": "委员会仔细审查了拟议合同的每一个条款。",
+      "ieltsLevel": "7+",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "They will scrutinize every detail of your story.",
+        "movie": "A Few Good Men",
+        "year": 1992,
+        "character": "Daniel Kaffee"
+      },
+      "youglish": "https://youglish.com/getbyword?q=scrutinize"
+    },
+    {
+      "word": "deteriorate",
+      "phonetic": "/dɪˈtɪəriəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "恶化；退化",
+      "example": "Air quality tends to deteriorate during the winter months.",
+      "exampleTranslation": "冬季空气质量往往会恶化。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "His condition continues to deteriorate.",
+        "movie": "The Doctor",
+        "year": 1991,
+        "character": "Dr. Jack MacKee"
+      },
+      "youglish": "https://youglish.com/getbyword?q=deteriorate"
+    },
+    {
+      "word": "alleviate",
+      "phonetic": "/əˈliːvieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "减轻；缓解",
+      "example": "The new policy aims to alleviate poverty in rural areas.",
+      "exampleTranslation": "新政策旨在缓解农村地区的贫困问题。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "This medicine will alleviate the pain.",
+        "movie": "Patch Adams",
+        "year": 1998,
+        "character": "Patch Adams"
+      },
+      "youglish": "https://youglish.com/getbyword?q=alleviate"
+    },
+    {
+      "word": "compromise",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "partOfSpeech": "v./n.",
+      "definition": "妥协；折中；损害",
+      "example": "Both parties reached a compromise after lengthy negotiations.",
+      "exampleTranslation": "经过漫长的谈判，双方达成了妥协。",
+      "ieltsLevel": "6",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "We don't compromise on safety.",
+        "movie": "Sully",
+        "year": 2016,
+        "character": "Chesley Sullenberger"
+      },
+      "youglish": "https://youglish.com/getbyword?q=compromise"
+    },
+    {
+      "word": "discrepancy",
+      "phonetic": "/dɪsˈkrepənsi/",
+      "partOfSpeech": "n.",
+      "definition": "差异；不一致",
+      "example": "There was a discrepancy between the official report and eyewitness accounts.",
+      "exampleTranslation": "官方报告与目击者陈述之间存在差异。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "There's a discrepancy in the financial records.",
+        "movie": "The Big Short",
+        "year": 2015,
+        "character": "Michael Burry"
+      },
+      "youglish": "https://youglish.com/getbyword?q=discrepancy"
+    },
+    {
+      "word": "fluctuate",
+      "phonetic": "/ˈflʌktʃueɪt/",
+      "partOfSpeech": "v.",
+      "definition": "波动；起伏",
+      "example": "Oil prices fluctuated wildly throughout the year.",
+      "exampleTranslation": "全年油价波动剧烈。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "The markets fluctuate, but the principle remains.",
+        "movie": "The Wolf of Wall Street",
+        "year": 2013,
+        "character": "Jordan Belfort"
+      },
+      "youglish": "https://youglish.com/getbyword?q=fluctuate"
+    },
+    {
+      "word": "implement",
+      "phonetic": "/ˈɪmplɪment/",
+      "partOfSpeech": "v./n.",
+      "definition": "实施；执行；工具",
+      "example": "The government implemented new regulations to protect the environment.",
+      "exampleTranslation": "政府实施了新规以保护环境。",
+      "ieltsLevel": "6",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "We must implement the plan before dawn.",
+        "movie": "Ocean's Eleven",
+        "year": 2001,
+        "character": "Danny Ocean"
+      },
+      "youglish": "https://youglish.com/getbyword?q=implement"
+    },
+    {
+      "word": "jeopardize",
+      "phonetic": "/ˈdʒepədaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "危及；损害",
+      "example": "Smoking can jeopardize your health and that of those around you.",
+      "exampleTranslation": "吸烟会危及你及周围人的健康。",
+      "ieltsLevel": "7+",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "Don't jeopardize everything we've built.",
+        "movie": "The Godfather Part II",
+        "year": 1974,
+        "character": "Michael Corleone"
+      },
+      "youglish": "https://youglish.com/getbyword?q=jeopardize"
+    },
+    {
+      "word": "lucrative",
+      "phonetic": "/ˈluːkrətɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "获利丰厚的；赚钱的",
+      "example": "Software development has become a highly lucrative career path.",
+      "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "It's a lucrative offer, but I have conditions.",
+        "movie": "The Social Network",
+        "year": 2010,
+        "character": "Sean Parker"
+      },
+      "youglish": "https://youglish.com/getbyword?q=lucrative"
+    },
+    {
+      "word": "mitigate",
+      "phonetic": "/ˈmɪtɪɡeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "减轻；缓和",
+      "example": "Planting trees can help mitigate the effects of climate change.",
+      "exampleTranslation": "植树有助于缓解气候变化的影响。",
+      "ieltsLevel": "7+",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "We must mitigate the damage before it spreads.",
+        "movie": "Contagion",
+        "year": 2011,
+        "character": "Dr. Ellis Cheever"
+      },
+      "youglish": "https://youglish.com/getbyword?q=mitigate"
+    },
+    {
+      "word": "notion",
+      "phonetic": "/ˈnəʊʃn/",
+      "partOfSpeech": "n.",
+      "definition": "概念；观念",
+      "example": "The notion of working from home was once considered unusual.",
+      "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
+      "ieltsLevel": "6",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "The notion of freedom is what we fight for.",
+        "movie": "Braveheart",
+        "year": 1995,
+        "character": "William Wallace"
+      },
+      "youglish": "https://youglish.com/getbyword?q=notion"
+    },
+    {
+      "word": "prevalent",
+      "phonetic": "/ˈprevələnt/",
+      "partOfSpeech": "adj.",
+      "definition": "普遍的；盛行的",
+      "example": "This disease is more prevalent in tropical regions.",
+      "exampleTranslation": "这种疾病在热带地区更为普遍。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "Corruption is prevalent in these parts.",
+        "movie": "Traffic",
+        "year": 2000,
+        "character": "Javier Rodriguez"
+      },
+      "youglish": "https://youglish.com/getbyword?q=prevalent"
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndəˈmaɪn/",
+      "partOfSpeech": "v.",
+      "definition": "破坏；削弱",
+      "example": "Constant criticism can undermine a child's self-confidence.",
+      "exampleTranslation": "持续的批评会削弱孩子的自信心。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "They will try to undermine your authority.",
+        "movie": "Lincoln",
+        "year": 2012,
+        "character": "Abraham Lincoln"
+      },
+      "youglish": "https://youglish.com/getbyword?q=undermine"
+    },
+    {
+      "word": "viable",
+      "phonetic": "/ˈvaɪəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "可行的；能存活的",
+      "example": "Solar energy is now a viable alternative to fossil fuels.",
+      "exampleTranslation": "太阳能现在是化石燃料的可行替代品。",
+      "ieltsLevel": "7",
+      "priority": "high",
+      "movieQuote": {
+        "quote": "Is there a viable alternative?",
+        "movie": "The Matrix",
+        "year": 1999,
+        "character": "Morpheus"
+      },
+      "youglish": "https://youglish.com/getbyword?q=viable"
+    },
+    {
+      "word": "obscure",
+      "phonetic": "/əbˈskjʊə(r)/",
+      "partOfSpeech": "adj./v.",
+      "definition": "模糊的；晦涩的；使模糊",
+      "example": "The origins of this tradition remain obscure to historians.",
+      "exampleTranslation": "这一传统的起源对历史学家来说仍然模糊不清。",
+      "ieltsLevel": "7",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "His motives remain obscure to all of us.",
+        "movie": "The Imitation Game",
+        "year": 2014,
+        "character": "Alan Turing"
+      },
+      "youglish": "https://youglish.com/getbyword?q=obscure"
+    },
+    {
+      "word": "reluctant",
+      "phonetic": "/rɪˈlʌktənt/",
+      "partOfSpeech": "adj.",
+      "definition": "不情愿的；勉强的",
+      "example": "She was reluctant to share her personal information online.",
+      "exampleTranslation": "她不情愿在网上分享个人信息。",
+      "ieltsLevel": "6",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "I'm reluctant to trust anyone in this town.",
+        "movie": "Chinatown",
+        "year": 1974,
+        "character": "J.J. Gittes"
+      },
+      "youglish": "https://youglish.com/getbyword?q=reluctant"
+    },
+    {
+      "word": "subsequent",
+      "phonetic": "/ˈsʌbsɪkwənt/",
+      "partOfSpeech": "adj.",
+      "definition": "随后的；后来的",
+      "example": "Subsequent events proved that his prediction was correct.",
+      "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
+      "ieltsLevel": "6",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "Subsequent events proved me right.",
+        "movie": "Spotlight",
+        "year": 2015,
+        "character": "Walter Robinson"
+      },
+      "youglish": "https://youglish.com/getbyword?q=subsequent"
+    },
+    {
+      "word": "tangible",
+      "phonetic": "/ˈtændʒəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "有形的；可触摸的；明确的",
+      "example": "The company needs to produce tangible results to attract investors.",
+      "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+      "ieltsLevel": "7",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "We need tangible evidence, not theories.",
+        "movie": "Zodiac",
+        "year": 2007,
+        "character": "Robert Graysmith"
+      },
+      "youglish": "https://youglish.com/getbyword?q=tangible"
+    },
+    {
+      "word": "warrant",
+      "phonetic": "/ˈwɒrənt/",
+      "partOfSpeech": "v./n.",
+      "definition": "值得；保证；许可证",
+      "example": "The situation is serious enough to warrant immediate action.",
+      "exampleTranslation": "情况严重到值得立即采取行动。",
+      "ieltsLevel": "7",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "We have a warrant to search the premises.",
+        "movie": "The Departed",
+        "year": 2006,
+        "character": "Colin Sullivan"
+      },
+      "youglish": "https://youglish.com/getbyword?q=warrant"
+    },
+    {
+      "word": "yield",
+      "phonetic": "/jiːld/",
+      "partOfSpeech": "v./n.",
+      "definition": "产出；屈服；产量",
+      "example": "The new farming technique yielded a record harvest this year.",
+      "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
+      "ieltsLevel": "6",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "The road will not yield to your impatience.",
+        "movie": "No Country for Old Men",
+        "year": 2007,
+        "character": "Llewelyn Moss"
+      },
+      "youglish": "https://youglish.com/getbyword?q=yield"
+    },
+    {
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "partOfSpeech": "adj.",
+      "definition": "模棱两可的；含糊的",
+      "example": "The politician gave an ambiguous answer to the reporter's question.",
+      "exampleTranslation": "这位政治家对记者的问题给出了模棱两可的回答。",
+      "ieltsLevel": "7",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "His answer was deliberately ambiguous.",
+        "movie": "Tinker Tailor Soldier Spy",
+        "year": 2011,
+        "character": "George Smiley"
+      },
+      "youglish": "https://youglish.com/getbyword?q=ambiguous"
+    },
+    {
+      "word": "bolster",
+      "phonetic": "/ˈbəʊlstə(r)/",
+      "partOfSpeech": "v.",
+      "definition": "支持；加强",
+      "example": "The positive economic data bolstered investor confidence.",
+      "exampleTranslation": "积极的经济数据增强了投资者信心。",
+      "ieltsLevel": "7+",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "We must bolster our defenses before nightfall.",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "character": "Aragorn"
+      },
+      "youglish": "https://youglish.com/getbyword?q=bolster"
+    },
+    {
+      "word": "conducive",
+      "phonetic": "/kənˈdjuːsɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "有助于...的；有益的",
+      "example": "A quiet environment is conducive to effective studying.",
+      "exampleTranslation": "安静的环境有助于高效学习。",
+      "ieltsLevel": "7",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "This setting is hardly conducive to clear thinking.",
+        "movie": "A Beautiful Mind",
+        "year": 2001,
+        "character": "John Nash"
+      },
+      "youglish": "https://youglish.com/getbyword?q=conducive"
+    },
+    {
+      "word": "eloquent",
+      "phonetic": "/ˈeləkwənt/",
+      "partOfSpeech": "adj.",
+      "definition": "雄辩的；有说服力的",
+      "example": "She gave an eloquent speech that moved the entire audience.",
+      "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
+      "ieltsLevel": "7+",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "Your silence has been more eloquent than any words.",
+        "movie": "The King's Speech",
+        "year": 2010,
+        "character": "King George VI"
+      },
+      "youglish": "https://youglish.com/getbyword?q=eloquent"
+    },
+    {
+      "word": "feasible",
+      "phonetic": "/ˈfiːzəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "可行的；可能的",
+      "example": "We need to determine whether the project is feasible within budget.",
+      "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
+      "ieltsLevel": "6",
+      "priority": "medium",
+      "movieQuote": {
+        "quote": "We need a feasible plan within 48 hours.",
+        "movie": "Apollo 13",
+        "year": 1995,
+        "character": "Jim Lovell"
+      },
+      "youglish": "https://youglish.com/getbyword?q=feasible"
+    },
+    {
+      "word": "quintessential",
+      "phonetic": "/ˌkwɪntɪˈsenʃl/",
+      "partOfSpeech": "adj.",
+      "definition": "典型的；精髓的",
+      "example": "Paris is the quintessential romantic city in many people's eyes.",
+      "exampleTranslation": "在许多人眼中，巴黎是典型的浪漫之都。",
+      "ieltsLevel": "7+",
+      "priority": "low",
+      "movieQuote": {
+        "quote": "He is the quintessential English gentleman.",
+        "movie": "Kingsman: The Secret Service",
+        "year": 2014,
+        "character": "Harry Hart"
+      },
+      "youglish": "https://youglish.com/getbyword?q=quintessential"
+    },
+    {
+      "word": "gregarious",
+      "phonetic": "/ɡrɪˈɡeəriəs/",
+      "partOfSpeech": "adj.",
+      "definition": "爱交际的；群居的",
+      "example": "His gregarious personality made him popular at social gatherings.",
+      "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
+      "ieltsLevel": "7+",
+      "priority": "low",
+      "movieQuote": {
+        "quote": "She was always the gregarious one in the family.",
+        "movie": "Amélie",
+        "year": 2001,
+        "character": "Amélie Poulain"
+      },
+      "youglish": "https://youglish.com/getbyword?q=gregarious"
+    },
+    {
+      "word": "diligent",
+      "phonetic": "/ˈdɪlɪdʒənt/",
+      "partOfSpeech": "adj.",
+      "definition": "勤奋的；用功的",
+      "example": "The diligent student completed all assignments ahead of schedule.",
+      "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
+      "ieltsLevel": "6",
+      "priority": "low",
+      "movieQuote": {
+        "quote": "Stay diligent, and the truth will reveal itself.",
+        "movie": "The Pursuit of Happyness",
+        "year": 2006,
+        "character": "Chris Gardner"
+      },
+      "youglish": "https://youglish.com/getbyword?q=diligent"
+    }
+  ]
+}
