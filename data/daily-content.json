@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-04",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-08-04T05:18:38.227Z",
+  "date": "2026-08-05",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-08-05T10:12:14.336Z",
   "word": {
-    "word": "obscure",
-    "phonetic": "/əbˈskjʊə(r)/",
-    "partOfSpeech": "adj./v.",
-    "definition": "模糊的；晦涩的；使模糊",
-    "example": "The origins of this tradition remain obscure to historians.",
-    "exampleTranslation": "这一传统的起源对历史学家来说仍然模糊不清。",
-    "ieltsLevel": "7",
+    "word": "reluctant",
+    "phonetic": "/rɪˈlʌktənt/",
+    "partOfSpeech": "adj.",
+    "definition": "不情愿的；勉强的",
+    "example": "She was reluctant to share her personal information online.",
+    "exampleTranslation": "她不情愿在网上分享个人信息。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "His motives remain obscure to all of us.",
-      "movie": "The Imitation Game",
-      "year": 2014,
-      "character": "Alan Turing"
+      "quote": "I'm reluctant to trust anyone in this town.",
+      "movie": "Chinatown",
+      "year": 1974,
+      "character": "J.J. Gittes"
     },
-    "youglish": "https://youglish.com/getbyword?q=obscure"
+    "youglish": "https://youglish.com/getbyword?q=reluctant"
   },
   "grammar": {
-    "title": "It作形式主语/宾语",
-    "category": "特殊句式",
-    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
-    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
+    "title": "同位语",
+    "category": "句法",
+    "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
+    "structure": "名词 + 同位成分（名词/that从句）",
     "examples": [
       {
-        "sentence": "It is essential to maintain a healthy work-life balance.",
-        "translation": "保持健康的工作生活平衡是必要的。",
-        "note": "形式主语"
+        "sentence": "Beijing, the capital of China, is a bustling metropolis.",
+        "translation": "北京，中国的首都，是个繁华的大都市。",
+        "note": "名词作同位语"
       },
       {
-        "sentence": "I find it difficult to concentrate in noisy environments.",
-        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
-        "note": "形式宾语"
+        "sentence": "The news that our team won the championship spread quickly.",
+        "translation": "我们队夺冠的消息传得很快。",
+        "note": "同位语从句"
       }
     ],
-    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
+    "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Globalization",
+    "topic": "Health",
     "questions": [
-      "What are the main advantages of globalization?",
-      "Does globalization threaten local cultures?",
-      "How has globalization affected developing countries?",
-      "Will globalization continue in the future?"
+      "Why are more people suffering from stress nowadays?",
+      "How can individuals maintain a healthy lifestyle?",
+      "Should governments regulate fast food?",
+      "What role does mental health play in overall well-being?"
     ],
-    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
     "keywords": [
-      "accelerated",
-      "diffusion",
-      "unprecedented",
-      "exacerbate",
-      "dependency"
+      "prevalence",
+      "blurs",
+      "contentious",
+      "stigmatized",
+      "holistic"
     ],
-    "tips": "全球化话题常用经济文化双角度分析。"
+    "tips": "健康话题常用因果和建议结构。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
-      "description": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
-      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "title": "How the Ukraine War Became a Fight for the Skies",
+      "description": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
+      "link": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "description": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "description": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.",
+      "link": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
-      "description": "Juan Orlando Hernández, the former leader, faces fraud and money laundering charges after a Trump pardon overturned a drug-trafficking sentence.",
-      "link": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
+      "title": "How Being Cool Is Making The Hague a Vacation Hot Spot",
+      "description": "Looking for respite from European heat waves, summer tourists are flocking to the diplomatic hub. But city leaders are wary of overcrowding.",
+      "link": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+      "description": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 19,
-    "grammarIndex": 17,
-    "speakingIndex": 19,
+    "wordIndex": 20,
+    "grammarIndex": 18,
+    "speakingIndex": 20,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 11
   }
 }
