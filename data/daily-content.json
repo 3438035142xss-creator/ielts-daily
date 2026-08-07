@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-06",
-  "weekday": "Thursday",
-  "generatedAt": "2026-08-06T10:15:12.924Z",
+  "date": "2026-08-07",
+  "weekday": "Friday",
+  "generatedAt": "2026-08-07T05:53:46.856Z",
   "word": {
-    "word": "subsequent",
-    "phonetic": "/ˈsʌbsɪkwənt/",
+    "word": "tangible",
+    "phonetic": "/ˈtændʒəbl/",
     "partOfSpeech": "adj.",
-    "definition": "随后的；后来的",
-    "example": "Subsequent events proved that his prediction was correct.",
-    "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
-    "ieltsLevel": "6",
+    "definition": "有形的；可触摸的；明确的",
+    "example": "The company needs to produce tangible results to attract investors.",
+    "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Subsequent events proved me right.",
-      "movie": "Spotlight",
-      "year": 2015,
-      "character": "Walter Robinson"
+      "quote": "We need tangible evidence, not theories.",
+      "movie": "Zodiac",
+      "year": 2007,
+      "character": "Robert Graysmith"
     },
-    "youglish": "https://youglish.com/getbyword?q=subsequent"
+    "youglish": "https://youglish.com/getbyword?q=tangible"
   },
   "grammar": {
-    "title": "将来时态的表达",
-    "category": "时态",
-    "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
-    "structure": "will do / be going to do / be to do / be about to do",
+    "title": "冠词的用法",
+    "category": "冠词",
+    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
+    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
     "examples": [
       {
-        "sentence": "Look at the clouds! It is going to rain.",
-        "translation": "看那些云！要下雨了。",
-        "note": "表迹象"
+        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
+        "translation": "狗是忠诚的动物。（三种泛指表达）",
+        "note": "泛指的三种方式"
       },
       {
-        "sentence": "The Prime Minister is to visit China next month.",
-        "translation": "首相将于下个月访问中国。",
-        "note": "官方安排"
+        "sentence": "Love is more important than money.",
+        "translation": "爱比金钱更重要。",
+        "note": "抽象名词零冠词"
       }
     ],
-    "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
+    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Daily Routine",
+    "topic": "Friends",
     "questions": [
-      "When do you usually get up?",
-      "What part of the day do you like most?",
-      "Has your routine changed much recently?",
-      "What would you like to change about your routine?"
+      "Do you prefer spending time with friends or alone?",
+      "What do you usually do with your friends?",
+      "Do you think friends should have similar personalities?",
+      "How do you make new friends?"
     ],
-    "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
+    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
     "keywords": [
-      "drag myself",
-      "undeniably",
-      "unwind",
-      "blurred",
-      "boost"
+      "solitude",
+      "invigorating",
+      "diverse temperaments",
+      "organically",
+      "social circle"
     ],
-    "tips": "描述日常时使用频率副词，体现自然流畅。"
+    "tips": "谈论人际关系时使用情感词汇，体现深度。"
   },
   "news": [
     {
@@ -123,33 +123,33 @@
       "category": "国际综合"
     },
     {
-      "title": "Ukraine Is Pleading for Air Defenses. Will the World Listen Anymore?",
-      "description": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.",
-      "link": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
+      "title": "Country Music Festival Lights Up Nairobi",
+      "description": "Fans gathered in Kenya to celebrate a genre born far away but that more and more Africans are coming to appreciate.",
+      "link": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "description": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 21,
-    "grammarIndex": 19,
-    "speakingIndex": 21,
+    "wordIndex": 22,
+    "grammarIndex": 20,
+    "speakingIndex": 22,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 3,
+    "wordPriorityPosition": 4,
     "wordPriorityTotal": 11
   }
 }
