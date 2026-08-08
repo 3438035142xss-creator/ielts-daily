@@ -1,61 +1,56 @@
 {
-  "date": "2026-08-07",
-  "weekday": "Friday",
-  "generatedAt": "2026-08-07T05:53:46.856Z",
+  "date": "2026-08-08",
+  "weekday": "Saturday",
+  "generatedAt": "2026-08-08T04:18:19.333Z",
   "word": {
-    "word": "tangible",
-    "phonetic": "/ˈtændʒəbl/",
-    "partOfSpeech": "adj.",
-    "definition": "有形的；可触摸的；明确的",
-    "example": "The company needs to produce tangible results to attract investors.",
-    "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+    "word": "warrant",
+    "phonetic": "/ˈwɒrənt/",
+    "partOfSpeech": "v./n.",
+    "definition": "值得；保证；许可证",
+    "example": "The situation is serious enough to warrant immediate action.",
+    "exampleTranslation": "情况严重到值得立即采取行动。",
     "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We need tangible evidence, not theories.",
-      "movie": "Zodiac",
-      "year": 2007,
-      "character": "Robert Graysmith"
+      "quote": "We have a warrant to search the premises.",
+      "movie": "The Departed",
+      "year": 2006,
+      "character": "Colin Sullivan"
     },
-    "youglish": "https://youglish.com/getbyword?q=tangible"
+    "youglish": "https://youglish.com/getbyword?q=warrant"
   },
   "grammar": {
-    "title": "冠词的用法",
-    "category": "冠词",
-    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
-    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
+    "title": "分词作定语",
+    "category": "非谓语动词",
+    "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
+    "structure": "名词 + -ing/-ed(短语)",
     "examples": [
       {
-        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
-        "translation": "狗是忠诚的动物。（三种泛指表达）",
-        "note": "泛指的三种方式"
+        "sentence": "The exciting news spread quickly.",
+        "translation": "这个令人兴奋的消息传得很快。",
+        "note": "现在分词表主动"
       },
       {
-        "sentence": "Love is more important than money.",
-        "translation": "爱比金钱更重要。",
-        "note": "抽象名词零冠词"
+        "sentence": "The book written by him is a bestseller.",
+        "translation": "他写的书是畅销书。",
+        "note": "过去分词表被动"
       }
     ],
-    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
+    "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Friends",
-    "questions": [
-      "Do you prefer spending time with friends or alone?",
-      "What do you usually do with your friends?",
-      "Do you think friends should have similar personalities?",
-      "How do you make new friends?"
-    ],
-    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
+    "part": "Part 2",
+    "topic": "Describe a useful invention",
+    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
+    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
     "keywords": [
-      "solitude",
-      "invigorating",
-      "diverse temperaments",
-      "organically",
-      "social circle"
+      "transformative",
+      "democratized",
+      "revolutionized",
+      "ubiquity",
+      "erosion"
     ],
-    "tips": "谈论人际关系时使用情感词汇，体现深度。"
+    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
   },
   "news": [
     {
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
-      "description": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.",
-      "link": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+      "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+      "description": "In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations.",
+      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Fires Wrecked Their Village in France. Now They Want Answers.",
-      "description": "After fleeing France’s worst wildfire in decades, residents of Le Porge, a village west of Bordeaux, returned home 13 days later. They found a town in ruins.",
-      "link": "https://www.nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html",
+      "title": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
+      "description": "A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Country Music Festival Lights Up Nairobi",
-      "description": "Fans gathered in Kenya to celebrate a genre born far away but that more and more Africans are coming to appreciate.",
-      "link": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "description": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
+      "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 22,
-    "grammarIndex": 20,
-    "speakingIndex": 22,
+    "wordIndex": 23,
+    "grammarIndex": 21,
+    "speakingIndex": 23,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 4,
+    "wordPriorityPosition": 5,
     "wordPriorityTotal": 11
   }
 }
