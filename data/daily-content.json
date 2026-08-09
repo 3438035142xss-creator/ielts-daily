@@ -1,56 +1,51 @@
 {
-  "date": "2026-08-08",
-  "weekday": "Saturday",
-  "generatedAt": "2026-08-08T04:18:19.333Z",
+  "date": "2026-08-09",
+  "weekday": "Sunday",
+  "generatedAt": "2026-08-09T04:47:12.901Z",
   "word": {
-    "word": "warrant",
-    "phonetic": "/ˈwɒrənt/",
+    "word": "yield",
+    "phonetic": "/jiːld/",
     "partOfSpeech": "v./n.",
-    "definition": "值得；保证；许可证",
-    "example": "The situation is serious enough to warrant immediate action.",
-    "exampleTranslation": "情况严重到值得立即采取行动。",
-    "ieltsLevel": "7",
+    "definition": "产出；屈服；产量",
+    "example": "The new farming technique yielded a record harvest this year.",
+    "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We have a warrant to search the premises.",
-      "movie": "The Departed",
-      "year": 2006,
-      "character": "Colin Sullivan"
+      "quote": "The road will not yield to your impatience.",
+      "movie": "No Country for Old Men",
+      "year": 2007,
+      "character": "Llewelyn Moss"
     },
-    "youglish": "https://youglish.com/getbyword?q=warrant"
+    "youglish": "https://youglish.com/getbyword?q=yield"
   },
   "grammar": {
-    "title": "分词作定语",
-    "category": "非谓语动词",
-    "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
-    "structure": "名词 + -ing/-ed(短语)",
+    "title": "条件句的混合用法",
+    "category": "虚拟语气",
+    "explanation": "混合条件句指主从句时间不一致的条件句，需根据各自时间调整动词形式。如：与过去事实相反的条件 + 对现在的影响。",
+    "structure": "If + had done, would + do（过去条件+现在结果）",
     "examples": [
       {
-        "sentence": "The exciting news spread quickly.",
-        "translation": "这个令人兴奋的消息传得很快。",
-        "note": "现在分词表主动"
-      },
-      {
-        "sentence": "The book written by him is a bestseller.",
-        "translation": "他写的书是畅销书。",
-        "note": "过去分词表被动"
+        "sentence": "If I had studied medicine, I would be a doctor now.",
+        "translation": "如果我当初学医，现在就是医生了。",
+        "note": "过去条件+现在结果"
       }
     ],
-    "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
+    "ieltsTip": "雅思写作中混合条件句可体现对假设情况的深入分析，是高分句式。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a useful invention",
-    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
-    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
+    "topic": "Describe a goal you achieved",
+    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
+    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
     "keywords": [
-      "transformative",
-      "democratized",
-      "revolutionized",
-      "ubiquity",
-      "erosion"
+      "decidedly",
+      "accountability",
+      "overhauled",
+      "indescribable",
+      "perseverance"
     ],
-    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
+    "tips": "描述目标时强调努力过程，体现意志力。"
   },
   "news": [
     {
@@ -102,49 +97,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-      "description": "In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations.",
-      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+      "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
+      "description": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
+      "link": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
-      "description": "A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.",
-      "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "description": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-      "description": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
-      "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "description": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +149,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 23,
-    "grammarIndex": 21,
-    "speakingIndex": 23,
+    "wordIndex": 24,
+    "grammarIndex": 22,
+    "speakingIndex": 24,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 11
   }
 }
