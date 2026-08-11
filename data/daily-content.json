@@ -1,56 +1,61 @@
 {
-  "date": "2026-08-10",
-  "weekday": "Monday",
-  "generatedAt": "2026-08-10T05:11:32.069Z",
+  "date": "2026-08-11",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-08-11T04:51:15.491Z",
   "word": {
-    "word": "ambiguous",
-    "phonetic": "/æmˈbɪɡjuəs/",
-    "partOfSpeech": "adj.",
-    "definition": "模棱两可的；含糊的",
-    "example": "The politician gave an ambiguous answer to the reporter's question.",
-    "exampleTranslation": "这位政治家对记者的问题给出了模棱两可的回答。",
-    "ieltsLevel": "7",
+    "word": "bolster",
+    "phonetic": "/ˈbəʊlstə(r)/",
+    "partOfSpeech": "v.",
+    "definition": "支持；加强",
+    "example": "The positive economic data bolstered investor confidence.",
+    "exampleTranslation": "积极的经济数据增强了投资者信心。",
+    "ieltsLevel": "7+",
     "priority": "medium",
     "movieQuote": {
-      "quote": "His answer was deliberately ambiguous.",
-      "movie": "Tinker Tailor Soldier Spy",
-      "year": 2011,
-      "character": "George Smiley"
+      "quote": "We must bolster our defenses before nightfall.",
+      "movie": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "character": "Aragorn"
     },
-    "youglish": "https://youglish.com/getbyword?q=ambiguous"
+    "youglish": "https://youglish.com/getbyword?q=bolster"
   },
   "grammar": {
-    "title": "wish和hope的用法",
-    "category": "虚拟语气",
-    "explanation": "wish表愿望，从句用虚拟语气（与现在相反用过去式，与过去相反用过去完成时）；hope表希望，从句用陈述语气。",
-    "structure": "wish + 过去式/过去完成时; hope + 现在时/将来时",
+    "title": "so...that与such...that",
+    "category": "结果状语",
+    "explanation": "so + 形容词/副词 + that从句；such + (a/an) + 形容词 + 名词 + that从句。so强调程度，such强调性质。",
+    "structure": "so + adj./adv. + that; such + (a/an) + adj. + n. + that",
     "examples": [
       {
-        "sentence": "I wish I were taller. / I hope you will succeed.",
-        "translation": "我希望我能更高些。/ 我希望你会成功。",
-        "note": "wish虚拟/hope陈述"
+        "sentence": "The film was so boring that I fell asleep.",
+        "translation": "电影太无聊了，我睡着了。",
+        "note": "so + 形容词"
+      },
+      {
+        "sentence": "It was such a boring film that I fell asleep.",
+        "translation": "这是如此无聊的电影，我睡着了。",
+        "note": "such + 名词短语"
       }
     ],
-    "ieltsTip": "雅思口语中wish和hope的区分是常见考点，注意虚拟语气的运用。"
+    "ieltsTip": "雅思写作中so/such...that结构可增强表达的感染力，让论述更生动。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Media",
+    "topic": "Family",
     "questions": [
-      "How has the media changed in recent years?",
-      "Do you trust the news media?",
-      "What responsibilities do journalists have?",
-      "How does social media influence public opinion?"
+      "How have family structures changed in your country?",
+      "What role do grandparents play in modern families?",
+      "Is it better for children to grow up in large or small families?",
+      "How will family relationships change in the future?"
     ],
-    "sampleAnswer": "The media landscape has been radically reshaped by digitalization, with traditional outlets losing ground to social platforms and independent content creators. Trust in mainstream media has declined in many countries, partly due to sensationalism, political bias, and the proliferation of misinformation that exploits social media algorithms. Journalists bear profound responsibilities: to verify facts rigorously, present multiple perspectives, and hold power to account—all while navigating commercial pressures and tight deadlines. Social media's influence on public opinion is profound but double-edged: it democratizes information sharing and gives voice to marginalized groups, yet it also creates echo chambers that reinforce existing beliefs and amplifies emotionally charged content at the expense of nuanced discussion. Cultivating media literacy has never been more essential.",
+    "sampleAnswer": "Family structures in China have undergone significant transformations, shifting from extended multi-generational households to smaller nuclear families, particularly in urban areas where housing constraints and career demands prevail. Grandparents still play vital roles, often serving as primary caregivers for grandchildren while parents work, though this arrangement can sometimes generate intergenerational conflicts over child-rearing philosophies. Whether large or small families are preferable depends on context: large families offer richer social support and diverse role models, while small families can provide more individualized attention and resources per child. Looking ahead, I expect family relationships will become more diverse and flexible, with rising acceptance of single-parent families, blended families, and child-free couples. The fundamental function of families—providing love, support, and belonging—will endure, even as their forms multiply.",
     "keywords": [
-      "radically",
-      "sensationalism",
-      "proliferation",
-      "echo chambers",
-      "media literacy"
+      "transformations",
+      "nuclear",
+      "caregivers",
+      "intergenerational",
+      "endure"
     ],
-    "tips": "媒体话题常用变化和影响分析。"
+    "tips": "家庭话题常用对比和趋势分析。"
   },
   "news": [
     {
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Inside the War on Hezbollah’s Finances",
-      "description": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.",
-      "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
+      "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "description": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
+      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-      "description": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
-      "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+      "title": "Southern Iran Bears Brunt of U.S. Bombing",
+      "description": "While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods.",
+      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
-      "description": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
-      "link": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+      "description": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
+      "link": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 25,
-    "grammarIndex": 23,
-    "speakingIndex": 25,
+    "wordIndex": 26,
+    "grammarIndex": 24,
+    "speakingIndex": 26,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 7,
+    "wordPriorityPosition": 8,
     "wordPriorityTotal": 11
   }
 }
