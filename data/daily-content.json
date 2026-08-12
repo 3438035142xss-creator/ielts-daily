@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-11",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-08-11T04:51:15.491Z",
+  "date": "2026-08-12",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-08-12T05:46:23.965Z",
   "word": {
-    "word": "bolster",
-    "phonetic": "/ˈbəʊlstə(r)/",
-    "partOfSpeech": "v.",
-    "definition": "支持；加强",
-    "example": "The positive economic data bolstered investor confidence.",
-    "exampleTranslation": "积极的经济数据增强了投资者信心。",
-    "ieltsLevel": "7+",
+    "word": "conducive",
+    "phonetic": "/kənˈdjuːsɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "有助于...的；有益的",
+    "example": "A quiet environment is conducive to effective studying.",
+    "exampleTranslation": "安静的环境有助于高效学习。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We must bolster our defenses before nightfall.",
-      "movie": "The Lord of the Rings: The Two Towers",
-      "year": 2002,
-      "character": "Aragorn"
+      "quote": "This setting is hardly conducive to clear thinking.",
+      "movie": "A Beautiful Mind",
+      "year": 2001,
+      "character": "John Nash"
     },
-    "youglish": "https://youglish.com/getbyword?q=bolster"
+    "youglish": "https://youglish.com/getbyword?q=conducive"
   },
   "grammar": {
-    "title": "so...that与such...that",
-    "category": "结果状语",
-    "explanation": "so + 形容词/副词 + that从句；such + (a/an) + 形容词 + 名词 + that从句。so强调程度，such强调性质。",
-    "structure": "so + adj./adv. + that; such + (a/an) + adj. + n. + that",
+    "title": "there be句型",
+    "category": "特殊句式",
+    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
+    "structure": "There + be + 主语 + 状语",
     "examples": [
       {
-        "sentence": "The film was so boring that I fell asleep.",
-        "translation": "电影太无聊了，我睡着了。",
-        "note": "so + 形容词"
+        "sentence": "There is a book and two pens on the desk.",
+        "translation": "桌上有本书和两支笔。",
+        "note": "就近原则，用is"
       },
       {
-        "sentence": "It was such a boring film that I fell asleep.",
-        "translation": "这是如此无聊的电影，我睡着了。",
-        "note": "such + 名词短语"
+        "sentence": "There exist various opinions on this issue.",
+        "translation": "在这个问题上存在各种观点。",
+        "note": "be可替换为exist/seem等"
       }
     ],
-    "ieltsTip": "雅思写作中so/such...that结构可增强表达的感染力，让论述更生动。"
+    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Family",
+    "part": "Part 1",
+    "topic": "Reading",
     "questions": [
-      "How have family structures changed in your country?",
-      "What role do grandparents play in modern families?",
-      "Is it better for children to grow up in large or small families?",
-      "How will family relationships change in the future?"
+      "Do you like reading?",
+      "What kind of books do you read?",
+      "Do you prefer e-books or paper books?",
+      "What was the last book you read?"
     ],
-    "sampleAnswer": "Family structures in China have undergone significant transformations, shifting from extended multi-generational households to smaller nuclear families, particularly in urban areas where housing constraints and career demands prevail. Grandparents still play vital roles, often serving as primary caregivers for grandchildren while parents work, though this arrangement can sometimes generate intergenerational conflicts over child-rearing philosophies. Whether large or small families are preferable depends on context: large families offer richer social support and diverse role models, while small families can provide more individualized attention and resources per child. Looking ahead, I expect family relationships will become more diverse and flexible, with rising acceptance of single-parent families, blended families, and child-free couples. The fundamental function of families—providing love, support, and belonging—will endure, even as their forms multiply.",
+    "sampleAnswer": "I'm an avid reader, finding few pleasures as satisfying as getting lost in a good book. My reading tastes are fairly broad, encompassing literary fiction, biographies, and popular science. When it comes to format, I have a soft spot for paper books—the tactile sensation of turning pages and the unmistakable scent of printed paper create an irreplaceable reading experience. However, I also appreciate e-books for their convenience, especially when traveling. The last book I finished was 'Sapiens' by Yuval Noah Harari, a thought-provoking exploration of human history that fundamentally challenged my understanding of how civilizations develop.",
     "keywords": [
-      "transformations",
-      "nuclear",
-      "caregivers",
-      "intergenerational",
-      "endure"
+      "avid",
+      "encompassing",
+      "tactile",
+      "irreplaceable",
+      "thought-provoking"
     ],
-    "tips": "家庭话题常用对比和趋势分析。"
+    "tips": "描述阅读时使用具体书名和感受，体现真实性。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
-      "description": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
-      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "title": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+      "description": "The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring.",
+      "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Southern Iran Bears Brunt of U.S. Bombing",
-      "description": "While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods.",
-      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "description": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
+      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
-      "description": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
-      "link": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+      "title": "A Syrian Holdout Province, Sweida, Fears a Government Takeover",
+      "description": "In Sweida Province, dominated by the country’s Druse minority, many say it is just a matter of time before the central government moves to assert control over the region.",
+      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "At least 132 killed in Colombia's largest  earthquake in years",
-      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "description": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
+      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-      "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
-      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 26,
-    "grammarIndex": 24,
-    "speakingIndex": 26,
+    "wordIndex": 27,
+    "grammarIndex": 25,
+    "speakingIndex": 27,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 8,
+    "wordPriorityPosition": 9,
     "wordPriorityTotal": 11
   }
 }
