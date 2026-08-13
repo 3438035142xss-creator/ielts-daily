@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-12",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-08-12T05:46:23.965Z",
+  "date": "2026-08-13",
+  "weekday": "Thursday",
+  "generatedAt": "2026-08-13T05:50:45.063Z",
   "word": {
-    "word": "conducive",
-    "phonetic": "/kənˈdjuːsɪv/",
+    "word": "eloquent",
+    "phonetic": "/ˈeləkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "有助于...的；有益的",
-    "example": "A quiet environment is conducive to effective studying.",
-    "exampleTranslation": "安静的环境有助于高效学习。",
-    "ieltsLevel": "7",
+    "definition": "雄辩的；有说服力的",
+    "example": "She gave an eloquent speech that moved the entire audience.",
+    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
+    "ieltsLevel": "7+",
     "priority": "medium",
     "movieQuote": {
-      "quote": "This setting is hardly conducive to clear thinking.",
-      "movie": "A Beautiful Mind",
-      "year": 2001,
-      "character": "John Nash"
+      "quote": "Your silence has been more eloquent than any words.",
+      "movie": "The King's Speech",
+      "year": 2010,
+      "character": "King George VI"
     },
-    "youglish": "https://youglish.com/getbyword?q=conducive"
+    "youglish": "https://youglish.com/getbyword?q=eloquent"
   },
   "grammar": {
-    "title": "there be句型",
-    "category": "特殊句式",
-    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
-    "structure": "There + be + 主语 + 状语",
+    "title": "省略与替代",
+    "category": "语篇衔接",
+    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
+    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
     "examples": [
       {
-        "sentence": "There is a book and two pens on the desk.",
-        "translation": "桌上有本书和两支笔。",
-        "note": "就近原则，用is"
+        "sentence": "—Will he come? —I hope so.",
+        "translation": "—他会来吗？—我希望如此。",
+        "note": "so替代that he will come"
       },
       {
-        "sentence": "There exist various opinions on this issue.",
-        "translation": "在这个问题上存在各种观点。",
-        "note": "be可替换为exist/seem等"
+        "sentence": "I don't like this shirt. Show me a smaller one.",
+        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
+        "note": "one替代shirt"
       }
     ],
-    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
+    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Reading",
+    "topic": "Sports",
     "questions": [
-      "Do you like reading?",
-      "What kind of books do you read?",
-      "Do you prefer e-books or paper books?",
-      "What was the last book you read?"
+      "Do you like sports?",
+      "What sports do you enjoy watching or playing?",
+      "How often do you exercise?",
+      "Did you play sports when you were a child?"
     ],
-    "sampleAnswer": "I'm an avid reader, finding few pleasures as satisfying as getting lost in a good book. My reading tastes are fairly broad, encompassing literary fiction, biographies, and popular science. When it comes to format, I have a soft spot for paper books—the tactile sensation of turning pages and the unmistakable scent of printed paper create an irreplaceable reading experience. However, I also appreciate e-books for their convenience, especially when traveling. The last book I finished was 'Sapiens' by Yuval Noah Harari, a thought-provoking exploration of human history that fundamentally challenged my understanding of how civilizations develop.",
+    "sampleAnswer": "I genuinely enjoy sports, both as a participant and a spectator. As a player, I'm particularly fond of badminton and swimming—they provide excellent cardiovascular workouts while being relatively gentle on the joints. As a spectator, I'm captivated by tennis and football, especially during major tournaments. I try to exercise at least three times a week, though work commitments sometimes interfere with this routine. As a child, I was quite active, participating in school basketball teams and spending countless afternoons cycling with friends. Those early experiences instilled in me a lifelong appreciation for physical activity and team spirit.",
     "keywords": [
-      "avid",
-      "encompassing",
-      "tactile",
-      "irreplaceable",
-      "thought-provoking"
+      "cardiovascular",
+      "captivated",
+      "tournaments",
+      "instilled",
+      "team spirit"
     ],
-    "tips": "描述阅读时使用具体书名和感受，体现真实性。"
+    "tips": "谈论运动时使用动作动词，体现活力。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
-      "description": "The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring.",
-      "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
+      "description": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
-      "description": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
-      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+      "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
+      "description": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.",
+      "link": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "A Syrian Holdout Province, Sweida, Fears a Government Takeover",
-      "description": "In Sweida Province, dominated by the country’s Druse minority, many say it is just a matter of time before the central government moves to assert control over the region.",
-      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html",
+      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+      "description": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
-      "description": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
-      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 27,
-    "grammarIndex": 25,
-    "speakingIndex": 27,
+    "wordIndex": 28,
+    "grammarIndex": 26,
+    "speakingIndex": 28,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 9,
+    "wordPriorityPosition": 10,
     "wordPriorityTotal": 11
   }
 }
