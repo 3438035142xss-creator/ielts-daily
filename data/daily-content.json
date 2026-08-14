@@ -1,61 +1,56 @@
 {
-  "date": "2026-08-13",
-  "weekday": "Thursday",
-  "generatedAt": "2026-08-13T05:50:45.063Z",
+  "date": "2026-08-14",
+  "weekday": "Friday",
+  "generatedAt": "2026-08-14T05:46:43.582Z",
   "word": {
-    "word": "eloquent",
-    "phonetic": "/ˈeləkwənt/",
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
     "partOfSpeech": "adj.",
-    "definition": "雄辩的；有说服力的",
-    "example": "She gave an eloquent speech that moved the entire audience.",
-    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
-    "ieltsLevel": "7+",
+    "definition": "可行的；可能的",
+    "example": "We need to determine whether the project is feasible within budget.",
+    "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Your silence has been more eloquent than any words.",
-      "movie": "The King's Speech",
-      "year": 2010,
-      "character": "King George VI"
+      "quote": "We need a feasible plan within 48 hours.",
+      "movie": "Apollo 13",
+      "year": 1995,
+      "character": "Jim Lovell"
     },
-    "youglish": "https://youglish.com/getbyword?q=eloquent"
+    "youglish": "https://youglish.com/getbyword?q=feasible"
   },
   "grammar": {
-    "title": "省略与替代",
-    "category": "语篇衔接",
-    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
-    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
+    "title": "现在完成进行时",
+    "category": "时态",
+    "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
+    "structure": "have/has been + 动词-ing",
     "examples": [
       {
-        "sentence": "—Will he come? —I hope so.",
-        "translation": "—他会来吗？—我希望如此。",
-        "note": "so替代that he will come"
+        "sentence": "I have been waiting for you for two hours.",
+        "translation": "我等你等了两个小时了。",
+        "note": "强调持续和等待感"
       },
       {
-        "sentence": "I don't like this shirt. Show me a smaller one.",
-        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
-        "note": "one替代shirt"
+        "sentence": "She has been working on this project since January.",
+        "translation": "她从一月起就一直在做这个项目。",
+        "note": "强调持续性"
       }
     ],
-    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
+    "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Sports",
-    "questions": [
-      "Do you like sports?",
-      "What sports do you enjoy watching or playing?",
-      "How often do you exercise?",
-      "Did you play sports when you were a child?"
-    ],
-    "sampleAnswer": "I genuinely enjoy sports, both as a participant and a spectator. As a player, I'm particularly fond of badminton and swimming—they provide excellent cardiovascular workouts while being relatively gentle on the joints. As a spectator, I'm captivated by tennis and football, especially during major tournaments. I try to exercise at least three times a week, though work commitments sometimes interfere with this routine. As a child, I was quite active, participating in school basketball teams and spending countless afternoons cycling with friends. Those early experiences instilled in me a lifelong appreciation for physical activity and team spirit.",
+    "part": "Part 2",
+    "topic": "Describe a piece of advice you received",
+    "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
+    "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
     "keywords": [
-      "cardiovascular",
-      "captivated",
-      "tournaments",
-      "instilled",
-      "team spirit"
+      "agonizing",
+      "prestigious",
+      "intrinsic motivation",
+      "external validation",
+      "fulfilling"
     ],
-    "tips": "谈论运动时使用动作动词，体现活力。"
+    "tips": "描述建议时强调其深远影响，体现反思。"
   },
   "news": [
     {
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-      "description": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
-      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+      "description": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
-      "description": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.",
-      "link": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
+      "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+      "description": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.",
+      "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-      "description": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
-      "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
+      "title": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
+      "description": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Unprecedented' rains in Japan kill four people",
+      "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 28,
-    "grammarIndex": 26,
-    "speakingIndex": 28,
+    "wordIndex": 29,
+    "grammarIndex": 27,
+    "speakingIndex": 29,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 10,
+    "wordPriorityPosition": 11,
     "wordPriorityTotal": 11
   }
 }
