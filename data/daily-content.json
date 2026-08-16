@@ -1,56 +1,61 @@
 {
-  "date": "2026-08-15",
-  "weekday": "Saturday",
-  "generatedAt": "2026-08-15T03:03:56.111Z",
+  "date": "2026-08-16",
+  "weekday": "Sunday",
+  "generatedAt": "2026-08-16T03:16:14.774Z",
   "word": {
-    "word": "quintessential",
-    "phonetic": "/ˌkwɪntɪˈsenʃl/",
+    "word": "gregarious",
+    "phonetic": "/ɡrɪˈɡeəriəs/",
     "partOfSpeech": "adj.",
-    "definition": "典型的；精髓的",
-    "example": "Paris is the quintessential romantic city in many people's eyes.",
-    "exampleTranslation": "在许多人眼中，巴黎是典型的浪漫之都。",
+    "definition": "爱交际的；群居的",
+    "example": "His gregarious personality made him popular at social gatherings.",
+    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
     "ieltsLevel": "7+",
     "priority": "low",
     "movieQuote": {
-      "quote": "He is the quintessential English gentleman.",
-      "movie": "Kingsman: The Secret Service",
-      "year": 2014,
-      "character": "Harry Hart"
+      "quote": "She was always the gregarious one in the family.",
+      "movie": "Amélie",
+      "year": 2001,
+      "character": "Amélie Poulain"
     },
-    "youglish": "https://youglish.com/getbyword?q=quintessential"
+    "youglish": "https://youglish.com/getbyword?q=gregarious"
   },
   "grammar": {
-    "title": "直接引语转间接引语",
-    "category": "引语",
-    "explanation": "直接引语转间接引语时，需注意：1)人称变化；2)时态呼应（主句过去时从句时态前移）；3)时间地点状语变化；4)疑问句语序变为陈述语序。",
-    "structure": "He said, \"...\" → He said (that) ...",
+    "title": "used to与be used to",
+    "category": "习惯表达",
+    "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
+    "structure": "used to + do; be/get used to + doing",
     "examples": [
       {
-        "sentence": "He asked, \"Where do you live?\" → He asked where I lived.",
-        "translation": "他问：「你住哪儿？」→ 他问我住哪儿。",
-        "note": "疑问词+陈述语序"
+        "sentence": "I used to play basketball, but now I prefer reading.",
+        "translation": "我过去常打篮球，但现在更喜欢阅读。",
+        "note": "used to + do"
+      },
+      {
+        "sentence": "I am used to getting up early.",
+        "translation": "我习惯早起。",
+        "note": "be used to + doing"
       }
     ],
-    "ieltsTip": "雅思听力Section 3/4中常出现间接引语，注意时态和语序的变化。"
+    "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Hometown",
+    "topic": "Study / Work",
     "questions": [
-      "Where is your hometown?",
-      "What do you like most about your hometown?",
-      "Is there anything you dislike about your hometown?",
-      "Would you say your hometown is a good place to live?"
+      "Are you a student or do you work?",
+      "What is your favorite subject / aspect of your job?",
+      "Why did you choose this field?",
+      "What do you plan to do in the future?"
     ],
-    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
     "keywords": [
-      "picturesque",
-      "blend",
-      "congestion",
-      "robust",
-      "cultural heritage"
+      "major in",
+      "fascinating",
+      "forefront",
+      "innovation",
+      "aspire"
     ],
-    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
+    "tips": "用具体例子让回答生动，避免空泛。"
   },
   "news": [
     {
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "description": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "description": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Heat Is Hammering Europe, Again. Here’s What That Looks Like.",
-      "description": "Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
+      "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "description": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.",
-      "description": "In an interview, Afghanistan’s foreign minister called on the U.S. to reopen its embassy and invest in the country — a near-impossible sell for now, analysts and former diplomats say.",
-      "link": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
+      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+      "description": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 30,
-    "grammarIndex": 28,
-    "speakingIndex": 1,
+    "wordIndex": 31,
+    "grammarIndex": 29,
+    "speakingIndex": 2,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 3
   }
 }
