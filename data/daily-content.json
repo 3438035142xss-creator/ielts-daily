@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-16",
-  "weekday": "Sunday",
-  "generatedAt": "2026-08-16T03:16:14.774Z",
+  "date": "2026-08-17",
+  "weekday": "Monday",
+  "generatedAt": "2026-08-17T03:16:17.792Z",
   "word": {
-    "word": "gregarious",
-    "phonetic": "/ɡrɪˈɡeəriəs/",
+    "word": "diligent",
+    "phonetic": "/ˈdɪlɪdʒənt/",
     "partOfSpeech": "adj.",
-    "definition": "爱交际的；群居的",
-    "example": "His gregarious personality made him popular at social gatherings.",
-    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
-    "ieltsLevel": "7+",
+    "definition": "勤奋的；用功的",
+    "example": "The diligent student completed all assignments ahead of schedule.",
+    "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
+    "ieltsLevel": "6",
     "priority": "low",
     "movieQuote": {
-      "quote": "She was always the gregarious one in the family.",
-      "movie": "Amélie",
-      "year": 2001,
-      "character": "Amélie Poulain"
+      "quote": "Stay diligent, and the truth will reveal itself.",
+      "movie": "The Pursuit of Happyness",
+      "year": 2006,
+      "character": "Chris Gardner"
     },
-    "youglish": "https://youglish.com/getbyword?q=gregarious"
+    "youglish": "https://youglish.com/getbyword?q=diligent"
   },
   "grammar": {
-    "title": "used to与be used to",
-    "category": "习惯表达",
-    "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
-    "structure": "used to + do; be/get used to + doing",
+    "title": "as的多种用法",
+    "category": "连词",
+    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
+    "structure": "as + 从句（多重含义）",
     "examples": [
       {
-        "sentence": "I used to play basketball, but now I prefer reading.",
-        "translation": "我过去常打篮球，但现在更喜欢阅读。",
-        "note": "used to + do"
+        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
+        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
+        "note": "时间/原因"
       },
       {
-        "sentence": "I am used to getting up early.",
-        "translation": "我习惯早起。",
-        "note": "be used to + doing"
+        "sentence": "Tired as he was, he continued working.",
+        "translation": "尽管累了，他还是继续工作。",
+        "note": "让步（倒装）"
       }
     ],
-    "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
+    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Study / Work",
+    "topic": "Hobbies",
     "questions": [
-      "Are you a student or do you work?",
-      "What is your favorite subject / aspect of your job?",
-      "Why did you choose this field?",
-      "What do you plan to do in the future?"
+      "What do you do in your free time?",
+      "How long have you had this hobby?",
+      "Is it an expensive hobby?",
+      "Do you prefer indoor or outdoor activities?"
     ],
-    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
+    "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
     "keywords": [
-      "major in",
-      "fascinating",
-      "forefront",
-      "innovation",
-      "aspire"
+      "particularly fond of",
+      "indispensable",
+      "pricey",
+      "composition",
+      "unwind"
     ],
-    "tips": "用具体例子让回答生动，避免空泛。"
+    "tips": "解释原因时使用对比结构，体现逻辑性。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "description": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
-      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "description": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
+      "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
-      "description": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "title": "Trump’s Other Hold on the Americas: The Visa",
+      "description": "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.",
+      "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "description": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+      "description": "The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.",
+      "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 31,
-    "grammarIndex": 29,
-    "speakingIndex": 2,
+    "wordIndex": 32,
+    "grammarIndex": 30,
+    "speakingIndex": 3,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 3
   }
 }
