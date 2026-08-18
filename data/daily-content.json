@@ -1,61 +1,56 @@
 {
-  "date": "2026-08-17",
-  "weekday": "Monday",
-  "generatedAt": "2026-08-17T03:16:17.792Z",
+  "date": "2026-08-18",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-08-18T03:10:56.821Z",
   "word": {
-    "word": "diligent",
-    "phonetic": "/ˈdɪlɪdʒənt/",
+    "word": "meticulous",
+    "phonetic": "/məˈtɪkjələs/",
     "partOfSpeech": "adj.",
-    "definition": "勤奋的；用功的",
-    "example": "The diligent student completed all assignments ahead of schedule.",
-    "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
-    "ieltsLevel": "6",
-    "priority": "low",
+    "definition": "极注意细节的；严谨的",
+    "example": "The researcher was meticulous in recording every experimental detail.",
+    "exampleTranslation": "这位研究员在记录每一个实验细节时都极为严谨。",
+    "ieltsLevel": "7+",
+    "priority": "high",
     "movieQuote": {
-      "quote": "Stay diligent, and the truth will reveal itself.",
-      "movie": "The Pursuit of Happyness",
-      "year": 2006,
-      "character": "Chris Gardner"
+      "quote": "I've always been meticulous about my work.",
+      "movie": "The Bourne Identity",
+      "year": 2002,
+      "character": "Jason Bourne"
     },
-    "youglish": "https://youglish.com/getbyword?q=diligent"
+    "youglish": "https://youglish.com/getbyword?q=meticulous"
   },
   "grammar": {
-    "title": "as的多种用法",
-    "category": "连词",
-    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
-    "structure": "as + 从句（多重含义）",
+    "title": "现在完成时 vs 一般过去时",
+    "category": "时态",
+    "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
+    "structure": "have/has + 过去分词 vs 动词过去式",
     "examples": [
       {
-        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
-        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
-        "note": "时间/原因"
+        "sentence": "I have lived in London for five years.",
+        "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
+        "note": "强调持续到现在"
       },
       {
-        "sentence": "Tired as he was, he continued working.",
-        "translation": "尽管累了，他还是继续工作。",
-        "note": "让步（倒装）"
+        "sentence": "I lived in London for five years.",
+        "translation": "我在伦敦住过五年。（现在已不住那里）",
+        "note": "仅陈述过去经历"
       }
     ],
-    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
+    "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Hobbies",
-    "questions": [
-      "What do you do in your free time?",
-      "How long have you had this hobby?",
-      "Is it an expensive hobby?",
-      "Do you prefer indoor or outdoor activities?"
-    ],
-    "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
+    "part": "Part 2",
+    "topic": "Describe a person who has influenced you",
+    "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
+    "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
     "keywords": [
-      "particularly fond of",
-      "indispensable",
-      "pricey",
-      "composition",
-      "unwind"
+      "profoundly",
+      "unwavering",
+      "critically",
+      "fearlessly",
+      "resilience"
     ],
-    "tips": "解释原因时使用对比结构，体现逻辑性。"
+    "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
   },
   "news": [
     {
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "description": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
-      "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "description": "Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.",
+      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump’s Other Hold on the Americas: The Visa",
-      "description": "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.",
-      "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+      "title": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "description": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
+      "link": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
-      "description": "The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.",
-      "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+      "title": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "description": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
+      "link": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+      "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 32,
-    "grammarIndex": 30,
-    "speakingIndex": 3,
+    "wordIndex": 1,
+    "grammarIndex": 1,
+    "speakingIndex": 4,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
-    "wordPriority": "low",
-    "wordPriorityPosition": 3,
-    "wordPriorityTotal": 3
+    "wordPriority": "high",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 18
   }
 }
