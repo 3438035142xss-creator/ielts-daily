@@ -1,51 +1,56 @@
 {
-  "date": "2026-08-19",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-08-19T03:13:54.086Z",
+  "date": "2026-08-20",
+  "weekday": "Thursday",
+  "generatedAt": "2026-08-20T03:13:05.196Z",
   "word": {
-    "word": "ubiquitous",
-    "phonetic": "/juːˈbɪkwɪtəs/",
+    "word": "pragmatic",
+    "phonetic": "/præɡˈmætɪk/",
     "partOfSpeech": "adj.",
-    "definition": "无处不在的；普遍存在的",
-    "example": "Smartphones have become ubiquitous in modern society.",
-    "exampleTranslation": "智能手机在现代社会中已变得无处不在。",
-    "ieltsLevel": "7+",
+    "definition": "务实的；实用主义的",
+    "example": "We need a pragmatic approach to solve this complex problem.",
+    "exampleTranslation": "我们需要一种务实的方法来解决这个复杂问题。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Surveillance is ubiquitous in this city.",
-      "movie": "The Dark Knight",
-      "year": 2008,
-      "character": "Lucius Fox"
+      "quote": "We must be pragmatic about our chances.",
+      "movie": "The Martian",
+      "year": 2015,
+      "character": "Mark Watney"
     },
-    "youglish": "https://youglish.com/getbyword?q=ubiquitous"
+    "youglish": "https://youglish.com/getbyword?q=pragmatic"
   },
   "grammar": {
-    "title": "虚拟语气（与现在事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
-    "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
+    "title": "定语从句：that vs which",
+    "category": "从句",
+    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
+    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
     "examples": [
       {
-        "sentence": "If I were the mayor, I would invest more in public transport.",
-        "translation": "如果我是市长，我会投资更多在公共交通上。",
-        "note": "与现在事实相反"
+        "sentence": "The book that/which I bought yesterday is excellent.",
+        "translation": "我昨天买的那本书很棒。",
+        "note": "限制性，that/which均可"
+      },
+      {
+        "sentence": "The book, which I bought yesterday, is excellent.",
+        "translation": "这本书，我昨天买的，很棒。",
+        "note": "非限制性，只能用which"
       }
     ],
-    "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
+    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a memorable journey",
-    "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
-    "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
+    "topic": "Describe a book that influenced you",
+    "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
+    "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
     "keywords": [
-      "solo trip",
-      "scenic",
-      "chance encounter",
-      "language barrier",
-      "precious"
+      "powerful account",
+      "derived",
+      "profoundly",
+      "perspective",
+      "inevitable"
     ],
-    "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
+    "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
   },
   "news": [
     {
@@ -97,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "description": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
-      "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "title": "Trump, With Limited Options in Iran, Tries Economic Pressure — Again",
+      "description": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
+      "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-      "description": "Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.",
-      "link": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+      "title": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
+      "description": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.",
+      "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
-      "description": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.",
-      "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
+      "title": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
+      "description": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would get in exchange.",
+      "link": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "description": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -149,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 2,
-    "grammarIndex": 2,
-    "speakingIndex": 5,
+    "wordIndex": 3,
+    "grammarIndex": 3,
+    "speakingIndex": 6,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 18
   }
 }
