@@ -1,56 +1,61 @@
 {
-  "date": "2026-08-20",
-  "weekday": "Thursday",
-  "generatedAt": "2026-08-20T03:13:05.196Z",
+  "date": "2026-08-21",
+  "weekday": "Friday",
+  "generatedAt": "2026-08-21T03:31:00.546Z",
   "word": {
-    "word": "pragmatic",
-    "phonetic": "/præɡˈmætɪk/",
+    "word": "resilient",
+    "phonetic": "/rɪˈzɪliənt/",
     "partOfSpeech": "adj.",
-    "definition": "务实的；实用主义的",
-    "example": "We need a pragmatic approach to solve this complex problem.",
-    "exampleTranslation": "我们需要一种务实的方法来解决这个复杂问题。",
+    "definition": "有韧性的；能迅速恢复的",
+    "example": "Children are often more resilient than adults when facing setbacks.",
+    "exampleTranslation": "面对挫折时，儿童往往比成年人更有韧性。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must be pragmatic about our chances.",
-      "movie": "The Martian",
-      "year": 2015,
-      "character": "Mark Watney"
+      "quote": "Human beings are remarkably resilient creatures.",
+      "movie": "Cast Away",
+      "year": 2000,
+      "character": "Chuck Noland"
     },
-    "youglish": "https://youglish.com/getbyword?q=pragmatic"
+    "youglish": "https://youglish.com/getbyword?q=resilient"
   },
   "grammar": {
-    "title": "定语从句：that vs which",
-    "category": "从句",
-    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
-    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
+    "title": "被动语态",
+    "category": "语态",
+    "explanation": "当动作的执行者不重要或未知，或想强调动作承受者时使用被动语态。结构为be + 过去分词。",
+    "structure": "主语 + be + 过去分词 (+ by + 执行者)",
     "examples": [
       {
-        "sentence": "The book that/which I bought yesterday is excellent.",
-        "translation": "我昨天买的那本书很棒。",
-        "note": "限制性，that/which均可"
+        "sentence": "The bridge was built in 1998.",
+        "translation": "这座桥建于1998年。",
+        "note": "强调承受者，执行者不重要"
       },
       {
-        "sentence": "The book, which I bought yesterday, is excellent.",
-        "translation": "这本书，我昨天买的，很棒。",
-        "note": "非限制性，只能用which"
+        "sentence": "The report will be submitted by next Friday.",
+        "translation": "报告将于下周五前提交。",
+        "note": "正式文体常用被动"
       }
     ],
-    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
+    "ieltsTip": "雅思写作Task 1流程图描述和学术写作中，被动语态是体现客观性的重要手段。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a book that influenced you",
-    "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
-    "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
-    "keywords": [
-      "powerful account",
-      "derived",
-      "profoundly",
-      "perspective",
-      "inevitable"
+    "part": "Part 3",
+    "topic": "Education",
+    "questions": [
+      "How has education changed in your country in recent years?",
+      "What role should technology play in education?",
+      "Do you think traditional schools will be replaced by online learning?",
+      "How can education systems better prepare students for the future?"
     ],
-    "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
+    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "keywords": [
+      "undergone",
+      "holistic",
+      "complementary",
+      "mentorship",
+      "obsolete"
+    ],
+    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
   },
   "news": [
     {
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Trump, With Limited Options in Iran, Tries Economic Pressure — Again",
-      "description": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
-      "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "title": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
+      "description": "Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-      "description": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.",
-      "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
+      "title": "The Indian City Where AI Is Creating Jobs for Humans",
+      "description": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.",
+      "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-      "description": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would get in exchange.",
-      "link": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+      "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "description": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as each side seems to believe it can hold out longer than the other.",
+      "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "description": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 3,
-    "grammarIndex": 3,
-    "speakingIndex": 6,
+    "wordIndex": 4,
+    "grammarIndex": 4,
+    "speakingIndex": 7,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 3,
+    "wordPriorityPosition": 4,
     "wordPriorityTotal": 18
   }
 }
