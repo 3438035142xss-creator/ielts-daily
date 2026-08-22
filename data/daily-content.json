@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-21",
-  "weekday": "Friday",
-  "generatedAt": "2026-08-21T03:31:00.546Z",
+  "date": "2026-08-22",
+  "weekday": "Saturday",
+  "generatedAt": "2026-08-22T03:09:34.628Z",
   "word": {
-    "word": "resilient",
-    "phonetic": "/rɪˈzɪliənt/",
-    "partOfSpeech": "adj.",
-    "definition": "有韧性的；能迅速恢复的",
-    "example": "Children are often more resilient than adults when facing setbacks.",
-    "exampleTranslation": "面对挫折时，儿童往往比成年人更有韧性。",
-    "ieltsLevel": "7",
+    "word": "scrutinize",
+    "phonetic": "/ˈskruːtənaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "仔细审查；详审",
+    "example": "The committee scrutinized every clause of the proposed contract.",
+    "exampleTranslation": "委员会仔细审查了拟议合同的每一个条款。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "Human beings are remarkably resilient creatures.",
-      "movie": "Cast Away",
-      "year": 2000,
-      "character": "Chuck Noland"
+      "quote": "They will scrutinize every detail of your story.",
+      "movie": "A Few Good Men",
+      "year": 1992,
+      "character": "Daniel Kaffee"
     },
-    "youglish": "https://youglish.com/getbyword?q=resilient"
+    "youglish": "https://youglish.com/getbyword?q=scrutinize"
   },
   "grammar": {
-    "title": "被动语态",
-    "category": "语态",
-    "explanation": "当动作的执行者不重要或未知，或想强调动作承受者时使用被动语态。结构为be + 过去分词。",
-    "structure": "主语 + be + 过去分词 (+ by + 执行者)",
+    "title": "现在分词作状语",
+    "category": "非谓语动词",
+    "explanation": "现在分词（-ing形式）作状语，可表示时间、原因、条件、让步、结果等，其逻辑主语须与主句主语一致。",
+    "structure": "现在分词(短语), 主句",
     "examples": [
       {
-        "sentence": "The bridge was built in 1998.",
-        "translation": "这座桥建于1998年。",
-        "note": "强调承受者，执行者不重要"
+        "sentence": "Having finished the assignment, she went out for a walk.",
+        "translation": "完成作业后，她出去散步了。",
+        "note": "完成时分词表示动作先于主句"
       },
       {
-        "sentence": "The report will be submitted by next Friday.",
-        "translation": "报告将于下周五前提交。",
-        "note": "正式文体常用被动"
+        "sentence": "Not knowing the answer, he remained silent.",
+        "translation": "因为不知道答案，他保持沉默。",
+        "note": "表原因"
       }
     ],
-    "ieltsTip": "雅思写作Task 1流程图描述和学术写作中，被动语态是体现客观性的重要手段。"
+    "ieltsTip": "雅思写作中合理使用分词结构，可让句子更紧凑、更有变化，避免全是并列句。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Education",
+    "topic": "Environment",
     "questions": [
-      "How has education changed in your country in recent years?",
-      "What role should technology play in education?",
-      "Do you think traditional schools will be replaced by online learning?",
-      "How can education systems better prepare students for the future?"
+      "What are the most serious environmental problems in your country?",
+      "Who is more responsible for environmental protection: individuals or governments?",
+      "Do you think technological development harms or helps the environment?",
+      "What can be done to encourage people to be more environmentally friendly?"
     ],
-    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
     "keywords": [
-      "undergone",
-      "holistic",
-      "complementary",
-      "mentorship",
-      "obsolete"
+      "pressing",
+      "legislative",
+      "double-edged sword",
+      "degradation",
+      "collective"
     ],
-    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
+    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
-      "description": "Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.",
-      "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "title": "Giorgia Meloni Cuts the Hard Right a Path to Power",
+      "description": "In a rare interview, the onetime political outcast reflects on her route from “the uncomfortable side of history” to the threshold of leading Italy’s most durable postwar government.",
+      "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The Indian City Where AI Is Creating Jobs for Humans",
-      "description": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.",
-      "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+      "title": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
+      "description": "Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.",
+      "link": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "description": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as each side seems to believe it can hold out longer than the other.",
-      "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+      "description": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
+      "link": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 4,
-    "grammarIndex": 4,
-    "speakingIndex": 7,
+    "wordIndex": 5,
+    "grammarIndex": 5,
+    "speakingIndex": 8,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 4,
+    "wordPriorityPosition": 5,
     "wordPriorityTotal": 18
   }
 }
