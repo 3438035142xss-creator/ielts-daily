@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-22",
-  "weekday": "Saturday",
-  "generatedAt": "2026-08-22T03:09:34.628Z",
+  "date": "2026-08-23",
+  "weekday": "Sunday",
+  "generatedAt": "2026-08-23T03:30:49.257Z",
   "word": {
-    "word": "scrutinize",
-    "phonetic": "/ˈskruːtənaɪz/",
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
     "partOfSpeech": "v.",
-    "definition": "仔细审查；详审",
-    "example": "The committee scrutinized every clause of the proposed contract.",
-    "exampleTranslation": "委员会仔细审查了拟议合同的每一个条款。",
-    "ieltsLevel": "7+",
+    "definition": "恶化；退化",
+    "example": "Air quality tends to deteriorate during the winter months.",
+    "exampleTranslation": "冬季空气质量往往会恶化。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "They will scrutinize every detail of your story.",
-      "movie": "A Few Good Men",
-      "year": 1992,
-      "character": "Daniel Kaffee"
+      "quote": "His condition continues to deteriorate.",
+      "movie": "The Doctor",
+      "year": 1991,
+      "character": "Dr. Jack MacKee"
     },
-    "youglish": "https://youglish.com/getbyword?q=scrutinize"
+    "youglish": "https://youglish.com/getbyword?q=deteriorate"
   },
   "grammar": {
-    "title": "现在分词作状语",
-    "category": "非谓语动词",
-    "explanation": "现在分词（-ing形式）作状语，可表示时间、原因、条件、让步、结果等，其逻辑主语须与主句主语一致。",
-    "structure": "现在分词(短语), 主句",
+    "title": "倒装句",
+    "category": "特殊句式",
+    "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
+    "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
     "examples": [
       {
-        "sentence": "Having finished the assignment, she went out for a walk.",
-        "translation": "完成作业后，她出去散步了。",
-        "note": "完成时分词表示动作先于主句"
+        "sentence": "Never have I seen such a breathtaking landscape.",
+        "translation": "我从未见过如此令人惊叹的风景。",
+        "note": "否定词提前，部分倒装"
       },
       {
-        "sentence": "Not knowing the answer, he remained silent.",
-        "translation": "因为不知道答案，他保持沉默。",
-        "note": "表原因"
+        "sentence": "Hardly had he arrived when the meeting started.",
+        "translation": "他刚到，会议就开始了。",
+        "note": "Hardly...when...结构"
       }
     ],
-    "ieltsTip": "雅思写作中合理使用分词结构，可让句子更紧凑、更有变化，避免全是并列句。"
+    "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Environment",
+    "part": "Part 1",
+    "topic": "Food",
     "questions": [
-      "What are the most serious environmental problems in your country?",
-      "Who is more responsible for environmental protection: individuals or governments?",
-      "Do you think technological development harms or helps the environment?",
-      "What can be done to encourage people to be more environmentally friendly?"
+      "What is your favorite food?",
+      "Do you like cooking?",
+      "Are there any foods you dislike?",
+      "Has your taste in food changed over the years?"
     ],
-    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
+    "sampleAnswer": "My absolute favorite is hotpot, especially the spicy Sichuan style. I find the communal aspect of gathering around a steaming pot with friends incredibly appealing. While I enjoy cooking occasionally, I wouldn't call myself a skilled chef—I tend to stick to simple dishes like stir-fried vegetables and steamed fish. As for dislikes, I'm not particularly fond of overly sweet desserts or anything with a strong cilantro flavor. Over the years, my palate has definitely expanded; as a child, I avoided anything spicy, but now I've grown to appreciate the complexity of bold flavors.",
     "keywords": [
-      "pressing",
-      "legislative",
-      "double-edged sword",
-      "degradation",
-      "collective"
+      "communal",
+      "appealing",
+      "particularly fond of",
+      "palate",
+      "complexity"
     ],
-    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
+    "tips": "描述食物时多用感官词汇，让回答生动。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Giorgia Meloni Cuts the Hard Right a Path to Power",
-      "description": "In a rare interview, the onetime political outcast reflects on her route from “the uncomfortable side of history” to the threshold of leading Italy’s most durable postwar government.",
-      "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
+      "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+      "description": "Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
+      "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
-      "description": "Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.",
-      "link": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "description": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
-      "description": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
-      "link": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+      "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+      "description": "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 5,
-    "grammarIndex": 5,
-    "speakingIndex": 8,
+    "wordIndex": 6,
+    "grammarIndex": 6,
+    "speakingIndex": 9,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 18
   }
 }
