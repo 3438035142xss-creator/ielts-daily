@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-23",
-  "weekday": "Sunday",
-  "generatedAt": "2026-08-23T03:30:49.257Z",
+  "date": "2026-08-24",
+  "weekday": "Monday",
+  "generatedAt": "2026-08-24T03:33:28.802Z",
   "word": {
-    "word": "deteriorate",
-    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "word": "alleviate",
+    "phonetic": "/əˈliːvieɪt/",
     "partOfSpeech": "v.",
-    "definition": "恶化；退化",
-    "example": "Air quality tends to deteriorate during the winter months.",
-    "exampleTranslation": "冬季空气质量往往会恶化。",
+    "definition": "减轻；缓解",
+    "example": "The new policy aims to alleviate poverty in rural areas.",
+    "exampleTranslation": "新政策旨在缓解农村地区的贫困问题。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "His condition continues to deteriorate.",
-      "movie": "The Doctor",
-      "year": 1991,
-      "character": "Dr. Jack MacKee"
+      "quote": "This medicine will alleviate the pain.",
+      "movie": "Patch Adams",
+      "year": 1998,
+      "character": "Patch Adams"
     },
-    "youglish": "https://youglish.com/getbyword?q=deteriorate"
+    "youglish": "https://youglish.com/getbyword?q=alleviate"
   },
   "grammar": {
-    "title": "倒装句",
+    "title": "强调句型",
     "category": "特殊句式",
-    "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
-    "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
+    "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
+    "structure": "It is/was + 强调部分 + that/who + 其余",
     "examples": [
       {
-        "sentence": "Never have I seen such a breathtaking landscape.",
-        "translation": "我从未见过如此令人惊叹的风景。",
-        "note": "否定词提前，部分倒装"
+        "sentence": "It was in 2008 that the Olympics were held in Beijing.",
+        "translation": "正是在2008年奥运会在北京举办。",
+        "note": "强调时间状语"
       },
       {
-        "sentence": "Hardly had he arrived when the meeting started.",
-        "translation": "他刚到，会议就开始了。",
-        "note": "Hardly...when...结构"
+        "sentence": "It is the government that should take responsibility.",
+        "translation": "正是政府应当承担责任。",
+        "note": "强调主语"
       }
     ],
-    "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
+    "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Food",
+    "topic": "Travel",
     "questions": [
-      "What is your favorite food?",
-      "Do you like cooking?",
-      "Are there any foods you dislike?",
-      "Has your taste in food changed over the years?"
+      "Do you like traveling?",
+      "Where did you go on your last holiday?",
+      "Do you prefer traveling alone or with others?",
+      "What is your dream destination?"
     ],
-    "sampleAnswer": "My absolute favorite is hotpot, especially the spicy Sichuan style. I find the communal aspect of gathering around a steaming pot with friends incredibly appealing. While I enjoy cooking occasionally, I wouldn't call myself a skilled chef—I tend to stick to simple dishes like stir-fried vegetables and steamed fish. As for dislikes, I'm not particularly fond of overly sweet desserts or anything with a strong cilantro flavor. Over the years, my palate has definitely expanded; as a child, I avoided anything spicy, but now I've grown to appreciate the complexity of bold flavors.",
+    "sampleAnswer": "I'm absolutely passionate about traveling—there's nothing quite like exploring new places and immersing myself in different cultures. My last holiday took me to Xi'an, where I was captivated by the Terracotta Warriors and the city's rich historical atmosphere. When it comes to traveling companions, I prefer going with close friends; shared experiences tend to be more enjoyable, and navigating unfamiliar places together strengthens bonds. As for my dream destination, it would have to be Iceland—I've always been fascinated by its otherworldly landscapes, especially the Northern Lights and the geothermal hot springs.",
     "keywords": [
-      "communal",
-      "appealing",
-      "particularly fond of",
-      "palate",
-      "complexity"
+      "passionate",
+      "immersing",
+      "captivated",
+      "navigating",
+      "otherworldly"
     ],
-    "tips": "描述食物时多用感官词汇，让回答生动。"
+    "tips": "表达偏好时给出具体原因，避免单一答案。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-      "description": "Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
-      "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "description": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.",
+      "link": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "How Two British Historians Made a Smash Hit Podcast",
-      "description": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
-      "link": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+      "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+      "description": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
+      "link": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
-      "description": "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.",
-      "link": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
+      "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "description": "The Ukrainian president repeated his long-held position that elections in the middle of war would tear his country apart.",
+      "link": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC News - World",
-      "language": "en",
-      "category": "英文外刊"
-    },
-    {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 6,
-    "grammarIndex": 6,
-    "speakingIndex": 9,
+    "wordIndex": 7,
+    "grammarIndex": 7,
+    "speakingIndex": 10,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 6,
+    "wordPriorityPosition": 7,
     "wordPriorityTotal": 18
   }
 }
