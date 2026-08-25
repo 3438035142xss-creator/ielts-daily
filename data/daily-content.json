@@ -1,61 +1,56 @@
 {
-  "date": "2026-08-24",
-  "weekday": "Monday",
-  "generatedAt": "2026-08-24T03:33:28.802Z",
+  "date": "2026-08-25",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-08-25T03:15:58.251Z",
   "word": {
-    "word": "alleviate",
-    "phonetic": "/əˈliːvieɪt/",
-    "partOfSpeech": "v.",
-    "definition": "减轻；缓解",
-    "example": "The new policy aims to alleviate poverty in rural areas.",
-    "exampleTranslation": "新政策旨在缓解农村地区的贫困问题。",
-    "ieltsLevel": "7",
+    "word": "compromise",
+    "phonetic": "/ˈkɒmprəmaɪz/",
+    "partOfSpeech": "v./n.",
+    "definition": "妥协；折中；损害",
+    "example": "Both parties reached a compromise after lengthy negotiations.",
+    "exampleTranslation": "经过漫长的谈判，双方达成了妥协。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "This medicine will alleviate the pain.",
-      "movie": "Patch Adams",
-      "year": 1998,
-      "character": "Patch Adams"
+      "quote": "We don't compromise on safety.",
+      "movie": "Sully",
+      "year": 2016,
+      "character": "Chesley Sullenberger"
     },
-    "youglish": "https://youglish.com/getbyword?q=alleviate"
+    "youglish": "https://youglish.com/getbyword?q=compromise"
   },
   "grammar": {
-    "title": "强调句型",
-    "category": "特殊句式",
-    "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
-    "structure": "It is/was + 强调部分 + that/who + 其余",
+    "title": "比较级与最高级",
+    "category": "形容词副词",
+    "explanation": "比较级用于两者比较，最高级用于三者及以上。比较级前可用much, far, a lot, even, still等修饰；最高级前通常加the。",
+    "structure": "more + 多音节形容词; 形容词-er + than; the + 最高级",
     "examples": [
       {
-        "sentence": "It was in 2008 that the Olympics were held in Beijing.",
-        "translation": "正是在2008年奥运会在北京举办。",
-        "note": "强调时间状语"
+        "sentence": "Urban residents face significantly more pressure than rural dwellers.",
+        "translation": "城市居民面临比农村居民大得多的压力。",
+        "note": "more + 多音节词"
       },
       {
-        "sentence": "It is the government that should take responsibility.",
-        "translation": "正是政府应当承担责任。",
-        "note": "强调主语"
+        "sentence": "This is the most challenging task I have ever undertaken.",
+        "translation": "这是我承担过的最具挑战性的任务。",
+        "note": "最高级"
       }
     ],
-    "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
+    "ieltsTip": "雅思写作Task 1比较数据时，比较级是核心工具，注意修饰词的使用以体现精确度。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Travel",
-    "questions": [
-      "Do you like traveling?",
-      "Where did you go on your last holiday?",
-      "Do you prefer traveling alone or with others?",
-      "What is your dream destination?"
-    ],
-    "sampleAnswer": "I'm absolutely passionate about traveling—there's nothing quite like exploring new places and immersing myself in different cultures. My last holiday took me to Xi'an, where I was captivated by the Terracotta Warriors and the city's rich historical atmosphere. When it comes to traveling companions, I prefer going with close friends; shared experiences tend to be more enjoyable, and navigating unfamiliar places together strengthens bonds. As for my dream destination, it would have to be Iceland—I've always been fascinated by its otherworldly landscapes, especially the Northern Lights and the geothermal hot springs.",
+    "part": "Part 2",
+    "topic": "Describe a skill you want to learn",
+    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
+    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
     "keywords": [
-      "passionate",
-      "immersing",
-      "captivated",
-      "navigating",
-      "otherworldly"
+      "acquire",
+      "barriers",
+      "reputable",
+      "inclusively",
+      "marginalized"
     ],
-    "tips": "表达偏好时给出具体原因，避免单一答案。"
+    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
   },
   "news": [
     {
@@ -107,31 +102,39 @@
       "category": "中文媒体"
     },
     {
-      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
-      "description": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.",
-      "link": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "description": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
+      "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-      "description": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
-      "link": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+      "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
+      "description": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.",
+      "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-      "description": "The Ukrainian president repeated his long-held position that elections in the middle of war would tear his country apart.",
-      "link": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html",
+      "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "description": "Thousands of Argentines are flocking to a remote stretch of Patagonia, seeking work with only backpacks, tents and the hope that they and their country can turn around their fortunes.",
+      "link": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
@@ -139,17 +142,9 @@
       "category": "英文外刊"
     },
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC News - World",
-      "language": "en",
-      "category": "英文外刊"
-    },
-    {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 7,
-    "grammarIndex": 7,
-    "speakingIndex": 10,
+    "wordIndex": 8,
+    "grammarIndex": 8,
+    "speakingIndex": 11,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 7,
+    "wordPriorityPosition": 8,
     "wordPriorityTotal": 18
   }
 }
