@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-25",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-08-25T03:15:58.251Z",
+  "date": "2026-08-26",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-08-26T03:35:19.086Z",
   "word": {
-    "word": "compromise",
-    "phonetic": "/ˈkɒmprəmaɪz/",
-    "partOfSpeech": "v./n.",
-    "definition": "妥协；折中；损害",
-    "example": "Both parties reached a compromise after lengthy negotiations.",
-    "exampleTranslation": "经过漫长的谈判，双方达成了妥协。",
-    "ieltsLevel": "6",
+    "word": "discrepancy",
+    "phonetic": "/dɪsˈkrepənsi/",
+    "partOfSpeech": "n.",
+    "definition": "差异；不一致",
+    "example": "There was a discrepancy between the official report and eyewitness accounts.",
+    "exampleTranslation": "官方报告与目击者陈述之间存在差异。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "We don't compromise on safety.",
-      "movie": "Sully",
-      "year": 2016,
-      "character": "Chesley Sullenberger"
+      "quote": "There's a discrepancy in the financial records.",
+      "movie": "The Big Short",
+      "year": 2015,
+      "character": "Michael Burry"
     },
-    "youglish": "https://youglish.com/getbyword?q=compromise"
+    "youglish": "https://youglish.com/getbyword?q=discrepancy"
   },
   "grammar": {
-    "title": "比较级与最高级",
-    "category": "形容词副词",
-    "explanation": "比较级用于两者比较，最高级用于三者及以上。比较级前可用much, far, a lot, even, still等修饰；最高级前通常加the。",
-    "structure": "more + 多音节形容词; 形容词-er + than; the + 最高级",
+    "title": "情态动词表推测",
+    "category": "情态动词",
+    "explanation": "must/may/might/could/can't + 动词原形表示对现在的推测；加have + 过去分词表示对过去的推测。",
+    "structure": "must/may/might/can't + have + 过去分词",
     "examples": [
       {
-        "sentence": "Urban residents face significantly more pressure than rural dwellers.",
-        "translation": "城市居民面临比农村居民大得多的压力。",
-        "note": "more + 多音节词"
+        "sentence": "He must have missed the train, for he hasn't arrived yet.",
+        "translation": "他肯定没赶上火车，因为他还没到。",
+        "note": "must have done表肯定推测"
       },
       {
-        "sentence": "This is the most challenging task I have ever undertaken.",
-        "translation": "这是我承担过的最具挑战性的任务。",
-        "note": "最高级"
+        "sentence": "She can't have finished the work so quickly.",
+        "translation": "她不可能这么快就完成工作。",
+        "note": "can't have done表否定推测"
       }
     ],
-    "ieltsTip": "雅思写作Task 1比较数据时，比较级是核心工具，注意修饰词的使用以体现精确度。"
+    "ieltsTip": "雅思阅读推理题中，理解情态动词的推测含义有助于准确判断作者态度。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a skill you want to learn",
-    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
-    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
+    "topic": "Describe an important decision you made",
+    "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
+    "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
     "keywords": [
-      "acquire",
-      "barriers",
-      "reputable",
-      "inclusively",
-      "marginalized"
+      "transformative",
+      "trajectory",
+      "exposure",
+      "competitive",
+      "daunting"
     ],
-    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
+    "tips": "讲述决定时强调过程和结果，体现反思能力。"
   },
   "news": [
     {
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "description": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
-      "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+      "description": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
+      "link": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
-      "description": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.",
-      "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+      "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+      "description": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "description": "Thousands of Argentines are flocking to a remote stretch of Patagonia, seeking work with only backpacks, tents and the hope that they and their country can turn around their fortunes.",
-      "link": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+      "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+      "description": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 8,
-    "grammarIndex": 8,
-    "speakingIndex": 11,
+    "wordIndex": 9,
+    "grammarIndex": 9,
+    "speakingIndex": 12,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 8,
+    "wordPriorityPosition": 9,
     "wordPriorityTotal": 18
   }
 }
