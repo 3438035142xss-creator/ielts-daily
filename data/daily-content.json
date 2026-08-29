@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-28",
-  "weekday": "Friday",
-  "generatedAt": "2026-08-28T06:19:49.003Z",
+  "date": "2026-08-29",
+  "weekday": "Saturday",
+  "generatedAt": "2026-08-29T00:05:54.620Z",
   "word": {
-    "word": "implement",
-    "phonetic": "/ˈɪmplɪment/",
-    "partOfSpeech": "v./n.",
-    "definition": "实施；执行；工具",
-    "example": "The government implemented new regulations to protect the environment.",
-    "exampleTranslation": "政府实施了新规以保护环境。",
-    "ieltsLevel": "6",
+    "word": "jeopardize",
+    "phonetic": "/ˈdʒepədaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "危及；损害",
+    "example": "Smoking can jeopardize your health and that of those around you.",
+    "exampleTranslation": "吸烟会危及你及周围人的健康。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must implement the plan before dawn.",
-      "movie": "Ocean's Eleven",
-      "year": 2001,
-      "character": "Danny Ocean"
+      "quote": "Don't jeopardize everything we've built.",
+      "movie": "The Godfather Part II",
+      "year": 1974,
+      "character": "Michael Corleone"
     },
-    "youglish": "https://youglish.com/getbyword?q=implement"
+    "youglish": "https://youglish.com/getbyword?q=jeopardize"
   },
   "grammar": {
-    "title": "让步状语从句",
-    "category": "从句",
-    "explanation": "although/though/even though/even if/while/whereas引导让步状语从句，表示尽管…但是…，主句不能再用but。",
-    "structure": "Although/Even though + 从句, 主句",
+    "title": "非谓语动词：不定式 vs 动名词",
+    "category": "非谓语动词",
+    "explanation": "某些动词后只能接不定式（decide, hope, agree等），某些只能接动名词（enjoy, avoid, finish等），有些两者均可但意义不同（stop, remember, forget）。",
+    "structure": "动词 + to do / 动词 + doing",
     "examples": [
       {
-        "sentence": "Although the technology is advanced, it is not widely accessible.",
-        "translation": "虽然技术先进，但并未广泛普及。",
-        "note": "注意主句不用but"
+        "sentence": "He stopped smoking. vs He stopped to smoke.",
+        "translation": "他戒烟了。/ 他停下来去抽烟。",
+        "note": "意义不同"
       },
       {
-        "sentence": "While city life offers convenience, it also brings stress.",
-        "translation": "尽管城市生活便利，但也带来压力。",
-        "note": "while表让步"
+        "sentence": "I remember locking the door. vs Remember to lock the door.",
+        "translation": "我记得锁了门。/ 记得去锁门。",
+        "note": "remember doing已做;remember to do未做"
       }
     ],
-    "ieltsTip": "雅思写作讨论利弊时，让步状语从句是体现辩证思维的必备结构。"
+    "ieltsTip": "雅思语法题和完形填空中，非谓语动词的搭配是高频考点，需要熟记。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Urbanization",
+    "part": "Part 1",
+    "topic": "Music",
     "questions": [
-      "What are the advantages and disadvantages of living in a big city?",
-      "How can cities become more livable?",
-      "Do you think urbanization will continue in the future?",
-      "What challenges do rural areas face as cities grow?"
+      "What kind of music do you like?",
+      "Do you play any musical instruments?",
+      "How often do you listen to music?",
+      "Has your taste in music changed over the years?"
     ],
-    "sampleAnswer": "Living in a metropolis offers undeniable advantages: access to quality healthcare, diverse educational opportunities, and vibrant cultural life. However, these benefits come at a cost—sky-high housing prices, severe traffic congestion, and deteriorating air quality are common grievances. To make cities more livable, urban planners should prioritize green spaces, efficient public transportation, and sustainable architecture that reduces energy consumption. Urbanization will almost certainly continue, driven by economic opportunities and demographic shifts, but the challenge lies in managing this growth responsibly. As cities expand, rural areas face the dual threat of brain drain and economic decline, as young, educated individuals migrate in search of better prospects. Addressing this imbalance requires targeted policies that promote rural development and ensure equitable resource distribution.",
+    "sampleAnswer": "I have rather eclectic taste in music, but if I had to choose, I'd say I'm drawn to indie folk and classical music. I find the acoustic melodies of folk music deeply soothing, while classical compositions offer a kind of intellectual stimulation that few other genres can match. Although I don't play any instruments proficiently, I taught myself a bit of guitar during college. Music accompanies me throughout the day—I usually listen while commuting, working, or unwinding before bed. My taste has definitely evolved over time; as a teenager, I was obsessed with pop and rock, but as I've matured, I've developed an appreciation for more nuanced and sophisticated musical forms.",
     "keywords": [
-      "metropolis",
-      "vibrant",
-      "deteriorating",
-      "brain drain",
-      "equitable"
+      "eclectic",
+      "drawn to",
+      "soothing",
+      "proficiently",
+      "nuanced"
     ],
-    "tips": "城市话题常用因果分析，注意使用专业词汇。"
+    "tips": "谈论喜好时使用程度副词，体现表达的精准。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Rescuers Search for Missing and Stranded Under Threat of More Floods",
-      "description": "Officials said hundreds were killed in Nepal and Tibet, and more than 1,400 people are missing. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.",
-      "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+      "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+      "description": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new f",
+      "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Where Drones Cannot See, the Ukraine War Is a Deadly Game of Cat and Mouse",
-      "description": "Russian troops are trying to infiltrate the vast, overgrown reservoir basin of a dam they blew up three years ago as Ukrainian soldiers hunt them at close quarters.",
-      "link": "https://www.nytimes.com/2026/08/27/world/europe/ukraine-russia-war-zaporizhzhia-frontline-fighting.html",
+      "title": "Inside Afghanistan’s Secret Schools for Girls",
+      "description": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.",
+      "link": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
-      "description": "Russia is the largest destination for stolen Canadian cars. Smugglers are meeting the demand of a booming black market.",
-      "link": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
+      "title": "Why Many Iranians Are Losing Hope After Six Months of War",
+      "description": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.",
+      "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "'High risk' of lake bursting and causing second flood, warns China",
-      "description": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-      "description": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 11,
-    "grammarIndex": 11,
-    "speakingIndex": 14,
+    "wordIndex": 12,
+    "grammarIndex": 12,
+    "speakingIndex": 15,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 11,
+    "wordPriorityPosition": 12,
     "wordPriorityTotal": 18
   }
 }
