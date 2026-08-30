@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-29",
-  "weekday": "Saturday",
-  "generatedAt": "2026-08-29T00:05:54.620Z",
+  "date": "2026-08-30",
+  "weekday": "Sunday",
+  "generatedAt": "2026-08-30T00:07:26.828Z",
   "word": {
-    "word": "jeopardize",
-    "phonetic": "/ˈdʒepədaɪz/",
-    "partOfSpeech": "v.",
-    "definition": "危及；损害",
-    "example": "Smoking can jeopardize your health and that of those around you.",
-    "exampleTranslation": "吸烟会危及你及周围人的健康。",
-    "ieltsLevel": "7+",
+    "word": "lucrative",
+    "phonetic": "/ˈluːkrətɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "获利丰厚的；赚钱的",
+    "example": "Software development has become a highly lucrative career path.",
+    "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Don't jeopardize everything we've built.",
-      "movie": "The Godfather Part II",
-      "year": 1974,
-      "character": "Michael Corleone"
+      "quote": "It's a lucrative offer, but I have conditions.",
+      "movie": "The Social Network",
+      "year": 2010,
+      "character": "Sean Parker"
     },
-    "youglish": "https://youglish.com/getbyword?q=jeopardize"
+    "youglish": "https://youglish.com/getbyword?q=lucrative"
   },
   "grammar": {
-    "title": "非谓语动词：不定式 vs 动名词",
-    "category": "非谓语动词",
-    "explanation": "某些动词后只能接不定式（decide, hope, agree等），某些只能接动名词（enjoy, avoid, finish等），有些两者均可但意义不同（stop, remember, forget）。",
-    "structure": "动词 + to do / 动词 + doing",
+    "title": "主谓一致",
+    "category": "一致性",
+    "explanation": "主语为单数概念时谓语用单数，复数概念用复数。注意集体名词、就近原则、就远原则等特殊情况。",
+    "structure": "主语 + 谓语（与主语数一致）",
     "examples": [
       {
-        "sentence": "He stopped smoking. vs He stopped to smoke.",
-        "translation": "他戒烟了。/ 他停下来去抽烟。",
-        "note": "意义不同"
+        "sentence": "The committee has/have reached a decision.",
+        "translation": "委员会已作出决定。",
+        "note": "强调整体用单数，强调成员用复数"
       },
       {
-        "sentence": "I remember locking the door. vs Remember to lock the door.",
-        "translation": "我记得锁了门。/ 记得去锁门。",
-        "note": "remember doing已做;remember to do未做"
+        "sentence": "Either the students or the teacher is responsible.",
+        "translation": "要么学生，要么老师负责。",
+        "note": "either...or...就近原则"
       }
     ],
-    "ieltsTip": "雅思语法题和完形填空中，非谓语动词的搭配是高频考点，需要熟记。"
+    "ieltsTip": "雅思写作中主谓一致错误是常见的失分点，写完后务必检查主谓数的一致性。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Music",
+    "topic": "Weather",
     "questions": [
-      "What kind of music do you like?",
-      "Do you play any musical instruments?",
-      "How often do you listen to music?",
-      "Has your taste in music changed over the years?"
+      "What is your favorite kind of weather?",
+      "Does the weather affect your mood?",
+      "Do you prefer hot or cold weather?",
+      "What do you do on rainy days?"
     ],
-    "sampleAnswer": "I have rather eclectic taste in music, but if I had to choose, I'd say I'm drawn to indie folk and classical music. I find the acoustic melodies of folk music deeply soothing, while classical compositions offer a kind of intellectual stimulation that few other genres can match. Although I don't play any instruments proficiently, I taught myself a bit of guitar during college. Music accompanies me throughout the day—I usually listen while commuting, working, or unwinding before bed. My taste has definitely evolved over time; as a teenager, I was obsessed with pop and rock, but as I've matured, I've developed an appreciation for more nuanced and sophisticated musical forms.",
+    "sampleAnswer": "I particularly enjoy crisp autumn days with clear blue skies and a gentle breeze—that perfect transition between summer's heat and winter's chill. Weather undeniably affects my mood; sunny days leave me feeling energetic and optimistic, whereas prolonged rainy spells tend to make me somewhat lethargic. Between hot and cold, I lean towards cooler weather, as I find it easier to bundle up in layers than to escape oppressive heat. On rainy days, I relish the opportunity to stay indoors with a good book and a hot cup of tea, finding the sound of rain against the window oddly comforting.",
     "keywords": [
-      "eclectic",
-      "drawn to",
-      "soothing",
-      "proficiently",
-      "nuanced"
+      "crisp",
+      "transition",
+      "prolonged",
+      "lethargic",
+      "relish"
     ],
-    "tips": "谈论喜好时使用程度副词，体现表达的精准。"
+    "tips": "描述天气时多用形容词，营造氛围。"
   },
   "news": [
     {
@@ -107,25 +107,25 @@
       "category": "中文媒体"
     },
     {
-      "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
-      "description": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new f",
-      "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "description": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Inside Afghanistan’s Secret Schools for Girls",
-      "description": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.",
-      "link": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
+      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "description": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
+      "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Why Many Iranians Are Losing Hope After Six Months of War",
-      "description": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.",
-      "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
+      "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+      "description": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers.",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
@@ -139,17 +139,17 @@
       "category": "英文外刊"
     },
     {
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 12,
-    "grammarIndex": 12,
-    "speakingIndex": 15,
+    "wordIndex": 13,
+    "grammarIndex": 13,
+    "speakingIndex": 16,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 12,
+    "wordPriorityPosition": 13,
     "wordPriorityTotal": 18
   }
 }
