@@ -1,61 +1,51 @@
 {
-  "date": "2026-08-30",
-  "weekday": "Sunday",
-  "generatedAt": "2026-08-30T00:07:26.828Z",
+  "date": "2026-08-31",
+  "weekday": "Monday",
+  "generatedAt": "2026-08-31T00:07:27.723Z",
   "word": {
-    "word": "lucrative",
-    "phonetic": "/ˈluːkrətɪv/",
-    "partOfSpeech": "adj.",
-    "definition": "获利丰厚的；赚钱的",
-    "example": "Software development has become a highly lucrative career path.",
-    "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
-    "ieltsLevel": "7",
+    "word": "mitigate",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "partOfSpeech": "v.",
+    "definition": "减轻；缓和",
+    "example": "Planting trees can help mitigate the effects of climate change.",
+    "exampleTranslation": "植树有助于缓解气候变化的影响。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "It's a lucrative offer, but I have conditions.",
-      "movie": "The Social Network",
-      "year": 2010,
-      "character": "Sean Parker"
+      "quote": "We must mitigate the damage before it spreads.",
+      "movie": "Contagion",
+      "year": 2011,
+      "character": "Dr. Ellis Cheever"
     },
-    "youglish": "https://youglish.com/getbyword?q=lucrative"
+    "youglish": "https://youglish.com/getbyword?q=mitigate"
   },
   "grammar": {
-    "title": "主谓一致",
-    "category": "一致性",
-    "explanation": "主语为单数概念时谓语用单数，复数概念用复数。注意集体名词、就近原则、就远原则等特殊情况。",
-    "structure": "主语 + 谓语（与主语数一致）",
+    "title": "虚拟语气（与过去事实相反）",
+    "category": "虚拟语气",
+    "explanation": "表达对过去事实的假设时，if从句用had + 过去分词，主句用would/could/should/might + have + 过去分词。",
+    "structure": "If + 主语 + had done, 主语 + would have done",
     "examples": [
       {
-        "sentence": "The committee has/have reached a decision.",
-        "translation": "委员会已作出决定。",
-        "note": "强调整体用单数，强调成员用复数"
-      },
-      {
-        "sentence": "Either the students or the teacher is responsible.",
-        "translation": "要么学生，要么老师负责。",
-        "note": "either...or...就近原则"
+        "sentence": "If I had studied harder, I would have passed the exam.",
+        "translation": "如果我当初更努力学习，就会通过考试了。",
+        "note": "与过去事实相反"
       }
     ],
-    "ieltsTip": "雅思写作中主谓一致错误是常见的失分点，写完后务必检查主谓数的一致性。"
+    "ieltsTip": "雅思口语讨论过去经历或后悔时，使用虚拟语气可让表达更地道。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Weather",
-    "questions": [
-      "What is your favorite kind of weather?",
-      "Does the weather affect your mood?",
-      "Do you prefer hot or cold weather?",
-      "What do you do on rainy days?"
-    ],
-    "sampleAnswer": "I particularly enjoy crisp autumn days with clear blue skies and a gentle breeze—that perfect transition between summer's heat and winter's chill. Weather undeniably affects my mood; sunny days leave me feeling energetic and optimistic, whereas prolonged rainy spells tend to make me somewhat lethargic. Between hot and cold, I lean towards cooler weather, as I find it easier to bundle up in layers than to escape oppressive heat. On rainy days, I relish the opportunity to stay indoors with a good book and a hot cup of tea, finding the sound of rain against the window oddly comforting.",
+    "part": "Part 2",
+    "topic": "Describe a place you want to visit",
+    "cueCard": "Describe a place you would like to visit. You should say: where it is / how you know about it / what you would do there / and explain why you want to visit it.",
+    "sampleAnswer": "A place that has long captivated my imagination is Kyoto, Japan's former imperial capital. I first learned about it through a travel documentary that showcased its stunning temples, serene gardens, and well-preserved traditional architecture. If I had the chance to visit, I would spend my days exploring iconic sites like Kinkaku-ji and Fushimi Inari Shrine, participating in a traditional tea ceremony, and perhaps staying in a ryokan to experience authentic Japanese hospitality. What draws me to Kyoto is its remarkable harmony between nature and human craftsmanship—every garden, every temple seems designed to evoke a sense of tranquility and contemplation. In our fast-paced modern world, I believe Kyoto offers a rare opportunity to step back in time and reconnect with a more mindful way of living.",
     "keywords": [
-      "crisp",
-      "transition",
-      "prolonged",
-      "lethargic",
-      "relish"
+      "captivated",
+      "imperial",
+      "iconic",
+      "tranquility",
+      "contemplation"
     ],
-    "tips": "描述天气时多用形容词，营造氛围。"
+    "tips": "描述地点时调动多种感官，营造画面感。"
   },
   "news": [
     {
@@ -107,49 +97,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
-      "description": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
-      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+      "description": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
+      "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
-      "description": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
-      "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+      "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
+      "description": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.",
+      "link": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
-      "description": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers.",
-      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
+      "description": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle.",
+      "link": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iceland votes against restarting EU membership talks",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +149,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 13,
-    "grammarIndex": 13,
-    "speakingIndex": 16,
+    "wordIndex": 14,
+    "grammarIndex": 14,
+    "speakingIndex": 17,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 13,
+    "wordPriorityPosition": 14,
     "wordPriorityTotal": 18
   }
 }
