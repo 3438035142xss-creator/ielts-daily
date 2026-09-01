@@ -1,51 +1,56 @@
 {
-  "date": "2026-08-31",
-  "weekday": "Monday",
-  "generatedAt": "2026-08-31T00:07:27.723Z",
+  "date": "2026-09-01",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-09-01T00:17:49.099Z",
   "word": {
-    "word": "mitigate",
-    "phonetic": "/ˈmɪtɪɡeɪt/",
-    "partOfSpeech": "v.",
-    "definition": "减轻；缓和",
-    "example": "Planting trees can help mitigate the effects of climate change.",
-    "exampleTranslation": "植树有助于缓解气候变化的影响。",
-    "ieltsLevel": "7+",
+    "word": "notion",
+    "phonetic": "/ˈnəʊʃn/",
+    "partOfSpeech": "n.",
+    "definition": "概念；观念",
+    "example": "The notion of working from home was once considered unusual.",
+    "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must mitigate the damage before it spreads.",
-      "movie": "Contagion",
-      "year": 2011,
-      "character": "Dr. Ellis Cheever"
+      "quote": "The notion of freedom is what we fight for.",
+      "movie": "Braveheart",
+      "year": 1995,
+      "character": "William Wallace"
     },
-    "youglish": "https://youglish.com/getbyword?q=mitigate"
+    "youglish": "https://youglish.com/getbyword?q=notion"
   },
   "grammar": {
-    "title": "虚拟语气（与过去事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达对过去事实的假设时，if从句用had + 过去分词，主句用would/could/should/might + have + 过去分词。",
-    "structure": "If + 主语 + had done, 主语 + would have done",
+    "title": "独立主格结构",
+    "category": "特殊句式",
+    "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
+    "structure": "名词 + 分词/形容词, 主句",
     "examples": [
       {
-        "sentence": "If I had studied harder, I would have passed the exam.",
-        "translation": "如果我当初更努力学习，就会通过考试了。",
-        "note": "与过去事实相反"
+        "sentence": "Weather permitting, we will go hiking tomorrow.",
+        "translation": "天气允许的话，我们明天去远足。",
+        "note": "名词+现在分词"
+      },
+      {
+        "sentence": "The work finished, we went home happily.",
+        "translation": "工作完成了，我们高兴地回家了。",
+        "note": "名词+过去分词"
       }
     ],
-    "ieltsTip": "雅思口语讨论过去经历或后悔时，使用虚拟语气可让表达更地道。"
+    "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a place you want to visit",
-    "cueCard": "Describe a place you would like to visit. You should say: where it is / how you know about it / what you would do there / and explain why you want to visit it.",
-    "sampleAnswer": "A place that has long captivated my imagination is Kyoto, Japan's former imperial capital. I first learned about it through a travel documentary that showcased its stunning temples, serene gardens, and well-preserved traditional architecture. If I had the chance to visit, I would spend my days exploring iconic sites like Kinkaku-ji and Fushimi Inari Shrine, participating in a traditional tea ceremony, and perhaps staying in a ryokan to experience authentic Japanese hospitality. What draws me to Kyoto is its remarkable harmony between nature and human craftsmanship—every garden, every temple seems designed to evoke a sense of tranquility and contemplation. In our fast-paced modern world, I believe Kyoto offers a rare opportunity to step back in time and reconnect with a more mindful way of living.",
+    "topic": "Describe a challenging experience",
+    "cueCard": "Describe a challenge you faced and how you overcame it. You should say: what the challenge was / when it happened / how you dealt with it / and explain what you learned from the experience.",
+    "sampleAnswer": "One of the most daunting challenges I've faced was delivering a presentation in English at an international conference during my third year of university. As a non-native speaker with limited public speaking experience, the prospect of addressing an audience of experts was genuinely terrifying. To prepare, I devoted countless hours to refining my slides, rehearsing my delivery in front of a mirror, and seeking feedback from professors and peers. On the day of the presentation, my hands were shaking, but I focused on my breathing and reminded myself that I had prepared thoroughly. To my surprise, the presentation went smoothly, and the Q&A session that followed was intellectually stimulating rather than intimidating. This experience taught me that preparation is the best antidote to anxiety, and that growth often lies just beyond our comfort zones.",
     "keywords": [
-      "captivated",
-      "imperial",
-      "iconic",
-      "tranquility",
-      "contemplation"
+      "daunting",
+      "prospect",
+      "refining",
+      "antidote",
+      "comfort zones"
     ],
-    "tips": "描述地点时调动多种感官，营造画面感。"
+    "tips": "讲述挑战时突出过程和心理变化，体现成长。"
   },
   "news": [
     {
@@ -97,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
-      "description": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
-      "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+      "title": "These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.",
+      "description": "A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society b",
+      "link": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
-      "description": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.",
-      "link": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
+      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
+      "description": "Prime Minister Balendra Shah, 36, rose to power this year on the back of youth anger with graft and mismanagement. His fledgling government now faces a huge test.",
+      "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
-      "description": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle.",
-      "link": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
+      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+      "description": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge.",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-      "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Iceland votes against restarting EU membership talks",
-      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -149,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 14,
-    "grammarIndex": 14,
-    "speakingIndex": 17,
+    "wordIndex": 15,
+    "grammarIndex": 15,
+    "speakingIndex": 18,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 14,
+    "wordPriorityPosition": 15,
     "wordPriorityTotal": 18
   }
 }
