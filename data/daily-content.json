@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-01",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-09-01T00:17:49.099Z",
+  "date": "2026-09-02",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-09-02T00:17:35.830Z",
   "word": {
-    "word": "notion",
-    "phonetic": "/ˈnəʊʃn/",
-    "partOfSpeech": "n.",
-    "definition": "概念；观念",
-    "example": "The notion of working from home was once considered unusual.",
-    "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
-    "ieltsLevel": "6",
+    "word": "prevalent",
+    "phonetic": "/ˈprevələnt/",
+    "partOfSpeech": "adj.",
+    "definition": "普遍的；盛行的",
+    "example": "This disease is more prevalent in tropical regions.",
+    "exampleTranslation": "这种疾病在热带地区更为普遍。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "The notion of freedom is what we fight for.",
-      "movie": "Braveheart",
-      "year": 1995,
-      "character": "William Wallace"
+      "quote": "Corruption is prevalent in these parts.",
+      "movie": "Traffic",
+      "year": 2000,
+      "character": "Javier Rodriguez"
     },
-    "youglish": "https://youglish.com/getbyword?q=notion"
+    "youglish": "https://youglish.com/getbyword?q=prevalent"
   },
   "grammar": {
-    "title": "独立主格结构",
-    "category": "特殊句式",
-    "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
-    "structure": "名词 + 分词/形容词, 主句",
+    "title": "间接引语",
+    "category": "引语",
+    "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
+    "structure": "主语 + said/told + (that) + 宾语从句",
     "examples": [
       {
-        "sentence": "Weather permitting, we will go hiking tomorrow.",
-        "translation": "天气允许的话，我们明天去远足。",
-        "note": "名词+现在分词"
-      },
-      {
-        "sentence": "The work finished, we went home happily.",
-        "translation": "工作完成了，我们高兴地回家了。",
-        "note": "名词+过去分词"
+        "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
+        "translation": "他说：「我累了。」→ 他说他累了。",
+        "note": "时态前移"
       }
     ],
-    "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
+    "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a challenging experience",
-    "cueCard": "Describe a challenge you faced and how you overcame it. You should say: what the challenge was / when it happened / how you dealt with it / and explain what you learned from the experience.",
-    "sampleAnswer": "One of the most daunting challenges I've faced was delivering a presentation in English at an international conference during my third year of university. As a non-native speaker with limited public speaking experience, the prospect of addressing an audience of experts was genuinely terrifying. To prepare, I devoted countless hours to refining my slides, rehearsing my delivery in front of a mirror, and seeking feedback from professors and peers. On the day of the presentation, my hands were shaking, but I focused on my breathing and reminded myself that I had prepared thoroughly. To my surprise, the presentation went smoothly, and the Q&A session that followed was intellectually stimulating rather than intimidating. This experience taught me that preparation is the best antidote to anxiety, and that growth often lies just beyond our comfort zones.",
-    "keywords": [
-      "daunting",
-      "prospect",
-      "refining",
-      "antidote",
-      "comfort zones"
+    "part": "Part 3",
+    "topic": "Globalization",
+    "questions": [
+      "What are the main advantages of globalization?",
+      "Does globalization threaten local cultures?",
+      "How has globalization affected developing countries?",
+      "Will globalization continue in the future?"
     ],
-    "tips": "讲述挑战时突出过程和心理变化，体现成长。"
+    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "keywords": [
+      "accelerated",
+      "diffusion",
+      "unprecedented",
+      "exacerbate",
+      "dependency"
+    ],
+    "tips": "全球化话题常用经济文化双角度分析。"
   },
   "news": [
     {
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.",
-      "description": "A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society b",
-      "link": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "description": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
-      "description": "Prime Minister Balendra Shah, 36, rose to power this year on the back of youth anger with graft and mismanagement. His fledgling government now faces a huge test.",
-      "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
+      "title": "The Ritual of Coffin Making in a City Hit by Ebola",
+      "description": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials.",
+      "link": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-      "description": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge.",
-      "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+      "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
+      "description": "While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 15,
-    "grammarIndex": 15,
-    "speakingIndex": 18,
+    "wordIndex": 16,
+    "grammarIndex": 16,
+    "speakingIndex": 19,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 15,
+    "wordPriorityPosition": 16,
     "wordPriorityTotal": 18
   }
 }
