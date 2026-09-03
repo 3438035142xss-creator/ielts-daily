@@ -1,56 +1,61 @@
 {
-  "date": "2026-09-02",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-09-02T00:17:35.830Z",
+  "date": "2026-09-03",
+  "weekday": "Thursday",
+  "generatedAt": "2026-09-03T00:18:07.257Z",
   "word": {
-    "word": "prevalent",
-    "phonetic": "/ˈprevələnt/",
-    "partOfSpeech": "adj.",
-    "definition": "普遍的；盛行的",
-    "example": "This disease is more prevalent in tropical regions.",
-    "exampleTranslation": "这种疾病在热带地区更为普遍。",
+    "word": "undermine",
+    "phonetic": "/ˌʌndəˈmaɪn/",
+    "partOfSpeech": "v.",
+    "definition": "破坏；削弱",
+    "example": "Constant criticism can undermine a child's self-confidence.",
+    "exampleTranslation": "持续的批评会削弱孩子的自信心。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Corruption is prevalent in these parts.",
-      "movie": "Traffic",
-      "year": 2000,
-      "character": "Javier Rodriguez"
+      "quote": "They will try to undermine your authority.",
+      "movie": "Lincoln",
+      "year": 2012,
+      "character": "Abraham Lincoln"
     },
-    "youglish": "https://youglish.com/getbyword?q=prevalent"
+    "youglish": "https://youglish.com/getbyword?q=undermine"
   },
   "grammar": {
-    "title": "间接引语",
-    "category": "引语",
-    "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
-    "structure": "主语 + said/told + (that) + 宾语从句",
+    "title": "It作形式主语/宾语",
+    "category": "特殊句式",
+    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
+    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
     "examples": [
       {
-        "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
-        "translation": "他说：「我累了。」→ 他说他累了。",
-        "note": "时态前移"
+        "sentence": "It is essential to maintain a healthy work-life balance.",
+        "translation": "保持健康的工作生活平衡是必要的。",
+        "note": "形式主语"
+      },
+      {
+        "sentence": "I find it difficult to concentrate in noisy environments.",
+        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
+        "note": "形式宾语"
       }
     ],
-    "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
+    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Globalization",
+    "topic": "Health",
     "questions": [
-      "What are the main advantages of globalization?",
-      "Does globalization threaten local cultures?",
-      "How has globalization affected developing countries?",
-      "Will globalization continue in the future?"
+      "Why are more people suffering from stress nowadays?",
+      "How can individuals maintain a healthy lifestyle?",
+      "Should governments regulate fast food?",
+      "What role does mental health play in overall well-being?"
     ],
-    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
     "keywords": [
-      "accelerated",
-      "diffusion",
-      "unprecedented",
-      "exacerbate",
-      "dependency"
+      "prevalence",
+      "blurs",
+      "contentious",
+      "stigmatized",
+      "holistic"
     ],
-    "tips": "全球化话题常用经济文化双角度分析。"
+    "tips": "健康话题常用因果和建议结构。"
   },
   "news": [
     {
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "description": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+      "description": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
+      "link": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The Ritual of Coffin Making in a City Hit by Ebola",
-      "description": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials.",
-      "link": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
+      "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
+      "description": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.",
+      "link": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
-      "description": "While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.",
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
+      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
+      "description": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
+      "link": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 16,
-    "grammarIndex": 16,
-    "speakingIndex": 19,
+    "wordIndex": 17,
+    "grammarIndex": 17,
+    "speakingIndex": 20,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 16,
+    "wordPriorityPosition": 17,
     "wordPriorityTotal": 18
   }
 }
