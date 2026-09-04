@@ -1,61 +1,61 @@
 {
-  "date": "2026-09-03",
-  "weekday": "Thursday",
-  "generatedAt": "2026-09-03T00:18:07.257Z",
+  "date": "2026-09-04",
+  "weekday": "Friday",
+  "generatedAt": "2026-09-04T00:16:32.180Z",
   "word": {
-    "word": "undermine",
-    "phonetic": "/ˌʌndəˈmaɪn/",
-    "partOfSpeech": "v.",
-    "definition": "破坏；削弱",
-    "example": "Constant criticism can undermine a child's self-confidence.",
-    "exampleTranslation": "持续的批评会削弱孩子的自信心。",
+    "word": "viable",
+    "phonetic": "/ˈvaɪəbl/",
+    "partOfSpeech": "adj.",
+    "definition": "可行的；能存活的",
+    "example": "Solar energy is now a viable alternative to fossil fuels.",
+    "exampleTranslation": "太阳能现在是化石燃料的可行替代品。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "They will try to undermine your authority.",
-      "movie": "Lincoln",
-      "year": 2012,
-      "character": "Abraham Lincoln"
+      "quote": "Is there a viable alternative?",
+      "movie": "The Matrix",
+      "year": 1999,
+      "character": "Morpheus"
     },
-    "youglish": "https://youglish.com/getbyword?q=undermine"
+    "youglish": "https://youglish.com/getbyword?q=viable"
   },
   "grammar": {
-    "title": "It作形式主语/宾语",
-    "category": "特殊句式",
-    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
-    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
+    "title": "同位语",
+    "category": "句法",
+    "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
+    "structure": "名词 + 同位成分（名词/that从句）",
     "examples": [
       {
-        "sentence": "It is essential to maintain a healthy work-life balance.",
-        "translation": "保持健康的工作生活平衡是必要的。",
-        "note": "形式主语"
+        "sentence": "Beijing, the capital of China, is a bustling metropolis.",
+        "translation": "北京，中国的首都，是个繁华的大都市。",
+        "note": "名词作同位语"
       },
       {
-        "sentence": "I find it difficult to concentrate in noisy environments.",
-        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
-        "note": "形式宾语"
+        "sentence": "The news that our team won the championship spread quickly.",
+        "translation": "我们队夺冠的消息传得很快。",
+        "note": "同位语从句"
       }
     ],
-    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
+    "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Health",
+    "part": "Part 1",
+    "topic": "Daily Routine",
     "questions": [
-      "Why are more people suffering from stress nowadays?",
-      "How can individuals maintain a healthy lifestyle?",
-      "Should governments regulate fast food?",
-      "What role does mental health play in overall well-being?"
+      "When do you usually get up?",
+      "What part of the day do you like most?",
+      "Has your routine changed much recently?",
+      "What would you like to change about your routine?"
     ],
-    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
+    "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
     "keywords": [
-      "prevalence",
-      "blurs",
-      "contentious",
-      "stigmatized",
-      "holistic"
+      "drag myself",
+      "undeniably",
+      "unwind",
+      "blurred",
+      "boost"
     ],
-    "tips": "健康话题常用因果和建议结构。"
+    "tips": "描述日常时使用频率副词，体现自然流畅。"
   },
   "news": [
     {
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
-      "description": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
-      "link": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "description": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
+      "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
-      "description": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.",
-      "link": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
+      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "description": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”",
+      "link": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "description": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
-      "link": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+      "title": "How Do You Run for Office in a Gang War?",
+      "description": "Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again.",
+      "link": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "description": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 17,
-    "grammarIndex": 17,
-    "speakingIndex": 20,
+    "wordIndex": 18,
+    "grammarIndex": 18,
+    "speakingIndex": 21,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 17,
+    "wordPriorityPosition": 18,
     "wordPriorityTotal": 18
   }
 }
