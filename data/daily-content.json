@@ -1,61 +1,56 @@
 {
-  "date": "2026-09-05",
-  "weekday": "Saturday",
-  "generatedAt": "2026-09-05T03:14:39.043Z",
+  "date": "2026-09-06",
+  "weekday": "Sunday",
+  "generatedAt": "2026-09-06T03:14:23.275Z",
   "word": {
-    "word": "obscure",
-    "phonetic": "/əbˈskjʊə(r)/",
-    "partOfSpeech": "adj./v.",
-    "definition": "模糊的；晦涩的；使模糊",
-    "example": "The origins of this tradition remain obscure to historians.",
-    "exampleTranslation": "这一传统的起源对历史学家来说仍然模糊不清。",
-    "ieltsLevel": "7",
+    "word": "reluctant",
+    "phonetic": "/rɪˈlʌktənt/",
+    "partOfSpeech": "adj.",
+    "definition": "不情愿的；勉强的",
+    "example": "She was reluctant to share her personal information online.",
+    "exampleTranslation": "她不情愿在网上分享个人信息。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "His motives remain obscure to all of us.",
-      "movie": "The Imitation Game",
-      "year": 2014,
-      "character": "Alan Turing"
+      "quote": "I'm reluctant to trust anyone in this town.",
+      "movie": "Chinatown",
+      "year": 1974,
+      "character": "J.J. Gittes"
     },
-    "youglish": "https://youglish.com/getbyword?q=obscure"
+    "youglish": "https://youglish.com/getbyword?q=reluctant"
   },
   "grammar": {
-    "title": "将来时态的表达",
-    "category": "时态",
-    "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
-    "structure": "will do / be going to do / be to do / be about to do",
+    "title": "冠词的用法",
+    "category": "冠词",
+    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
+    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
     "examples": [
       {
-        "sentence": "Look at the clouds! It is going to rain.",
-        "translation": "看那些云！要下雨了。",
-        "note": "表迹象"
+        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
+        "translation": "狗是忠诚的动物。（三种泛指表达）",
+        "note": "泛指的三种方式"
       },
       {
-        "sentence": "The Prime Minister is to visit China next month.",
-        "translation": "首相将于下个月访问中国。",
-        "note": "官方安排"
+        "sentence": "Love is more important than money.",
+        "translation": "爱比金钱更重要。",
+        "note": "抽象名词零冠词"
       }
     ],
-    "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
+    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Friends",
-    "questions": [
-      "Do you prefer spending time with friends or alone?",
-      "What do you usually do with your friends?",
-      "Do you think friends should have similar personalities?",
-      "How do you make new friends?"
-    ],
-    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
+    "part": "Part 2",
+    "topic": "Describe a useful invention",
+    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
+    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
     "keywords": [
-      "solitude",
-      "invigorating",
-      "diverse temperaments",
-      "organically",
-      "social circle"
+      "transformative",
+      "democratized",
+      "revolutionized",
+      "ubiquity",
+      "erosion"
     ],
-    "tips": "谈论人际关系时使用情感词汇，体现深度。"
+    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
   },
   "news": [
     {
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
-      "description": "Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.",
-      "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html",
+      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+      "description": "President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff.",
+      "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Families Turn to Symbolic Cremation After Nepal Floods",
-      "description": "Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.",
-      "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
+      "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+      "description": "A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.",
+      "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations",
-      "description": "Alejandro Betancourt has been targeted by multiple investigations. Now he’s the U.S. government’s unrivaled partner in President Trump’s bid to control Venezuelan oil resources.",
-      "link": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
+      "title": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
+      "description": "Mike Huckabee, the U.S. ambassador to Israel, made a rare trip to meet with Palestinians after international backlash over attacks by Israeli settlers.",
+      "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "description": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 19,
-    "grammarIndex": 19,
-    "speakingIndex": 22,
+    "wordIndex": 20,
+    "grammarIndex": 20,
+    "speakingIndex": 23,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 11
   }
 }
