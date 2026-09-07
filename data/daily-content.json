@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-06",
-  "weekday": "Sunday",
-  "generatedAt": "2026-09-06T03:14:23.275Z",
+  "date": "2026-09-07",
+  "weekday": "Monday",
+  "generatedAt": "2026-09-07T03:12:54.872Z",
   "word": {
-    "word": "reluctant",
-    "phonetic": "/rɪˈlʌktənt/",
+    "word": "subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "不情愿的；勉强的",
-    "example": "She was reluctant to share her personal information online.",
-    "exampleTranslation": "她不情愿在网上分享个人信息。",
+    "definition": "随后的；后来的",
+    "example": "Subsequent events proved that his prediction was correct.",
+    "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
     "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "I'm reluctant to trust anyone in this town.",
-      "movie": "Chinatown",
-      "year": 1974,
-      "character": "J.J. Gittes"
+      "quote": "Subsequent events proved me right.",
+      "movie": "Spotlight",
+      "year": 2015,
+      "character": "Walter Robinson"
     },
-    "youglish": "https://youglish.com/getbyword?q=reluctant"
+    "youglish": "https://youglish.com/getbyword?q=subsequent"
   },
   "grammar": {
-    "title": "冠词的用法",
-    "category": "冠词",
-    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
-    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
+    "title": "分词作定语",
+    "category": "非谓语动词",
+    "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
+    "structure": "名词 + -ing/-ed(短语)",
     "examples": [
       {
-        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
-        "translation": "狗是忠诚的动物。（三种泛指表达）",
-        "note": "泛指的三种方式"
+        "sentence": "The exciting news spread quickly.",
+        "translation": "这个令人兴奋的消息传得很快。",
+        "note": "现在分词表主动"
       },
       {
-        "sentence": "Love is more important than money.",
-        "translation": "爱比金钱更重要。",
-        "note": "抽象名词零冠词"
+        "sentence": "The book written by him is a bestseller.",
+        "translation": "他写的书是畅销书。",
+        "note": "过去分词表被动"
       }
     ],
-    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
+    "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a useful invention",
-    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
-    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
+    "topic": "Describe a goal you achieved",
+    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
+    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
     "keywords": [
-      "transformative",
-      "democratized",
-      "revolutionized",
-      "ubiquity",
-      "erosion"
+      "decidedly",
+      "accountability",
+      "overhauled",
+      "indescribable",
+      "perseverance"
     ],
-    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
+    "tips": "描述目标时强调努力过程，体现意志力。"
   },
   "news": [
     {
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-      "description": "President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff.",
-      "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
+      "description": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right par",
+      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-      "description": "A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.",
-      "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+      "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+      "description": "Steve Witkoff and Jared Kushner met on Sunday with Volodymyr Zelensky in Kyiv, a day after talks with Vladimir V. Putin in Moscow.",
+      "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
-      "description": "Mike Huckabee, the U.S. ambassador to Israel, made a rare trip to meet with Palestinians after international backlash over attacks by Israeli settlers.",
-      "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+      "title": "Haitians Deported From U.S. Are Left Broke and Stranded",
+      "description": "Hundreds have been deported to Haiti in recent weeks, and some say they have been left with no money, no protection from gangs and no place to go.",
+      "link": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-      "description": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC News - World",
-      "language": "en",
-      "category": "英文外刊"
-    },
-    {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC News - World",
-      "language": "en",
-      "category": "英文外刊"
-    },
-    {
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 20,
-    "grammarIndex": 20,
-    "speakingIndex": 23,
+    "wordIndex": 21,
+    "grammarIndex": 21,
+    "speakingIndex": 24,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 11
   }
 }
