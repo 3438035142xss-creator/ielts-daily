@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-07",
-  "weekday": "Monday",
-  "generatedAt": "2026-09-07T03:12:54.872Z",
+  "date": "2026-09-08",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-09-08T03:20:39.959Z",
   "word": {
-    "word": "subsequent",
-    "phonetic": "/ˈsʌbsɪkwənt/",
+    "word": "tangible",
+    "phonetic": "/ˈtændʒəbl/",
     "partOfSpeech": "adj.",
-    "definition": "随后的；后来的",
-    "example": "Subsequent events proved that his prediction was correct.",
-    "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
-    "ieltsLevel": "6",
+    "definition": "有形的；可触摸的；明确的",
+    "example": "The company needs to produce tangible results to attract investors.",
+    "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Subsequent events proved me right.",
-      "movie": "Spotlight",
-      "year": 2015,
-      "character": "Walter Robinson"
+      "quote": "We need tangible evidence, not theories.",
+      "movie": "Zodiac",
+      "year": 2007,
+      "character": "Robert Graysmith"
     },
-    "youglish": "https://youglish.com/getbyword?q=subsequent"
+    "youglish": "https://youglish.com/getbyword?q=tangible"
   },
   "grammar": {
-    "title": "分词作定语",
-    "category": "非谓语动词",
-    "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
-    "structure": "名词 + -ing/-ed(短语)",
+    "title": "条件句的混合用法",
+    "category": "虚拟语气",
+    "explanation": "混合条件句指主从句时间不一致的条件句，需根据各自时间调整动词形式。如：与过去事实相反的条件 + 对现在的影响。",
+    "structure": "If + had done, would + do（过去条件+现在结果）",
     "examples": [
       {
-        "sentence": "The exciting news spread quickly.",
-        "translation": "这个令人兴奋的消息传得很快。",
-        "note": "现在分词表主动"
-      },
-      {
-        "sentence": "The book written by him is a bestseller.",
-        "translation": "他写的书是畅销书。",
-        "note": "过去分词表被动"
+        "sentence": "If I had studied medicine, I would be a doctor now.",
+        "translation": "如果我当初学医，现在就是医生了。",
+        "note": "过去条件+现在结果"
       }
     ],
-    "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
+    "ieltsTip": "雅思写作中混合条件句可体现对假设情况的深入分析，是高分句式。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a goal you achieved",
-    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
-    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
-    "keywords": [
-      "decidedly",
-      "accountability",
-      "overhauled",
-      "indescribable",
-      "perseverance"
+    "part": "Part 3",
+    "topic": "Media",
+    "questions": [
+      "How has the media changed in recent years?",
+      "Do you trust the news media?",
+      "What responsibilities do journalists have?",
+      "How does social media influence public opinion?"
     ],
-    "tips": "描述目标时强调努力过程，体现意志力。"
+    "sampleAnswer": "The media landscape has been radically reshaped by digitalization, with traditional outlets losing ground to social platforms and independent content creators. Trust in mainstream media has declined in many countries, partly due to sensationalism, political bias, and the proliferation of misinformation that exploits social media algorithms. Journalists bear profound responsibilities: to verify facts rigorously, present multiple perspectives, and hold power to account—all while navigating commercial pressures and tight deadlines. Social media's influence on public opinion is profound but double-edged: it democratizes information sharing and gives voice to marginalized groups, yet it also creates echo chambers that reinforce existing beliefs and amplifies emotionally charged content at the expense of nuanced discussion. Cultivating media literacy has never been more essential.",
+    "keywords": [
+      "radically",
+      "sensationalism",
+      "proliferation",
+      "echo chambers",
+      "media literacy"
+    ],
+    "tips": "媒体话题常用变化和影响分析。"
   },
   "news": [
     {
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
-      "description": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right par",
-      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "title": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
+      "description": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.",
+      "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-      "description": "Steve Witkoff and Jared Kushner met on Sunday with Volodymyr Zelensky in Kyiv, a day after talks with Vladimir V. Putin in Moscow.",
-      "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+      "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+      "description": "The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory.",
+      "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Haitians Deported From U.S. Are Left Broke and Stranded",
-      "description": "Hundreds have been deported to Haiti in recent weeks, and some say they have been left with no money, no protection from gangs and no place to go.",
-      "link": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
+      "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+      "description": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists.",
+      "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 21,
-    "grammarIndex": 21,
-    "speakingIndex": 24,
+    "wordIndex": 22,
+    "grammarIndex": 22,
+    "speakingIndex": 25,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 3,
+    "wordPriorityPosition": 4,
     "wordPriorityTotal": 11
   }
 }
