@@ -1,78 +1,83 @@
 {
-  "date": "2026-09-09",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-09-09T03:24:03.019Z",
+  "date": "2026-09-10",
+  "weekday": "Thursday",
+  "generatedAt": "2026-09-10T03:22:42.709Z",
   "word": {
-    "word": "warrant",
-    "phonetic": "/ˈwɒrənt/",
+    "word": "yield",
+    "phonetic": "/jiːld/",
     "partOfSpeech": "v./n.",
-    "definition": "值得；保证；许可证",
-    "example": "The situation is serious enough to warrant immediate action.",
-    "exampleTranslation": "情况严重到值得立即采取行动。",
-    "ieltsLevel": "7",
+    "definition": "产出；屈服；产量",
+    "example": "The new farming technique yielded a record harvest this year.",
+    "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We have a warrant to search the premises.",
-      "movie": "The Departed",
-      "year": 2006,
-      "character": "Colin Sullivan"
+      "quote": "The road will not yield to your impatience.",
+      "movie": "No Country for Old Men",
+      "year": 2007,
+      "character": "Llewelyn Moss"
     },
-    "youglish": "https://youglish.com/getbyword?q=warrant"
+    "youglish": "https://youglish.com/getbyword?q=yield"
   },
   "grammar": {
-    "title": "wish和hope的用法",
-    "category": "虚拟语气",
-    "explanation": "wish表愿望，从句用虚拟语气（与现在相反用过去式，与过去相反用过去完成时）；hope表希望，从句用陈述语气。",
-    "structure": "wish + 过去式/过去完成时; hope + 现在时/将来时",
+    "title": "so...that与such...that",
+    "category": "结果状语",
+    "explanation": "so + 形容词/副词 + that从句；such + (a/an) + 形容词 + 名词 + that从句。so强调程度，such强调性质。",
+    "structure": "so + adj./adv. + that; such + (a/an) + adj. + n. + that",
     "examples": [
       {
-        "sentence": "I wish I were taller. / I hope you will succeed.",
-        "translation": "我希望我能更高些。/ 我希望你会成功。",
-        "note": "wish虚拟/hope陈述"
+        "sentence": "The film was so boring that I fell asleep.",
+        "translation": "电影太无聊了，我睡着了。",
+        "note": "so + 形容词"
+      },
+      {
+        "sentence": "It was such a boring film that I fell asleep.",
+        "translation": "这是如此无聊的电影，我睡着了。",
+        "note": "such + 名词短语"
       }
     ],
-    "ieltsTip": "雅思口语中wish和hope的区分是常见考点，注意虚拟语气的运用。"
+    "ieltsTip": "雅思写作中so/such...that结构可增强表达的感染力，让论述更生动。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Family",
+    "part": "Part 1",
+    "topic": "Reading",
     "questions": [
-      "How have family structures changed in your country?",
-      "What role do grandparents play in modern families?",
-      "Is it better for children to grow up in large or small families?",
-      "How will family relationships change in the future?"
+      "Do you like reading?",
+      "What kind of books do you read?",
+      "Do you prefer e-books or paper books?",
+      "What was the last book you read?"
     ],
-    "sampleAnswer": "Family structures in China have undergone significant transformations, shifting from extended multi-generational households to smaller nuclear families, particularly in urban areas where housing constraints and career demands prevail. Grandparents still play vital roles, often serving as primary caregivers for grandchildren while parents work, though this arrangement can sometimes generate intergenerational conflicts over child-rearing philosophies. Whether large or small families are preferable depends on context: large families offer richer social support and diverse role models, while small families can provide more individualized attention and resources per child. Looking ahead, I expect family relationships will become more diverse and flexible, with rising acceptance of single-parent families, blended families, and child-free couples. The fundamental function of families—providing love, support, and belonging—will endure, even as their forms multiply.",
+    "sampleAnswer": "I'm an avid reader, finding few pleasures as satisfying as getting lost in a good book. My reading tastes are fairly broad, encompassing literary fiction, biographies, and popular science. When it comes to format, I have a soft spot for paper books—the tactile sensation of turning pages and the unmistakable scent of printed paper create an irreplaceable reading experience. However, I also appreciate e-books for their convenience, especially when traveling. The last book I finished was 'Sapiens' by Yuval Noah Harari, a thought-provoking exploration of human history that fundamentally challenged my understanding of how civilizations develop.",
     "keywords": [
-      "transformations",
-      "nuclear",
-      "caregivers",
-      "intergenerational",
-      "endure"
+      "avid",
+      "encompassing",
+      "tactile",
+      "irreplaceable",
+      "thought-provoking"
     ],
-    "tips": "家庭话题常用对比和趋势分析。"
+    "tips": "描述阅读时使用具体书名和感受，体现真实性。"
   },
   "news": [
     {
-      "title": "Western allies step up pressure on Israel over West Bank settlements",
-      "description": "Israel's expanding settlement activity and rising settler violence in the occupied West Bank have fueled growing concern among its Western allies and renewed calls for a two-state solution.",
-      "link": "https://news.cgtn.com/news/2026-09-08/news-1QhbUhZKu8o/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China, South Korea make positive progress in second phase FTA talks",
+      "description": "China and South Korea have achieved positive progress on cross-border services trade and negative-list market access during the 16th round of second phase negotiations for the bilateral Free Trade Agr",
+      "link": "https://news.cgtn.com/news/2026-09-09/China-South-Korea-make-positive-progress-in-second-phase-FTA-talks-1QixfWb8y08/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China's top diplomat holds talks with Qatari PM",
-      "description": "Chinese Foreign Minister Wang Yi held talks with Sheikh Mohammed bin Abdulrahman Al Thani, the prime minister and minister of foreign affairs of Qatar, in Beijing on Tuesday.",
-      "link": "https://news.cgtn.com/news/2026-09-08/China-s-top-diplomat-holds-talks-with-Qatari-PM-1QgZ78bBKDe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US military denies reports of Iranian strikes on its warships",
+      "description": "US military denies reports of Iranian strikes on its warships",
+      "link": "https://news.cgtn.com/news/2026-09-09/news-1QiFO4BeBNK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "DRC launches 180-day Ebola plan, seeks $1.3 billion funding",
-      "description": "The Democratic Republic of the Congo (DRC) and its partners have unveiled an updated 180-day multi-sectoral response plan to intensify efforts against the ongoing Ebola outbreak, with funding needs es",
-      "link": "https://newsaf.cgtn.com/news/2026-09-05/DRC-launches-180-day-Ebola-plan-seeks-1-3-billion-funding-1QbSXiUZ5QY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Online Survey on the 2026 CIFTIS",
+      "description": "Online Survey on the 2026 CIFTIS",
+      "link": "https://news.cgtn.com/news/2026-09-07/Online-Survey-on-the-2026-CIFTIS-1QfgnPqg5qw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
-      "description": "Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny.",
-      "link": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
+      "title": "14 Killed in Weapons Depot Blast in Northwest Syria",
+      "description": "Officials said they had not determined the cause of the explosion. Years of fighting have left Syria littered with weapons and ordnance left over from the civil war.",
+      "link": "https://www.nytimes.com/2026/09/09/world/middleeast/syria-weapons-depot-blast.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-      "description": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.",
-      "link": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
+      "title": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans",
+      "description": "Spain’s intelligence service had alerted Morocco about social media calls for a border exodus into Ceuta, which led to more than 100 deaths and a political crisis in Spain.",
+      "link": "https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’",
-      "description": "Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.",
-      "link": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+      "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
+      "description": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.",
+      "link": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 23,
-    "grammarIndex": 23,
-    "speakingIndex": 26,
+    "wordIndex": 24,
+    "grammarIndex": 24,
+    "speakingIndex": 27,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 11
   }
 }
