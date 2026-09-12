@@ -1,83 +1,78 @@
 {
-  "date": "2026-09-11",
-  "weekday": "Friday",
-  "generatedAt": "2026-09-11T03:19:04.343Z",
+  "date": "2026-09-12",
+  "weekday": "Saturday",
+  "generatedAt": "2026-09-12T03:24:23.618Z",
   "word": {
-    "word": "ambiguous",
-    "phonetic": "/æmˈbɪɡjuəs/",
-    "partOfSpeech": "adj.",
-    "definition": "模棱两可的；含糊的",
-    "example": "The politician gave an ambiguous answer to the reporter's question.",
-    "exampleTranslation": "这位政治家对记者的问题给出了模棱两可的回答。",
-    "ieltsLevel": "7",
+    "word": "bolster",
+    "phonetic": "/ˈbəʊlstə(r)/",
+    "partOfSpeech": "v.",
+    "definition": "支持；加强",
+    "example": "The positive economic data bolstered investor confidence.",
+    "exampleTranslation": "积极的经济数据增强了投资者信心。",
+    "ieltsLevel": "7+",
     "priority": "medium",
     "movieQuote": {
-      "quote": "His answer was deliberately ambiguous.",
-      "movie": "Tinker Tailor Soldier Spy",
-      "year": 2011,
-      "character": "George Smiley"
+      "quote": "We must bolster our defenses before nightfall.",
+      "movie": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "character": "Aragorn"
     },
-    "youglish": "https://youglish.com/getbyword?q=ambiguous"
+    "youglish": "https://youglish.com/getbyword?q=bolster"
   },
   "grammar": {
-    "title": "there be句型",
-    "category": "特殊句式",
-    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
-    "structure": "There + be + 主语 + 状语",
+    "title": "省略与替代",
+    "category": "语篇衔接",
+    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
+    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
     "examples": [
       {
-        "sentence": "There is a book and two pens on the desk.",
-        "translation": "桌上有本书和两支笔。",
-        "note": "就近原则，用is"
+        "sentence": "—Will he come? —I hope so.",
+        "translation": "—他会来吗？—我希望如此。",
+        "note": "so替代that he will come"
       },
       {
-        "sentence": "There exist various opinions on this issue.",
-        "translation": "在这个问题上存在各种观点。",
-        "note": "be可替换为exist/seem等"
+        "sentence": "I don't like this shirt. Show me a smaller one.",
+        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
+        "note": "one替代shirt"
       }
     ],
-    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
+    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Sports",
-    "questions": [
-      "Do you like sports?",
-      "What sports do you enjoy watching or playing?",
-      "How often do you exercise?",
-      "Did you play sports when you were a child?"
-    ],
-    "sampleAnswer": "I genuinely enjoy sports, both as a participant and a spectator. As a player, I'm particularly fond of badminton and swimming—they provide excellent cardiovascular workouts while being relatively gentle on the joints. As a spectator, I'm captivated by tennis and football, especially during major tournaments. I try to exercise at least three times a week, though work commitments sometimes interfere with this routine. As a child, I was quite active, participating in school basketball teams and spending countless afternoons cycling with friends. Those early experiences instilled in me a lifelong appreciation for physical activity and team spirit.",
+    "part": "Part 2",
+    "topic": "Describe a piece of advice you received",
+    "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
+    "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
     "keywords": [
-      "cardiovascular",
-      "captivated",
-      "tournaments",
-      "instilled",
-      "team spirit"
+      "agonizing",
+      "prestigious",
+      "intrinsic motivation",
+      "external validation",
+      "fulfilling"
     ],
-    "tips": "谈论运动时使用动作动词，体现活力。"
+    "tips": "描述建议时强调其深远影响，体现反思。"
   },
   "news": [
     {
-      "title": "Two decades of Beijing Xiangshan Forum: Building consensus on security",
-      "description": "Two decades of Beijing Xiangshan Forum: Building consensus on security",
-      "link": "https://news.cgtn.com/news/2026-09-10/Two-decades-of-Beijing-Xiangshan-Forum-Building-consensus-on-security-1QjNZolbrWg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Poll: Six in 10 respondents see a growing BRICS role in global affairs",
+      "description": "A survey conducted by CGTN among 12,250 respondents across 41 countries shows that more than six in 10 respondents believe BRICS has grown more influential in international affairs in recent years.",
+      "link": "https://news.cgtn.com/news/2026-09-11/Poll-Six-in-10-respondents-see-a-growing-BRICS-role-in-global-affairs-1QlyVfTowjm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "The world needs BRICS to be the adult in the room",
-      "description": "The BRICS of 2026 needn't be regarded as a counterweight to anyone. In practical terms, when you comprise nearly half of the world's population, account for 40% of the global GDP (in PPP terms), 26% o",
-      "link": "https://news.cgtn.com/news/2026-09-10/The-world-needs-BRICS-to-be-the-adult-in-the-room-1Qk275eaolq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Bayern hits five, Manchester United cruises on Champions League return",
+      "description": "Bayern hits five, Manchester United cruises on Champions League return",
+      "link": "https://news.cgtn.com/news/2026-09-11/Bayern-hits-five-Manchester-United-cruises-on-Champions-League-return-1QlqDlO7KqQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Mexico targets more Chinese tourists",
-      "description": "Mexico targets more Chinese tourists",
-      "link": "https://newsus.cgtn.com/news/2026-09-09/Mexico-targets-more-Chinese-tourists-1Qg5o7vvLZC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China urges certain Philippine individual to stop undermining ties",
+      "description": "A certain individual of the Philippines should cease the provocations and theatrics, and stop undermining China-Philippines relations and stability in the South China Sea, Foreign Ministry spokesperso",
+      "link": "https://news.cgtn.com/news/2026-09-09/China-urges-certain-Philippine-individual-to-stop-undermining-ties-1QiQ3aqRY6A/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
-      "description": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
-      "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+      "title": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+      "description": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also announced it had shut down a critical oil pipeline after a drone attack launched from Iraq.",
+      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The ‘Forever War’ in Afghanistan: 25 Years in Pictures",
-      "description": "From the first weeks after the Sept. 11 attacks to the chaotic U.S. withdrawal and return of the Taliban, The New York Times has documented a quarter-century of conflict and daily life in Afghanistan.",
-      "link": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html",
+      "title": "Inside an Ancient Lebanese City Engulfed by War",
+      "description": "The Lebanese city of Tyre, one of the oldest metropolises in the world, has been left scarred.",
+      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
-      "description": "Adichie has moved countless readers with her novels about Nigerians at home and abroad. After the death in Lagos of her toddler son, her homeland no longer feels as much like home.",
-      "link": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html",
+      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+      "description": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
+      "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 25,
-    "grammarIndex": 25,
-    "speakingIndex": 28,
+    "wordIndex": 26,
+    "grammarIndex": 26,
+    "speakingIndex": 29,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 7,
+    "wordPriorityPosition": 8,
     "wordPriorityTotal": 11
   }
 }
