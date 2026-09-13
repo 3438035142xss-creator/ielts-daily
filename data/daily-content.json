@@ -1,78 +1,83 @@
 {
-  "date": "2026-09-12",
-  "weekday": "Saturday",
-  "generatedAt": "2026-09-12T03:24:23.618Z",
+  "date": "2026-09-13",
+  "weekday": "Sunday",
+  "generatedAt": "2026-09-13T03:30:15.040Z",
   "word": {
-    "word": "bolster",
-    "phonetic": "/ˈbəʊlstə(r)/",
-    "partOfSpeech": "v.",
-    "definition": "支持；加强",
-    "example": "The positive economic data bolstered investor confidence.",
-    "exampleTranslation": "积极的经济数据增强了投资者信心。",
-    "ieltsLevel": "7+",
+    "word": "conducive",
+    "phonetic": "/kənˈdjuːsɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "有助于...的；有益的",
+    "example": "A quiet environment is conducive to effective studying.",
+    "exampleTranslation": "安静的环境有助于高效学习。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We must bolster our defenses before nightfall.",
-      "movie": "The Lord of the Rings: The Two Towers",
-      "year": 2002,
-      "character": "Aragorn"
+      "quote": "This setting is hardly conducive to clear thinking.",
+      "movie": "A Beautiful Mind",
+      "year": 2001,
+      "character": "John Nash"
     },
-    "youglish": "https://youglish.com/getbyword?q=bolster"
+    "youglish": "https://youglish.com/getbyword?q=conducive"
   },
   "grammar": {
-    "title": "省略与替代",
-    "category": "语篇衔接",
-    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
-    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
+    "title": "现在完成进行时",
+    "category": "时态",
+    "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
+    "structure": "have/has been + 动词-ing",
     "examples": [
       {
-        "sentence": "—Will he come? —I hope so.",
-        "translation": "—他会来吗？—我希望如此。",
-        "note": "so替代that he will come"
+        "sentence": "I have been waiting for you for two hours.",
+        "translation": "我等你等了两个小时了。",
+        "note": "强调持续和等待感"
       },
       {
-        "sentence": "I don't like this shirt. Show me a smaller one.",
-        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
-        "note": "one替代shirt"
+        "sentence": "She has been working on this project since January.",
+        "translation": "她从一月起就一直在做这个项目。",
+        "note": "强调持续性"
       }
     ],
-    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
+    "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a piece of advice you received",
-    "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
-    "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
-    "keywords": [
-      "agonizing",
-      "prestigious",
-      "intrinsic motivation",
-      "external validation",
-      "fulfilling"
+    "part": "Part 1",
+    "topic": "Hometown",
+    "questions": [
+      "Where is your hometown?",
+      "What do you like most about your hometown?",
+      "Is there anything you dislike about your hometown?",
+      "Would you say your hometown is a good place to live?"
     ],
-    "tips": "描述建议时强调其深远影响，体现反思。"
+    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "keywords": [
+      "picturesque",
+      "blend",
+      "congestion",
+      "robust",
+      "cultural heritage"
+    ],
+    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
   },
   "news": [
     {
-      "title": "Poll: Six in 10 respondents see a growing BRICS role in global affairs",
-      "description": "A survey conducted by CGTN among 12,250 respondents across 41 countries shows that more than six in 10 respondents believe BRICS has grown more influential in international affairs in recent years.",
-      "link": "https://news.cgtn.com/news/2026-09-11/Poll-Six-in-10-respondents-see-a-growing-BRICS-role-in-global-affairs-1QlyVfTowjm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China calls for stronger global counterterrorism cooperation at UNSC",
+      "description": "China called for stronger international cooperation in the fight against terrorism and urged the international community to address emerging risks posed by new technologies at a UN Security Council op",
+      "link": "https://news.cgtn.com/news/2026-09-12/China-calls-for-stronger-global-counterterrorism-cooperation-at-UNSC-1Qnboc88kE0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Bayern hits five, Manchester United cruises on Champions League return",
-      "description": "Bayern hits five, Manchester United cruises on Champions League return",
-      "link": "https://news.cgtn.com/news/2026-09-11/Bayern-hits-five-Manchester-United-cruises-on-Champions-League-return-1QlqDlO7KqQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Iraq sacks commander over drone attacks on Saudi Arabia",
+      "description": "Ali al-Zaidi, Iraqi prime minister and commander-in-chief of the armed forces, dismissed the Maysan Operations Commander on Saturday after authorities confirmed attacks targeting Saudi Arabia had been",
+      "link": "https://news.cgtn.com/news/2026-09-12/Iraq-sacks-commander-over-drone-attacks-on-Saudi-Arabia-1QnA3AlstcQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China urges certain Philippine individual to stop undermining ties",
-      "description": "A certain individual of the Philippines should cease the provocations and theatrics, and stop undermining China-Philippines relations and stability in the South China Sea, Foreign Ministry spokesperso",
-      "link": "https://news.cgtn.com/news/2026-09-09/China-urges-certain-Philippine-individual-to-stop-undermining-ties-1QiQ3aqRY6A/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Indian historian: South-South trade is growing dramatically",
+      "description": "Indian historian: South-South trade is growing dramatically",
+      "link": "https://news.cgtn.com/news/2026-09-10/Indian-historian-South-South-trade-is-growing-dramatically-1QksyNmGIog/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
-      "description": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also announced it had shut down a critical oil pipeline after a drone attack launched from Iraq.",
-      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+      "description": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
+      "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Inside an Ancient Lebanese City Engulfed by War",
-      "description": "The Lebanese city of Tyre, one of the oldest metropolises in the world, has been left scarred.",
-      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html",
+      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+      "description": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-      "description": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
-      "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+      "description": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics.",
+      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 26,
-    "grammarIndex": 26,
-    "speakingIndex": 29,
+    "wordIndex": 27,
+    "grammarIndex": 27,
+    "speakingIndex": 1,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 8,
+    "wordPriorityPosition": 9,
     "wordPriorityTotal": 11
   }
 }
