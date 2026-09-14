@@ -1,83 +1,78 @@
 {
-  "date": "2026-09-13",
-  "weekday": "Sunday",
-  "generatedAt": "2026-09-13T03:30:15.040Z",
+  "date": "2026-09-14",
+  "weekday": "Monday",
+  "generatedAt": "2026-09-14T03:40:33.152Z",
   "word": {
-    "word": "conducive",
-    "phonetic": "/kənˈdjuːsɪv/",
+    "word": "eloquent",
+    "phonetic": "/ˈeləkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "有助于...的；有益的",
-    "example": "A quiet environment is conducive to effective studying.",
-    "exampleTranslation": "安静的环境有助于高效学习。",
-    "ieltsLevel": "7",
+    "definition": "雄辩的；有说服力的",
+    "example": "She gave an eloquent speech that moved the entire audience.",
+    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
+    "ieltsLevel": "7+",
     "priority": "medium",
     "movieQuote": {
-      "quote": "This setting is hardly conducive to clear thinking.",
-      "movie": "A Beautiful Mind",
-      "year": 2001,
-      "character": "John Nash"
+      "quote": "Your silence has been more eloquent than any words.",
+      "movie": "The King's Speech",
+      "year": 2010,
+      "character": "King George VI"
     },
-    "youglish": "https://youglish.com/getbyword?q=conducive"
+    "youglish": "https://youglish.com/getbyword?q=eloquent"
   },
   "grammar": {
-    "title": "现在完成进行时",
-    "category": "时态",
-    "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
-    "structure": "have/has been + 动词-ing",
+    "title": "直接引语转间接引语",
+    "category": "引语",
+    "explanation": "直接引语转间接引语时，需注意：1)人称变化；2)时态呼应（主句过去时从句时态前移）；3)时间地点状语变化；4)疑问句语序变为陈述语序。",
+    "structure": "He said, \"...\" → He said (that) ...",
     "examples": [
       {
-        "sentence": "I have been waiting for you for two hours.",
-        "translation": "我等你等了两个小时了。",
-        "note": "强调持续和等待感"
-      },
-      {
-        "sentence": "She has been working on this project since January.",
-        "translation": "她从一月起就一直在做这个项目。",
-        "note": "强调持续性"
+        "sentence": "He asked, \"Where do you live?\" → He asked where I lived.",
+        "translation": "他问：「你住哪儿？」→ 他问我住哪儿。",
+        "note": "疑问词+陈述语序"
       }
     ],
-    "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
+    "ieltsTip": "雅思听力Section 3/4中常出现间接引语，注意时态和语序的变化。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Hometown",
+    "topic": "Study / Work",
     "questions": [
-      "Where is your hometown?",
-      "What do you like most about your hometown?",
-      "Is there anything you dislike about your hometown?",
-      "Would you say your hometown is a good place to live?"
+      "Are you a student or do you work?",
+      "What is your favorite subject / aspect of your job?",
+      "Why did you choose this field?",
+      "What do you plan to do in the future?"
     ],
-    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
     "keywords": [
-      "picturesque",
-      "blend",
-      "congestion",
-      "robust",
-      "cultural heritage"
+      "major in",
+      "fascinating",
+      "forefront",
+      "innovation",
+      "aspire"
     ],
-    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
+    "tips": "用具体例子让回答生动，避免空泛。"
   },
   "news": [
     {
-      "title": "China calls for stronger global counterterrorism cooperation at UNSC",
-      "description": "China called for stronger international cooperation in the fight against terrorism and urged the international community to address emerging risks posed by new technologies at a UN Security Council op",
-      "link": "https://news.cgtn.com/news/2026-09-12/China-calls-for-stronger-global-counterterrorism-cooperation-at-UNSC-1Qnboc88kE0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Three injured in wildfire on Spain's Costa del Sol",
+      "description": "A wildfire raging near luxury homes outside Spain's famed Costa del Sol beach resorts left three people injured on Sunday, with one victim in hospital with burns, officials said.",
+      "link": "https://news.cgtn.com/news/2026-09-14/Three-injured-in-wildfire-on-Spain-s-Costa-del-Sol-1QqnskQuFSU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Iraq sacks commander over drone attacks on Saudi Arabia",
-      "description": "Ali al-Zaidi, Iraqi prime minister and commander-in-chief of the armed forces, dismissed the Maysan Operations Commander on Saturday after authorities confirmed attacks targeting Saudi Arabia had been",
-      "link": "https://news.cgtn.com/news/2026-09-12/Iraq-sacks-commander-over-drone-attacks-on-Saudi-Arabia-1QnA3AlstcQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Six dead after Indonesian ferry went missing in Java Sea",
+      "description": "Six dead after Indonesian ferry went missing in Java Sea",
+      "link": "https://news.cgtn.com/news/2026-09-13/news-1Qpd7jckQWA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Indian historian: South-South trade is growing dramatically",
-      "description": "Indian historian: South-South trade is growing dramatically",
-      "link": "https://news.cgtn.com/news/2026-09-10/Indian-historian-South-South-trade-is-growing-dramatically-1QksyNmGIog/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Houthis seize Perim Island, tightening grip on Bab al-Mandab Strait",
+      "description": "Yemen's Houthi forces have seized the strategic Perim Island in the Bab al-Mandab Strait, escalating a conflict that is increasingly putting pressure on the United States, threatening Gulf oil shipmen",
+      "link": "https://news.cgtn.com/news/2026-09-12/Houthis-seize-Perim-Island-tightening-grip-on-Bab-al-Mandab-Strait-1Qn4p1IIpyw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-      "description": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
-      "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+      "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
+      "description": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.",
+      "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "description": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+      "description": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+      "link": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
-      "description": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics.",
-      "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
+      "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+      "description": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good.",
+      "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 27,
-    "grammarIndex": 27,
-    "speakingIndex": 1,
+    "wordIndex": 28,
+    "grammarIndex": 28,
+    "speakingIndex": 2,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 9,
+    "wordPriorityPosition": 10,
     "wordPriorityTotal": 11
   }
 }
