@@ -1,78 +1,83 @@
 {
-  "date": "2026-09-14",
-  "weekday": "Monday",
-  "generatedAt": "2026-09-14T03:40:33.152Z",
+  "date": "2026-09-15",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-09-15T03:41:14.578Z",
   "word": {
-    "word": "eloquent",
-    "phonetic": "/ˈeləkwənt/",
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
     "partOfSpeech": "adj.",
-    "definition": "雄辩的；有说服力的",
-    "example": "She gave an eloquent speech that moved the entire audience.",
-    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
-    "ieltsLevel": "7+",
+    "definition": "可行的；可能的",
+    "example": "We need to determine whether the project is feasible within budget.",
+    "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Your silence has been more eloquent than any words.",
-      "movie": "The King's Speech",
-      "year": 2010,
-      "character": "King George VI"
+      "quote": "We need a feasible plan within 48 hours.",
+      "movie": "Apollo 13",
+      "year": 1995,
+      "character": "Jim Lovell"
     },
-    "youglish": "https://youglish.com/getbyword?q=eloquent"
+    "youglish": "https://youglish.com/getbyword?q=feasible"
   },
   "grammar": {
-    "title": "直接引语转间接引语",
-    "category": "引语",
-    "explanation": "直接引语转间接引语时，需注意：1)人称变化；2)时态呼应（主句过去时从句时态前移）；3)时间地点状语变化；4)疑问句语序变为陈述语序。",
-    "structure": "He said, \"...\" → He said (that) ...",
+    "title": "used to与be used to",
+    "category": "习惯表达",
+    "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
+    "structure": "used to + do; be/get used to + doing",
     "examples": [
       {
-        "sentence": "He asked, \"Where do you live?\" → He asked where I lived.",
-        "translation": "他问：「你住哪儿？」→ 他问我住哪儿。",
-        "note": "疑问词+陈述语序"
+        "sentence": "I used to play basketball, but now I prefer reading.",
+        "translation": "我过去常打篮球，但现在更喜欢阅读。",
+        "note": "used to + do"
+      },
+      {
+        "sentence": "I am used to getting up early.",
+        "translation": "我习惯早起。",
+        "note": "be used to + doing"
       }
     ],
-    "ieltsTip": "雅思听力Section 3/4中常出现间接引语，注意时态和语序的变化。"
+    "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Study / Work",
+    "topic": "Hobbies",
     "questions": [
-      "Are you a student or do you work?",
-      "What is your favorite subject / aspect of your job?",
-      "Why did you choose this field?",
-      "What do you plan to do in the future?"
+      "What do you do in your free time?",
+      "How long have you had this hobby?",
+      "Is it an expensive hobby?",
+      "Do you prefer indoor or outdoor activities?"
     ],
-    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
+    "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
     "keywords": [
-      "major in",
-      "fascinating",
-      "forefront",
-      "innovation",
-      "aspire"
+      "particularly fond of",
+      "indispensable",
+      "pricey",
+      "composition",
+      "unwind"
     ],
-    "tips": "用具体例子让回答生动，避免空泛。"
+    "tips": "解释原因时使用对比结构，体现逻辑性。"
   },
   "news": [
     {
-      "title": "Three injured in wildfire on Spain's Costa del Sol",
-      "description": "A wildfire raging near luxury homes outside Spain's famed Costa del Sol beach resorts left three people injured on Sunday, with one victim in hospital with burns, officials said.",
-      "link": "https://news.cgtn.com/news/2026-09-14/Three-injured-in-wildfire-on-Spain-s-Costa-del-Sol-1QqnskQuFSU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Climate forecasts alone won't protect Africa's poorest farmers",
+      "description": "Researchers say early warnings must be matched with financial and practical support to help vulnerable pastoralists prepare for drought.",
+      "link": "https://newsaf.cgtn.com/news/2026-09-14/Climate-forecasts-alone-won-t-protect-Africa-s-poorest-farmers-1Qr1AFC5nzi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Six dead after Indonesian ferry went missing in Java Sea",
-      "description": "Six dead after Indonesian ferry went missing in Java Sea",
-      "link": "https://news.cgtn.com/news/2026-09-13/news-1Qpd7jckQWA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Center-left bloc leads Swedish election, preliminary results show",
+      "description": "Center-left bloc leads Swedish election, preliminary results show",
+      "link": "https://news.cgtn.com/news/2026-09-14/news-1Qqk2iyAsSY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Houthis seize Perim Island, tightening grip on Bab al-Mandab Strait",
-      "description": "Yemen's Houthi forces have seized the strategic Perim Island in the Bab al-Mandab Strait, escalating a conflict that is increasingly putting pressure on the United States, threatening Gulf oil shipmen",
-      "link": "https://news.cgtn.com/news/2026-09-12/Houthis-seize-Perim-Island-tightening-grip-on-Bab-al-Mandab-Strait-1Qn4p1IIpyw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Xi Jinping warns against war in Middle East and Gulf region",
+      "description": "Chinese President Xi Jinping said Saturday that as the situation in the Middle East and the Gulf region continues to evolve, the war there has caused serious losses to people across the region and doe",
+      "link": "https://news.cgtn.com/news/2026-09-12/Xi-Jinping-warns-against-war-in-Middle-East-and-Gulf-region-1QnG2jac9TG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
-      "description": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.",
-      "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+      "description": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
-      "description": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
-      "link": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+      "description": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched.",
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
-      "description": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good.",
-      "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "description": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
+      "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 28,
-    "grammarIndex": 28,
-    "speakingIndex": 2,
+    "wordIndex": 29,
+    "grammarIndex": 29,
+    "speakingIndex": 3,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 10,
+    "wordPriorityPosition": 11,
     "wordPriorityTotal": 11
   }
 }
