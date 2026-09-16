@@ -1,83 +1,78 @@
 {
-  "date": "2026-09-15",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-09-15T03:41:14.578Z",
+  "date": "2026-09-16",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-09-16T03:38:17.430Z",
   "word": {
-    "word": "feasible",
-    "phonetic": "/ˈfiːzəbl/",
+    "word": "quintessential",
+    "phonetic": "/ˌkwɪntɪˈsenʃl/",
     "partOfSpeech": "adj.",
-    "definition": "可行的；可能的",
-    "example": "We need to determine whether the project is feasible within budget.",
-    "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
-    "ieltsLevel": "6",
-    "priority": "medium",
+    "definition": "典型的；精髓的",
+    "example": "Paris is the quintessential romantic city in many people's eyes.",
+    "exampleTranslation": "在许多人眼中，巴黎是典型的浪漫之都。",
+    "ieltsLevel": "7+",
+    "priority": "low",
     "movieQuote": {
-      "quote": "We need a feasible plan within 48 hours.",
-      "movie": "Apollo 13",
-      "year": 1995,
-      "character": "Jim Lovell"
+      "quote": "He is the quintessential English gentleman.",
+      "movie": "Kingsman: The Secret Service",
+      "year": 2014,
+      "character": "Harry Hart"
     },
-    "youglish": "https://youglish.com/getbyword?q=feasible"
+    "youglish": "https://youglish.com/getbyword?q=quintessential"
   },
   "grammar": {
-    "title": "used to与be used to",
-    "category": "习惯表达",
-    "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
-    "structure": "used to + do; be/get used to + doing",
+    "title": "as的多种用法",
+    "category": "连词",
+    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
+    "structure": "as + 从句（多重含义）",
     "examples": [
       {
-        "sentence": "I used to play basketball, but now I prefer reading.",
-        "translation": "我过去常打篮球，但现在更喜欢阅读。",
-        "note": "used to + do"
+        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
+        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
+        "note": "时间/原因"
       },
       {
-        "sentence": "I am used to getting up early.",
-        "translation": "我习惯早起。",
-        "note": "be used to + doing"
+        "sentence": "Tired as he was, he continued working.",
+        "translation": "尽管累了，他还是继续工作。",
+        "note": "让步（倒装）"
       }
     ],
-    "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
+    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Hobbies",
-    "questions": [
-      "What do you do in your free time?",
-      "How long have you had this hobby?",
-      "Is it an expensive hobby?",
-      "Do you prefer indoor or outdoor activities?"
-    ],
-    "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
+    "part": "Part 2",
+    "topic": "Describe a person who has influenced you",
+    "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
+    "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
     "keywords": [
-      "particularly fond of",
-      "indispensable",
-      "pricey",
-      "composition",
-      "unwind"
+      "profoundly",
+      "unwavering",
+      "critically",
+      "fearlessly",
+      "resilience"
     ],
-    "tips": "解释原因时使用对比结构，体现逻辑性。"
+    "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
   },
   "news": [
     {
-      "title": "Climate forecasts alone won't protect Africa's poorest farmers",
-      "description": "Researchers say early warnings must be matched with financial and practical support to help vulnerable pastoralists prepare for drought.",
-      "link": "https://newsaf.cgtn.com/news/2026-09-14/Climate-forecasts-alone-won-t-protect-Africa-s-poorest-farmers-1Qr1AFC5nzi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China to work with ASEAN for closer community with shared future",
+      "description": "China is willing to work with ASEAN to build a closer China-ASEAN community with a shared future, Foreign Minister Wang Yi said when meeting with Secretary-General of ASEAN Kao Kim Hourn on Tuesday.",
+      "link": "https://news.cgtn.com/news/2026-09-16/China-to-work-with-ASEAN-for-closer-community-with-shared-future-1QtAYNW2XRe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Center-left bloc leads Swedish election, preliminary results show",
-      "description": "Center-left bloc leads Swedish election, preliminary results show",
-      "link": "https://news.cgtn.com/news/2026-09-14/news-1Qqk2iyAsSY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China donates sample from far side of the moon to the UN",
+      "description": "China has donated a sample from the far side of the moon collected by its historic Chang'e-6 mission to the United Nations.",
+      "link": "https://news.cgtn.com/news/2026-09-15/China-donates-sample-from-far-side-of-the-moon-to-the-UN-1Qs9mtw3UfS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Xi Jinping warns against war in Middle East and Gulf region",
-      "description": "Chinese President Xi Jinping said Saturday that as the situation in the Middle East and the Gulf region continues to evolve, the war there has caused serious losses to people across the region and doe",
-      "link": "https://news.cgtn.com/news/2026-09-12/Xi-Jinping-warns-against-war-in-Middle-East-and-Gulf-region-1QnG2jac9TG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
+      "description": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
+      "link": "https://newsus.cgtn.com/news/2026-09-14/Chinese-dance-drama-A-Dream-of-Red-Mansions-makes-US-debut-1Qq6kJGUqLS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-      "description": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
-      "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+      "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+      "description": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
+      "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-      "description": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched.",
-      "link": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+      "title": "Yemen’s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
+      "description": "The Houthis are increasingly using artificial intelligence and other tools to produce advanced weaponry on their own, making them less reliant on Iran.",
+      "link": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-      "description": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
-      "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+      "title": "Alex Saab, Venezuelan Tied to Maduro, Pleads Guilty in Florida",
+      "description": "Alex Saab, a former official in Venezuela and longtime ally of its deposed leader, Nicolás Maduro, agreed to cooperate with investigators.",
+      "link": "https://www.nytimes.com/2026/09/14/us/alex-saab-maduro-money-laundering-plea.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What weapon could the US have put into space?",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 29,
-    "grammarIndex": 29,
-    "speakingIndex": 3,
+    "wordIndex": 30,
+    "grammarIndex": 30,
+    "speakingIndex": 4,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
-    "wordPriority": "medium",
-    "wordPriorityPosition": 11,
-    "wordPriorityTotal": 11
+    "wordPriority": "low",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 3
   }
 }
