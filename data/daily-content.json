@@ -1,78 +1,78 @@
 {
-  "date": "2026-09-16",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-09-16T03:38:17.430Z",
+  "date": "2026-09-17",
+  "weekday": "Thursday",
+  "generatedAt": "2026-09-17T03:43:03.744Z",
   "word": {
-    "word": "quintessential",
-    "phonetic": "/ˌkwɪntɪˈsenʃl/",
+    "word": "gregarious",
+    "phonetic": "/ɡrɪˈɡeəriəs/",
     "partOfSpeech": "adj.",
-    "definition": "典型的；精髓的",
-    "example": "Paris is the quintessential romantic city in many people's eyes.",
-    "exampleTranslation": "在许多人眼中，巴黎是典型的浪漫之都。",
+    "definition": "爱交际的；群居的",
+    "example": "His gregarious personality made him popular at social gatherings.",
+    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
     "ieltsLevel": "7+",
     "priority": "low",
     "movieQuote": {
-      "quote": "He is the quintessential English gentleman.",
-      "movie": "Kingsman: The Secret Service",
-      "year": 2014,
-      "character": "Harry Hart"
+      "quote": "She was always the gregarious one in the family.",
+      "movie": "Amélie",
+      "year": 2001,
+      "character": "Amélie Poulain"
     },
-    "youglish": "https://youglish.com/getbyword?q=quintessential"
+    "youglish": "https://youglish.com/getbyword?q=gregarious"
   },
   "grammar": {
-    "title": "as的多种用法",
-    "category": "连词",
-    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
-    "structure": "as + 从句（多重含义）",
+    "title": "现在完成时 vs 一般过去时",
+    "category": "时态",
+    "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
+    "structure": "have/has + 过去分词 vs 动词过去式",
     "examples": [
       {
-        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
-        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
-        "note": "时间/原因"
+        "sentence": "I have lived in London for five years.",
+        "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
+        "note": "强调持续到现在"
       },
       {
-        "sentence": "Tired as he was, he continued working.",
-        "translation": "尽管累了，他还是继续工作。",
-        "note": "让步（倒装）"
+        "sentence": "I lived in London for five years.",
+        "translation": "我在伦敦住过五年。（现在已不住那里）",
+        "note": "仅陈述过去经历"
       }
     ],
-    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
+    "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a person who has influenced you",
-    "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
-    "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
+    "topic": "Describe a memorable journey",
+    "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
+    "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
     "keywords": [
-      "profoundly",
-      "unwavering",
-      "critically",
-      "fearlessly",
-      "resilience"
+      "solo trip",
+      "scenic",
+      "chance encounter",
+      "language barrier",
+      "precious"
     ],
-    "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
+    "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
   },
   "news": [
     {
-      "title": "China to work with ASEAN for closer community with shared future",
-      "description": "China is willing to work with ASEAN to build a closer China-ASEAN community with a shared future, Foreign Minister Wang Yi said when meeting with Secretary-General of ASEAN Kao Kim Hourn on Tuesday.",
-      "link": "https://news.cgtn.com/news/2026-09-16/China-to-work-with-ASEAN-for-closer-community-with-shared-future-1QtAYNW2XRe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "From the ozone hole to recovery: Global action enters a new phase",
+      "description": "From the ozone hole to recovery: Global action enters a new phase",
+      "link": "https://news.cgtn.com/news/2026-09-16/From-the-ozone-hole-to-recovery-Global-action-enters-a-new-phase-1QuxDNHCyo8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China donates sample from far side of the moon to the UN",
-      "description": "China has donated a sample from the far side of the moon collected by its historic Chang'e-6 mission to the United Nations.",
-      "link": "https://news.cgtn.com/news/2026-09-15/China-donates-sample-from-far-side-of-the-moon-to-the-UN-1Qs9mtw3UfS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US, Iran give conflicting signals on talks as Hormuz traffic stays low",
+      "description": "US President Donald Trump claimed in a Truth Social post on Monday that Iran wants to reach an agreement with Washington \"quickly and badly\" and he would decide whether the US engages with Tehran.",
+      "link": "https://news.cgtn.com/news/2026-09-15/US-Iran-give-conflicting-signals-on-talks-as-Hormuz-traffic-stays-low-1QrVmmqUPm0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
-      "description": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
-      "link": "https://newsus.cgtn.com/news/2026-09-14/Chinese-dance-drama-A-Dream-of-Red-Mansions-makes-US-debut-1Qq6kJGUqLS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese, French FMs discuss ties, international issues over phone",
+      "description": "Chinese Foreign Minister Wang Yi on Monday held a phone conversation with French Foreign Minister Jean-Noel Barrot at the latter's request, discussing bilateral relations and international issues.",
+      "link": "https://news.cgtn.com/news/2026-09-14/Chinese-FM-speaks-with-French-counterpart-on-ties-global-issues-1Qrg7PakCgE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
-      "description": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
-      "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+      "description": "The Israeli military said in a statement it “did not strike the building,” but did not say whether any strikes on nearby targets could have caused the damage.",
+      "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Yemen’s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
-      "description": "The Houthis are increasingly using artificial intelligence and other tools to produce advanced weaponry on their own, making them less reliant on Iran.",
-      "link": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
+      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+      "description": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
+      "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Alex Saab, Venezuelan Tied to Maduro, Pleads Guilty in Florida",
-      "description": "Alex Saab, a former official in Venezuela and longtime ally of its deposed leader, Nicolás Maduro, agreed to cooperate with investigators.",
-      "link": "https://www.nytimes.com/2026/09/14/us/alex-saab-maduro-money-laundering-plea.html",
+      "title": "After a Desperate Search for Survivors, Rescuers Find Bodies at Nepal Power Plant",
+      "description": "An expert team spent days trying to find six men who were trapped underground after catastrophic floods, as families clung to fading hopes.",
+      "link": "https://www.nytimes.com/2026/09/16/world/asia/nepal-floods-chillime-hydropower-plant.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US interest rates raised for first time in three years",
+      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "What weapon could the US have put into space?",
-      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 30,
-    "grammarIndex": 30,
-    "speakingIndex": 4,
+    "wordIndex": 31,
+    "grammarIndex": 1,
+    "speakingIndex": 5,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 3
   }
 }
