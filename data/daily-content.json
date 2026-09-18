@@ -1,78 +1,73 @@
 {
-  "date": "2026-09-17",
-  "weekday": "Thursday",
-  "generatedAt": "2026-09-17T03:43:03.744Z",
+  "date": "2026-09-18",
+  "weekday": "Friday",
+  "generatedAt": "2026-09-18T03:29:19.632Z",
   "word": {
-    "word": "gregarious",
-    "phonetic": "/ɡrɪˈɡeəriəs/",
+    "word": "diligent",
+    "phonetic": "/ˈdɪlɪdʒənt/",
     "partOfSpeech": "adj.",
-    "definition": "爱交际的；群居的",
-    "example": "His gregarious personality made him popular at social gatherings.",
-    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
-    "ieltsLevel": "7+",
+    "definition": "勤奋的；用功的",
+    "example": "The diligent student completed all assignments ahead of schedule.",
+    "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
+    "ieltsLevel": "6",
     "priority": "low",
     "movieQuote": {
-      "quote": "She was always the gregarious one in the family.",
-      "movie": "Amélie",
-      "year": 2001,
-      "character": "Amélie Poulain"
+      "quote": "Stay diligent, and the truth will reveal itself.",
+      "movie": "The Pursuit of Happyness",
+      "year": 2006,
+      "character": "Chris Gardner"
     },
-    "youglish": "https://youglish.com/getbyword?q=gregarious"
+    "youglish": "https://youglish.com/getbyword?q=diligent"
   },
   "grammar": {
-    "title": "现在完成时 vs 一般过去时",
-    "category": "时态",
-    "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
-    "structure": "have/has + 过去分词 vs 动词过去式",
+    "title": "虚拟语气（与现在事实相反）",
+    "category": "虚拟语气",
+    "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
+    "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
     "examples": [
       {
-        "sentence": "I have lived in London for five years.",
-        "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
-        "note": "强调持续到现在"
-      },
-      {
-        "sentence": "I lived in London for five years.",
-        "translation": "我在伦敦住过五年。（现在已不住那里）",
-        "note": "仅陈述过去经历"
+        "sentence": "If I were the mayor, I would invest more in public transport.",
+        "translation": "如果我是市长，我会投资更多在公共交通上。",
+        "note": "与现在事实相反"
       }
     ],
-    "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
+    "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a memorable journey",
-    "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
-    "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
+    "topic": "Describe a book that influenced you",
+    "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
+    "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
     "keywords": [
-      "solo trip",
-      "scenic",
-      "chance encounter",
-      "language barrier",
-      "precious"
+      "powerful account",
+      "derived",
+      "profoundly",
+      "perspective",
+      "inevitable"
     ],
-    "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
+    "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
   },
   "news": [
     {
-      "title": "From the ozone hole to recovery: Global action enters a new phase",
-      "description": "From the ozone hole to recovery: Global action enters a new phase",
-      "link": "https://news.cgtn.com/news/2026-09-16/From-the-ozone-hole-to-recovery-Global-action-enters-a-new-phase-1QuxDNHCyo8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Japan's PM Takaichi reshuffles cabinet, taps first JIP member",
+      "description": "Japanese Prime Minister Sanae Takaichi reshuffled her cabinet on Thursday, retaining most key ministers while bringing in a newcomer from the Japan Innovation Party (JIP), the junior coalition partner",
+      "link": "https://news.cgtn.com/news/2026-09-17/Japan-s-PM-Takaichi-reshuffles-cabinet-taps-first-JIP-member-1Qwf964rw5y/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "US, Iran give conflicting signals on talks as Hormuz traffic stays low",
-      "description": "US President Donald Trump claimed in a Truth Social post on Monday that Iran wants to reach an agreement with Washington \"quickly and badly\" and he would decide whether the US engages with Tehran.",
-      "link": "https://news.cgtn.com/news/2026-09-15/US-Iran-give-conflicting-signals-on-talks-as-Hormuz-traffic-stays-low-1QrVmmqUPm0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "CMG shines at 2026 Arab Media Summit",
+      "description": "The 2026 Arab Media Summit, held in Dubai from September 15 to 17, attracted 250 media organizations from 23 countries, bringing together senior government officials, heads of media institutions, prom",
+      "link": "https://news.cgtn.com/news/2026-09-17/CMG-shines-at-2026-Arab-Media-Summit--1QvtLoCUigU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese, French FMs discuss ties, international issues over phone",
-      "description": "Chinese Foreign Minister Wang Yi on Monday held a phone conversation with French Foreign Minister Jean-Noel Barrot at the latter's request, discussing bilateral relations and international issues.",
-      "link": "https://news.cgtn.com/news/2026-09-14/Chinese-FM-speaks-with-French-counterpart-on-ties-global-issues-1Qrg7PakCgE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese VP addresses welcome banquet of Beijing Xiangshan Forum",
+      "description": "Chinese Vice President Han Zheng on Tuesday addressed the welcome banquet of the 13th Beijing Xiangshan Forum, which was attended by official representatives from nearly 100 countries, regions and int",
+      "link": "https://news.cgtn.com/news/2026-09-16/Chinese-VP-addresses-welcome-banquet-of-Beijing-Xiangshan-Forum-1QtA8FdjKlq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +97,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-      "description": "The Israeli military said in a statement it “did not strike the building,” but did not say whether any strikes on nearby targets could have caused the damage.",
-      "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+      "description": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
+      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
-      "description": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
-      "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+      "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
+      "description": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians.",
+      "link": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "After a Desperate Search for Survivors, Rescuers Find Bodies at Nepal Power Plant",
-      "description": "An expert team spent days trying to find six men who were trapped underground after catastrophic floods, as families clung to fading hopes.",
-      "link": "https://www.nytimes.com/2026/09/16/world/asia/nepal-floods-chillime-hydropower-plant.html",
+      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+      "description": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
+      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US interest rates raised for first time in three years",
-      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +149,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 31,
-    "grammarIndex": 1,
-    "speakingIndex": 5,
+    "wordIndex": 32,
+    "grammarIndex": 2,
+    "speakingIndex": 6,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 3
   }
 }
