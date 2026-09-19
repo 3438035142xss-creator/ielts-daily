@@ -1,73 +1,83 @@
 {
-  "date": "2026-09-18",
-  "weekday": "Friday",
-  "generatedAt": "2026-09-18T03:29:19.632Z",
+  "date": "2026-09-19",
+  "weekday": "Saturday",
+  "generatedAt": "2026-09-19T03:25:58.867Z",
   "word": {
-    "word": "diligent",
-    "phonetic": "/ˈdɪlɪdʒənt/",
+    "word": "meticulous",
+    "phonetic": "/məˈtɪkjələs/",
     "partOfSpeech": "adj.",
-    "definition": "勤奋的；用功的",
-    "example": "The diligent student completed all assignments ahead of schedule.",
-    "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
-    "ieltsLevel": "6",
-    "priority": "low",
+    "definition": "极注意细节的；严谨的",
+    "example": "The researcher was meticulous in recording every experimental detail.",
+    "exampleTranslation": "这位研究员在记录每一个实验细节时都极为严谨。",
+    "ieltsLevel": "7+",
+    "priority": "high",
     "movieQuote": {
-      "quote": "Stay diligent, and the truth will reveal itself.",
-      "movie": "The Pursuit of Happyness",
-      "year": 2006,
-      "character": "Chris Gardner"
+      "quote": "I've always been meticulous about my work.",
+      "movie": "The Bourne Identity",
+      "year": 2002,
+      "character": "Jason Bourne"
     },
-    "youglish": "https://youglish.com/getbyword?q=diligent"
+    "youglish": "https://youglish.com/getbyword?q=meticulous"
   },
   "grammar": {
-    "title": "虚拟语气（与现在事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
-    "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
+    "title": "定语从句：that vs which",
+    "category": "从句",
+    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
+    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
     "examples": [
       {
-        "sentence": "If I were the mayor, I would invest more in public transport.",
-        "translation": "如果我是市长，我会投资更多在公共交通上。",
-        "note": "与现在事实相反"
+        "sentence": "The book that/which I bought yesterday is excellent.",
+        "translation": "我昨天买的那本书很棒。",
+        "note": "限制性，that/which均可"
+      },
+      {
+        "sentence": "The book, which I bought yesterday, is excellent.",
+        "translation": "这本书，我昨天买的，很棒。",
+        "note": "非限制性，只能用which"
       }
     ],
-    "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
+    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a book that influenced you",
-    "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
-    "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
-    "keywords": [
-      "powerful account",
-      "derived",
-      "profoundly",
-      "perspective",
-      "inevitable"
+    "part": "Part 3",
+    "topic": "Education",
+    "questions": [
+      "How has education changed in your country in recent years?",
+      "What role should technology play in education?",
+      "Do you think traditional schools will be replaced by online learning?",
+      "How can education systems better prepare students for the future?"
     ],
-    "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
+    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "keywords": [
+      "undergone",
+      "holistic",
+      "complementary",
+      "mentorship",
+      "obsolete"
+    ],
+    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
   },
   "news": [
     {
-      "title": "Japan's PM Takaichi reshuffles cabinet, taps first JIP member",
-      "description": "Japanese Prime Minister Sanae Takaichi reshuffled her cabinet on Thursday, retaining most key ministers while bringing in a newcomer from the Japan Innovation Party (JIP), the junior coalition partner",
-      "link": "https://news.cgtn.com/news/2026-09-17/Japan-s-PM-Takaichi-reshuffles-cabinet-taps-first-JIP-member-1Qwf964rw5y/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Expert: TCM's holistic philosophy offers insights for global health",
+      "description": "The holistic and preventive philosophy of traditional Chinese medicine (TCM) provides insights for global healthcare, said Tong Xiaolin, academician at the Chinese Academy of Sciences.",
+      "link": "https://news.cgtn.com/news/2026-09-18/Expert-TCM-s-holistic-philosophy-offers-insights-for-global-health-1QxQmBP2JhK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "CMG shines at 2026 Arab Media Summit",
-      "description": "The 2026 Arab Media Summit, held in Dubai from September 15 to 17, attracted 250 media organizations from 23 countries, bringing together senior government officials, heads of media institutions, prom",
-      "link": "https://news.cgtn.com/news/2026-09-17/CMG-shines-at-2026-Arab-Media-Summit--1QvtLoCUigU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "South Korean president rules out troop deployment in Strait of Hormuz",
+      "description": "South Korean President Lee Jae Myung on Friday firmly ruled out any troop deployment to engage in war in the Strait of Hormuz.",
+      "link": "https://news.cgtn.com/news/2026-09-18/South-Korean-president-rules-out-troop-deployment-in-Strait-of-Hormuz-1QxfdTou92M/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese VP addresses welcome banquet of Beijing Xiangshan Forum",
-      "description": "Chinese Vice President Han Zheng on Tuesday addressed the welcome banquet of the 13th Beijing Xiangshan Forum, which was attended by official representatives from nearly 100 countries, regions and int",
-      "link": "https://news.cgtn.com/news/2026-09-16/Chinese-VP-addresses-welcome-banquet-of-Beijing-Xiangshan-Forum-1QtA8FdjKlq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "EU to launch climate insurance alliance after extreme summer",
+      "description": "EU to launch climate insurance alliance after extreme summer",
+      "link": "https://news.cgtn.com/news/2026-09-17/EU-to-launch-climate-insurance-alliance-after-extreme-summer-1QvkTVHghK8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -97,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-      "description": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
-      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
+      "description": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
+      "link": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
-      "description": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians.",
-      "link": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+      "description": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
+      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-      "description": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
-      "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
+      "title": "Why Autocrats Care What People Think",
+      "description": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle.",
+      "link": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -149,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 32,
-    "grammarIndex": 2,
-    "speakingIndex": 6,
+    "wordIndex": 1,
+    "grammarIndex": 3,
+    "speakingIndex": 7,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
-    "wordPriority": "low",
-    "wordPriorityPosition": 3,
-    "wordPriorityTotal": 3
+    "wordPriority": "high",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 18
   }
 }
