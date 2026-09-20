@@ -1,83 +1,83 @@
 {
-  "date": "2026-09-19",
-  "weekday": "Saturday",
-  "generatedAt": "2026-09-19T03:25:58.867Z",
+  "date": "2026-09-20",
+  "weekday": "Sunday",
+  "generatedAt": "2026-09-20T03:42:38.844Z",
   "word": {
-    "word": "meticulous",
-    "phonetic": "/məˈtɪkjələs/",
+    "word": "ubiquitous",
+    "phonetic": "/juːˈbɪkwɪtəs/",
     "partOfSpeech": "adj.",
-    "definition": "极注意细节的；严谨的",
-    "example": "The researcher was meticulous in recording every experimental detail.",
-    "exampleTranslation": "这位研究员在记录每一个实验细节时都极为严谨。",
+    "definition": "无处不在的；普遍存在的",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "exampleTranslation": "智能手机在现代社会中已变得无处不在。",
     "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "I've always been meticulous about my work.",
-      "movie": "The Bourne Identity",
-      "year": 2002,
-      "character": "Jason Bourne"
+      "quote": "Surveillance is ubiquitous in this city.",
+      "movie": "The Dark Knight",
+      "year": 2008,
+      "character": "Lucius Fox"
     },
-    "youglish": "https://youglish.com/getbyword?q=meticulous"
+    "youglish": "https://youglish.com/getbyword?q=ubiquitous"
   },
   "grammar": {
-    "title": "定语从句：that vs which",
-    "category": "从句",
-    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
-    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
+    "title": "被动语态",
+    "category": "语态",
+    "explanation": "当动作的执行者不重要或未知，或想强调动作承受者时使用被动语态。结构为be + 过去分词。",
+    "structure": "主语 + be + 过去分词 (+ by + 执行者)",
     "examples": [
       {
-        "sentence": "The book that/which I bought yesterday is excellent.",
-        "translation": "我昨天买的那本书很棒。",
-        "note": "限制性，that/which均可"
+        "sentence": "The bridge was built in 1998.",
+        "translation": "这座桥建于1998年。",
+        "note": "强调承受者，执行者不重要"
       },
       {
-        "sentence": "The book, which I bought yesterday, is excellent.",
-        "translation": "这本书，我昨天买的，很棒。",
-        "note": "非限制性，只能用which"
+        "sentence": "The report will be submitted by next Friday.",
+        "translation": "报告将于下周五前提交。",
+        "note": "正式文体常用被动"
       }
     ],
-    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
+    "ieltsTip": "雅思写作Task 1流程图描述和学术写作中，被动语态是体现客观性的重要手段。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Education",
+    "topic": "Environment",
     "questions": [
-      "How has education changed in your country in recent years?",
-      "What role should technology play in education?",
-      "Do you think traditional schools will be replaced by online learning?",
-      "How can education systems better prepare students for the future?"
+      "What are the most serious environmental problems in your country?",
+      "Who is more responsible for environmental protection: individuals or governments?",
+      "Do you think technological development harms or helps the environment?",
+      "What can be done to encourage people to be more environmentally friendly?"
     ],
-    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
     "keywords": [
-      "undergone",
-      "holistic",
-      "complementary",
-      "mentorship",
-      "obsolete"
+      "pressing",
+      "legislative",
+      "double-edged sword",
+      "degradation",
+      "collective"
     ],
-    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
+    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
   },
   "news": [
     {
-      "title": "Expert: TCM's holistic philosophy offers insights for global health",
-      "description": "The holistic and preventive philosophy of traditional Chinese medicine (TCM) provides insights for global healthcare, said Tong Xiaolin, academician at the Chinese Academy of Sciences.",
-      "link": "https://news.cgtn.com/news/2026-09-18/Expert-TCM-s-holistic-philosophy-offers-insights-for-global-health-1QxQmBP2JhK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US returns groups of cultural relics to China",
+      "description": "China's National Cultural Heritage Administration (NCHA) received two batches – totaling 64 items – of cultural relics and artifacts, and paleontological fossils from the US on September 16 and 18, Be",
+      "link": "https://news.cgtn.com/news/2026-09-19/US-returns-groups-of-cultural-relics-to-China-1Qz3TXS68cE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "South Korean president rules out troop deployment in Strait of Hormuz",
-      "description": "South Korean President Lee Jae Myung on Friday firmly ruled out any troop deployment to engage in war in the Strait of Hormuz.",
-      "link": "https://news.cgtn.com/news/2026-09-18/South-Korean-president-rules-out-troop-deployment-in-Strait-of-Hormuz-1QxfdTou92M/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Lao Defense Minister: Defense ties with China deepen",
+      "description": "Lao Defense Minister: Defense ties with China deepen",
+      "link": "https://news.cgtn.com/news/2026-09-17/Lao-Defense-Minister-Defense-ties-with-China-deepen-1QvHyhFcbUQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "EU to launch climate insurance alliance after extreme summer",
-      "description": "EU to launch climate insurance alliance after extreme summer",
-      "link": "https://news.cgtn.com/news/2026-09-17/EU-to-launch-climate-insurance-alliance-after-extreme-summer-1QvkTVHghK8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Iran expels Swedish diplomat after Stockholm ousts its embassy staffer",
+      "description": "Iran on Thursday ordered a Swedish diplomat to leave the country within 48 hours in response to Sweden's expulsion of an official at the Iranian embassy in Stockholm, while rejecting Sweden's accusati",
+      "link": "https://news.cgtn.com/news/2026-09-17/news-1QvV5Z1NgGI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
-      "description": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
-      "link": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
+      "title": "The Most Handsome Melon in Mexico? Yes, It’s a Real Contest.",
+      "description": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons.",
+      "link": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
-      "description": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
-      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+      "description": "In 2016, Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions.",
+      "link": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Why Autocrats Care What People Think",
-      "description": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle.",
-      "link": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
+      "title": "Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements",
+      "description": "British officials believed Israel had said it would hold off on moving ahead with construction in E1, a piece of land viewed as vital to a future Palestinian state. Israel said it promised no such thi",
+      "link": "https://www.nytimes.com/2026/09/19/world/europe/uk-israel-west-bank-sanctions.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC News - World",
+      "language": "en",
+      "category": "英文外刊"
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC News - World",
-      "language": "en",
-      "category": "英文外刊"
-    },
-    {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC News - World",
-      "language": "en",
-      "category": "英文外刊"
-    },
-    {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 1,
-    "grammarIndex": 3,
-    "speakingIndex": 7,
+    "wordIndex": 2,
+    "grammarIndex": 4,
+    "speakingIndex": 8,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 18
   }
 }
