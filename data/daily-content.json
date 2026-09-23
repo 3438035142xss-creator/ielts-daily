@@ -1,83 +1,78 @@
 {
-  "date": "2026-09-22",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-09-22T03:36:41.256Z",
+  "date": "2026-09-23",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-09-23T03:36:21.182Z",
   "word": {
-    "word": "resilient",
-    "phonetic": "/rɪˈzɪliənt/",
-    "partOfSpeech": "adj.",
-    "definition": "有韧性的；能迅速恢复的",
-    "example": "Children are often more resilient than adults when facing setbacks.",
-    "exampleTranslation": "面对挫折时，儿童往往比成年人更有韧性。",
-    "ieltsLevel": "7",
+    "word": "scrutinize",
+    "phonetic": "/ˈskruːtənaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "仔细审查；详审",
+    "example": "The committee scrutinized every clause of the proposed contract.",
+    "exampleTranslation": "委员会仔细审查了拟议合同的每一个条款。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "Human beings are remarkably resilient creatures.",
-      "movie": "Cast Away",
-      "year": 2000,
-      "character": "Chuck Noland"
+      "quote": "They will scrutinize every detail of your story.",
+      "movie": "A Few Good Men",
+      "year": 1992,
+      "character": "Daniel Kaffee"
     },
-    "youglish": "https://youglish.com/getbyword?q=resilient"
+    "youglish": "https://youglish.com/getbyword?q=scrutinize"
   },
   "grammar": {
-    "title": "倒装句",
+    "title": "强调句型",
     "category": "特殊句式",
-    "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
-    "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
+    "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
+    "structure": "It is/was + 强调部分 + that/who + 其余",
     "examples": [
       {
-        "sentence": "Never have I seen such a breathtaking landscape.",
-        "translation": "我从未见过如此令人惊叹的风景。",
-        "note": "否定词提前，部分倒装"
+        "sentence": "It was in 2008 that the Olympics were held in Beijing.",
+        "translation": "正是在2008年奥运会在北京举办。",
+        "note": "强调时间状语"
       },
       {
-        "sentence": "Hardly had he arrived when the meeting started.",
-        "translation": "他刚到，会议就开始了。",
-        "note": "Hardly...when...结构"
+        "sentence": "It is the government that should take responsibility.",
+        "translation": "正是政府应当承担责任。",
+        "note": "强调主语"
       }
     ],
-    "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
+    "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Travel",
-    "questions": [
-      "Do you like traveling?",
-      "Where did you go on your last holiday?",
-      "Do you prefer traveling alone or with others?",
-      "What is your dream destination?"
-    ],
-    "sampleAnswer": "I'm absolutely passionate about traveling—there's nothing quite like exploring new places and immersing myself in different cultures. My last holiday took me to Xi'an, where I was captivated by the Terracotta Warriors and the city's rich historical atmosphere. When it comes to traveling companions, I prefer going with close friends; shared experiences tend to be more enjoyable, and navigating unfamiliar places together strengthens bonds. As for my dream destination, it would have to be Iceland—I've always been fascinated by its otherworldly landscapes, especially the Northern Lights and the geothermal hot springs.",
+    "part": "Part 2",
+    "topic": "Describe a skill you want to learn",
+    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
+    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
     "keywords": [
-      "passionate",
-      "immersing",
-      "captivated",
-      "navigating",
-      "otherworldly"
+      "acquire",
+      "barriers",
+      "reputable",
+      "inclusively",
+      "marginalized"
     ],
-    "tips": "表达偏好时给出具体原因，避免单一答案。"
+    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
   },
   "news": [
     {
-      "title": "Saudi-Houthi tensions escalate as Iran signals conditions for US talks",
-      "description": "Yemen's Houthi group said on Saturday that it had launched large-scale attacks targeting the Saudi capital Riyadh and Yanbu, a major industrial and energy hub on Saudi Arabia's Red Sea coast, marking ",
-      "link": "https://news.cgtn.com/news/2026-09-20/Saudi-Houthi-tensions-escalate-as-Iran-signals-conditions-for-US-talks-1QAnW5YK46c/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Iranian president to attend UNGA session amid rising tensions with US",
+      "description": "Iran's President Masoud Pezeshkian will attend the 81st session of the United Nations General Assembly (UNGA) held in New York, the official news agency IRNA reported.",
+      "link": "https://news.cgtn.com/news/2026-09-22/Iranian-president-to-attend-UNGA-session-amid-rising-tensions-with-US-1QDIjtNL7Xy/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "September 18 Incident at 95: Beware of resurgent militarism in Japan",
-      "description": "At this historical milestone marking the 95th anniversary of the September 18 Incident, the alarm over the possible resurgence of Japanese militarism has rung once again. Japan can never earn the unde",
-      "link": "https://news.cgtn.com/news/2026-09-18/September-18-Incident-at-95-Beware-of-resurgent-militarism-in-Japan-1QxenFDwas0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Trump says US, Iran officials held 3-hour meeting in New York",
+      "description": "US President Donald Trump said on Tuesday that his special envoys, Steve Witkoff and Jared Kushner, held three-hour talks with Iranian officials on the sidelines of the UN General Debate in New York.",
+      "link": "https://news.cgtn.com/news/2026-09-23/Trump-says-US-Iran-officials-held-3-hour-meeting-in-New-York-1QFgQbD44Cc/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Expert: SCO states can cooperate to boost traditional medicine growth",
-      "description": "Expert: SCO states can cooperate to boost traditional medicine growth",
-      "link": "https://news.cgtn.com/news/2026-09-18/Expert-SCO-states-can-cooperate-to-boost-traditional-medicine-growth-1Qx5n6nknKM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US-Iran conflict fuels mounting tensions across Middle East",
+      "description": "The ongoing US-Iran conflict continues to reshape the security and energy landscape across the Middle East.",
+      "link": "https://news.cgtn.com/news/2026-09-19/US-Iran-conflict-fuels-mounting-tensions-across-Middle-East-1QyLs24TOzS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
-      "description": "Ali al-Zaidi is a political neophyte hoping to succeed where previous leaders failed. In an interview, he laid out an ambitious timeline that could prove hard to meet.",
-      "link": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
+      "title": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
+      "description": "President Trump said he must decide whether to make a deal or “annihilate” Iran, in a gathering where world leaders typically focus on declarations of global harmony.",
+      "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Spectre of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
-      "description": "Diplomats, dignitaries and tech experts gathered amid the United Nations General Assembly to debate how to address the threats and harness the potential of artificial intelligence.",
-      "link": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
+      "title": "Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks",
+      "description": "A court found 15 men guilty of coordinating a series of suicide bombings in hotels and churches, which killed more than 300 people.",
+      "link": "https://www.nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "U.S. Strikes on Alleged Drug Boats Could Be Criminal, U.N. Expert Says",
-      "description": "A U.N. human rights investigator, like other experts, concluded that the Trump administration’s deadly attacks violate international law, and said the strikes could be crimes against humanity.",
-      "link": "https://www.nytimes.com/2026/09/21/world/americas/us-boat-strikes-crimes-un.html",
+      "title": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
+      "description": "Prime Minister Andy Burnham of Britain met with President Trump for the first time on the sidelines of the U.N. General Assembly on Tuesday.",
+      "link": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 4,
-    "grammarIndex": 6,
-    "speakingIndex": 10,
+    "wordIndex": 5,
+    "grammarIndex": 7,
+    "speakingIndex": 11,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 4,
+    "wordPriorityPosition": 5,
     "wordPriorityTotal": 18
   }
 }
