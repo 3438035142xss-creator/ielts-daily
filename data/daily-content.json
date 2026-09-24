@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-23",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-09-23T03:36:21.182Z",
+  "date": "2026-09-24",
+  "weekday": "Thursday",
+  "generatedAt": "2026-09-24T03:26:57.101Z",
   "word": {
-    "word": "scrutinize",
-    "phonetic": "/ˈskruːtənaɪz/",
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
     "partOfSpeech": "v.",
-    "definition": "仔细审查；详审",
-    "example": "The committee scrutinized every clause of the proposed contract.",
-    "exampleTranslation": "委员会仔细审查了拟议合同的每一个条款。",
-    "ieltsLevel": "7+",
+    "definition": "恶化；退化",
+    "example": "Air quality tends to deteriorate during the winter months.",
+    "exampleTranslation": "冬季空气质量往往会恶化。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "They will scrutinize every detail of your story.",
-      "movie": "A Few Good Men",
-      "year": 1992,
-      "character": "Daniel Kaffee"
+      "quote": "His condition continues to deteriorate.",
+      "movie": "The Doctor",
+      "year": 1991,
+      "character": "Dr. Jack MacKee"
     },
-    "youglish": "https://youglish.com/getbyword?q=scrutinize"
+    "youglish": "https://youglish.com/getbyword?q=deteriorate"
   },
   "grammar": {
-    "title": "强调句型",
-    "category": "特殊句式",
-    "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
-    "structure": "It is/was + 强调部分 + that/who + 其余",
+    "title": "比较级与最高级",
+    "category": "形容词副词",
+    "explanation": "比较级用于两者比较，最高级用于三者及以上。比较级前可用much, far, a lot, even, still等修饰；最高级前通常加the。",
+    "structure": "more + 多音节形容词; 形容词-er + than; the + 最高级",
     "examples": [
       {
-        "sentence": "It was in 2008 that the Olympics were held in Beijing.",
-        "translation": "正是在2008年奥运会在北京举办。",
-        "note": "强调时间状语"
+        "sentence": "Urban residents face significantly more pressure than rural dwellers.",
+        "translation": "城市居民面临比农村居民大得多的压力。",
+        "note": "more + 多音节词"
       },
       {
-        "sentence": "It is the government that should take responsibility.",
-        "translation": "正是政府应当承担责任。",
-        "note": "强调主语"
+        "sentence": "This is the most challenging task I have ever undertaken.",
+        "translation": "这是我承担过的最具挑战性的任务。",
+        "note": "最高级"
       }
     ],
-    "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
+    "ieltsTip": "雅思写作Task 1比较数据时，比较级是核心工具，注意修饰词的使用以体现精确度。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a skill you want to learn",
-    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
-    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
+    "topic": "Describe an important decision you made",
+    "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
+    "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
     "keywords": [
-      "acquire",
-      "barriers",
-      "reputable",
-      "inclusively",
-      "marginalized"
+      "transformative",
+      "trajectory",
+      "exposure",
+      "competitive",
+      "daunting"
     ],
-    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
+    "tips": "讲述决定时强调过程和结果，体现反思能力。"
   },
   "news": [
     {
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
-      "description": "President Trump said he must decide whether to make a deal or “annihilate” Iran, in a gathering where world leaders typically focus on declarations of global harmony.",
-      "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+      "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+      "description": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
+      "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks",
-      "description": "A court found 15 men guilty of coordinating a series of suicide bombings in hotels and churches, which killed more than 300 people.",
-      "link": "https://www.nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html",
+      "title": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
+      "description": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
+      "link": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
-      "description": "Prime Minister Andy Burnham of Britain met with President Trump for the first time on the sidelines of the U.N. General Assembly on Tuesday.",
-      "link": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
+      "title": "Trump’s New Favorite Neighbor: Mexico",
+      "description": "President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country.",
+      "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-      "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 5,
-    "grammarIndex": 7,
-    "speakingIndex": 11,
+    "wordIndex": 6,
+    "grammarIndex": 8,
+    "speakingIndex": 12,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 18
   }
 }
