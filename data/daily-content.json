@@ -1,78 +1,83 @@
 {
-  "date": "2026-09-24",
-  "weekday": "Thursday",
-  "generatedAt": "2026-09-24T03:26:57.101Z",
+  "date": "2026-09-25",
+  "weekday": "Friday",
+  "generatedAt": "2026-09-25T03:44:14.522Z",
   "word": {
-    "word": "deteriorate",
-    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "word": "alleviate",
+    "phonetic": "/əˈliːvieɪt/",
     "partOfSpeech": "v.",
-    "definition": "恶化；退化",
-    "example": "Air quality tends to deteriorate during the winter months.",
-    "exampleTranslation": "冬季空气质量往往会恶化。",
+    "definition": "减轻；缓解",
+    "example": "The new policy aims to alleviate poverty in rural areas.",
+    "exampleTranslation": "新政策旨在缓解农村地区的贫困问题。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "His condition continues to deteriorate.",
-      "movie": "The Doctor",
-      "year": 1991,
-      "character": "Dr. Jack MacKee"
+      "quote": "This medicine will alleviate the pain.",
+      "movie": "Patch Adams",
+      "year": 1998,
+      "character": "Patch Adams"
     },
-    "youglish": "https://youglish.com/getbyword?q=deteriorate"
+    "youglish": "https://youglish.com/getbyword?q=alleviate"
   },
   "grammar": {
-    "title": "比较级与最高级",
-    "category": "形容词副词",
-    "explanation": "比较级用于两者比较，最高级用于三者及以上。比较级前可用much, far, a lot, even, still等修饰；最高级前通常加the。",
-    "structure": "more + 多音节形容词; 形容词-er + than; the + 最高级",
+    "title": "情态动词表推测",
+    "category": "情态动词",
+    "explanation": "must/may/might/could/can't + 动词原形表示对现在的推测；加have + 过去分词表示对过去的推测。",
+    "structure": "must/may/might/can't + have + 过去分词",
     "examples": [
       {
-        "sentence": "Urban residents face significantly more pressure than rural dwellers.",
-        "translation": "城市居民面临比农村居民大得多的压力。",
-        "note": "more + 多音节词"
+        "sentence": "He must have missed the train, for he hasn't arrived yet.",
+        "translation": "他肯定没赶上火车，因为他还没到。",
+        "note": "must have done表肯定推测"
       },
       {
-        "sentence": "This is the most challenging task I have ever undertaken.",
-        "translation": "这是我承担过的最具挑战性的任务。",
-        "note": "最高级"
+        "sentence": "She can't have finished the work so quickly.",
+        "translation": "她不可能这么快就完成工作。",
+        "note": "can't have done表否定推测"
       }
     ],
-    "ieltsTip": "雅思写作Task 1比较数据时，比较级是核心工具，注意修饰词的使用以体现精确度。"
+    "ieltsTip": "雅思阅读推理题中，理解情态动词的推测含义有助于准确判断作者态度。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe an important decision you made",
-    "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
-    "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
-    "keywords": [
-      "transformative",
-      "trajectory",
-      "exposure",
-      "competitive",
-      "daunting"
+    "part": "Part 3",
+    "topic": "Technology",
+    "questions": [
+      "How has technology affected the way people communicate?",
+      "Do you think social media brings people closer or pushes them apart?",
+      "What are the potential dangers of over-reliance on technology?",
+      "How should children be introduced to technology?"
     ],
-    "tips": "讲述决定时强调过程和结果，体现反思能力。"
+    "sampleAnswer": "Technology has fundamentally transformed communication, making it instantaneous and borderless, yet arguably more superficial. Social media is a classic double-edged sword: it enables us to maintain connections across vast distances, but it can also foster shallow interactions and social comparison, sometimes leaving users feeling more isolated than connected. Over-reliance on technology poses genuine risks, including diminished face-to-face communication skills, shortened attention spans, and privacy concerns stemming from the constant data collection. When introducing children to technology, I believe a balanced and gradual approach is essential—parents should set clear boundaries on screen time, actively engage with their children during digital activities, and ensure that technology serves as a tool for learning rather than a substitute for human interaction or outdoor play.",
+    "keywords": [
+      "instantaneous",
+      "borderless",
+      "superficial",
+      "diminished",
+      "substitute"
+    ],
+    "tips": "科技话题常用利弊对比，注意使用转折连词。"
   },
   "news": [
     {
-      "title": "Iranian president to attend UNGA session amid rising tensions with US",
-      "description": "Iran's President Masoud Pezeshkian will attend the 81st session of the United Nations General Assembly (UNGA) held in New York, the official news agency IRNA reported.",
-      "link": "https://news.cgtn.com/news/2026-09-22/Iranian-president-to-attend-UNGA-session-amid-rising-tensions-with-US-1QDIjtNL7Xy/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Police launch manhunt after 11 killed in mass shooting in South Africa",
+      "description": "South African police have launched a manhunt after 11 people were shot dead and three others injured at a house in KwaMakhutha, south of Durban.",
+      "link": "https://newsaf.cgtn.com/news/2026-09-23/Police-launch-manhunt-after-11-killed-in-mass-shooting-in-South-Africa-1QFKTmOaO1G/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Trump says US, Iran officials held 3-hour meeting in New York",
-      "description": "US President Donald Trump said on Tuesday that his special envoys, Steve Witkoff and Jared Kushner, held three-hour talks with Iranian officials on the sidelines of the UN General Debate in New York.",
-      "link": "https://news.cgtn.com/news/2026-09-23/Trump-says-US-Iran-officials-held-3-hour-meeting-in-New-York-1QFgQbD44Cc/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "German auto executives call for deeper cooperation with China on NEVs",
+      "description": "German auto industry executives and experts have called for deeper cooperation with China on new energy vehicles (NEVs), batteries, artificial intelligence (AI) and automated driving, saying the two c",
+      "link": "https://news.cgtn.com/news/2026-09-24/German-auto-executives-call-for-deeper-cooperation-with-China-on-NEVs-1QH3YrNpRbq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "US-Iran conflict fuels mounting tensions across Middle East",
-      "description": "The ongoing US-Iran conflict continues to reshape the security and energy landscape across the Middle East.",
-      "link": "https://news.cgtn.com/news/2026-09-19/US-Iran-conflict-fuels-mounting-tensions-across-Middle-East-1QyLs24TOzS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Why 'constructive strategic stability' matters for China-US relations",
+      "description": "A survey conducted by CGTN of 12,000 respondents across 39 countries shows that 75% of the respondents believe a stable China-US relationship is vital to the international community.",
+      "link": "https://news.cgtn.com/news/2026-09-23/Why-constructive-strategic-stability-matters-for-China-US-relations-1QFObrKFKDu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
-      "description": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
-      "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+      "title": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "description": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document sho",
+      "link": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
-      "description": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
-      "link": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
+      "title": "U.N. Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+      "description": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took ",
+      "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump’s New Favorite Neighbor: Mexico",
-      "description": "President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country.",
-      "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+      "title": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
+      "description": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war.",
+      "link": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 6,
-    "grammarIndex": 8,
-    "speakingIndex": 12,
+    "wordIndex": 7,
+    "grammarIndex": 9,
+    "speakingIndex": 13,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 6,
+    "wordPriorityPosition": 7,
     "wordPriorityTotal": 18
   }
 }
