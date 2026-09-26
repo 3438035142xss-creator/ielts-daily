@@ -1,83 +1,83 @@
 {
-  "date": "2026-09-25",
-  "weekday": "Friday",
-  "generatedAt": "2026-09-25T03:44:14.522Z",
+  "date": "2026-09-26",
+  "weekday": "Saturday",
+  "generatedAt": "2026-09-26T03:50:17.520Z",
   "word": {
-    "word": "alleviate",
-    "phonetic": "/əˈliːvieɪt/",
-    "partOfSpeech": "v.",
-    "definition": "减轻；缓解",
-    "example": "The new policy aims to alleviate poverty in rural areas.",
-    "exampleTranslation": "新政策旨在缓解农村地区的贫困问题。",
-    "ieltsLevel": "7",
+    "word": "compromise",
+    "phonetic": "/ˈkɒmprəmaɪz/",
+    "partOfSpeech": "v./n.",
+    "definition": "妥协；折中；损害",
+    "example": "Both parties reached a compromise after lengthy negotiations.",
+    "exampleTranslation": "经过漫长的谈判，双方达成了妥协。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "This medicine will alleviate the pain.",
-      "movie": "Patch Adams",
-      "year": 1998,
-      "character": "Patch Adams"
+      "quote": "We don't compromise on safety.",
+      "movie": "Sully",
+      "year": 2016,
+      "character": "Chesley Sullenberger"
     },
-    "youglish": "https://youglish.com/getbyword?q=alleviate"
+    "youglish": "https://youglish.com/getbyword?q=compromise"
   },
   "grammar": {
-    "title": "情态动词表推测",
-    "category": "情态动词",
-    "explanation": "must/may/might/could/can't + 动词原形表示对现在的推测；加have + 过去分词表示对过去的推测。",
-    "structure": "must/may/might/can't + have + 过去分词",
+    "title": "名词性从句",
+    "category": "从句",
+    "explanation": "名词性从句包括主语从句、宾语从句、表语从句、同位语从句，在句中起名词作用。常用that, whether, if及wh-词引导。",
+    "structure": "主句 + that/whether/wh- + 从句",
     "examples": [
       {
-        "sentence": "He must have missed the train, for he hasn't arrived yet.",
-        "translation": "他肯定没赶上火车，因为他还没到。",
-        "note": "must have done表肯定推测"
+        "sentence": "What surprised me most was his attitude.",
+        "translation": "最让我惊讶的是他的态度。",
+        "note": "主语从句"
       },
       {
-        "sentence": "She can't have finished the work so quickly.",
-        "translation": "她不可能这么快就完成工作。",
-        "note": "can't have done表否定推测"
+        "sentence": "The fact that she passed the exam delighted everyone.",
+        "translation": "她通过考试这个事实让所有人高兴。",
+        "note": "同位语从句"
       }
     ],
-    "ieltsTip": "雅思阅读推理题中，理解情态动词的推测含义有助于准确判断作者态度。"
+    "ieltsTip": "雅思写作中名词性从句是表达复杂观点的利器，尤其主语从句开头能增强句式多样性。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Technology",
+    "topic": "Urbanization",
     "questions": [
-      "How has technology affected the way people communicate?",
-      "Do you think social media brings people closer or pushes them apart?",
-      "What are the potential dangers of over-reliance on technology?",
-      "How should children be introduced to technology?"
+      "What are the advantages and disadvantages of living in a big city?",
+      "How can cities become more livable?",
+      "Do you think urbanization will continue in the future?",
+      "What challenges do rural areas face as cities grow?"
     ],
-    "sampleAnswer": "Technology has fundamentally transformed communication, making it instantaneous and borderless, yet arguably more superficial. Social media is a classic double-edged sword: it enables us to maintain connections across vast distances, but it can also foster shallow interactions and social comparison, sometimes leaving users feeling more isolated than connected. Over-reliance on technology poses genuine risks, including diminished face-to-face communication skills, shortened attention spans, and privacy concerns stemming from the constant data collection. When introducing children to technology, I believe a balanced and gradual approach is essential—parents should set clear boundaries on screen time, actively engage with their children during digital activities, and ensure that technology serves as a tool for learning rather than a substitute for human interaction or outdoor play.",
+    "sampleAnswer": "Living in a metropolis offers undeniable advantages: access to quality healthcare, diverse educational opportunities, and vibrant cultural life. However, these benefits come at a cost—sky-high housing prices, severe traffic congestion, and deteriorating air quality are common grievances. To make cities more livable, urban planners should prioritize green spaces, efficient public transportation, and sustainable architecture that reduces energy consumption. Urbanization will almost certainly continue, driven by economic opportunities and demographic shifts, but the challenge lies in managing this growth responsibly. As cities expand, rural areas face the dual threat of brain drain and economic decline, as young, educated individuals migrate in search of better prospects. Addressing this imbalance requires targeted policies that promote rural development and ensure equitable resource distribution.",
     "keywords": [
-      "instantaneous",
-      "borderless",
-      "superficial",
-      "diminished",
-      "substitute"
+      "metropolis",
+      "vibrant",
+      "deteriorating",
+      "brain drain",
+      "equitable"
     ],
-    "tips": "科技话题常用利弊对比，注意使用转折连词。"
+    "tips": "城市话题常用因果分析，注意使用专业词汇。"
   },
   "news": [
     {
-      "title": "Police launch manhunt after 11 killed in mass shooting in South Africa",
-      "description": "South African police have launched a manhunt after 11 people were shot dead and three others injured at a house in KwaMakhutha, south of Durban.",
-      "link": "https://newsaf.cgtn.com/news/2026-09-23/Police-launch-manhunt-after-11-killed-in-mass-shooting-in-South-Africa-1QFKTmOaO1G/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Billie Jean King hails global growth of namesake tennis competition",
+      "description": "Billie Jean King hails global growth of namesake tennis competition",
+      "link": "https://news.cgtn.com/news/2026-09-25/Billie-Jean-King-hails-global-growth-of-namesake-tennis-competition-1QIKGT87qjm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "German auto executives call for deeper cooperation with China on NEVs",
-      "description": "German auto industry executives and experts have called for deeper cooperation with China on new energy vehicles (NEVs), batteries, artificial intelligence (AI) and automated driving, saying the two c",
-      "link": "https://news.cgtn.com/news/2026-09-24/German-auto-executives-call-for-deeper-cooperation-with-China-on-NEVs-1QH3YrNpRbq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Xi, Peng Liyuan visit US National Archives with Trump and his wife",
+      "description": "Chinese President Xi Jinping and his wife, Peng Liyuan, visited the US National Archives in Washington, D.C. on Friday, accompanied by US President Donald Trump and his wife, Melania Trump.",
+      "link": "https://news.cgtn.com/news/2026-09-25/Xi-Trump-visit-US-National-Archives-1QJoZswwZdC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Why 'constructive strategic stability' matters for China-US relations",
-      "description": "A survey conducted by CGTN of 12,000 respondents across 39 countries shows that 75% of the respondents believe a stable China-US relationship is vital to the international community.",
-      "link": "https://news.cgtn.com/news/2026-09-23/Why-constructive-strategic-stability-matters-for-China-US-relations-1QFObrKFKDu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Xi Jinping reviews honor guard at White House",
+      "description": "Xi Jinping reviews honor guard at White House",
+      "link": "https://news.cgtn.com/news/2026-09-24/Xi-Jinping-reviews-honor-guard-at-White-House-1QHSCH8X2qA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-      "description": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document sho",
-      "link": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
+      "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
+      "description": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
+      "link": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "U.N. Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
-      "description": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took ",
-      "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "description": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+      "link": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
-      "description": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war.",
-      "link": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
+      "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
+      "description": "The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel’s security establishment, Israeli officials sai",
+      "link": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 7,
-    "grammarIndex": 9,
-    "speakingIndex": 13,
+    "wordIndex": 8,
+    "grammarIndex": 10,
+    "speakingIndex": 14,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 7,
+    "wordPriorityPosition": 8,
     "wordPriorityTotal": 18
   }
 }
