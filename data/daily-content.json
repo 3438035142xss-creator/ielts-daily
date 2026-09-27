@@ -1,83 +1,83 @@
 {
-  "date": "2026-09-26",
-  "weekday": "Saturday",
-  "generatedAt": "2026-09-26T03:50:17.520Z",
+  "date": "2026-09-27",
+  "weekday": "Sunday",
+  "generatedAt": "2026-09-27T03:59:35.664Z",
   "word": {
-    "word": "compromise",
-    "phonetic": "/ˈkɒmprəmaɪz/",
-    "partOfSpeech": "v./n.",
-    "definition": "妥协；折中；损害",
-    "example": "Both parties reached a compromise after lengthy negotiations.",
-    "exampleTranslation": "经过漫长的谈判，双方达成了妥协。",
-    "ieltsLevel": "6",
+    "word": "discrepancy",
+    "phonetic": "/dɪsˈkrepənsi/",
+    "partOfSpeech": "n.",
+    "definition": "差异；不一致",
+    "example": "There was a discrepancy between the official report and eyewitness accounts.",
+    "exampleTranslation": "官方报告与目击者陈述之间存在差异。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "We don't compromise on safety.",
-      "movie": "Sully",
-      "year": 2016,
-      "character": "Chesley Sullenberger"
+      "quote": "There's a discrepancy in the financial records.",
+      "movie": "The Big Short",
+      "year": 2015,
+      "character": "Michael Burry"
     },
-    "youglish": "https://youglish.com/getbyword?q=compromise"
+    "youglish": "https://youglish.com/getbyword?q=discrepancy"
   },
   "grammar": {
-    "title": "名词性从句",
+    "title": "让步状语从句",
     "category": "从句",
-    "explanation": "名词性从句包括主语从句、宾语从句、表语从句、同位语从句，在句中起名词作用。常用that, whether, if及wh-词引导。",
-    "structure": "主句 + that/whether/wh- + 从句",
+    "explanation": "although/though/even though/even if/while/whereas引导让步状语从句，表示尽管…但是…，主句不能再用but。",
+    "structure": "Although/Even though + 从句, 主句",
     "examples": [
       {
-        "sentence": "What surprised me most was his attitude.",
-        "translation": "最让我惊讶的是他的态度。",
-        "note": "主语从句"
+        "sentence": "Although the technology is advanced, it is not widely accessible.",
+        "translation": "虽然技术先进，但并未广泛普及。",
+        "note": "注意主句不用but"
       },
       {
-        "sentence": "The fact that she passed the exam delighted everyone.",
-        "translation": "她通过考试这个事实让所有人高兴。",
-        "note": "同位语从句"
+        "sentence": "While city life offers convenience, it also brings stress.",
+        "translation": "尽管城市生活便利，但也带来压力。",
+        "note": "while表让步"
       }
     ],
-    "ieltsTip": "雅思写作中名词性从句是表达复杂观点的利器，尤其主语从句开头能增强句式多样性。"
+    "ieltsTip": "雅思写作讨论利弊时，让步状语从句是体现辩证思维的必备结构。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Urbanization",
+    "part": "Part 1",
+    "topic": "Music",
     "questions": [
-      "What are the advantages and disadvantages of living in a big city?",
-      "How can cities become more livable?",
-      "Do you think urbanization will continue in the future?",
-      "What challenges do rural areas face as cities grow?"
+      "What kind of music do you like?",
+      "Do you play any musical instruments?",
+      "How often do you listen to music?",
+      "Has your taste in music changed over the years?"
     ],
-    "sampleAnswer": "Living in a metropolis offers undeniable advantages: access to quality healthcare, diverse educational opportunities, and vibrant cultural life. However, these benefits come at a cost—sky-high housing prices, severe traffic congestion, and deteriorating air quality are common grievances. To make cities more livable, urban planners should prioritize green spaces, efficient public transportation, and sustainable architecture that reduces energy consumption. Urbanization will almost certainly continue, driven by economic opportunities and demographic shifts, but the challenge lies in managing this growth responsibly. As cities expand, rural areas face the dual threat of brain drain and economic decline, as young, educated individuals migrate in search of better prospects. Addressing this imbalance requires targeted policies that promote rural development and ensure equitable resource distribution.",
+    "sampleAnswer": "I have rather eclectic taste in music, but if I had to choose, I'd say I'm drawn to indie folk and classical music. I find the acoustic melodies of folk music deeply soothing, while classical compositions offer a kind of intellectual stimulation that few other genres can match. Although I don't play any instruments proficiently, I taught myself a bit of guitar during college. Music accompanies me throughout the day—I usually listen while commuting, working, or unwinding before bed. My taste has definitely evolved over time; as a teenager, I was obsessed with pop and rock, but as I've matured, I've developed an appreciation for more nuanced and sophisticated musical forms.",
     "keywords": [
-      "metropolis",
-      "vibrant",
-      "deteriorating",
-      "brain drain",
-      "equitable"
+      "eclectic",
+      "drawn to",
+      "soothing",
+      "proficiently",
+      "nuanced"
     ],
-    "tips": "城市话题常用因果分析，注意使用专业词汇。"
+    "tips": "谈论喜好时使用程度副词，体现表达的精准。"
   },
   "news": [
     {
-      "title": "Billie Jean King hails global growth of namesake tennis competition",
-      "description": "Billie Jean King hails global growth of namesake tennis competition",
-      "link": "https://news.cgtn.com/news/2026-09-25/Billie-Jean-King-hails-global-growth-of-namesake-tennis-competition-1QIKGT87qjm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China bags four swimming golds, keeps women's table tennis team title",
+      "description": "China bags four swimming golds, keeps women's table tennis team title",
+      "link": "https://news.cgtn.com/news/2026-09-25/China-bags-four-swimming-golds-keeps-women-s-table-tennis-team-title-1QIJjbJXb44/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Xi, Peng Liyuan visit US National Archives with Trump and his wife",
-      "description": "Chinese President Xi Jinping and his wife, Peng Liyuan, visited the US National Archives in Washington, D.C. on Friday, accompanied by US President Donald Trump and his wife, Melania Trump.",
-      "link": "https://news.cgtn.com/news/2026-09-25/Xi-Trump-visit-US-National-Archives-1QJoZswwZdC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Xi returns to Beijing after state visit to US",
+      "description": "Chinese President Xi Jinping returned to Beijing on Saturday afternoon after concluding his state visit to the United States.",
+      "link": "https://news.cgtn.com/news/2026-09-26/Chinese-President-Xi-arrives-in-Beijing-after-state-visit-to-US-1QKFN3p3rMs/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Xi Jinping reviews honor guard at White House",
-      "description": "Xi Jinping reviews honor guard at White House",
-      "link": "https://news.cgtn.com/news/2026-09-24/Xi-Jinping-reviews-honor-guard-at-White-House-1QHSCH8X2qA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "International journalists on the Xi-Trump meeting",
+      "description": "International journalists on the Xi-Trump meeting",
+      "link": "https://newsus.cgtn.com/news/2026-09-25/International-journalists-on-the-Xi-Trump-meeting--1QIlpEdOc3m/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
-      "description": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
-      "link": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
+      "title": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+      "description": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine.",
+      "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-      "description": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
-      "link": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "title": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
+      "description": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.",
+      "link": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
-      "description": "The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel’s security establishment, Israeli officials sai",
-      "link": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
+      "title": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
+      "description": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.",
+      "link": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 8,
-    "grammarIndex": 10,
-    "speakingIndex": 14,
+    "wordIndex": 9,
+    "grammarIndex": 11,
+    "speakingIndex": 15,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 8,
+    "wordPriorityPosition": 9,
     "wordPriorityTotal": 18
   }
 }
