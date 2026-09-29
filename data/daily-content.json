@@ -1,83 +1,78 @@
 {
-  "date": "2026-09-28",
-  "weekday": "Monday",
-  "generatedAt": "2026-09-28T04:00:09.779Z",
+  "date": "2026-09-29",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-09-29T04:33:59.049Z",
   "word": {
-    "word": "fluctuate",
-    "phonetic": "/ˈflʌktʃueɪt/",
-    "partOfSpeech": "v.",
-    "definition": "波动；起伏",
-    "example": "Oil prices fluctuated wildly throughout the year.",
-    "exampleTranslation": "全年油价波动剧烈。",
-    "ieltsLevel": "7",
+    "word": "implement",
+    "phonetic": "/ˈɪmplɪment/",
+    "partOfSpeech": "v./n.",
+    "definition": "实施；执行；工具",
+    "example": "The government implemented new regulations to protect the environment.",
+    "exampleTranslation": "政府实施了新规以保护环境。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "The markets fluctuate, but the principle remains.",
-      "movie": "The Wolf of Wall Street",
-      "year": 2013,
-      "character": "Jordan Belfort"
+      "quote": "We must implement the plan before dawn.",
+      "movie": "Ocean's Eleven",
+      "year": 2001,
+      "character": "Danny Ocean"
     },
-    "youglish": "https://youglish.com/getbyword?q=fluctuate"
+    "youglish": "https://youglish.com/getbyword?q=implement"
   },
   "grammar": {
-    "title": "非谓语动词：不定式 vs 动名词",
-    "category": "非谓语动词",
-    "explanation": "某些动词后只能接不定式（decide, hope, agree等），某些只能接动名词（enjoy, avoid, finish等），有些两者均可但意义不同（stop, remember, forget）。",
-    "structure": "动词 + to do / 动词 + doing",
+    "title": "主谓一致",
+    "category": "一致性",
+    "explanation": "主语为单数概念时谓语用单数，复数概念用复数。注意集体名词、就近原则、就远原则等特殊情况。",
+    "structure": "主语 + 谓语（与主语数一致）",
     "examples": [
       {
-        "sentence": "He stopped smoking. vs He stopped to smoke.",
-        "translation": "他戒烟了。/ 他停下来去抽烟。",
-        "note": "意义不同"
+        "sentence": "The committee has/have reached a decision.",
+        "translation": "委员会已作出决定。",
+        "note": "强调整体用单数，强调成员用复数"
       },
       {
-        "sentence": "I remember locking the door. vs Remember to lock the door.",
-        "translation": "我记得锁了门。/ 记得去锁门。",
-        "note": "remember doing已做;remember to do未做"
+        "sentence": "Either the students or the teacher is responsible.",
+        "translation": "要么学生，要么老师负责。",
+        "note": "either...or...就近原则"
       }
     ],
-    "ieltsTip": "雅思语法题和完形填空中，非谓语动词的搭配是高频考点，需要熟记。"
+    "ieltsTip": "雅思写作中主谓一致错误是常见的失分点，写完后务必检查主谓数的一致性。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Weather",
-    "questions": [
-      "What is your favorite kind of weather?",
-      "Does the weather affect your mood?",
-      "Do you prefer hot or cold weather?",
-      "What do you do on rainy days?"
-    ],
-    "sampleAnswer": "I particularly enjoy crisp autumn days with clear blue skies and a gentle breeze—that perfect transition between summer's heat and winter's chill. Weather undeniably affects my mood; sunny days leave me feeling energetic and optimistic, whereas prolonged rainy spells tend to make me somewhat lethargic. Between hot and cold, I lean towards cooler weather, as I find it easier to bundle up in layers than to escape oppressive heat. On rainy days, I relish the opportunity to stay indoors with a good book and a hot cup of tea, finding the sound of rain against the window oddly comforting.",
+    "part": "Part 2",
+    "topic": "Describe a place you want to visit",
+    "cueCard": "Describe a place you would like to visit. You should say: where it is / how you know about it / what you would do there / and explain why you want to visit it.",
+    "sampleAnswer": "A place that has long captivated my imagination is Kyoto, Japan's former imperial capital. I first learned about it through a travel documentary that showcased its stunning temples, serene gardens, and well-preserved traditional architecture. If I had the chance to visit, I would spend my days exploring iconic sites like Kinkaku-ji and Fushimi Inari Shrine, participating in a traditional tea ceremony, and perhaps staying in a ryokan to experience authentic Japanese hospitality. What draws me to Kyoto is its remarkable harmony between nature and human craftsmanship—every garden, every temple seems designed to evoke a sense of tranquility and contemplation. In our fast-paced modern world, I believe Kyoto offers a rare opportunity to step back in time and reconnect with a more mindful way of living.",
     "keywords": [
-      "crisp",
-      "transition",
-      "prolonged",
-      "lethargic",
-      "relish"
+      "captivated",
+      "imperial",
+      "iconic",
+      "tranquility",
+      "contemplation"
     ],
-    "tips": "描述天气时多用形容词，营造氛围。"
+    "tips": "描述地点时调动多种感官，营造画面感。"
   },
   "news": [
     {
-      "title": "China's market importance to US tech giants",
-      "description": "China's market importance to US tech giants",
-      "link": "https://newsus.cgtn.com/news/2026-09-26/China-s-market-importance-to-US-tech-giants-1QK3Y0vjp04/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese VP: China ready to work with all parties to advance GDI",
+      "description": "Chinese Vice President Han Zheng said on Friday that as a staunch advocate of and pragmatic actor in global development, China stands ready to work with all parties to uphold true multilateralism, joi",
+      "link": "https://news.cgtn.com/news/2026-09-26/Chinese-VP-China-ready-to-work-with-all-parties-to-advance-GDI-1QKZ8Ixk8I8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Israeli media says Netanyahu visits UAE for talks with president",
-      "description": "Israeli Prime Minister Benjamin Netanyahu visited the United Arab Emirates (UAE) on Sunday and met President Sheikh Mohamed bin Zayed Al Nahyan, with Iran the main focus of their talks, Israel's state",
-      "link": "https://news.cgtn.com/news/2026-09-28/Israeli-media-says-Netanyahu-visits-UAE-for-talks-with-president-1QNBjd41zVe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "UN General Assembly concludes General Debate",
+      "description": "General Assembly President Khalilur Rahman said the debate covered a range of issues, including peace, development, human rights, UN reform, and the selection of the next secretary-general.",
+      "link": "https://news.cgtn.com/news/2026-09-29/UN-General-Assembly-concludes-General-Debate-1QPcgWktrqM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China urges Philippines to stop provocations in South China Sea",
-      "description": "China on Friday urged the Philippines to immediately stop all acts of provocation and trouble-making, warning that the China Coast Guard (CCG) will resolutely safeguard the country's territorial sover",
-      "link": "https://news.cgtn.com/news/2026-09-25/China-urges-Philippines-to-stop-provocations-in-South-China-Sea-1QJezJMNWMw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese VP vows to push for steady growth of China-Bulgaria ties",
+      "description": "Chinese Vice President Han Zheng said Thursday that China is willing to push for the sound, steady development of relations with Bulgaria.",
+      "link": "https://news.cgtn.com/news/2026-09-25/Chinese-VP-vows-to-push-for-steady-growth-of-China-Bulgaria-ties-1QJ4rHzNYNG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-      "description": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
-      "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "title": "Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base",
+      "description": "The British counterterrorism police said the five British nationals arrested near R.A.F. Fairford on Sunday were being released on bail but remained under investigation.",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Serbia’s Longtime President Aleksandar Vucic Resigns Post",
-      "description": "Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month.",
-      "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+      "title": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student",
+      "description": "The verdict followed a decade-long effort in Italy to account for the killing of Giulio Regeni, an Italian researcher who disappeared in Cairo in 2016.",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/italy-egypt-giulio-regeni-verdict.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
-      "description": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.",
-      "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+      "title": "Over 800 Killed in Renewed Houthi-Saudi War in Yemen, W.H.O. Says",
+      "description": "The fighting between the Iran-backed Houthi militia and Saudi-backed government forces has exacerbated one of the world’s worst humanitarian crises, the World Health Organization said.",
+      "link": "https://www.nytimes.com/2026/09/28/world/middleeast/yemen-war-800-dead.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "description": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "description": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 10,
-    "grammarIndex": 12,
-    "speakingIndex": 16,
+    "wordIndex": 11,
+    "grammarIndex": 13,
+    "speakingIndex": 17,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 10,
+    "wordPriorityPosition": 11,
     "wordPriorityTotal": 18
   }
 }
