@@ -1,73 +1,83 @@
 {
-  "date": "2026-09-30",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-09-30T04:17:18.945Z",
+  "date": "2026-10-01",
+  "weekday": "Thursday",
+  "generatedAt": "2026-10-01T04:29:26.042Z",
   "word": {
-    "word": "jeopardize",
-    "phonetic": "/ˈdʒepədaɪz/",
-    "partOfSpeech": "v.",
-    "definition": "危及；损害",
-    "example": "Smoking can jeopardize your health and that of those around you.",
-    "exampleTranslation": "吸烟会危及你及周围人的健康。",
-    "ieltsLevel": "7+",
+    "word": "lucrative",
+    "phonetic": "/ˈluːkrətɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "获利丰厚的；赚钱的",
+    "example": "Software development has become a highly lucrative career path.",
+    "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Don't jeopardize everything we've built.",
-      "movie": "The Godfather Part II",
-      "year": 1974,
-      "character": "Michael Corleone"
+      "quote": "It's a lucrative offer, but I have conditions.",
+      "movie": "The Social Network",
+      "year": 2010,
+      "character": "Sean Parker"
     },
-    "youglish": "https://youglish.com/getbyword?q=jeopardize"
+    "youglish": "https://youglish.com/getbyword?q=lucrative"
   },
   "grammar": {
-    "title": "虚拟语气（与过去事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达对过去事实的假设时，if从句用had + 过去分词，主句用would/could/should/might + have + 过去分词。",
-    "structure": "If + 主语 + had done, 主语 + would have done",
+    "title": "独立主格结构",
+    "category": "特殊句式",
+    "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
+    "structure": "名词 + 分词/形容词, 主句",
     "examples": [
       {
-        "sentence": "If I had studied harder, I would have passed the exam.",
-        "translation": "如果我当初更努力学习，就会通过考试了。",
-        "note": "与过去事实相反"
+        "sentence": "Weather permitting, we will go hiking tomorrow.",
+        "translation": "天气允许的话，我们明天去远足。",
+        "note": "名词+现在分词"
+      },
+      {
+        "sentence": "The work finished, we went home happily.",
+        "translation": "工作完成了，我们高兴地回家了。",
+        "note": "名词+过去分词"
       }
     ],
-    "ieltsTip": "雅思口语讨论过去经历或后悔时，使用虚拟语气可让表达更地道。"
+    "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a challenging experience",
-    "cueCard": "Describe a challenge you faced and how you overcame it. You should say: what the challenge was / when it happened / how you dealt with it / and explain what you learned from the experience.",
-    "sampleAnswer": "One of the most daunting challenges I've faced was delivering a presentation in English at an international conference during my third year of university. As a non-native speaker with limited public speaking experience, the prospect of addressing an audience of experts was genuinely terrifying. To prepare, I devoted countless hours to refining my slides, rehearsing my delivery in front of a mirror, and seeking feedback from professors and peers. On the day of the presentation, my hands were shaking, but I focused on my breathing and reminded myself that I had prepared thoroughly. To my surprise, the presentation went smoothly, and the Q&A session that followed was intellectually stimulating rather than intimidating. This experience taught me that preparation is the best antidote to anxiety, and that growth often lies just beyond our comfort zones.",
-    "keywords": [
-      "daunting",
-      "prospect",
-      "refining",
-      "antidote",
-      "comfort zones"
+    "part": "Part 3",
+    "topic": "Globalization",
+    "questions": [
+      "What are the main advantages of globalization?",
+      "Does globalization threaten local cultures?",
+      "How has globalization affected developing countries?",
+      "Will globalization continue in the future?"
     ],
-    "tips": "讲述挑战时突出过程和心理变化，体现成长。"
+    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "keywords": [
+      "accelerated",
+      "diffusion",
+      "unprecedented",
+      "exacerbate",
+      "dependency"
+    ],
+    "tips": "全球化话题常用经济文化双角度分析。"
   },
   "news": [
     {
-      "title": "Nishan Forum 2026: Experts on Confucianism and its relevance today",
-      "description": "Over 2,500 years after the birth of Confucius in Nishan, the ancient wisdom of the land is still inspiring new conversations about the challenges facing humanity today.",
-      "link": "https://news.cgtn.com/news/2026-09-29/Nishan-Forum-2026-Experts-on-Confucianism-and-its-relevance-today-1QPqfajwapq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Why they chose China: From Engst and Hinton to Bethune and Sakolsky",
+      "description": "The Long March spirit not only resonates across the Chinese nation, but is also a source of inspiration that transcends borders and touches hearts around the world.",
+      "link": "https://news.cgtn.com/news/2026-09-28/Why-they-chose-China-From-Engst-and-Hinton-to-Bethune-and-Sakolsky-1QOmBaJ4QHm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "US-Canada trade war escalates as both sides remain open to a new deal",
-      "description": "US-Canada trade war escalates as both sides remain open to a new deal",
-      "link": "https://newsus.cgtn.com/news/2026-09-30/US-Canada-trade-war-escalates-as-both-sides-remain-open-to-a-new-deal-1QQG41IMEuY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Israeli PM says pilot tried to crash flight after stabbing captain",
+      "description": "Israeli PM says pilot tried to crash flight after stabbing captain",
+      "link": "https://news.cgtn.com/news/2026-09-30/news-1QRLPQlO8HS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese VP: China to work with all countries to build shared future",
-      "description": "Chinese Vice President Han Zheng on Saturday called on the international community to uphold multilateralism, promote common development and safeguard peace and justice, in a speech at the General Deb",
-      "link": "https://news.cgtn.com/news/2026-09-27/Chinese-VP-China-to-work-with-all-countries-to-build-shared-future-1QMFxmk073G/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
+      "description": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
+      "link": "https://news.cgtn.com/news/2026-09-28/Are-you-becoming-Chinese-Chinese-European-guest-unpacks-the-trend-1QOl0pjYybu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -97,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-      "description": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront ",
-      "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+      "title": "Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
+      "description": "Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
+      "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
-      "description": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature.",
-      "link": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
+      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "description": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+      "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
-      "description": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.",
-      "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+      "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+      "description": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
+      "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "description": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -149,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 12,
-    "grammarIndex": 14,
-    "speakingIndex": 18,
+    "wordIndex": 13,
+    "grammarIndex": 15,
+    "speakingIndex": 19,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 12,
+    "wordPriorityPosition": 13,
     "wordPriorityTotal": 18
   }
 }
