@@ -1,83 +1,78 @@
 {
-  "date": "2026-10-01",
-  "weekday": "Thursday",
-  "generatedAt": "2026-10-01T04:29:26.042Z",
+  "date": "2026-10-02",
+  "weekday": "Friday",
+  "generatedAt": "2026-10-02T04:21:53.711Z",
   "word": {
-    "word": "lucrative",
-    "phonetic": "/ˈluːkrətɪv/",
-    "partOfSpeech": "adj.",
-    "definition": "获利丰厚的；赚钱的",
-    "example": "Software development has become a highly lucrative career path.",
-    "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
-    "ieltsLevel": "7",
+    "word": "mitigate",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "partOfSpeech": "v.",
+    "definition": "减轻；缓和",
+    "example": "Planting trees can help mitigate the effects of climate change.",
+    "exampleTranslation": "植树有助于缓解气候变化的影响。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "It's a lucrative offer, but I have conditions.",
-      "movie": "The Social Network",
-      "year": 2010,
-      "character": "Sean Parker"
+      "quote": "We must mitigate the damage before it spreads.",
+      "movie": "Contagion",
+      "year": 2011,
+      "character": "Dr. Ellis Cheever"
     },
-    "youglish": "https://youglish.com/getbyword?q=lucrative"
+    "youglish": "https://youglish.com/getbyword?q=mitigate"
   },
   "grammar": {
-    "title": "独立主格结构",
-    "category": "特殊句式",
-    "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
-    "structure": "名词 + 分词/形容词, 主句",
+    "title": "间接引语",
+    "category": "引语",
+    "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
+    "structure": "主语 + said/told + (that) + 宾语从句",
     "examples": [
       {
-        "sentence": "Weather permitting, we will go hiking tomorrow.",
-        "translation": "天气允许的话，我们明天去远足。",
-        "note": "名词+现在分词"
-      },
-      {
-        "sentence": "The work finished, we went home happily.",
-        "translation": "工作完成了，我们高兴地回家了。",
-        "note": "名词+过去分词"
+        "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
+        "translation": "他说：「我累了。」→ 他说他累了。",
+        "note": "时态前移"
       }
     ],
-    "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
+    "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Globalization",
+    "topic": "Health",
     "questions": [
-      "What are the main advantages of globalization?",
-      "Does globalization threaten local cultures?",
-      "How has globalization affected developing countries?",
-      "Will globalization continue in the future?"
+      "Why are more people suffering from stress nowadays?",
+      "How can individuals maintain a healthy lifestyle?",
+      "Should governments regulate fast food?",
+      "What role does mental health play in overall well-being?"
     ],
-    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
     "keywords": [
-      "accelerated",
-      "diffusion",
-      "unprecedented",
-      "exacerbate",
-      "dependency"
+      "prevalence",
+      "blurs",
+      "contentious",
+      "stigmatized",
+      "holistic"
     ],
-    "tips": "全球化话题常用经济文化双角度分析。"
+    "tips": "健康话题常用因果和建议结构。"
   },
   "news": [
     {
-      "title": "Why they chose China: From Engst and Hinton to Bethune and Sakolsky",
-      "description": "The Long March spirit not only resonates across the Chinese nation, but is also a source of inspiration that transcends borders and touches hearts around the world.",
-      "link": "https://news.cgtn.com/news/2026-09-28/Why-they-chose-China-From-Engst-and-Hinton-to-Bethune-and-Sakolsky-1QOmBaJ4QHm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Putin envoy, US officials discuss Ukraine conflict, US official says",
+      "description": "Russian President Vladimir Putin's envoy Kirill Dmitriev held \"constructive\" talks with US officials on ending the Ukraine conflict, including possible US-Russia energy initiatives in the postconflict",
+      "link": "https://news.cgtn.com/news/2026-09-29/news-1QPYjCrPY52/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Israeli PM says pilot tried to crash flight after stabbing captain",
-      "description": "Israeli PM says pilot tried to crash flight after stabbing captain",
-      "link": "https://news.cgtn.com/news/2026-09-30/news-1QRLPQlO8HS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Pakistan confirms 'planned and calibrated' strikes in Afghanistan",
+      "description": "Pakistan confirms 'planned and calibrated' strikes in Afghanistan",
+      "link": "https://news.cgtn.com/news/2026-10-01/news-1QSJU3GGnde/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
-      "description": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
-      "link": "https://news.cgtn.com/news/2026-09-28/Are-you-becoming-Chinese-Chinese-European-guest-unpacks-the-trend-1QOl0pjYybu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China’s young Asian Games squad makes a splash: Launchpad for LA 28?",
+      "description": "China’s young Asian Games squad makes a splash: Launchpad for LA 28?",
+      "link": "https://news.cgtn.com/news/2026-09-29/China-s-young-Asian-Games-squad-makes-a-splash-Launchpad-for-LA-28--1QPCQFhQzuw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
-      "description": "Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
-      "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+      "title": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
+      "description": "British police said a 25-year-old British-Iranian dual national was arrested Thursday. British officials have said they believe Iran played a part in planning the incident at R.A.F. Fairford.",
+      "link": "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
-      "description": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
-      "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+      "title": "Investigators Seek to Establish Motive in FlyDubai Attack",
+      "description": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu of Israel said the attacker had undergone “Islamist radical",
+      "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-      "description": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
-      "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+      "title": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
+      "description": "The new pipeline from Alberta’s oil sands to the Pacific Coast may lower separatist tensions in that province while also loosening energy ties with the U.S.",
+      "link": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "description": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 13,
-    "grammarIndex": 15,
-    "speakingIndex": 19,
+    "wordIndex": 14,
+    "grammarIndex": 16,
+    "speakingIndex": 20,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 13,
+    "wordPriorityPosition": 14,
     "wordPriorityTotal": 18
   }
 }
