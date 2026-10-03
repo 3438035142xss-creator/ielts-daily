@@ -1,78 +1,83 @@
 {
-  "date": "2026-10-02",
-  "weekday": "Friday",
-  "generatedAt": "2026-10-02T04:21:53.711Z",
+  "date": "2026-10-03",
+  "weekday": "Saturday",
+  "generatedAt": "2026-10-03T04:04:02.660Z",
   "word": {
-    "word": "mitigate",
-    "phonetic": "/ˈmɪtɪɡeɪt/",
-    "partOfSpeech": "v.",
-    "definition": "减轻；缓和",
-    "example": "Planting trees can help mitigate the effects of climate change.",
-    "exampleTranslation": "植树有助于缓解气候变化的影响。",
-    "ieltsLevel": "7+",
+    "word": "notion",
+    "phonetic": "/ˈnəʊʃn/",
+    "partOfSpeech": "n.",
+    "definition": "概念；观念",
+    "example": "The notion of working from home was once considered unusual.",
+    "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must mitigate the damage before it spreads.",
-      "movie": "Contagion",
-      "year": 2011,
-      "character": "Dr. Ellis Cheever"
+      "quote": "The notion of freedom is what we fight for.",
+      "movie": "Braveheart",
+      "year": 1995,
+      "character": "William Wallace"
     },
-    "youglish": "https://youglish.com/getbyword?q=mitigate"
+    "youglish": "https://youglish.com/getbyword?q=notion"
   },
   "grammar": {
-    "title": "间接引语",
-    "category": "引语",
-    "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
-    "structure": "主语 + said/told + (that) + 宾语从句",
+    "title": "It作形式主语/宾语",
+    "category": "特殊句式",
+    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
+    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
     "examples": [
       {
-        "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
-        "translation": "他说：「我累了。」→ 他说他累了。",
-        "note": "时态前移"
+        "sentence": "It is essential to maintain a healthy work-life balance.",
+        "translation": "保持健康的工作生活平衡是必要的。",
+        "note": "形式主语"
+      },
+      {
+        "sentence": "I find it difficult to concentrate in noisy environments.",
+        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
+        "note": "形式宾语"
       }
     ],
-    "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
+    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Health",
+    "part": "Part 1",
+    "topic": "Daily Routine",
     "questions": [
-      "Why are more people suffering from stress nowadays?",
-      "How can individuals maintain a healthy lifestyle?",
-      "Should governments regulate fast food?",
-      "What role does mental health play in overall well-being?"
+      "When do you usually get up?",
+      "What part of the day do you like most?",
+      "Has your routine changed much recently?",
+      "What would you like to change about your routine?"
     ],
-    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
+    "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
     "keywords": [
-      "prevalence",
-      "blurs",
-      "contentious",
-      "stigmatized",
-      "holistic"
+      "drag myself",
+      "undeniably",
+      "unwind",
+      "blurred",
+      "boost"
     ],
-    "tips": "健康话题常用因果和建议结构。"
+    "tips": "描述日常时使用频率副词，体现自然流畅。"
   },
   "news": [
     {
-      "title": "Putin envoy, US officials discuss Ukraine conflict, US official says",
-      "description": "Russian President Vladimir Putin's envoy Kirill Dmitriev held \"constructive\" talks with US officials on ending the Ukraine conflict, including possible US-Russia energy initiatives in the postconflict",
-      "link": "https://news.cgtn.com/news/2026-09-29/news-1QPYjCrPY52/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US forces leave Iraq as coalition ends ISIS combat mission",
+      "description": "US forces leave Iraq as coalition ends ISIS combat mission",
+      "link": "https://news.cgtn.com/news/2026-09-30/news-1QRlyffLlug/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Pakistan confirms 'planned and calibrated' strikes in Afghanistan",
-      "description": "Pakistan confirms 'planned and calibrated' strikes in Afghanistan",
-      "link": "https://news.cgtn.com/news/2026-10-01/news-1QSJU3GGnde/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US regulator probes Anthropic and OpenAI over AI safety",
+      "description": "The US Federal Trade Commission (FTC) has launched a broad investigation into artificial intelligence (AI) safety practices at Anthropic and OpenAI, multiple news outlets reported on Wednesday.",
+      "link": "https://news.cgtn.com/news/2026-10-01/US-regulator-probes-Anthropic-and-OpenAI-over-AI-safety-1QSEf4P9afe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China’s young Asian Games squad makes a splash: Launchpad for LA 28?",
-      "description": "China’s young Asian Games squad makes a splash: Launchpad for LA 28?",
-      "link": "https://news.cgtn.com/news/2026-09-29/China-s-young-Asian-Games-squad-makes-a-splash-Launchpad-for-LA-28--1QPCQFhQzuw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "CIDCA: China sent 100+ tonnes of urgently needed supplies to Nepal",
+      "description": "CIDCA: China sent 100+ tonnes of urgently needed supplies to Nepal",
+      "link": "https://news.cgtn.com/news/2026-09-30/CIDCA-China-sent-100-tonnes-of-urgently-needed-supplies-to-Nepal-1QQb94HcOsw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
-      "description": "British police said a 25-year-old British-Iranian dual national was arrested Thursday. British officials have said they believe Iran played a part in planning the incident at R.A.F. Fairford.",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html",
+      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+      "description": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
+      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Investigators Seek to Establish Motive in FlyDubai Attack",
-      "description": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu of Israel said the attacker had undergone “Islamist radical",
-      "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
+      "title": "Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash",
+      "description": "The program would grant citizenship to people who make major investments in Argentina. Similar efforts have yielded significant income for small economies, but have also led to risks.",
+      "link": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
-      "description": "The new pipeline from Alberta’s oil sands to the Pacific Coast may lower separatist tensions in that province while also loosening energy ties with the U.S.",
-      "link": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
+      "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
+      "description": "The country was shaken after nearly 30 people were killed in two separate mass shootings. South Africans are demanding greater government intervention.",
+      "link": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
-      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 14,
-    "grammarIndex": 16,
-    "speakingIndex": 20,
+    "wordIndex": 15,
+    "grammarIndex": 17,
+    "speakingIndex": 21,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 14,
+    "wordPriorityPosition": 15,
     "wordPriorityTotal": 18
   }
 }
