@@ -1,83 +1,83 @@
 {
-  "date": "2026-10-03",
-  "weekday": "Saturday",
-  "generatedAt": "2026-10-03T04:04:02.660Z",
+  "date": "2026-10-04",
+  "weekday": "Sunday",
+  "generatedAt": "2026-10-04T04:37:08.876Z",
   "word": {
-    "word": "notion",
-    "phonetic": "/ˈnəʊʃn/",
-    "partOfSpeech": "n.",
-    "definition": "概念；观念",
-    "example": "The notion of working from home was once considered unusual.",
-    "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
-    "ieltsLevel": "6",
+    "word": "prevalent",
+    "phonetic": "/ˈprevələnt/",
+    "partOfSpeech": "adj.",
+    "definition": "普遍的；盛行的",
+    "example": "This disease is more prevalent in tropical regions.",
+    "exampleTranslation": "这种疾病在热带地区更为普遍。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "The notion of freedom is what we fight for.",
-      "movie": "Braveheart",
-      "year": 1995,
-      "character": "William Wallace"
+      "quote": "Corruption is prevalent in these parts.",
+      "movie": "Traffic",
+      "year": 2000,
+      "character": "Javier Rodriguez"
     },
-    "youglish": "https://youglish.com/getbyword?q=notion"
+    "youglish": "https://youglish.com/getbyword?q=prevalent"
   },
   "grammar": {
-    "title": "It作形式主语/宾语",
-    "category": "特殊句式",
-    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
-    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
+    "title": "同位语",
+    "category": "句法",
+    "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
+    "structure": "名词 + 同位成分（名词/that从句）",
     "examples": [
       {
-        "sentence": "It is essential to maintain a healthy work-life balance.",
-        "translation": "保持健康的工作生活平衡是必要的。",
-        "note": "形式主语"
+        "sentence": "Beijing, the capital of China, is a bustling metropolis.",
+        "translation": "北京，中国的首都，是个繁华的大都市。",
+        "note": "名词作同位语"
       },
       {
-        "sentence": "I find it difficult to concentrate in noisy environments.",
-        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
-        "note": "形式宾语"
+        "sentence": "The news that our team won the championship spread quickly.",
+        "translation": "我们队夺冠的消息传得很快。",
+        "note": "同位语从句"
       }
     ],
-    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
+    "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Daily Routine",
+    "topic": "Friends",
     "questions": [
-      "When do you usually get up?",
-      "What part of the day do you like most?",
-      "Has your routine changed much recently?",
-      "What would you like to change about your routine?"
+      "Do you prefer spending time with friends or alone?",
+      "What do you usually do with your friends?",
+      "Do you think friends should have similar personalities?",
+      "How do you make new friends?"
     ],
-    "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
+    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
     "keywords": [
-      "drag myself",
-      "undeniably",
-      "unwind",
-      "blurred",
-      "boost"
+      "solitude",
+      "invigorating",
+      "diverse temperaments",
+      "organically",
+      "social circle"
     ],
-    "tips": "描述日常时使用频率副词，体现自然流畅。"
+    "tips": "谈论人际关系时使用情感词汇，体现深度。"
   },
   "news": [
     {
-      "title": "US forces leave Iraq as coalition ends ISIS combat mission",
-      "description": "US forces leave Iraq as coalition ends ISIS combat mission",
-      "link": "https://news.cgtn.com/news/2026-09-30/news-1QRlyffLlug/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US ban on nearly $1 billion of Canadian imports goes into effect",
+      "description": "US ban on nearly $1 billion of Canadian imports goes into effect",
+      "link": "https://newsus.cgtn.com/news/2026-09-30/US-ban-on-nearly-1-billion-of-Canadian-imports-goes-into-effect-1QQGk3JLnos/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "US regulator probes Anthropic and OpenAI over AI safety",
-      "description": "The US Federal Trade Commission (FTC) has launched a broad investigation into artificial intelligence (AI) safety practices at Anthropic and OpenAI, multiple news outlets reported on Wednesday.",
-      "link": "https://news.cgtn.com/news/2026-10-01/US-regulator-probes-Anthropic-and-OpenAI-over-AI-safety-1QSEf4P9afe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Japan opposition party Komeito selects new leader",
+      "description": "Japan's Komeito party, a former longtime ruling coalition junior partner, selected Mitsunari Okamoto as its new leader on Saturday as it prepares for an extraordinary Diet session starting next week, ",
+      "link": "https://news.cgtn.com/news/2026-10-03/Japan-opposition-party-Komeito-selects-new-leader-1QWlak8jGow/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "CIDCA: China sent 100+ tonnes of urgently needed supplies to Nepal",
-      "description": "CIDCA: China sent 100+ tonnes of urgently needed supplies to Nepal",
-      "link": "https://news.cgtn.com/news/2026-09-30/CIDCA-China-sent-100-tonnes-of-urgently-needed-supplies-to-Nepal-1QQb94HcOsw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "The Economist survey: Latin Americans increasingly favor China",
+      "description": "Favorability toward China has continued to improve across Latin America over the past two years, while views of the United States have generally declined, according to a latest survey released by The ",
+      "link": "https://news.cgtn.com/news/2026-10-01/The-Economist-survey-Latin-Americans-increasingly-favor-China-1QSMHenbobu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -115,41 +115,41 @@
       "category": "国际综合"
     },
     {
-      "title": "Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash",
-      "description": "The program would grant citizenship to people who make major investments in Argentina. Similar efforts have yielded significant income for small economies, but have also led to risks.",
-      "link": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
+      "title": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.",
+      "description": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
+      "link": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
-      "description": "The country was shaken after nearly 30 people were killed in two separate mass shootings. South Africans are demanding greater government intervention.",
-      "link": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html",
+      "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
+      "description": "It was unclear what background checks had been carried out before he was allowed to fly to Israel.",
+      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 15,
-    "grammarIndex": 17,
-    "speakingIndex": 21,
+    "wordIndex": 16,
+    "grammarIndex": 18,
+    "speakingIndex": 22,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 15,
+    "wordPriorityPosition": 16,
     "wordPriorityTotal": 18
   }
 }
