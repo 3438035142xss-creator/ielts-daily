@@ -1,83 +1,78 @@
 {
-  "date": "2026-10-04",
-  "weekday": "Sunday",
-  "generatedAt": "2026-10-04T04:37:08.876Z",
+  "date": "2026-10-05",
+  "weekday": "Monday",
+  "generatedAt": "2026-10-05T04:23:20.240Z",
   "word": {
-    "word": "prevalent",
-    "phonetic": "/ˈprevələnt/",
-    "partOfSpeech": "adj.",
-    "definition": "普遍的；盛行的",
-    "example": "This disease is more prevalent in tropical regions.",
-    "exampleTranslation": "这种疾病在热带地区更为普遍。",
+    "word": "undermine",
+    "phonetic": "/ˌʌndəˈmaɪn/",
+    "partOfSpeech": "v.",
+    "definition": "破坏；削弱",
+    "example": "Constant criticism can undermine a child's self-confidence.",
+    "exampleTranslation": "持续的批评会削弱孩子的自信心。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Corruption is prevalent in these parts.",
-      "movie": "Traffic",
-      "year": 2000,
-      "character": "Javier Rodriguez"
+      "quote": "They will try to undermine your authority.",
+      "movie": "Lincoln",
+      "year": 2012,
+      "character": "Abraham Lincoln"
     },
-    "youglish": "https://youglish.com/getbyword?q=prevalent"
+    "youglish": "https://youglish.com/getbyword?q=undermine"
   },
   "grammar": {
-    "title": "同位语",
-    "category": "句法",
-    "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
-    "structure": "名词 + 同位成分（名词/that从句）",
+    "title": "将来时态的表达",
+    "category": "时态",
+    "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
+    "structure": "will do / be going to do / be to do / be about to do",
     "examples": [
       {
-        "sentence": "Beijing, the capital of China, is a bustling metropolis.",
-        "translation": "北京，中国的首都，是个繁华的大都市。",
-        "note": "名词作同位语"
+        "sentence": "Look at the clouds! It is going to rain.",
+        "translation": "看那些云！要下雨了。",
+        "note": "表迹象"
       },
       {
-        "sentence": "The news that our team won the championship spread quickly.",
-        "translation": "我们队夺冠的消息传得很快。",
-        "note": "同位语从句"
+        "sentence": "The Prime Minister is to visit China next month.",
+        "translation": "首相将于下个月访问中国。",
+        "note": "官方安排"
       }
     ],
-    "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
+    "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Friends",
-    "questions": [
-      "Do you prefer spending time with friends or alone?",
-      "What do you usually do with your friends?",
-      "Do you think friends should have similar personalities?",
-      "How do you make new friends?"
-    ],
-    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
+    "part": "Part 2",
+    "topic": "Describe a useful invention",
+    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
+    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
     "keywords": [
-      "solitude",
-      "invigorating",
-      "diverse temperaments",
-      "organically",
-      "social circle"
+      "transformative",
+      "democratized",
+      "revolutionized",
+      "ubiquity",
+      "erosion"
     ],
-    "tips": "谈论人际关系时使用情感词汇，体现深度。"
+    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
   },
   "news": [
     {
-      "title": "US ban on nearly $1 billion of Canadian imports goes into effect",
-      "description": "US ban on nearly $1 billion of Canadian imports goes into effect",
-      "link": "https://newsus.cgtn.com/news/2026-09-30/US-ban-on-nearly-1-billion-of-Canadian-imports-goes-into-effect-1QQGk3JLnos/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US removes all Air Force bombers from UK base amid security concerns",
+      "description": "The United States has moved all of its bombers stationed at RAF Fairford in the United Kingdom back to their home stations in the United States, a Pentagon spokesperson said Sunday, following a securi",
+      "link": "https://news.cgtn.com/news/2026-10-05/US-removes-all-Air-Force-bombers-from-UK-base-amid-security-concerns-1QZgO36boUE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Japan opposition party Komeito selects new leader",
-      "description": "Japan's Komeito party, a former longtime ruling coalition junior partner, selected Mitsunari Okamoto as its new leader on Saturday as it prepares for an extraordinary Diet session starting next week, ",
-      "link": "https://news.cgtn.com/news/2026-10-03/Japan-opposition-party-Komeito-selects-new-leader-1QWlak8jGow/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Ebola deaths in the DR Congo hits 4000 mark",
+      "description": "Government figures show that the Ebola outbreak has killed more than 4,000 people, with about 8,300 confirmed cases across seven provinces. More than 2,000 patients have recovered.",
+      "link": "https://newsaf.cgtn.com/news/2026-10-02/Ebola-deaths-in-the-DR-Congo-hits-4000-mark-1QV5eHA2R3y/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "The Economist survey: Latin Americans increasingly favor China",
-      "description": "Favorability toward China has continued to improve across Latin America over the past two years, while views of the United States have generally declined, according to a latest survey released by The ",
-      "link": "https://news.cgtn.com/news/2026-10-01/The-Economist-survey-Latin-Americans-increasingly-favor-China-1QSMHenbobu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "How Chinese technology supports esports competition at the Asian Games",
+      "description": "How Chinese technology supports esports competition at the Asian Games",
+      "link": "https://news.cgtn.com/news/2026-10-02/How-Chinese-technology-supports-esports-competition-at-the-Asian-Games-1QUjFV0bj5S/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-      "description": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "description": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
+      "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.",
-      "description": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
-      "link": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+      "description": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
+      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
-      "description": "It was unclear what background checks had been carried out before he was allowed to fly to Israel.",
-      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
+      "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+      "description": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round, and the race appeared very close.",
+      "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 16,
-    "grammarIndex": 18,
-    "speakingIndex": 22,
+    "wordIndex": 17,
+    "grammarIndex": 19,
+    "speakingIndex": 23,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 16,
+    "wordPriorityPosition": 17,
     "wordPriorityTotal": 18
   }
 }
