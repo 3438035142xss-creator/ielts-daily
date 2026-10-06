@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-05",
-  "weekday": "Monday",
-  "generatedAt": "2026-10-05T04:23:20.240Z",
+  "date": "2026-10-06",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-10-06T05:10:39.407Z",
   "word": {
-    "word": "undermine",
-    "phonetic": "/ˌʌndəˈmaɪn/",
-    "partOfSpeech": "v.",
-    "definition": "破坏；削弱",
-    "example": "Constant criticism can undermine a child's self-confidence.",
-    "exampleTranslation": "持续的批评会削弱孩子的自信心。",
+    "word": "viable",
+    "phonetic": "/ˈvaɪəbl/",
+    "partOfSpeech": "adj.",
+    "definition": "可行的；能存活的",
+    "example": "Solar energy is now a viable alternative to fossil fuels.",
+    "exampleTranslation": "太阳能现在是化石燃料的可行替代品。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "They will try to undermine your authority.",
-      "movie": "Lincoln",
-      "year": 2012,
-      "character": "Abraham Lincoln"
+      "quote": "Is there a viable alternative?",
+      "movie": "The Matrix",
+      "year": 1999,
+      "character": "Morpheus"
     },
-    "youglish": "https://youglish.com/getbyword?q=undermine"
+    "youglish": "https://youglish.com/getbyword?q=viable"
   },
   "grammar": {
-    "title": "将来时态的表达",
-    "category": "时态",
-    "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
-    "structure": "will do / be going to do / be to do / be about to do",
+    "title": "冠词的用法",
+    "category": "冠词",
+    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
+    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
     "examples": [
       {
-        "sentence": "Look at the clouds! It is going to rain.",
-        "translation": "看那些云！要下雨了。",
-        "note": "表迹象"
+        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
+        "translation": "狗是忠诚的动物。（三种泛指表达）",
+        "note": "泛指的三种方式"
       },
       {
-        "sentence": "The Prime Minister is to visit China next month.",
-        "translation": "首相将于下个月访问中国。",
-        "note": "官方安排"
+        "sentence": "Love is more important than money.",
+        "translation": "爱比金钱更重要。",
+        "note": "抽象名词零冠词"
       }
     ],
-    "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
+    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a useful invention",
-    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
-    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
+    "topic": "Describe a goal you achieved",
+    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
+    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
     "keywords": [
-      "transformative",
-      "democratized",
-      "revolutionized",
-      "ubiquity",
-      "erosion"
+      "decidedly",
+      "accountability",
+      "overhauled",
+      "indescribable",
+      "perseverance"
     ],
-    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
+    "tips": "描述目标时强调努力过程，体现意志力。"
   },
   "news": [
     {
-      "title": "US removes all Air Force bombers from UK base amid security concerns",
-      "description": "The United States has moved all of its bombers stationed at RAF Fairford in the United Kingdom back to their home stations in the United States, a Pentagon spokesperson said Sunday, following a securi",
-      "link": "https://news.cgtn.com/news/2026-10-05/US-removes-all-Air-Force-bombers-from-UK-base-amid-security-concerns-1QZgO36boUE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US killed 235 people in strikes on alleged drug boats since 2025",
+      "description": "US killed 235 people in strikes on alleged drug boats since 2025",
+      "link": "https://newsus.cgtn.com/news/2026-10-06/US-killed-235-people-in-strikes-on-alleged-drug-boats-since-2025-1R0n0CSSXok/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Ebola deaths in the DR Congo hits 4000 mark",
-      "description": "Government figures show that the Ebola outbreak has killed more than 4,000 people, with about 8,300 confirmed cases across seven provinces. More than 2,000 patients have recovered.",
-      "link": "https://newsaf.cgtn.com/news/2026-10-02/Ebola-deaths-in-the-DR-Congo-hits-4000-mark-1QV5eHA2R3y/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Japan to trial purchase Ukrainian-made drones",
+      "description": "Japan has decided to make a trial purchase of drones from Ukrainian defense company SkyFall, former Japanese Defense Minister Itsunori Onodera said during a visit to Kyiv, as Tokyo explores deeper sec",
+      "link": "https://news.cgtn.com/news/2026-10-03/Japan-to-trial-purchase-Ukrainian-made-drones-1QWCrEJ7gM8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "How Chinese technology supports esports competition at the Asian Games",
-      "description": "How Chinese technology supports esports competition at the Asian Games",
-      "link": "https://news.cgtn.com/news/2026-10-02/How-Chinese-technology-supports-esports-competition-at-the-Asian-Games-1QUjFV0bj5S/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "South Africa steps up crackdown on corruption at borders",
+      "description": "South Africa is intensifying efforts to tackle corruption and fraud at its borders, with officials found guilty of misconduct facing disciplinary action, dismissal or criminal charges, an official sai",
+      "link": "https://newsaf.cgtn.com/news/2026-10-03/South-Africa-steps-up-crackdown-on-corruption-at-borders-1QWhJxze4zm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "description": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
-      "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+      "description": "The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia.",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "description": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+      "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
+      "description": "Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.",
+      "link": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
-      "description": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round, and the race appeared very close.",
-      "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+      "title": "Spain’s Leader Calls an Early Election",
+      "description": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
+      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 17,
-    "grammarIndex": 19,
-    "speakingIndex": 23,
+    "wordIndex": 18,
+    "grammarIndex": 20,
+    "speakingIndex": 24,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 17,
+    "wordPriorityPosition": 18,
     "wordPriorityTotal": 18
   }
 }
