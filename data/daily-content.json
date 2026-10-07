@@ -1,78 +1,83 @@
 {
-  "date": "2026-10-06",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-10-06T05:10:39.407Z",
+  "date": "2026-10-07",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-10-07T04:37:56.059Z",
   "word": {
-    "word": "viable",
-    "phonetic": "/ˈvaɪəbl/",
-    "partOfSpeech": "adj.",
-    "definition": "可行的；能存活的",
-    "example": "Solar energy is now a viable alternative to fossil fuels.",
-    "exampleTranslation": "太阳能现在是化石燃料的可行替代品。",
+    "word": "obscure",
+    "phonetic": "/əbˈskjʊə(r)/",
+    "partOfSpeech": "adj./v.",
+    "definition": "模糊的；晦涩的；使模糊",
+    "example": "The origins of this tradition remain obscure to historians.",
+    "exampleTranslation": "这一传统的起源对历史学家来说仍然模糊不清。",
     "ieltsLevel": "7",
-    "priority": "high",
+    "priority": "medium",
     "movieQuote": {
-      "quote": "Is there a viable alternative?",
-      "movie": "The Matrix",
-      "year": 1999,
-      "character": "Morpheus"
+      "quote": "His motives remain obscure to all of us.",
+      "movie": "The Imitation Game",
+      "year": 2014,
+      "character": "Alan Turing"
     },
-    "youglish": "https://youglish.com/getbyword?q=viable"
+    "youglish": "https://youglish.com/getbyword?q=obscure"
   },
   "grammar": {
-    "title": "冠词的用法",
-    "category": "冠词",
-    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
-    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
+    "title": "分词作定语",
+    "category": "非谓语动词",
+    "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
+    "structure": "名词 + -ing/-ed(短语)",
     "examples": [
       {
-        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
-        "translation": "狗是忠诚的动物。（三种泛指表达）",
-        "note": "泛指的三种方式"
+        "sentence": "The exciting news spread quickly.",
+        "translation": "这个令人兴奋的消息传得很快。",
+        "note": "现在分词表主动"
       },
       {
-        "sentence": "Love is more important than money.",
-        "translation": "爱比金钱更重要。",
-        "note": "抽象名词零冠词"
+        "sentence": "The book written by him is a bestseller.",
+        "translation": "他写的书是畅销书。",
+        "note": "过去分词表被动"
       }
     ],
-    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
+    "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a goal you achieved",
-    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
-    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
-    "keywords": [
-      "decidedly",
-      "accountability",
-      "overhauled",
-      "indescribable",
-      "perseverance"
+    "part": "Part 3",
+    "topic": "Media",
+    "questions": [
+      "How has the media changed in recent years?",
+      "Do you trust the news media?",
+      "What responsibilities do journalists have?",
+      "How does social media influence public opinion?"
     ],
-    "tips": "描述目标时强调努力过程，体现意志力。"
+    "sampleAnswer": "The media landscape has been radically reshaped by digitalization, with traditional outlets losing ground to social platforms and independent content creators. Trust in mainstream media has declined in many countries, partly due to sensationalism, political bias, and the proliferation of misinformation that exploits social media algorithms. Journalists bear profound responsibilities: to verify facts rigorously, present multiple perspectives, and hold power to account—all while navigating commercial pressures and tight deadlines. Social media's influence on public opinion is profound but double-edged: it democratizes information sharing and gives voice to marginalized groups, yet it also creates echo chambers that reinforce existing beliefs and amplifies emotionally charged content at the expense of nuanced discussion. Cultivating media literacy has never been more essential.",
+    "keywords": [
+      "radically",
+      "sensationalism",
+      "proliferation",
+      "echo chambers",
+      "media literacy"
+    ],
+    "tips": "媒体话题常用变化和影响分析。"
   },
   "news": [
     {
-      "title": "US killed 235 people in strikes on alleged drug boats since 2025",
-      "description": "US killed 235 people in strikes on alleged drug boats since 2025",
-      "link": "https://newsus.cgtn.com/news/2026-10-06/US-killed-235-people-in-strikes-on-alleged-drug-boats-since-2025-1R0n0CSSXok/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Lithuanian parliament backs lifting nuclear weapons ban",
+      "description": "Lithuania's parliament has backed a constitutional amendment that would remove a ban on the deployment of weapons of mass destruction on Lithuanian territory, potentially opening the way for allied nu",
+      "link": "https://news.cgtn.com/news/2026-10-06/Lithuanian-parliament-backs-lifting-nuclear-weapons-ban-1R1GrpwZiSI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Japan to trial purchase Ukrainian-made drones",
-      "description": "Japan has decided to make a trial purchase of drones from Ukrainian defense company SkyFall, former Japanese Defense Minister Itsunori Onodera said during a visit to Kyiv, as Tokyo explores deeper sec",
-      "link": "https://news.cgtn.com/news/2026-10-03/Japan-to-trial-purchase-Ukrainian-made-drones-1QWCrEJ7gM8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+      "description": "OpenAI safety employee quits, says 'time for trial and error is over'",
+      "link": "https://news.cgtn.com/news/2026-10-05/OpenAI-safety-employee-quits-says-time-for-trial-and-error-is-over--1QZf0MrrhM4/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "South Africa steps up crackdown on corruption at borders",
-      "description": "South Africa is intensifying efforts to tackle corruption and fraud at its borders, with officials found guilty of misconduct facing disciplinary action, dismissal or criminal charges, an official sai",
-      "link": "https://newsaf.cgtn.com/news/2026-10-03/South-Africa-steps-up-crackdown-on-corruption-at-borders-1QWhJxze4zm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Rising prices, weak spending put Japan's policymakers in tight spot",
+      "description": "Rising prices, weak spending put Japan's policymakers in tight spot",
+      "link": "https://news.cgtn.com/news/2026-10-04/Rising-prices-weak-spending-put-Japan-s-policymakers-in-tight-spot-1QXHBfcprMs/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
-      "description": "The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia.",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+      "title": "Student Protests Expand to More Than 40 French Cities",
+      "description": "Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.",
+      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
-      "description": "Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.",
-      "link": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
+      "title": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
+      "description": "Jonathan Powell, Britain’s national security adviser, visited Israel last week to try to negotiate over the looming closure of his country’s consulate in Jerusalem, according to three officials.",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Spain’s Leader Calls an Early Election",
-      "description": "Prime Minister Pedro Sánchez of Spain has faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle.",
-      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "description": "MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.",
+      "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
-      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 18,
-    "grammarIndex": 20,
-    "speakingIndex": 24,
+    "wordIndex": 19,
+    "grammarIndex": 21,
+    "speakingIndex": 25,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
-    "wordPriority": "high",
-    "wordPriorityPosition": 18,
-    "wordPriorityTotal": 18
+    "wordPriority": "medium",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 11
   }
 }
