@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-08",
-  "weekday": "Thursday",
-  "generatedAt": "2026-10-08T04:48:34.399Z",
+  "date": "2026-10-09",
+  "weekday": "Friday",
+  "generatedAt": "2026-10-09T04:51:41.477Z",
   "word": {
-    "word": "reluctant",
-    "phonetic": "/rɪˈlʌktənt/",
+    "word": "subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "不情愿的；勉强的",
-    "example": "She was reluctant to share her personal information online.",
-    "exampleTranslation": "她不情愿在网上分享个人信息。",
+    "definition": "随后的；后来的",
+    "example": "Subsequent events proved that his prediction was correct.",
+    "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
     "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "I'm reluctant to trust anyone in this town.",
-      "movie": "Chinatown",
-      "year": 1974,
-      "character": "J.J. Gittes"
+      "quote": "Subsequent events proved me right.",
+      "movie": "Spotlight",
+      "year": 2015,
+      "character": "Walter Robinson"
     },
-    "youglish": "https://youglish.com/getbyword?q=reluctant"
+    "youglish": "https://youglish.com/getbyword?q=subsequent"
   },
   "grammar": {
-    "title": "条件句的混合用法",
+    "title": "wish和hope的用法",
     "category": "虚拟语气",
-    "explanation": "混合条件句指主从句时间不一致的条件句，需根据各自时间调整动词形式。如：与过去事实相反的条件 + 对现在的影响。",
-    "structure": "If + had done, would + do（过去条件+现在结果）",
+    "explanation": "wish表愿望，从句用虚拟语气（与现在相反用过去式，与过去相反用过去完成时）；hope表希望，从句用陈述语气。",
+    "structure": "wish + 过去式/过去完成时; hope + 现在时/将来时",
     "examples": [
       {
-        "sentence": "If I had studied medicine, I would be a doctor now.",
-        "translation": "如果我当初学医，现在就是医生了。",
-        "note": "过去条件+现在结果"
+        "sentence": "I wish I were taller. / I hope you will succeed.",
+        "translation": "我希望我能更高些。/ 我希望你会成功。",
+        "note": "wish虚拟/hope陈述"
       }
     ],
-    "ieltsTip": "雅思写作中混合条件句可体现对假设情况的深入分析，是高分句式。"
+    "ieltsTip": "雅思口语中wish和hope的区分是常见考点，注意虚拟语气的运用。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Family",
+    "part": "Part 1",
+    "topic": "Reading",
     "questions": [
-      "How have family structures changed in your country?",
-      "What role do grandparents play in modern families?",
-      "Is it better for children to grow up in large or small families?",
-      "How will family relationships change in the future?"
+      "Do you like reading?",
+      "What kind of books do you read?",
+      "Do you prefer e-books or paper books?",
+      "What was the last book you read?"
     ],
-    "sampleAnswer": "Family structures in China have undergone significant transformations, shifting from extended multi-generational households to smaller nuclear families, particularly in urban areas where housing constraints and career demands prevail. Grandparents still play vital roles, often serving as primary caregivers for grandchildren while parents work, though this arrangement can sometimes generate intergenerational conflicts over child-rearing philosophies. Whether large or small families are preferable depends on context: large families offer richer social support and diverse role models, while small families can provide more individualized attention and resources per child. Looking ahead, I expect family relationships will become more diverse and flexible, with rising acceptance of single-parent families, blended families, and child-free couples. The fundamental function of families—providing love, support, and belonging—will endure, even as their forms multiply.",
+    "sampleAnswer": "I'm an avid reader, finding few pleasures as satisfying as getting lost in a good book. My reading tastes are fairly broad, encompassing literary fiction, biographies, and popular science. When it comes to format, I have a soft spot for paper books—the tactile sensation of turning pages and the unmistakable scent of printed paper create an irreplaceable reading experience. However, I also appreciate e-books for their convenience, especially when traveling. The last book I finished was 'Sapiens' by Yuval Noah Harari, a thought-provoking exploration of human history that fundamentally challenged my understanding of how civilizations develop.",
     "keywords": [
-      "transformations",
-      "nuclear",
-      "caregivers",
-      "intergenerational",
-      "endure"
+      "avid",
+      "encompassing",
+      "tactile",
+      "irreplaceable",
+      "thought-provoking"
     ],
-    "tips": "家庭话题常用对比和趋势分析。"
+    "tips": "描述阅读时使用具体书名和感受，体现真实性。"
   },
   "news": [
     {
-      "title": "Trump announces $6.6 billion submarine shipyard in Maryland",
-      "description": "Trump announces $6.6 billion submarine shipyard in Maryland",
-      "link": "https://news.cgtn.com/news/2026-10-07/Trump-announces-6-6-billion-submarine-shipyard-in-Maryland-1R34p94Uvkc/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Canadian Anne Carson wins 2026 Nobel Prize in Literature",
+      "description": "Canadian writer Anne Carson has won the 2026 Nobel Prize in Literature, the Swedish Academy announced Thursday.",
+      "link": "https://news.cgtn.com/news/2026-10-08/news-1R4UMOJTbVK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "AI researchers tell New York that an AI catastrophe is possible",
-      "description": "AI researchers tell New York that an AI catastrophe is possible",
-      "link": "https://newsus.cgtn.com/news/2026-10-06/AI-researchers-tell-New-York-that-an-AI-catastrophe-is-possible-1R0BHP9mMXS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Quarantine completed in Russia's Irkutsk after lab worker's death",
+      "description": "Quarantine completed in Russia's Irkutsk after lab worker's death",
+      "link": "https://news.cgtn.com/news/2026-10-09/Quarantine-completed-in-Russia-s-Irkutsk-after-lab-worker-s-death-1R5QbwUlFfy/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China plays constructive role at G20 trade ministers' meeting",
-      "description": "China's Ministry of Commerce said on Sunday that China played a constructive role at the G20 trade ministers' meeting, held in Milwaukee, the United States, from September 30 to October 1.",
-      "link": "https://news.cgtn.com/news/2026-10-04/China-plays-constructive-role-at-G20-trade-ministers-meeting-1QXMzLUJSXC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Three years on, Gaza faces heavy losses and an uncertain future",
+      "description": "October 7 marks three years since the conflict began. Gaza is now devastated, with rubble strewn across much of the territory. Nearly 74,000 Palestinians have been killed and more than 174,000 injured",
+      "link": "https://news.cgtn.com/news/2026-10-06/Three-years-on-Gaza-faces-heavy-losses-and-an-uncertain-future-1R1dWVi4wbS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
-      "description": "María del Carmen Abascal, aged and ailing, became a symbol of the country’s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering national elections.",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+      "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
+      "description": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-      "description": "Danilo Alves Silva wore an Immigration and Customs Enforcement costume from Amazon at a polling location for the Brazilian presidential election.",
-      "link": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
+      "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
+      "description": "A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.",
+      "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
-      "description": "Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives.",
-      "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
+      "description": "Counterterrorism police said the men were found inside the perimeter of R.A.F. Molesworth, a base used by the United States, raising concerns about security.",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "description": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "France's school protests: what lies behind the anger",
-      "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 20,
-    "grammarIndex": 22,
-    "speakingIndex": 26,
+    "wordIndex": 21,
+    "grammarIndex": 23,
+    "speakingIndex": 27,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 11
   }
 }
