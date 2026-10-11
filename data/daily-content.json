@@ -1,83 +1,78 @@
 {
-  "date": "2026-10-10",
-  "weekday": "Saturday",
-  "generatedAt": "2026-10-10T04:37:03.030Z",
+  "date": "2026-10-11",
+  "weekday": "Sunday",
+  "generatedAt": "2026-10-11T04:21:56.395Z",
   "word": {
-    "word": "tangible",
-    "phonetic": "/ˈtændʒəbl/",
-    "partOfSpeech": "adj.",
-    "definition": "有形的；可触摸的；明确的",
-    "example": "The company needs to produce tangible results to attract investors.",
-    "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+    "word": "warrant",
+    "phonetic": "/ˈwɒrənt/",
+    "partOfSpeech": "v./n.",
+    "definition": "值得；保证；许可证",
+    "example": "The situation is serious enough to warrant immediate action.",
+    "exampleTranslation": "情况严重到值得立即采取行动。",
     "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We need tangible evidence, not theories.",
-      "movie": "Zodiac",
-      "year": 2007,
-      "character": "Robert Graysmith"
+      "quote": "We have a warrant to search the premises.",
+      "movie": "The Departed",
+      "year": 2006,
+      "character": "Colin Sullivan"
     },
-    "youglish": "https://youglish.com/getbyword?q=tangible"
+    "youglish": "https://youglish.com/getbyword?q=warrant"
   },
   "grammar": {
-    "title": "so...that与such...that",
-    "category": "结果状语",
-    "explanation": "so + 形容词/副词 + that从句；such + (a/an) + 形容词 + 名词 + that从句。so强调程度，such强调性质。",
-    "structure": "so + adj./adv. + that; such + (a/an) + adj. + n. + that",
+    "title": "there be句型",
+    "category": "特殊句式",
+    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
+    "structure": "There + be + 主语 + 状语",
     "examples": [
       {
-        "sentence": "The film was so boring that I fell asleep.",
-        "translation": "电影太无聊了，我睡着了。",
-        "note": "so + 形容词"
+        "sentence": "There is a book and two pens on the desk.",
+        "translation": "桌上有本书和两支笔。",
+        "note": "就近原则，用is"
       },
       {
-        "sentence": "It was such a boring film that I fell asleep.",
-        "translation": "这是如此无聊的电影，我睡着了。",
-        "note": "such + 名词短语"
+        "sentence": "There exist various opinions on this issue.",
+        "translation": "在这个问题上存在各种观点。",
+        "note": "be可替换为exist/seem等"
       }
     ],
-    "ieltsTip": "雅思写作中so/such...that结构可增强表达的感染力，让论述更生动。"
+    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Sports",
-    "questions": [
-      "Do you like sports?",
-      "What sports do you enjoy watching or playing?",
-      "How often do you exercise?",
-      "Did you play sports when you were a child?"
-    ],
-    "sampleAnswer": "I genuinely enjoy sports, both as a participant and a spectator. As a player, I'm particularly fond of badminton and swimming—they provide excellent cardiovascular workouts while being relatively gentle on the joints. As a spectator, I'm captivated by tennis and football, especially during major tournaments. I try to exercise at least three times a week, though work commitments sometimes interfere with this routine. As a child, I was quite active, participating in school basketball teams and spending countless afternoons cycling with friends. Those early experiences instilled in me a lifelong appreciation for physical activity and team spirit.",
+    "part": "Part 2",
+    "topic": "Describe a piece of advice you received",
+    "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
+    "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
     "keywords": [
-      "cardiovascular",
-      "captivated",
-      "tournaments",
-      "instilled",
-      "team spirit"
+      "agonizing",
+      "prestigious",
+      "intrinsic motivation",
+      "external validation",
+      "fulfilling"
     ],
-    "tips": "谈论运动时使用动作动词，体现活力。"
+    "tips": "描述建议时强调其深远影响，体现反思。"
   },
   "news": [
     {
-      "title": "US sanctions on ICC draw criticism from UN, member states",
-      "description": "UN Secretary-General António Guterres and foreign ministers of eight countries on Friday criticized the US announcement of sanctions against the International Criminal Court.",
-      "link": "https://news.cgtn.com/news/2026-10-10/news-1R7mNT6P2fK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Expert analysis: Three key takeaways from latest China-EU trade talks",
+      "description": "CGTN takes a deeper look at the latest joint statement that addresses China-EU economic and trade ties.",
+      "link": "https://news.cgtn.com/news/2026-10-10/Expert-analysis-Three-key-takeaways-from-latest-China-EU-trade-talks-1R8nmquvnB6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China slams Japan's right-wing forces over AI distortion of WWII",
-      "description": "China slams Japan's right-wing forces over AI distortion of WWII",
-      "link": "https://news.cgtn.com/news/2026-10-09/China-slams-Japan-s-right-wing-forces-over-AI-distortion-of-WWII-1R6Dl0AMavm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China expresses sympathies to Panama over earthquake",
+      "description": "China on Saturday expressed sympathies to the Panamanian government and people in the affected region following a magnitude-7.6 earthquake that struck Panama on Friday.",
+      "link": "https://news.cgtn.com/news/2026-10-10/China-expresses-sympathies-to-Panama-over-earthquake-1R8qmp4Mq1W/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Finland halts Google data center work over environmental assessment",
-      "description": "A Finnish supervisory authority on Tuesday ordered environmentally significant preparatory work at two planned Google data center sites in northern Finland to be halted until legally required environm",
-      "link": "https://news.cgtn.com/news/2026-10-07/Finland-halts-Google-data-center-work-over-environmental-assessment-1R2Ig6FxTzy/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "French president's diplomatic adviser to visit China",
+      "description": "French President Emmanuel Macron's diplomatic adviser Emmanuel Bonne will visit China from October 9 to 13, a Chinese foreign ministry spokesperson announced on Thursday.",
+      "link": "https://news.cgtn.com/news/2026-10-08/French-president-s-diplomatic-adviser-to-visit-China-1R4EJxyomxG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-      "description": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palest",
-      "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+      "title": "What to Know About the Delhi Protests",
+      "description": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
+      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-      "description": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
-      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+      "description": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Palestinian Authority Says Elections Are to Be Postponed",
-      "description": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts.",
-      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
+      "title": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
+      "description": "Navi Pillay, who won this year’s Nobel Peace Prize, fought racism in South Africa, shaping her international career as a judge and advocate for justice and human rights.",
+      "link": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "description": "The attack has been blamed on Yemen's Houthis, who have not taken responsibility for the latest strike.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 22,
-    "grammarIndex": 24,
-    "speakingIndex": 28,
+    "wordIndex": 23,
+    "grammarIndex": 25,
+    "speakingIndex": 29,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 4,
+    "wordPriorityPosition": 5,
     "wordPriorityTotal": 11
   }
 }
