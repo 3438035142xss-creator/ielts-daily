@@ -1,78 +1,83 @@
 {
-  "date": "2026-10-11",
-  "weekday": "Sunday",
-  "generatedAt": "2026-10-11T04:21:56.395Z",
+  "date": "2026-10-12",
+  "weekday": "Monday",
+  "generatedAt": "2026-10-12T04:38:02.542Z",
   "word": {
-    "word": "warrant",
-    "phonetic": "/ˈwɒrənt/",
+    "word": "yield",
+    "phonetic": "/jiːld/",
     "partOfSpeech": "v./n.",
-    "definition": "值得；保证；许可证",
-    "example": "The situation is serious enough to warrant immediate action.",
-    "exampleTranslation": "情况严重到值得立即采取行动。",
-    "ieltsLevel": "7",
+    "definition": "产出；屈服；产量",
+    "example": "The new farming technique yielded a record harvest this year.",
+    "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We have a warrant to search the premises.",
-      "movie": "The Departed",
-      "year": 2006,
-      "character": "Colin Sullivan"
+      "quote": "The road will not yield to your impatience.",
+      "movie": "No Country for Old Men",
+      "year": 2007,
+      "character": "Llewelyn Moss"
     },
-    "youglish": "https://youglish.com/getbyword?q=warrant"
+    "youglish": "https://youglish.com/getbyword?q=yield"
   },
   "grammar": {
-    "title": "there be句型",
-    "category": "特殊句式",
-    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
-    "structure": "There + be + 主语 + 状语",
+    "title": "省略与替代",
+    "category": "语篇衔接",
+    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
+    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
     "examples": [
       {
-        "sentence": "There is a book and two pens on the desk.",
-        "translation": "桌上有本书和两支笔。",
-        "note": "就近原则，用is"
+        "sentence": "—Will he come? —I hope so.",
+        "translation": "—他会来吗？—我希望如此。",
+        "note": "so替代that he will come"
       },
       {
-        "sentence": "There exist various opinions on this issue.",
-        "translation": "在这个问题上存在各种观点。",
-        "note": "be可替换为exist/seem等"
+        "sentence": "I don't like this shirt. Show me a smaller one.",
+        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
+        "note": "one替代shirt"
       }
     ],
-    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
+    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a piece of advice you received",
-    "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
-    "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
-    "keywords": [
-      "agonizing",
-      "prestigious",
-      "intrinsic motivation",
-      "external validation",
-      "fulfilling"
+    "part": "Part 1",
+    "topic": "Hometown",
+    "questions": [
+      "Where is your hometown?",
+      "What do you like most about your hometown?",
+      "Is there anything you dislike about your hometown?",
+      "Would you say your hometown is a good place to live?"
     ],
-    "tips": "描述建议时强调其深远影响，体现反思。"
+    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "keywords": [
+      "picturesque",
+      "blend",
+      "congestion",
+      "robust",
+      "cultural heritage"
+    ],
+    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
   },
   "news": [
     {
-      "title": "Expert analysis: Three key takeaways from latest China-EU trade talks",
-      "description": "CGTN takes a deeper look at the latest joint statement that addresses China-EU economic and trade ties.",
-      "link": "https://news.cgtn.com/news/2026-10-10/Expert-analysis-Three-key-takeaways-from-latest-China-EU-trade-talks-1R8nmquvnB6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "South Sudan's Kiir tightens rules on officials' foreign travel",
+      "description": "South Sudanese President Salva Kiir has reiterated that officials holding constitutional offices must seek his approval before travelling abroad.",
+      "link": "https://newsaf.cgtn.com/news/2026-10-11/South-Sudan-s-Kiir-tightens-rules-on-officials-foreign-travel-1R9JCnqz5UQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China expresses sympathies to Panama over earthquake",
-      "description": "China on Saturday expressed sympathies to the Panamanian government and people in the affected region following a magnitude-7.6 earthquake that struck Panama on Friday.",
-      "link": "https://news.cgtn.com/news/2026-10-10/China-expresses-sympathies-to-Panama-over-earthquake-1R8qmp4Mq1W/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+      "description": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+      "link": "https://news.cgtn.com/news/2026-10-11/news-1Ra5cISdAIg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "French president's diplomatic adviser to visit China",
-      "description": "French President Emmanuel Macron's diplomatic adviser Emmanuel Bonne will visit China from October 9 to 13, a Chinese foreign ministry spokesperson announced on Thursday.",
-      "link": "https://news.cgtn.com/news/2026-10-08/French-president-s-diplomatic-adviser-to-visit-China-1R4EJxyomxG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US county sues to block Trump's Triumphal Arch project",
+      "description": "Local authorities in Arlington County, Virginia, on Thursday sued to block construction of US President Donald Trump's planned Triumphal Arch project.",
+      "link": "https://news.cgtn.com/news/2026-10-09/US-county-sues-to-block-Trump-s-Triumphal-Arch-project-1R6aTQRk6SA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "What to Know About the Delhi Protests",
-      "description": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
-      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "description": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
-      "description": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
-      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "description": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
-      "description": "Navi Pillay, who won this year’s Nobel Peace Prize, fought racism in South Africa, shaping her international career as a judge and advocate for justice and human rights.",
-      "link": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "description": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "description": "The attack has been blamed on Yemen's Houthis, who have not taken responsibility for the latest strike.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "description": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 23,
-    "grammarIndex": 25,
-    "speakingIndex": 29,
+    "wordIndex": 24,
+    "grammarIndex": 26,
+    "speakingIndex": 1,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 11
   }
 }
