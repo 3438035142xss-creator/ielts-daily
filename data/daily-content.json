@@ -1,83 +1,83 @@
 {
-  "date": "2026-10-12",
-  "weekday": "Monday",
-  "generatedAt": "2026-10-12T04:38:02.542Z",
+  "date": "2026-10-13",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-10-13T05:43:51.035Z",
   "word": {
-    "word": "yield",
-    "phonetic": "/jiːld/",
-    "partOfSpeech": "v./n.",
-    "definition": "产出；屈服；产量",
-    "example": "The new farming technique yielded a record harvest this year.",
-    "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
-    "ieltsLevel": "6",
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "partOfSpeech": "adj.",
+    "definition": "模棱两可的；含糊的",
+    "example": "The politician gave an ambiguous answer to the reporter's question.",
+    "exampleTranslation": "这位政治家对记者的问题给出了模棱两可的回答。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "The road will not yield to your impatience.",
-      "movie": "No Country for Old Men",
-      "year": 2007,
-      "character": "Llewelyn Moss"
+      "quote": "His answer was deliberately ambiguous.",
+      "movie": "Tinker Tailor Soldier Spy",
+      "year": 2011,
+      "character": "George Smiley"
     },
-    "youglish": "https://youglish.com/getbyword?q=yield"
+    "youglish": "https://youglish.com/getbyword?q=ambiguous"
   },
   "grammar": {
-    "title": "省略与替代",
-    "category": "语篇衔接",
-    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
-    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
+    "title": "现在完成进行时",
+    "category": "时态",
+    "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
+    "structure": "have/has been + 动词-ing",
     "examples": [
       {
-        "sentence": "—Will he come? —I hope so.",
-        "translation": "—他会来吗？—我希望如此。",
-        "note": "so替代that he will come"
+        "sentence": "I have been waiting for you for two hours.",
+        "translation": "我等你等了两个小时了。",
+        "note": "强调持续和等待感"
       },
       {
-        "sentence": "I don't like this shirt. Show me a smaller one.",
-        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
-        "note": "one替代shirt"
+        "sentence": "She has been working on this project since January.",
+        "translation": "她从一月起就一直在做这个项目。",
+        "note": "强调持续性"
       }
     ],
-    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
+    "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Hometown",
+    "topic": "Study / Work",
     "questions": [
-      "Where is your hometown?",
-      "What do you like most about your hometown?",
-      "Is there anything you dislike about your hometown?",
-      "Would you say your hometown is a good place to live?"
+      "Are you a student or do you work?",
+      "What is your favorite subject / aspect of your job?",
+      "Why did you choose this field?",
+      "What do you plan to do in the future?"
     ],
-    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
     "keywords": [
-      "picturesque",
-      "blend",
-      "congestion",
-      "robust",
-      "cultural heritage"
+      "major in",
+      "fascinating",
+      "forefront",
+      "innovation",
+      "aspire"
     ],
-    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
+    "tips": "用具体例子让回答生动，避免空泛。"
   },
   "news": [
     {
-      "title": "South Sudan's Kiir tightens rules on officials' foreign travel",
-      "description": "South Sudanese President Salva Kiir has reiterated that officials holding constitutional offices must seek his approval before travelling abroad.",
-      "link": "https://newsaf.cgtn.com/news/2026-10-11/South-Sudan-s-Kiir-tightens-rules-on-officials-foreign-travel-1R9JCnqz5UQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China's top diplomat to attend CICA summit, visit four countries",
+      "description": "China's top diplomat Wang Yi will attend the Seventh Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA) held in Baku, Azerbaijan on October 15 as Special Represent",
+      "link": "https://news.cgtn.com/news/2026-10-12/China-s-top-diplomat-to-attend-CICA-summit-visit-four-countries-1RbxFvQ0Zc4/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Trump says Russia and Ukraine reached 'energy ceasefire'",
-      "description": "Trump says Russia and Ukraine reached 'energy ceasefire'",
-      "link": "https://news.cgtn.com/news/2026-10-11/news-1Ra5cISdAIg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China, New Zealand to expand services, new energy cooperation: premier",
+      "description": "China is ready to work with New Zealand to tap the potential of trade in services and expand cooperation in sectors such as new energy vehicles, photovoltaics and wind power, Chinese Premier Li Qiang ",
+      "link": "https://news.cgtn.com/news/2026-10-12/China-New-Zealand-to-expand-services-new-energy-cooperation-premier-1RbG5A6kF3y/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "US county sues to block Trump's Triumphal Arch project",
-      "description": "Local authorities in Arlington County, Virginia, on Thursday sued to block construction of US President Donald Trump's planned Triumphal Arch project.",
-      "link": "https://news.cgtn.com/news/2026-10-09/US-county-sues-to-block-Trump-s-Triumphal-Arch-project-1R6aTQRk6SA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Abbas cancels November vote, pushes Palestinian elections to 2027",
+      "description": "Abbas cancels November vote, pushes Palestinian elections to 2027",
+      "link": "https://news.cgtn.com/news/2026-10-10/news-1R8f4dzsQBa/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "description": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+      "title": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
+      "description": "European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.",
+      "link": "https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
-      "description": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.",
-      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "title": "Dozens Killed in Airstrikes Near Sudan-Egypt Border",
+      "description": "The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions.",
+      "link": "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "description": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+      "description": "With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.",
+      "link": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump faces growing backlash over plans to import diesel from Russia",
-      "description": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "description": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 24,
-    "grammarIndex": 26,
-    "speakingIndex": 1,
+    "wordIndex": 25,
+    "grammarIndex": 27,
+    "speakingIndex": 2,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 6,
+    "wordPriorityPosition": 7,
     "wordPriorityTotal": 11
   }
 }
