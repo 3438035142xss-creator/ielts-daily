@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-15",
-  "weekday": "Thursday",
-  "generatedAt": "2026-10-15T03:28:49.288Z",
+  "date": "2026-10-16",
+  "weekday": "Friday",
+  "generatedAt": "2026-10-16T03:24:26.020Z",
   "word": {
-    "word": "conducive",
-    "phonetic": "/kənˈdjuːsɪv/",
+    "word": "eloquent",
+    "phonetic": "/ˈeləkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "有助于...的；有益的",
-    "example": "A quiet environment is conducive to effective studying.",
-    "exampleTranslation": "安静的环境有助于高效学习。",
-    "ieltsLevel": "7",
+    "definition": "雄辩的；有说服力的",
+    "example": "She gave an eloquent speech that moved the entire audience.",
+    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
+    "ieltsLevel": "7+",
     "priority": "medium",
     "movieQuote": {
-      "quote": "This setting is hardly conducive to clear thinking.",
-      "movie": "A Beautiful Mind",
-      "year": 2001,
-      "character": "John Nash"
+      "quote": "Your silence has been more eloquent than any words.",
+      "movie": "The King's Speech",
+      "year": 2010,
+      "character": "King George VI"
     },
-    "youglish": "https://youglish.com/getbyword?q=conducive"
+    "youglish": "https://youglish.com/getbyword?q=eloquent"
   },
   "grammar": {
-    "title": "used to与be used to",
-    "category": "习惯表达",
-    "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
-    "structure": "used to + do; be/get used to + doing",
+    "title": "as的多种用法",
+    "category": "连词",
+    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
+    "structure": "as + 从句（多重含义）",
     "examples": [
       {
-        "sentence": "I used to play basketball, but now I prefer reading.",
-        "translation": "我过去常打篮球，但现在更喜欢阅读。",
-        "note": "used to + do"
+        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
+        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
+        "note": "时间/原因"
       },
       {
-        "sentence": "I am used to getting up early.",
-        "translation": "我习惯早起。",
-        "note": "be used to + doing"
+        "sentence": "Tired as he was, he continued working.",
+        "translation": "尽管累了，他还是继续工作。",
+        "note": "让步（倒装）"
       }
     ],
-    "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
+    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a person who has influenced you",
-    "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
-    "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
+    "topic": "Describe a memorable journey",
+    "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
+    "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
     "keywords": [
-      "profoundly",
-      "unwavering",
-      "critically",
-      "fearlessly",
-      "resilience"
+      "solo trip",
+      "scenic",
+      "chance encounter",
+      "language barrier",
+      "precious"
     ],
-    "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
+    "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
   },
   "news": [
     {
-      "title": "Maritime security in Asia sets example for global cooperation",
-      "description": "Maritime security in Asia sets example for global cooperation",
-      "link": "https://news.cgtn.com/news/2026-10-14/Maritime-security-in-Asia-sets-example-for-global-cooperation-1ReNzl5YzYs/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Adidas CEO: Competition with Chinese brands makes us better",
+      "description": "Adidas CEO: Competition with Chinese brands makes us better",
+      "link": "https://news.cgtn.com/news/2026-10-15/Adidas-CEO-Competition-with-Chinese-brands-makes-us-better-1RgtSbuMhRC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese mainland: Lai Ching-te's rhetoric double-faced and futile",
-      "description": "Chinese mainland: Lai Ching-te's rhetoric double-faced and futile",
-      "link": "https://news.cgtn.com/news/2026-10-14/Chinese-mainland-Lai-Ching-te-s-rhetoric-double-faced-and-futile-1ReKt0akhQA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "CGTN Poll丨What does the world gain through China's open door?",
+      "description": "CGTN Poll丨What does the world gain through China's open door?",
+      "link": "https://news.cgtn.com/news/2026-10-15/CGTN-Poll-What-does-the-world-gain-through-China-s-open-door--1Rgu48KwSCk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "How do China-LAC ties amplify the Global South's governance voice?",
-      "description": "How do China-LAC ties amplify the Global South's governance voice?",
-      "link": "https://news.cgtn.com/news/2026-10-14/How-do-China-LAC-ties-amplify-the-Global-South-s-governance-voice--1RdEMF6WKfS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Saudi-Houthi strikes continue with more threats to infrastructure",
+      "description": "Fighting between the Saudi-led coalition and Yemen's Houthi group continued on Wednesday as the Houthis warned of strikes \"deep inside Saudi Arabia.\"",
+      "link": "https://news.cgtn.com/news/2026-10-15/Saudi-Houthi-strikes-continue-with-more-threats-to-infrastructure-1RfTzjjT4zu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
-      "description": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+      "description": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-      "description": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "title": "Second Ebola Infection Announced in Kenya",
+      "description": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures.",
+      "link": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Turkey Raids Pro-Opposition TV Station",
-      "description": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets.",
-      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "title": "Houthi Missiles Strike Government Headquarters in Yemen",
+      "description": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
+      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "description": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Student protesters attack government buildings in Albania",
-      "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 27,
-    "grammarIndex": 29,
-    "speakingIndex": 4,
+    "wordIndex": 28,
+    "grammarIndex": 30,
+    "speakingIndex": 5,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 9,
+    "wordPriorityPosition": 10,
     "wordPriorityTotal": 11
   }
 }
