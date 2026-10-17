@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-16",
-  "weekday": "Friday",
-  "generatedAt": "2026-10-16T03:24:26.020Z",
+  "date": "2026-10-17",
+  "weekday": "Saturday",
+  "generatedAt": "2026-10-17T03:14:53.571Z",
   "word": {
-    "word": "eloquent",
-    "phonetic": "/ˈeləkwənt/",
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
     "partOfSpeech": "adj.",
-    "definition": "雄辩的；有说服力的",
-    "example": "She gave an eloquent speech that moved the entire audience.",
-    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
-    "ieltsLevel": "7+",
+    "definition": "可行的；可能的",
+    "example": "We need to determine whether the project is feasible within budget.",
+    "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Your silence has been more eloquent than any words.",
-      "movie": "The King's Speech",
-      "year": 2010,
-      "character": "King George VI"
+      "quote": "We need a feasible plan within 48 hours.",
+      "movie": "Apollo 13",
+      "year": 1995,
+      "character": "Jim Lovell"
     },
-    "youglish": "https://youglish.com/getbyword?q=eloquent"
+    "youglish": "https://youglish.com/getbyword?q=feasible"
   },
   "grammar": {
-    "title": "as的多种用法",
-    "category": "连词",
-    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
-    "structure": "as + 从句（多重含义）",
+    "title": "现在完成时 vs 一般过去时",
+    "category": "时态",
+    "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
+    "structure": "have/has + 过去分词 vs 动词过去式",
     "examples": [
       {
-        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
-        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
-        "note": "时间/原因"
+        "sentence": "I have lived in London for five years.",
+        "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
+        "note": "强调持续到现在"
       },
       {
-        "sentence": "Tired as he was, he continued working.",
-        "translation": "尽管累了，他还是继续工作。",
-        "note": "让步（倒装）"
+        "sentence": "I lived in London for five years.",
+        "translation": "我在伦敦住过五年。（现在已不住那里）",
+        "note": "仅陈述过去经历"
       }
     ],
-    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
+    "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a memorable journey",
-    "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
-    "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
+    "topic": "Describe a book that influenced you",
+    "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
+    "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
     "keywords": [
-      "solo trip",
-      "scenic",
-      "chance encounter",
-      "language barrier",
-      "precious"
+      "powerful account",
+      "derived",
+      "profoundly",
+      "perspective",
+      "inevitable"
     ],
-    "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
+    "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
   },
   "news": [
     {
-      "title": "Adidas CEO: Competition with Chinese brands makes us better",
-      "description": "Adidas CEO: Competition with Chinese brands makes us better",
-      "link": "https://news.cgtn.com/news/2026-10-15/Adidas-CEO-Competition-with-Chinese-brands-makes-us-better-1RgtSbuMhRC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese foreign minister meets with his Turkish counterpart",
+      "description": "Chinese Foreign Minister Wang Yi met with Turkish Foreign Minister Hakan Fidan on Thursday in Baku, the capital of Azerbaijan, on the sidelines of the Seventh Summit of the Conference on Interaction a",
+      "link": "https://news.cgtn.com/news/2026-10-16/Chinese-foreign-minister-meets-with-his-Turkish-counterpart-1RibshSqDrG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "CGTN Poll丨What does the world gain through China's open door?",
-      "description": "CGTN Poll丨What does the world gain through China's open door?",
-      "link": "https://news.cgtn.com/news/2026-10-15/CGTN-Poll-What-does-the-world-gain-through-China-s-open-door--1Rgu48KwSCk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Medical supplies help Tigray hospitals in Ethiopia resume services: UN",
+      "description": "Hospitals in Ethiopia’s Tigray region are gradually resuming services as medical supplies and equipment arrive following recent hostilities, the United Nations said Thursday.",
+      "link": "https://newsaf.cgtn.com/news/2026-10-16/Medical-supplies-help-Tigray-hospitals-in-Ethiopia-resume-services-UN-1RhSpbVNWOk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Saudi-Houthi strikes continue with more threats to infrastructure",
-      "description": "Fighting between the Saudi-led coalition and Yemen's Houthi group continued on Wednesday as the Houthis warned of strikes \"deep inside Saudi Arabia.\"",
-      "link": "https://news.cgtn.com/news/2026-10-15/Saudi-Houthi-strikes-continue-with-more-threats-to-infrastructure-1RfTzjjT4zu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Cuba slams US pressure on UN vote against embargo",
+      "description": "Cuba slams US pressure on UN vote against embargo",
+      "link": "https://news.cgtn.com/news/2026-10-15/Cuba-slams-US-pressure-on-UN-vote-against-embargo-1RfK2JP3iRG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-      "description": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
+      "description": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Second Ebola Infection Announced in Kenya",
-      "description": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures.",
-      "link": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "description": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Houthi Missiles Strike Government Headquarters in Yemen",
-      "description": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
-      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+      "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+      "description": "In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
-      "description": "The suspect was shot dead by a local community member who followed him into the school, said police.",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 28,
-    "grammarIndex": 30,
-    "speakingIndex": 5,
+    "wordIndex": 29,
+    "grammarIndex": 1,
+    "speakingIndex": 6,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 10,
+    "wordPriorityPosition": 11,
     "wordPriorityTotal": 11
   }
 }
