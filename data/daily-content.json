@@ -1,78 +1,83 @@
 {
-  "date": "2026-10-18",
-  "weekday": "Sunday",
-  "generatedAt": "2026-10-18T03:19:12.955Z",
+  "date": "2026-10-19",
+  "weekday": "Monday",
+  "generatedAt": "2026-10-19T03:31:09.739Z",
   "word": {
-    "word": "quintessential",
-    "phonetic": "/ˌkwɪntɪˈsenʃl/",
+    "word": "gregarious",
+    "phonetic": "/ɡrɪˈɡeəriəs/",
     "partOfSpeech": "adj.",
-    "definition": "典型的；精髓的",
-    "example": "Paris is the quintessential romantic city in many people's eyes.",
-    "exampleTranslation": "在许多人眼中，巴黎是典型的浪漫之都。",
+    "definition": "爱交际的；群居的",
+    "example": "His gregarious personality made him popular at social gatherings.",
+    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
     "ieltsLevel": "7+",
     "priority": "low",
     "movieQuote": {
-      "quote": "He is the quintessential English gentleman.",
-      "movie": "Kingsman: The Secret Service",
-      "year": 2014,
-      "character": "Harry Hart"
+      "quote": "She was always the gregarious one in the family.",
+      "movie": "Amélie",
+      "year": 2001,
+      "character": "Amélie Poulain"
     },
-    "youglish": "https://youglish.com/getbyword?q=quintessential"
+    "youglish": "https://youglish.com/getbyword?q=gregarious"
   },
   "grammar": {
-    "title": "虚拟语气（与现在事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
-    "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
+    "title": "定语从句：that vs which",
+    "category": "从句",
+    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
+    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
     "examples": [
       {
-        "sentence": "If I were the mayor, I would invest more in public transport.",
-        "translation": "如果我是市长，我会投资更多在公共交通上。",
-        "note": "与现在事实相反"
+        "sentence": "The book that/which I bought yesterday is excellent.",
+        "translation": "我昨天买的那本书很棒。",
+        "note": "限制性，that/which均可"
+      },
+      {
+        "sentence": "The book, which I bought yesterday, is excellent.",
+        "translation": "这本书，我昨天买的，很棒。",
+        "note": "非限制性，只能用which"
       }
     ],
-    "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
+    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Education",
+    "topic": "Environment",
     "questions": [
-      "How has education changed in your country in recent years?",
-      "What role should technology play in education?",
-      "Do you think traditional schools will be replaced by online learning?",
-      "How can education systems better prepare students for the future?"
+      "What are the most serious environmental problems in your country?",
+      "Who is more responsible for environmental protection: individuals or governments?",
+      "Do you think technological development harms or helps the environment?",
+      "What can be done to encourage people to be more environmentally friendly?"
     ],
-    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
     "keywords": [
-      "undergone",
-      "holistic",
-      "complementary",
-      "mentorship",
-      "obsolete"
+      "pressing",
+      "legislative",
+      "double-edged sword",
+      "degradation",
+      "collective"
     ],
-    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
+    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
   },
   "news": [
     {
-      "title": "Glorifying war, distorting history: What to know about Yasukuni Shrine",
-      "description": "Honoring 14 convicted Class-A criminals from World War II, the notorious shrine has long been a source of diplomatic friction between Japan and its neighbors, including China and South Korea.",
-      "link": "https://news.cgtn.com/news/2026-10-17/Glorifying-war-distorting-history-What-to-know-about-Yasukuni-Shrine-1Rjcp9iWFK8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese premier calls for global cooperation on traditional medicine",
+      "description": "Chinese Premier Li Qiang on Saturday called on the international community to strengthen cooperation in medicine, make better use of the world's traditional medicine resources, and jointly address cha",
+      "link": "https://news.cgtn.com/news/2026-10-18/Chinese-premier-calls-for-global-cooperation-on-traditional-medicine-1RkNIimWDeM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Yang Shuyu, Wang Siyu score 11 points each on WNBL debuts in Australia",
-      "description": "Yang Shuyu, Wang Siyu score 11 points each on WNBL debuts in Australia",
-      "link": "https://news.cgtn.com/news/2026-10-17/Yang-Shuyu-Wang-Siyu-score-11-points-each-on-WNBL-debuts-in-Australia-1Rjd9h2tns4/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Israeli settler attacks injure 19 Palestinians in West Bank",
+      "description": "At least 19 Palestinians, including two children aged eight and 12, were injured in attacks by Israeli settlers across the occupied West Bank on Friday, according to the Palestinian Wall and Settlemen",
+      "link": "https://news.cgtn.com/news/2026-10-17/Israeli-settler-attacks-injure-19-Palestinians-in-West-Bank-1Rja0LxP2dW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "SpaceX cargo spacecraft docks with ISS",
-      "description": "SpaceX cargo spacecraft docks with ISS",
-      "link": "https://news.cgtn.com/news/2026-10-16/SpaceX-cargo-spacecraft-docks-with-ISS-1RhojLsL876/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China mulls export curbs on AI, biomedicine and solar tech",
+      "description": "China mulls export curbs on AI, biomedicine and solar tech",
+      "link": "https://news.cgtn.com/news/2026-10-16/China-mulls-export-curbs-on-AI-biomedicine-and-solar-tech-1Ri9gvMUqUE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-      "description": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+      "description": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.",
+      "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-      "description": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+      "description": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.",
+      "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-      "description": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "description": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 30,
-    "grammarIndex": 2,
-    "speakingIndex": 7,
+    "wordIndex": 31,
+    "grammarIndex": 3,
+    "speakingIndex": 8,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 3
   }
 }
