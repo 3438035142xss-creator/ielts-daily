@@ -1,83 +1,83 @@
 {
-  "date": "2026-10-19",
-  "weekday": "Monday",
-  "generatedAt": "2026-10-19T03:31:09.739Z",
+  "date": "2026-10-20",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-10-20T03:41:14.585Z",
   "word": {
-    "word": "gregarious",
-    "phonetic": "/ɡrɪˈɡeəriəs/",
+    "word": "diligent",
+    "phonetic": "/ˈdɪlɪdʒənt/",
     "partOfSpeech": "adj.",
-    "definition": "爱交际的；群居的",
-    "example": "His gregarious personality made him popular at social gatherings.",
-    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
-    "ieltsLevel": "7+",
+    "definition": "勤奋的；用功的",
+    "example": "The diligent student completed all assignments ahead of schedule.",
+    "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
+    "ieltsLevel": "6",
     "priority": "low",
     "movieQuote": {
-      "quote": "She was always the gregarious one in the family.",
-      "movie": "Amélie",
-      "year": 2001,
-      "character": "Amélie Poulain"
+      "quote": "Stay diligent, and the truth will reveal itself.",
+      "movie": "The Pursuit of Happyness",
+      "year": 2006,
+      "character": "Chris Gardner"
     },
-    "youglish": "https://youglish.com/getbyword?q=gregarious"
+    "youglish": "https://youglish.com/getbyword?q=diligent"
   },
   "grammar": {
-    "title": "定语从句：that vs which",
-    "category": "从句",
-    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
-    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
+    "title": "被动语态",
+    "category": "语态",
+    "explanation": "当动作的执行者不重要或未知，或想强调动作承受者时使用被动语态。结构为be + 过去分词。",
+    "structure": "主语 + be + 过去分词 (+ by + 执行者)",
     "examples": [
       {
-        "sentence": "The book that/which I bought yesterday is excellent.",
-        "translation": "我昨天买的那本书很棒。",
-        "note": "限制性，that/which均可"
+        "sentence": "The bridge was built in 1998.",
+        "translation": "这座桥建于1998年。",
+        "note": "强调承受者，执行者不重要"
       },
       {
-        "sentence": "The book, which I bought yesterday, is excellent.",
-        "translation": "这本书，我昨天买的，很棒。",
-        "note": "非限制性，只能用which"
+        "sentence": "The report will be submitted by next Friday.",
+        "translation": "报告将于下周五前提交。",
+        "note": "正式文体常用被动"
       }
     ],
-    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
+    "ieltsTip": "雅思写作Task 1流程图描述和学术写作中，被动语态是体现客观性的重要手段。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Environment",
+    "part": "Part 1",
+    "topic": "Food",
     "questions": [
-      "What are the most serious environmental problems in your country?",
-      "Who is more responsible for environmental protection: individuals or governments?",
-      "Do you think technological development harms or helps the environment?",
-      "What can be done to encourage people to be more environmentally friendly?"
+      "What is your favorite food?",
+      "Do you like cooking?",
+      "Are there any foods you dislike?",
+      "Has your taste in food changed over the years?"
     ],
-    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
+    "sampleAnswer": "My absolute favorite is hotpot, especially the spicy Sichuan style. I find the communal aspect of gathering around a steaming pot with friends incredibly appealing. While I enjoy cooking occasionally, I wouldn't call myself a skilled chef—I tend to stick to simple dishes like stir-fried vegetables and steamed fish. As for dislikes, I'm not particularly fond of overly sweet desserts or anything with a strong cilantro flavor. Over the years, my palate has definitely expanded; as a child, I avoided anything spicy, but now I've grown to appreciate the complexity of bold flavors.",
     "keywords": [
-      "pressing",
-      "legislative",
-      "double-edged sword",
-      "degradation",
-      "collective"
+      "communal",
+      "appealing",
+      "particularly fond of",
+      "palate",
+      "complexity"
     ],
-    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
+    "tips": "描述食物时多用感官词汇，让回答生动。"
   },
   "news": [
     {
-      "title": "Chinese premier calls for global cooperation on traditional medicine",
-      "description": "Chinese Premier Li Qiang on Saturday called on the international community to strengthen cooperation in medicine, make better use of the world's traditional medicine resources, and jointly address cha",
-      "link": "https://news.cgtn.com/news/2026-10-18/Chinese-premier-calls-for-global-cooperation-on-traditional-medicine-1RkNIimWDeM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Poll: Support for Japan's Takaichi cabinet falls below 50%",
+      "description": "Public support for Japanese Prime Minister Sanae Takaichi's administration fell to 49.1%, the lowest level since she took office in October last year and the first time the figure has dropped below 50",
+      "link": "https://news.cgtn.com/news/2026-10-19/Poll-Support-for-Japan-s-Takaichi-cabinet-falls-below-50--1RmFQ1wdHqg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Israeli settler attacks injure 19 Palestinians in West Bank",
-      "description": "At least 19 Palestinians, including two children aged eight and 12, were injured in attacks by Israeli settlers across the occupied West Bank on Friday, according to the Palestinian Wall and Settlemen",
-      "link": "https://news.cgtn.com/news/2026-10-17/Israeli-settler-attacks-injure-19-Palestinians-in-West-Bank-1Rja0LxP2dW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "CGTN Poll: China's financial opening-up eases global governance woes",
+      "description": "Against the backdrop of escalating trade frictions and disruptions to global supply chains, the 2026 Annual Conference of Financial Street Forum opened as scheduled.",
+      "link": "https://news.cgtn.com/news/2026-10-19/CGTN-Poll-China-s-financial-opening-up-eases-global-governance-woes-1Rn3xmNyYX6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China mulls export curbs on AI, biomedicine and solar tech",
-      "description": "China mulls export curbs on AI, biomedicine and solar tech",
-      "link": "https://news.cgtn.com/news/2026-10-16/China-mulls-export-curbs-on-AI-biomedicine-and-solar-tech-1Ri9gvMUqUE/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Xi Jinping's key remarks on global poverty reduction",
+      "description": "On the International Day for the Eradication of Poverty, October 17, China's approach is still a source of inspiration five years after it declared a complete victory over absolute poverty.",
+      "link": "https://news.cgtn.com/news/2026-10-17/Xi-Jinping-s-key-remarks-on-global-poverty-reduction-1RjPiPHGVgY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
-      "description": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.",
-      "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+      "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
+      "description": "The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children.",
+      "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
-      "description": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.",
-      "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "description": "The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday.",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "description": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+      "description": "The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.",
+      "link": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 31,
-    "grammarIndex": 3,
-    "speakingIndex": 8,
+    "wordIndex": 32,
+    "grammarIndex": 4,
+    "speakingIndex": 9,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 3
   }
 }
