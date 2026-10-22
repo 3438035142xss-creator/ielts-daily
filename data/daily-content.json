@@ -1,83 +1,78 @@
 {
-  "date": "2026-10-21",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-10-21T03:33:26.145Z",
+  "date": "2026-10-22",
+  "weekday": "Thursday",
+  "generatedAt": "2026-10-22T03:33:07.143Z",
   "word": {
-    "word": "meticulous",
-    "phonetic": "/məˈtɪkjələs/",
+    "word": "ubiquitous",
+    "phonetic": "/juːˈbɪkwɪtəs/",
     "partOfSpeech": "adj.",
-    "definition": "极注意细节的；严谨的",
-    "example": "The researcher was meticulous in recording every experimental detail.",
-    "exampleTranslation": "这位研究员在记录每一个实验细节时都极为严谨。",
+    "definition": "无处不在的；普遍存在的",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "exampleTranslation": "智能手机在现代社会中已变得无处不在。",
     "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "I've always been meticulous about my work.",
-      "movie": "The Bourne Identity",
-      "year": 2002,
-      "character": "Jason Bourne"
+      "quote": "Surveillance is ubiquitous in this city.",
+      "movie": "The Dark Knight",
+      "year": 2008,
+      "character": "Lucius Fox"
     },
-    "youglish": "https://youglish.com/getbyword?q=meticulous"
+    "youglish": "https://youglish.com/getbyword?q=ubiquitous"
   },
   "grammar": {
-    "title": "现在分词作状语",
-    "category": "非谓语动词",
-    "explanation": "现在分词（-ing形式）作状语，可表示时间、原因、条件、让步、结果等，其逻辑主语须与主句主语一致。",
-    "structure": "现在分词(短语), 主句",
+    "title": "倒装句",
+    "category": "特殊句式",
+    "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
+    "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
     "examples": [
       {
-        "sentence": "Having finished the assignment, she went out for a walk.",
-        "translation": "完成作业后，她出去散步了。",
-        "note": "完成时分词表示动作先于主句"
+        "sentence": "Never have I seen such a breathtaking landscape.",
+        "translation": "我从未见过如此令人惊叹的风景。",
+        "note": "否定词提前，部分倒装"
       },
       {
-        "sentence": "Not knowing the answer, he remained silent.",
-        "translation": "因为不知道答案，他保持沉默。",
-        "note": "表原因"
+        "sentence": "Hardly had he arrived when the meeting started.",
+        "translation": "他刚到，会议就开始了。",
+        "note": "Hardly...when...结构"
       }
     ],
-    "ieltsTip": "雅思写作中合理使用分词结构，可让句子更紧凑、更有变化，避免全是并列句。"
+    "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Travel",
-    "questions": [
-      "Do you like traveling?",
-      "Where did you go on your last holiday?",
-      "Do you prefer traveling alone or with others?",
-      "What is your dream destination?"
-    ],
-    "sampleAnswer": "I'm absolutely passionate about traveling—there's nothing quite like exploring new places and immersing myself in different cultures. My last holiday took me to Xi'an, where I was captivated by the Terracotta Warriors and the city's rich historical atmosphere. When it comes to traveling companions, I prefer going with close friends; shared experiences tend to be more enjoyable, and navigating unfamiliar places together strengthens bonds. As for my dream destination, it would have to be Iceland—I've always been fascinated by its otherworldly landscapes, especially the Northern Lights and the geothermal hot springs.",
+    "part": "Part 2",
+    "topic": "Describe a skill you want to learn",
+    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
+    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
     "keywords": [
-      "passionate",
-      "immersing",
-      "captivated",
-      "navigating",
-      "otherworldly"
+      "acquire",
+      "barriers",
+      "reputable",
+      "inclusively",
+      "marginalized"
     ],
-    "tips": "表达偏好时给出具体原因，避免单一答案。"
+    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
   },
   "news": [
     {
-      "title": "France to deploy military forces for next protests",
-      "description": "France will deploy troops from its counterterrorism military forces to support police and gendarmes ahead of demonstrations expected on October 24, the government said on Tuesday, acknowledging failur",
-      "link": "https://news.cgtn.com/news/2026-10-21/France-to-deploy-military-forces-for-next-protests-1RpHxREAJQQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese FM meets Djibouti's counterpart",
+      "description": "Chinese Foreign Minister Wang Yi met with Abdoulkader Houssein Omar, Minister of Foreign Affairs and International Cooperation of Djibouti, in Beijing on Wednesday.",
+      "link": "https://news.cgtn.com/news/2026-10-22/Chinese-FM-meets-Djibouti-s-counterpart-1RrjSMlD7t6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Bulgarian president meets Chinese FM, pledging to enhance ties",
-      "description": "Bulgarian President Iliana Iotova met with visiting Chinese Foreign Minister Wang Yi on Monday, with both sides pledging to strengthen bilateral ties and cooperation.",
-      "link": "https://news.cgtn.com/news/2026-10-20/Bulgarian-president-meets-Chinese-FM-pledging-to-enhance-ties-1Ro9lUtze5q/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Death toll from Sudan army strike in disputed territory rises to 153",
+      "description": "Death toll from Sudan army strike in disputed territory rises to 153",
+      "link": "https://news.cgtn.com/news/2026-10-21/news-1Rqr4RHB3r2/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Tanker explodes in Strait of Hormuz as Saudi-Houthi clashes continue",
-      "description": "Tensions across the Middle East continue to simmer, with explosions reported aboard tankers in the Strait of Hormuz and Saudi-Houthi hostilities showing no signs of abating.",
-      "link": "https://news.cgtn.com/news/2026-10-18/Tanker-explodes-in-Strait-of-Hormuz-as-Saudi-Houthi-clashes-continue-1RkUDGsMh9e/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Why Netanyahu unveils new national security doctrine before election",
+      "description": "With Israel lowering the threshold for preemptive action and Washington and Tel Aviv once again aligning over Iran, the risk of renewed escalation across the Middle East is growing.",
+      "link": "https://news.cgtn.com/news/2026-10-19/Why-Netanyahu-unveils-new-national-security-doctrine-before-election-1RnhZRj31Is/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
-      "description": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
+      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+      "description": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-      "description": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generation",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
+      "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+      "description": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
+      "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
-      "description": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+      "title": "UK to Headphone Dodgers on Trains: Shush",
+      "description": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "France is divided over who to blame for and what to learn from weekend riots",
-      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 1,
-    "grammarIndex": 5,
-    "speakingIndex": 10,
+    "wordIndex": 2,
+    "grammarIndex": 6,
+    "speakingIndex": 11,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 1,
+    "wordPriorityPosition": 2,
     "wordPriorityTotal": 18
   }
 }
