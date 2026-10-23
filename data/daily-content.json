@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-22",
-  "weekday": "Thursday",
-  "generatedAt": "2026-10-22T03:33:07.143Z",
+  "date": "2026-10-23",
+  "weekday": "Friday",
+  "generatedAt": "2026-10-23T03:37:53.810Z",
   "word": {
-    "word": "ubiquitous",
-    "phonetic": "/juːˈbɪkwɪtəs/",
+    "word": "pragmatic",
+    "phonetic": "/præɡˈmætɪk/",
     "partOfSpeech": "adj.",
-    "definition": "无处不在的；普遍存在的",
-    "example": "Smartphones have become ubiquitous in modern society.",
-    "exampleTranslation": "智能手机在现代社会中已变得无处不在。",
-    "ieltsLevel": "7+",
+    "definition": "务实的；实用主义的",
+    "example": "We need a pragmatic approach to solve this complex problem.",
+    "exampleTranslation": "我们需要一种务实的方法来解决这个复杂问题。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Surveillance is ubiquitous in this city.",
-      "movie": "The Dark Knight",
-      "year": 2008,
-      "character": "Lucius Fox"
+      "quote": "We must be pragmatic about our chances.",
+      "movie": "The Martian",
+      "year": 2015,
+      "character": "Mark Watney"
     },
-    "youglish": "https://youglish.com/getbyword?q=ubiquitous"
+    "youglish": "https://youglish.com/getbyword?q=pragmatic"
   },
   "grammar": {
-    "title": "倒装句",
+    "title": "强调句型",
     "category": "特殊句式",
-    "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
-    "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
+    "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
+    "structure": "It is/was + 强调部分 + that/who + 其余",
     "examples": [
       {
-        "sentence": "Never have I seen such a breathtaking landscape.",
-        "translation": "我从未见过如此令人惊叹的风景。",
-        "note": "否定词提前，部分倒装"
+        "sentence": "It was in 2008 that the Olympics were held in Beijing.",
+        "translation": "正是在2008年奥运会在北京举办。",
+        "note": "强调时间状语"
       },
       {
-        "sentence": "Hardly had he arrived when the meeting started.",
-        "translation": "他刚到，会议就开始了。",
-        "note": "Hardly...when...结构"
+        "sentence": "It is the government that should take responsibility.",
+        "translation": "正是政府应当承担责任。",
+        "note": "强调主语"
       }
     ],
-    "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
+    "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a skill you want to learn",
-    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
-    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
+    "topic": "Describe an important decision you made",
+    "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
+    "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
     "keywords": [
-      "acquire",
-      "barriers",
-      "reputable",
-      "inclusively",
-      "marginalized"
+      "transformative",
+      "trajectory",
+      "exposure",
+      "competitive",
+      "daunting"
     ],
-    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
+    "tips": "讲述决定时强调过程和结果，体现反思能力。"
   },
   "news": [
     {
-      "title": "Chinese FM meets Djibouti's counterpart",
-      "description": "Chinese Foreign Minister Wang Yi met with Abdoulkader Houssein Omar, Minister of Foreign Affairs and International Cooperation of Djibouti, in Beijing on Wednesday.",
-      "link": "https://news.cgtn.com/news/2026-10-22/Chinese-FM-meets-Djibouti-s-counterpart-1RrjSMlD7t6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Wildfires drive up California homeowner insurance price hikes",
+      "description": "Wildfires drive up California homeowner insurance price hikes",
+      "link": "https://newsus.cgtn.com/news/2026-10-23/Wildfires-drive-up-California-homeowner-insurance-price-hikes-1RsSRuRnqYU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Death toll from Sudan army strike in disputed territory rises to 153",
-      "description": "Death toll from Sudan army strike in disputed territory rises to 153",
-      "link": "https://news.cgtn.com/news/2026-10-21/news-1Rqr4RHB3r2/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "BBC to close three TV, radio channels amid cost pressures",
+      "description": "The BBC reported on Tuesday that it will close its BBC Three and BBC Scotland television channels in the spring, as the corporation seeks to make 500 million pounds ($669 million) of savings over two ",
+      "link": "https://news.cgtn.com/news/2026-10-21/BBC-to-close-three-TV-radio-channels-amid-cost-pressures-1RpKwaIo51K/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Why Netanyahu unveils new national security doctrine before election",
-      "description": "With Israel lowering the threshold for preemptive action and Washington and Tel Aviv once again aligning over Iran, the risk of renewed escalation across the Middle East is growing.",
-      "link": "https://news.cgtn.com/news/2026-10-19/Why-Netanyahu-unveils-new-national-security-doctrine-before-election-1RnhZRj31Is/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Israel arrests 10 over attacks on US journalist, European diplomats",
+      "description": "Israeli police said on Monday that they arrested 10 suspects as part of an investigation into violent incidents in the occupied West Bank over the weekend.",
+      "link": "https://news.cgtn.com/news/2026-10-19/Israel-arrests-10-over-attacks-on-US-journalist-European-diplomats-1RnbEQ6X5rq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-      "description": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
-      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "description": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
-      "description": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
-      "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
+      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "description": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "UK to Headphone Dodgers on Trains: Shush",
-      "description": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
+      "description": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 2,
-    "grammarIndex": 6,
-    "speakingIndex": 11,
+    "wordIndex": 3,
+    "grammarIndex": 7,
+    "speakingIndex": 12,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 18
   }
 }
