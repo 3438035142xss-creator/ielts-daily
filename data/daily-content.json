@@ -1,78 +1,83 @@
 {
-  "date": "2026-10-23",
-  "weekday": "Friday",
-  "generatedAt": "2026-10-23T03:37:53.810Z",
+  "date": "2026-10-24",
+  "weekday": "Saturday",
+  "generatedAt": "2026-10-24T03:31:49.656Z",
   "word": {
-    "word": "pragmatic",
-    "phonetic": "/præɡˈmætɪk/",
+    "word": "resilient",
+    "phonetic": "/rɪˈzɪliənt/",
     "partOfSpeech": "adj.",
-    "definition": "务实的；实用主义的",
-    "example": "We need a pragmatic approach to solve this complex problem.",
-    "exampleTranslation": "我们需要一种务实的方法来解决这个复杂问题。",
+    "definition": "有韧性的；能迅速恢复的",
+    "example": "Children are often more resilient than adults when facing setbacks.",
+    "exampleTranslation": "面对挫折时，儿童往往比成年人更有韧性。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must be pragmatic about our chances.",
-      "movie": "The Martian",
-      "year": 2015,
-      "character": "Mark Watney"
+      "quote": "Human beings are remarkably resilient creatures.",
+      "movie": "Cast Away",
+      "year": 2000,
+      "character": "Chuck Noland"
     },
-    "youglish": "https://youglish.com/getbyword?q=pragmatic"
+    "youglish": "https://youglish.com/getbyword?q=resilient"
   },
   "grammar": {
-    "title": "强调句型",
-    "category": "特殊句式",
-    "explanation": "强调句用于突出句中某一部分，结构为It is/was + 被强调部分 + that/who + 句子其余部分。",
-    "structure": "It is/was + 强调部分 + that/who + 其余",
+    "title": "比较级与最高级",
+    "category": "形容词副词",
+    "explanation": "比较级用于两者比较，最高级用于三者及以上。比较级前可用much, far, a lot, even, still等修饰；最高级前通常加the。",
+    "structure": "more + 多音节形容词; 形容词-er + than; the + 最高级",
     "examples": [
       {
-        "sentence": "It was in 2008 that the Olympics were held in Beijing.",
-        "translation": "正是在2008年奥运会在北京举办。",
-        "note": "强调时间状语"
+        "sentence": "Urban residents face significantly more pressure than rural dwellers.",
+        "translation": "城市居民面临比农村居民大得多的压力。",
+        "note": "more + 多音节词"
       },
       {
-        "sentence": "It is the government that should take responsibility.",
-        "translation": "正是政府应当承担责任。",
-        "note": "强调主语"
+        "sentence": "This is the most challenging task I have ever undertaken.",
+        "translation": "这是我承担过的最具挑战性的任务。",
+        "note": "最高级"
       }
     ],
-    "ieltsTip": "雅思口语Part 3和写作中使用强调句，可让观点表达更有力。"
+    "ieltsTip": "雅思写作Task 1比较数据时，比较级是核心工具，注意修饰词的使用以体现精确度。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe an important decision you made",
-    "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
-    "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
-    "keywords": [
-      "transformative",
-      "trajectory",
-      "exposure",
-      "competitive",
-      "daunting"
+    "part": "Part 3",
+    "topic": "Technology",
+    "questions": [
+      "How has technology affected the way people communicate?",
+      "Do you think social media brings people closer or pushes them apart?",
+      "What are the potential dangers of over-reliance on technology?",
+      "How should children be introduced to technology?"
     ],
-    "tips": "讲述决定时强调过程和结果，体现反思能力。"
+    "sampleAnswer": "Technology has fundamentally transformed communication, making it instantaneous and borderless, yet arguably more superficial. Social media is a classic double-edged sword: it enables us to maintain connections across vast distances, but it can also foster shallow interactions and social comparison, sometimes leaving users feeling more isolated than connected. Over-reliance on technology poses genuine risks, including diminished face-to-face communication skills, shortened attention spans, and privacy concerns stemming from the constant data collection. When introducing children to technology, I believe a balanced and gradual approach is essential—parents should set clear boundaries on screen time, actively engage with their children during digital activities, and ensure that technology serves as a tool for learning rather than a substitute for human interaction or outdoor play.",
+    "keywords": [
+      "instantaneous",
+      "borderless",
+      "superficial",
+      "diminished",
+      "substitute"
+    ],
+    "tips": "科技话题常用利弊对比，注意使用转折连词。"
   },
   "news": [
     {
-      "title": "Wildfires drive up California homeowner insurance price hikes",
-      "description": "Wildfires drive up California homeowner insurance price hikes",
-      "link": "https://newsus.cgtn.com/news/2026-10-23/Wildfires-drive-up-California-homeowner-insurance-price-hikes-1RsSRuRnqYU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "COMESA leaders call for stronger regional trade and integration",
+      "description": "COMESA leaders have called for stronger regional integration, increased intra-African trade and greater local processing of natural resources to accelerate economic growth and industrialization. At th",
+      "link": "https://newsaf.cgtn.com/news/2026-10-23/COMESA-leaders-call-for-stronger-regional-trade-and-integration-1Rtw4uMDSeY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "BBC to close three TV, radio channels amid cost pressures",
-      "description": "The BBC reported on Tuesday that it will close its BBC Three and BBC Scotland television channels in the spring, as the corporation seeks to make 500 million pounds ($669 million) of savings over two ",
-      "link": "https://news.cgtn.com/news/2026-10-21/BBC-to-close-three-TV-radio-channels-amid-cost-pressures-1RpKwaIo51K/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Next-gen doctors swap scrubs for aprons",
+      "description": "Next-gen doctors swap scrubs for aprons",
+      "link": "https://newsus.cgtn.com/news/2026-10-22/Next-gen-doctors-swap-scrubs-for-aprons-1RqUWNXv4By/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Israel arrests 10 over attacks on US journalist, European diplomats",
-      "description": "Israeli police said on Monday that they arrested 10 suspects as part of an investigation into violent incidents in the occupied West Bank over the weekend.",
-      "link": "https://news.cgtn.com/news/2026-10-19/Israel-arrests-10-over-attacks-on-US-journalist-European-diplomats-1RnbEQ6X5rq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Q&amp;A: How the Long March shapes the CPC and China's modernization today",
+      "description": "To explore the historical significance of the Long March and its enduring influence, CGTN spoke with Josef Gregory Mahoney, a professor of politics and international relations and director of the Cent",
+      "link": "https://news.cgtn.com/news/2026-10-21/Q-A-How-the-Long-March-shapes-the-CPC-and-China-s-modernization-today-1RqwPQaTw9G/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "description": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "title": "The Bukeleization of Latin America Has Arrived",
+      "description": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
+      "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-      "description": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "description": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territ",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
-      "description": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+      "title": "France Plans to Bolster Police Presence, Expecting New Protests",
+      "description": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores.",
+      "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "description": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 3,
-    "grammarIndex": 7,
-    "speakingIndex": 12,
+    "wordIndex": 4,
+    "grammarIndex": 8,
+    "speakingIndex": 13,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 3,
+    "wordPriorityPosition": 4,
     "wordPriorityTotal": 18
   }
 }
