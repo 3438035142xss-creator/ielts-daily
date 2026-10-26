@@ -1,83 +1,83 @@
 {
-  "date": "2026-10-25",
-  "weekday": "Sunday",
-  "generatedAt": "2026-10-25T03:28:26.003Z",
+  "date": "2026-10-26",
+  "weekday": "Monday",
+  "generatedAt": "2026-10-26T03:30:58.877Z",
   "word": {
-    "word": "scrutinize",
-    "phonetic": "/ˈskruːtənaɪz/",
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
     "partOfSpeech": "v.",
-    "definition": "仔细审查；详审",
-    "example": "The committee scrutinized every clause of the proposed contract.",
-    "exampleTranslation": "委员会仔细审查了拟议合同的每一个条款。",
-    "ieltsLevel": "7+",
+    "definition": "恶化；退化",
+    "example": "Air quality tends to deteriorate during the winter months.",
+    "exampleTranslation": "冬季空气质量往往会恶化。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "They will scrutinize every detail of your story.",
-      "movie": "A Few Good Men",
-      "year": 1992,
-      "character": "Daniel Kaffee"
+      "quote": "His condition continues to deteriorate.",
+      "movie": "The Doctor",
+      "year": 1991,
+      "character": "Dr. Jack MacKee"
     },
-    "youglish": "https://youglish.com/getbyword?q=scrutinize"
+    "youglish": "https://youglish.com/getbyword?q=deteriorate"
   },
   "grammar": {
-    "title": "情态动词表推测",
-    "category": "情态动词",
-    "explanation": "must/may/might/could/can't + 动词原形表示对现在的推测；加have + 过去分词表示对过去的推测。",
-    "structure": "must/may/might/can't + have + 过去分词",
+    "title": "名词性从句",
+    "category": "从句",
+    "explanation": "名词性从句包括主语从句、宾语从句、表语从句、同位语从句，在句中起名词作用。常用that, whether, if及wh-词引导。",
+    "structure": "主句 + that/whether/wh- + 从句",
     "examples": [
       {
-        "sentence": "He must have missed the train, for he hasn't arrived yet.",
-        "translation": "他肯定没赶上火车，因为他还没到。",
-        "note": "must have done表肯定推测"
+        "sentence": "What surprised me most was his attitude.",
+        "translation": "最让我惊讶的是他的态度。",
+        "note": "主语从句"
       },
       {
-        "sentence": "She can't have finished the work so quickly.",
-        "translation": "她不可能这么快就完成工作。",
-        "note": "can't have done表否定推测"
+        "sentence": "The fact that she passed the exam delighted everyone.",
+        "translation": "她通过考试这个事实让所有人高兴。",
+        "note": "同位语从句"
       }
     ],
-    "ieltsTip": "雅思阅读推理题中，理解情态动词的推测含义有助于准确判断作者态度。"
+    "ieltsTip": "雅思写作中名词性从句是表达复杂观点的利器，尤其主语从句开头能增强句式多样性。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Urbanization",
+    "part": "Part 1",
+    "topic": "Music",
     "questions": [
-      "What are the advantages and disadvantages of living in a big city?",
-      "How can cities become more livable?",
-      "Do you think urbanization will continue in the future?",
-      "What challenges do rural areas face as cities grow?"
+      "What kind of music do you like?",
+      "Do you play any musical instruments?",
+      "How often do you listen to music?",
+      "Has your taste in music changed over the years?"
     ],
-    "sampleAnswer": "Living in a metropolis offers undeniable advantages: access to quality healthcare, diverse educational opportunities, and vibrant cultural life. However, these benefits come at a cost—sky-high housing prices, severe traffic congestion, and deteriorating air quality are common grievances. To make cities more livable, urban planners should prioritize green spaces, efficient public transportation, and sustainable architecture that reduces energy consumption. Urbanization will almost certainly continue, driven by economic opportunities and demographic shifts, but the challenge lies in managing this growth responsibly. As cities expand, rural areas face the dual threat of brain drain and economic decline, as young, educated individuals migrate in search of better prospects. Addressing this imbalance requires targeted policies that promote rural development and ensure equitable resource distribution.",
+    "sampleAnswer": "I have rather eclectic taste in music, but if I had to choose, I'd say I'm drawn to indie folk and classical music. I find the acoustic melodies of folk music deeply soothing, while classical compositions offer a kind of intellectual stimulation that few other genres can match. Although I don't play any instruments proficiently, I taught myself a bit of guitar during college. Music accompanies me throughout the day—I usually listen while commuting, working, or unwinding before bed. My taste has definitely evolved over time; as a teenager, I was obsessed with pop and rock, but as I've matured, I've developed an appreciation for more nuanced and sophisticated musical forms.",
     "keywords": [
-      "metropolis",
-      "vibrant",
-      "deteriorating",
-      "brain drain",
-      "equitable"
+      "eclectic",
+      "drawn to",
+      "soothing",
+      "proficiently",
+      "nuanced"
     ],
-    "tips": "城市话题常用因果分析，注意使用专业词汇。"
+    "tips": "谈论喜好时使用程度副词，体现表达的精准。"
   },
   "news": [
     {
-      "title": "From Karakoram to Arabian Sea, Ep. 1: The Road That Connects",
-      "description": "From Karakoram to Arabian Sea, Ep. 1: The Road That Connects",
-      "link": "https://news.cgtn.com/news/2026-10-24/From-Karakoram-to-Arabian-Sea-Ep-1-The-Road-That-Connects-1Rvq7QTDn1K/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Mali military reports 54 dead after attacks in northeast",
+      "description": "Mali's armed forces say the death toll from attacks on camps in the country's northeastern Menaka region has risen to 54, after six more bodies were discovered.",
+      "link": "https://newsaf.cgtn.com/news/2026-10-25/Mali-military-reports-54-dead-after-attacks-in-northeast-1RwP87uK6Zi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Kenya launches $160 million initiative to fund wildlife conservation",
-      "description": "Kenya launches $160 million initiative to fund wildlife conservation",
-      "link": "https://news.cgtn.com/news/2026-10-22/Kenya-launches-160-million-initiative-to-fund-wildlife-conservation-1Rs6WIyhQbK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Russia, Ukraine swap hundreds of POWs",
+      "description": "Russia, Ukraine swap hundreds of POWs",
+      "link": "https://news.cgtn.com/news/2026-10-23/news-1RtLnSAusFi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China, Djibouti issue communiqué on Horn of Africa, Red Sea security",
-      "description": "China, Djibouti issue communiqué on Horn of Africa, Red Sea security",
-      "link": "https://news.cgtn.com/news/2026-10-22/China-Djibouti-issue-communiqu-on-Horn-of-Africa-Red-Sea-security-1RrzcISMKL6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Swiss diplomat's wife identified as Nigeria's first Ebola patient",
+      "description": "Switzerland has confirmed that Nigeria's first Ebola patient is the wife of a Swiss embassy staff member in Abuja. The woman, who has the Bundibugyo strain, recently travelled to Uganda with her husba",
+      "link": "https://newsaf.cgtn.com/news/2026-10-23/Swiss-diplomat-s-wife-identified-as-Nigeria-s-first-Ebola-patient-1RtUFOzsB6E/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "description": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+      "description": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-      "description": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
-      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+      "title": "María Corina Machado Returns to Venezuela",
+      "description": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Italy’s Young Protesters Return to the Streets",
-      "description": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
-      "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "description": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 5,
-    "grammarIndex": 9,
-    "speakingIndex": 14,
+    "wordIndex": 6,
+    "grammarIndex": 10,
+    "speakingIndex": 15,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 18
   }
 }
