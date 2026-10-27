@@ -1,83 +1,83 @@
 {
-  "date": "2026-10-26",
-  "weekday": "Monday",
-  "generatedAt": "2026-10-26T03:30:58.877Z",
+  "date": "2026-10-27",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-10-27T03:56:46.864Z",
   "word": {
-    "word": "deteriorate",
-    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "word": "alleviate",
+    "phonetic": "/əˈliːvieɪt/",
     "partOfSpeech": "v.",
-    "definition": "恶化；退化",
-    "example": "Air quality tends to deteriorate during the winter months.",
-    "exampleTranslation": "冬季空气质量往往会恶化。",
+    "definition": "减轻；缓解",
+    "example": "The new policy aims to alleviate poverty in rural areas.",
+    "exampleTranslation": "新政策旨在缓解农村地区的贫困问题。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "His condition continues to deteriorate.",
-      "movie": "The Doctor",
-      "year": 1991,
-      "character": "Dr. Jack MacKee"
+      "quote": "This medicine will alleviate the pain.",
+      "movie": "Patch Adams",
+      "year": 1998,
+      "character": "Patch Adams"
     },
-    "youglish": "https://youglish.com/getbyword?q=deteriorate"
+    "youglish": "https://youglish.com/getbyword?q=alleviate"
   },
   "grammar": {
-    "title": "名词性从句",
+    "title": "让步状语从句",
     "category": "从句",
-    "explanation": "名词性从句包括主语从句、宾语从句、表语从句、同位语从句，在句中起名词作用。常用that, whether, if及wh-词引导。",
-    "structure": "主句 + that/whether/wh- + 从句",
+    "explanation": "although/though/even though/even if/while/whereas引导让步状语从句，表示尽管…但是…，主句不能再用but。",
+    "structure": "Although/Even though + 从句, 主句",
     "examples": [
       {
-        "sentence": "What surprised me most was his attitude.",
-        "translation": "最让我惊讶的是他的态度。",
-        "note": "主语从句"
+        "sentence": "Although the technology is advanced, it is not widely accessible.",
+        "translation": "虽然技术先进，但并未广泛普及。",
+        "note": "注意主句不用but"
       },
       {
-        "sentence": "The fact that she passed the exam delighted everyone.",
-        "translation": "她通过考试这个事实让所有人高兴。",
-        "note": "同位语从句"
+        "sentence": "While city life offers convenience, it also brings stress.",
+        "translation": "尽管城市生活便利，但也带来压力。",
+        "note": "while表让步"
       }
     ],
-    "ieltsTip": "雅思写作中名词性从句是表达复杂观点的利器，尤其主语从句开头能增强句式多样性。"
+    "ieltsTip": "雅思写作讨论利弊时，让步状语从句是体现辩证思维的必备结构。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Music",
+    "topic": "Weather",
     "questions": [
-      "What kind of music do you like?",
-      "Do you play any musical instruments?",
-      "How often do you listen to music?",
-      "Has your taste in music changed over the years?"
+      "What is your favorite kind of weather?",
+      "Does the weather affect your mood?",
+      "Do you prefer hot or cold weather?",
+      "What do you do on rainy days?"
     ],
-    "sampleAnswer": "I have rather eclectic taste in music, but if I had to choose, I'd say I'm drawn to indie folk and classical music. I find the acoustic melodies of folk music deeply soothing, while classical compositions offer a kind of intellectual stimulation that few other genres can match. Although I don't play any instruments proficiently, I taught myself a bit of guitar during college. Music accompanies me throughout the day—I usually listen while commuting, working, or unwinding before bed. My taste has definitely evolved over time; as a teenager, I was obsessed with pop and rock, but as I've matured, I've developed an appreciation for more nuanced and sophisticated musical forms.",
+    "sampleAnswer": "I particularly enjoy crisp autumn days with clear blue skies and a gentle breeze—that perfect transition between summer's heat and winter's chill. Weather undeniably affects my mood; sunny days leave me feeling energetic and optimistic, whereas prolonged rainy spells tend to make me somewhat lethargic. Between hot and cold, I lean towards cooler weather, as I find it easier to bundle up in layers than to escape oppressive heat. On rainy days, I relish the opportunity to stay indoors with a good book and a hot cup of tea, finding the sound of rain against the window oddly comforting.",
     "keywords": [
-      "eclectic",
-      "drawn to",
-      "soothing",
-      "proficiently",
-      "nuanced"
+      "crisp",
+      "transition",
+      "prolonged",
+      "lethargic",
+      "relish"
     ],
-    "tips": "谈论喜好时使用程度副词，体现表达的精准。"
+    "tips": "描述天气时多用形容词，营造氛围。"
   },
   "news": [
     {
-      "title": "Mali military reports 54 dead after attacks in northeast",
-      "description": "Mali's armed forces say the death toll from attacks on camps in the country's northeastern Menaka region has risen to 54, after six more bodies were discovered.",
-      "link": "https://newsaf.cgtn.com/news/2026-10-25/Mali-military-reports-54-dead-after-attacks-in-northeast-1RwP87uK6Zi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "'Happy 55th birthday': UN officials reaffirm stance on China's UN seat",
+      "description": "Senior United Nations officials have reaffirmed the world body's unwavering adherence to UN General Assembly (UNGA) Resolution 2758, as Sunday marks the 55th anniversary of the restoration of China's ",
+      "link": "https://news.cgtn.com/news/2026-10-25/-Happy-55th-birthday-UN-officials-reaffirm-stance-on-China-s-UN-seat-1Rvwzer6yZO/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Russia, Ukraine swap hundreds of POWs",
-      "description": "Russia, Ukraine swap hundreds of POWs",
-      "link": "https://news.cgtn.com/news/2026-10-23/news-1RtLnSAusFi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China's top diplomat holds talks with FM of Republic of the Congo",
+      "description": "Chinese Foreign Minister Wang Yi held talks with Constant-Serge Bounda, minister of foreign affairs, La Francophonie and Congolese Abroad of the Republic of the Congo, on Thursday in Beijing.",
+      "link": "https://news.cgtn.com/news/2026-10-23/China-s-top-diplomat-holds-talks-with-FM-of-Republic-of-the-Congo-1RsYwWUbR16/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Swiss diplomat's wife identified as Nigeria's first Ebola patient",
-      "description": "Switzerland has confirmed that Nigeria's first Ebola patient is the wife of a Swiss embassy staff member in Abuja. The woman, who has the Bundibugyo strain, recently travelled to Uganda with her husba",
-      "link": "https://newsaf.cgtn.com/news/2026-10-23/Swiss-diplomat-s-wife-identified-as-Nigeria-s-first-Ebola-patient-1RtUFOzsB6E/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese medical team brings free TCM care to Sierra Leone",
+      "description": "The 27th Chinese medical team to Sierra Leone has conducted a series of free community health clinics across the capital region this month, delivering specialized pain management, general care and med",
+      "link": "https://news.cgtn.com/news/2026-10-24/Chinese-medical-team-brings-free-TCM-care-to-Sierra-Leone-1RuShm7bbOw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
-      "description": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
-      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+      "description": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "María Corina Machado Returns to Venezuela",
-      "description": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+      "description": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "description": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+      "description": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "description": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "description": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 6,
-    "grammarIndex": 10,
-    "speakingIndex": 15,
+    "wordIndex": 7,
+    "grammarIndex": 11,
+    "speakingIndex": 16,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 6,
+    "wordPriorityPosition": 7,
     "wordPriorityTotal": 18
   }
 }
