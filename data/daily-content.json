@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-28",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-10-28T04:19:24.659Z",
+  "date": "2026-10-29",
+  "weekday": "Thursday",
+  "generatedAt": "2026-10-29T04:39:37.353Z",
   "word": {
-    "word": "compromise",
-    "phonetic": "/ˈkɒmprəmaɪz/",
-    "partOfSpeech": "v./n.",
-    "definition": "妥协；折中；损害",
-    "example": "Both parties reached a compromise after lengthy negotiations.",
-    "exampleTranslation": "经过漫长的谈判，双方达成了妥协。",
-    "ieltsLevel": "6",
+    "word": "discrepancy",
+    "phonetic": "/dɪsˈkrepənsi/",
+    "partOfSpeech": "n.",
+    "definition": "差异；不一致",
+    "example": "There was a discrepancy between the official report and eyewitness accounts.",
+    "exampleTranslation": "官方报告与目击者陈述之间存在差异。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "We don't compromise on safety.",
-      "movie": "Sully",
-      "year": 2016,
-      "character": "Chesley Sullenberger"
+      "quote": "There's a discrepancy in the financial records.",
+      "movie": "The Big Short",
+      "year": 2015,
+      "character": "Michael Burry"
     },
-    "youglish": "https://youglish.com/getbyword?q=compromise"
+    "youglish": "https://youglish.com/getbyword?q=discrepancy"
   },
   "grammar": {
-    "title": "非谓语动词：不定式 vs 动名词",
-    "category": "非谓语动词",
-    "explanation": "某些动词后只能接不定式（decide, hope, agree等），某些只能接动名词（enjoy, avoid, finish等），有些两者均可但意义不同（stop, remember, forget）。",
-    "structure": "动词 + to do / 动词 + doing",
+    "title": "主谓一致",
+    "category": "一致性",
+    "explanation": "主语为单数概念时谓语用单数，复数概念用复数。注意集体名词、就近原则、就远原则等特殊情况。",
+    "structure": "主语 + 谓语（与主语数一致）",
     "examples": [
       {
-        "sentence": "He stopped smoking. vs He stopped to smoke.",
-        "translation": "他戒烟了。/ 他停下来去抽烟。",
-        "note": "意义不同"
+        "sentence": "The committee has/have reached a decision.",
+        "translation": "委员会已作出决定。",
+        "note": "强调整体用单数，强调成员用复数"
       },
       {
-        "sentence": "I remember locking the door. vs Remember to lock the door.",
-        "translation": "我记得锁了门。/ 记得去锁门。",
-        "note": "remember doing已做;remember to do未做"
+        "sentence": "Either the students or the teacher is responsible.",
+        "translation": "要么学生，要么老师负责。",
+        "note": "either...or...就近原则"
       }
     ],
-    "ieltsTip": "雅思语法题和完形填空中，非谓语动词的搭配是高频考点，需要熟记。"
+    "ieltsTip": "雅思写作中主谓一致错误是常见的失分点，写完后务必检查主谓数的一致性。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a place you want to visit",
-    "cueCard": "Describe a place you would like to visit. You should say: where it is / how you know about it / what you would do there / and explain why you want to visit it.",
-    "sampleAnswer": "A place that has long captivated my imagination is Kyoto, Japan's former imperial capital. I first learned about it through a travel documentary that showcased its stunning temples, serene gardens, and well-preserved traditional architecture. If I had the chance to visit, I would spend my days exploring iconic sites like Kinkaku-ji and Fushimi Inari Shrine, participating in a traditional tea ceremony, and perhaps staying in a ryokan to experience authentic Japanese hospitality. What draws me to Kyoto is its remarkable harmony between nature and human craftsmanship—every garden, every temple seems designed to evoke a sense of tranquility and contemplation. In our fast-paced modern world, I believe Kyoto offers a rare opportunity to step back in time and reconnect with a more mindful way of living.",
+    "topic": "Describe a challenging experience",
+    "cueCard": "Describe a challenge you faced and how you overcame it. You should say: what the challenge was / when it happened / how you dealt with it / and explain what you learned from the experience.",
+    "sampleAnswer": "One of the most daunting challenges I've faced was delivering a presentation in English at an international conference during my third year of university. As a non-native speaker with limited public speaking experience, the prospect of addressing an audience of experts was genuinely terrifying. To prepare, I devoted countless hours to refining my slides, rehearsing my delivery in front of a mirror, and seeking feedback from professors and peers. On the day of the presentation, my hands were shaking, but I focused on my breathing and reminded myself that I had prepared thoroughly. To my surprise, the presentation went smoothly, and the Q&A session that followed was intellectually stimulating rather than intimidating. This experience taught me that preparation is the best antidote to anxiety, and that growth often lies just beyond our comfort zones.",
     "keywords": [
-      "captivated",
-      "imperial",
-      "iconic",
-      "tranquility",
-      "contemplation"
+      "daunting",
+      "prospect",
+      "refining",
+      "antidote",
+      "comfort zones"
     ],
-    "tips": "描述地点时调动多种感官，营造画面感。"
+    "tips": "讲述挑战时突出过程和心理变化，体现成长。"
   },
   "news": [
     {
-      "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-      "description": "Microsoft said on Monday that it is offering voluntary buyouts to about 60,000 employees, or more than a quarter of its global workforce, as the technology giant looks to ​contain costs and help fund ",
-      "link": "https://news.cgtn.com/news/2026-10-27/Microsoft-offers-buyouts-to-around-60-000-employees-to-contain-costs-1RA5wdRc54A/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China urges US to immediately end blockade and pressure on Cuba",
+      "description": "China's permanent representative to the United Nations Fu Cong on Tuesday urged the United States to immediately end its blockade and pressure on Cuba.",
+      "link": "https://news.cgtn.com/news/2026-10-28/China-urges-US-to-immediately-end-blockade-and-pressure-on-Cuba-1RBESuzeh56/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Aichi-Nagoya bids farewell to Asian Para Games in closing ceremony",
-      "description": "Aichi-Nagoya bids farewell to Asian Para Games in closing ceremony",
-      "link": "https://news.cgtn.com/news/2026-10-25/Aichi-Nagoya-bids-farewell-to-Asian-Para-Games-in-closing-ceremony-1Rwv6rZYcGk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "CENC: M6.2 earthquake hits the Vanuatu islands",
+      "description": "CENC: M6.2 earthquake hits the Vanuatu islands",
+      "link": "https://news.cgtn.com/news/2026-10-25/news-1RwvmTyhr4A/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Gunmen kill at least 20 in northeast Nigeria",
-      "description": "At least 20 people have been killed in an attack on Binnari village in Nigeria's Taraba state, according to survivors, in the latest assault targeting rural communities.",
-      "link": "https://newsaf.cgtn.com/news/2026-10-25/Gunmen-kill-at-least-20-in-northeast-Nigeria-1RwTW58hwSk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Meet the APEC economies: Peru",
+      "description": "Meet the APEC economies: Peru",
+      "link": "https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-Peru-1Rwubcgqhu8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,15 +102,15 @@
       "category": "中文媒体"
     },
     {
-      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
-      "description": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+      "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
+      "description": "A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
       "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next governmen",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
       "source": "NYT - World",
@@ -118,33 +118,33 @@
       "category": "国际综合"
     },
     {
-      "title": "European Leaders Split Over Phone Call to Putin",
-      "description": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+      "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
+      "description": "More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered.",
+      "link": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 8,
-    "grammarIndex": 12,
-    "speakingIndex": 17,
+    "wordIndex": 9,
+    "grammarIndex": 13,
+    "speakingIndex": 18,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 8,
+    "wordPriorityPosition": 9,
     "wordPriorityTotal": 18
   }
 }
