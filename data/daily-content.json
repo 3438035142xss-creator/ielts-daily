@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-29",
-  "weekday": "Thursday",
-  "generatedAt": "2026-10-29T04:39:37.353Z",
+  "date": "2026-10-30",
+  "weekday": "Friday",
+  "generatedAt": "2026-10-30T04:39:20.709Z",
   "word": {
-    "word": "discrepancy",
-    "phonetic": "/dɪsˈkrepənsi/",
-    "partOfSpeech": "n.",
-    "definition": "差异；不一致",
-    "example": "There was a discrepancy between the official report and eyewitness accounts.",
-    "exampleTranslation": "官方报告与目击者陈述之间存在差异。",
+    "word": "fluctuate",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "partOfSpeech": "v.",
+    "definition": "波动；起伏",
+    "example": "Oil prices fluctuated wildly throughout the year.",
+    "exampleTranslation": "全年油价波动剧烈。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "There's a discrepancy in the financial records.",
-      "movie": "The Big Short",
-      "year": 2015,
-      "character": "Michael Burry"
+      "quote": "The markets fluctuate, but the principle remains.",
+      "movie": "The Wolf of Wall Street",
+      "year": 2013,
+      "character": "Jordan Belfort"
     },
-    "youglish": "https://youglish.com/getbyword?q=discrepancy"
+    "youglish": "https://youglish.com/getbyword?q=fluctuate"
   },
   "grammar": {
-    "title": "主谓一致",
-    "category": "一致性",
-    "explanation": "主语为单数概念时谓语用单数，复数概念用复数。注意集体名词、就近原则、就远原则等特殊情况。",
-    "structure": "主语 + 谓语（与主语数一致）",
+    "title": "虚拟语气（与过去事实相反）",
+    "category": "虚拟语气",
+    "explanation": "表达对过去事实的假设时，if从句用had + 过去分词，主句用would/could/should/might + have + 过去分词。",
+    "structure": "If + 主语 + had done, 主语 + would have done",
     "examples": [
       {
-        "sentence": "The committee has/have reached a decision.",
-        "translation": "委员会已作出决定。",
-        "note": "强调整体用单数，强调成员用复数"
-      },
-      {
-        "sentence": "Either the students or the teacher is responsible.",
-        "translation": "要么学生，要么老师负责。",
-        "note": "either...or...就近原则"
+        "sentence": "If I had studied harder, I would have passed the exam.",
+        "translation": "如果我当初更努力学习，就会通过考试了。",
+        "note": "与过去事实相反"
       }
     ],
-    "ieltsTip": "雅思写作中主谓一致错误是常见的失分点，写完后务必检查主谓数的一致性。"
+    "ieltsTip": "雅思口语讨论过去经历或后悔时，使用虚拟语气可让表达更地道。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a challenging experience",
-    "cueCard": "Describe a challenge you faced and how you overcame it. You should say: what the challenge was / when it happened / how you dealt with it / and explain what you learned from the experience.",
-    "sampleAnswer": "One of the most daunting challenges I've faced was delivering a presentation in English at an international conference during my third year of university. As a non-native speaker with limited public speaking experience, the prospect of addressing an audience of experts was genuinely terrifying. To prepare, I devoted countless hours to refining my slides, rehearsing my delivery in front of a mirror, and seeking feedback from professors and peers. On the day of the presentation, my hands were shaking, but I focused on my breathing and reminded myself that I had prepared thoroughly. To my surprise, the presentation went smoothly, and the Q&A session that followed was intellectually stimulating rather than intimidating. This experience taught me that preparation is the best antidote to anxiety, and that growth often lies just beyond our comfort zones.",
-    "keywords": [
-      "daunting",
-      "prospect",
-      "refining",
-      "antidote",
-      "comfort zones"
+    "part": "Part 3",
+    "topic": "Globalization",
+    "questions": [
+      "What are the main advantages of globalization?",
+      "Does globalization threaten local cultures?",
+      "How has globalization affected developing countries?",
+      "Will globalization continue in the future?"
     ],
-    "tips": "讲述挑战时突出过程和心理变化，体现成长。"
+    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "keywords": [
+      "accelerated",
+      "diffusion",
+      "unprecedented",
+      "exacerbate",
+      "dependency"
+    ],
+    "tips": "全球化话题常用经济文化双角度分析。"
   },
   "news": [
     {
-      "title": "China urges US to immediately end blockade and pressure on Cuba",
-      "description": "China's permanent representative to the United Nations Fu Cong on Tuesday urged the United States to immediately end its blockade and pressure on Cuba.",
-      "link": "https://news.cgtn.com/news/2026-10-28/China-urges-US-to-immediately-end-blockade-and-pressure-on-Cuba-1RBESuzeh56/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Thousands protest police crackdown on housing encampments in Lisbon",
+      "description": "Thousands of people gathered outside Portugal's parliament in Lisbon on Tuesday to protest a police operation to clear housing rights encampments in the early hours of Sunday. Businesses in the surrou",
+      "link": "https://news.cgtn.com/news/2026-10-28/Thousands-protest-police-crackdown-on-housing-encampments-in-Lisbon-1RBo7iYEvHq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "CENC: M6.2 earthquake hits the Vanuatu islands",
-      "description": "CENC: M6.2 earthquake hits the Vanuatu islands",
-      "link": "https://news.cgtn.com/news/2026-10-25/news-1RwvmTyhr4A/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Spain train crash impact speed up to 200 km/h, report suggests",
+      "description": "The Renfe high-speed train that crashed into the back of a stationary Iryo service in Spain's Toledo province was traveling at an estimated 160 to 200 kilometers per hour at impact, according to the f",
+      "link": "https://news.cgtn.com/news/2026-10-30/Spain-train-crash-impact-speed-up-to-200-km-h-report-suggests-1RELopeCDeM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Meet the APEC economies: Peru",
-      "description": "Meet the APEC economies: Peru",
-      "link": "https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-Peru-1Rwubcgqhu8/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Post-disaster resettlement efforts continue in pastoral village",
+      "description": "Post-disaster resettlement efforts continue in pastoral village",
+      "link": "https://news.cgtn.com/news/2026-10-27/Post-disaster-resettlement-efforts-continue-in-pastoral-village-1RA3MsADdbq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
-      "description": "A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+      "description": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip.",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next governmen",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "description": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.",
+      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
-      "description": "More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered.",
-      "link": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
+      "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
+      "description": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger appear likely to win a majority. But there are still paths to a new government.",
+      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 9,
-    "grammarIndex": 13,
-    "speakingIndex": 18,
+    "wordIndex": 10,
+    "grammarIndex": 14,
+    "speakingIndex": 19,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 9,
+    "wordPriorityPosition": 10,
     "wordPriorityTotal": 18
   }
 }
