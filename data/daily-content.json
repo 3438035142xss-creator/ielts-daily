@@ -1,78 +1,83 @@
 {
-  "date": "2026-10-30",
-  "weekday": "Friday",
-  "generatedAt": "2026-10-30T04:39:20.709Z",
+  "date": "2026-10-31",
+  "weekday": "Saturday",
+  "generatedAt": "2026-10-31T04:23:27.225Z",
   "word": {
-    "word": "fluctuate",
-    "phonetic": "/ˈflʌktʃueɪt/",
-    "partOfSpeech": "v.",
-    "definition": "波动；起伏",
-    "example": "Oil prices fluctuated wildly throughout the year.",
-    "exampleTranslation": "全年油价波动剧烈。",
-    "ieltsLevel": "7",
+    "word": "implement",
+    "phonetic": "/ˈɪmplɪment/",
+    "partOfSpeech": "v./n.",
+    "definition": "实施；执行；工具",
+    "example": "The government implemented new regulations to protect the environment.",
+    "exampleTranslation": "政府实施了新规以保护环境。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "The markets fluctuate, but the principle remains.",
-      "movie": "The Wolf of Wall Street",
-      "year": 2013,
-      "character": "Jordan Belfort"
+      "quote": "We must implement the plan before dawn.",
+      "movie": "Ocean's Eleven",
+      "year": 2001,
+      "character": "Danny Ocean"
     },
-    "youglish": "https://youglish.com/getbyword?q=fluctuate"
+    "youglish": "https://youglish.com/getbyword?q=implement"
   },
   "grammar": {
-    "title": "虚拟语气（与过去事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达对过去事实的假设时，if从句用had + 过去分词，主句用would/could/should/might + have + 过去分词。",
-    "structure": "If + 主语 + had done, 主语 + would have done",
+    "title": "独立主格结构",
+    "category": "特殊句式",
+    "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
+    "structure": "名词 + 分词/形容词, 主句",
     "examples": [
       {
-        "sentence": "If I had studied harder, I would have passed the exam.",
-        "translation": "如果我当初更努力学习，就会通过考试了。",
-        "note": "与过去事实相反"
+        "sentence": "Weather permitting, we will go hiking tomorrow.",
+        "translation": "天气允许的话，我们明天去远足。",
+        "note": "名词+现在分词"
+      },
+      {
+        "sentence": "The work finished, we went home happily.",
+        "translation": "工作完成了，我们高兴地回家了。",
+        "note": "名词+过去分词"
       }
     ],
-    "ieltsTip": "雅思口语讨论过去经历或后悔时，使用虚拟语气可让表达更地道。"
+    "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Globalization",
+    "topic": "Health",
     "questions": [
-      "What are the main advantages of globalization?",
-      "Does globalization threaten local cultures?",
-      "How has globalization affected developing countries?",
-      "Will globalization continue in the future?"
+      "Why are more people suffering from stress nowadays?",
+      "How can individuals maintain a healthy lifestyle?",
+      "Should governments regulate fast food?",
+      "What role does mental health play in overall well-being?"
     ],
-    "sampleAnswer": "Globalization has undeniably accelerated economic growth, facilitated technological diffusion, and fostered cross-cultural understanding on an unprecedented scale. However, it also poses a genuine threat to local cultures, as dominant global trends—often Western in origin—can overshadow indigenous traditions, languages, and artistic expressions. For developing countries, globalization is a mixed blessing: it brings investment, jobs, and access to global markets, yet it can also exacerbate inequality and create dependency on foreign capital. Looking ahead, while the trajectory of globalization may shift—perhaps becoming more regional or digital—it will almost certainly persist in some form, given the deep integration of global supply chains and communication networks. The key challenge for policymakers will be ensuring that globalization's benefits are distributed more equitably while preserving cultural diversity.",
+    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
     "keywords": [
-      "accelerated",
-      "diffusion",
-      "unprecedented",
-      "exacerbate",
-      "dependency"
+      "prevalence",
+      "blurs",
+      "contentious",
+      "stigmatized",
+      "holistic"
     ],
-    "tips": "全球化话题常用经济文化双角度分析。"
+    "tips": "健康话题常用因果和建议结构。"
   },
   "news": [
     {
-      "title": "Thousands protest police crackdown on housing encampments in Lisbon",
-      "description": "Thousands of people gathered outside Portugal's parliament in Lisbon on Tuesday to protest a police operation to clear housing rights encampments in the early hours of Sunday. Businesses in the surrou",
-      "link": "https://news.cgtn.com/news/2026-10-28/Thousands-protest-police-crackdown-on-housing-encampments-in-Lisbon-1RBo7iYEvHq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Climate shocks increase health risks for Africa's most vulnerable",
+      "description": "Climate change is already reshaping Africa's health landscape, as rising temperatures, erratic rainfall, droughts, and floods worsen food insecurity, heighten infectious disease risks, and strain alre",
+      "link": "https://newsaf.cgtn.com/news/2026-10-29/Climate-shocks-increase-health-risks-for-Africa-s-most-vulnerable-1RtPSYbtIFq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Spain train crash impact speed up to 200 km/h, report suggests",
-      "description": "The Renfe high-speed train that crashed into the back of a stationary Iryo service in Spain's Toledo province was traveling at an estimated 160 to 200 kilometers per hour at impact, according to the f",
-      "link": "https://news.cgtn.com/news/2026-10-30/Spain-train-crash-impact-speed-up-to-200-km-h-report-suggests-1RELopeCDeM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Africa ready for Olympic debut with Dakar Youth Games",
+      "description": "The Dakar Youth Olympic Games are set to make history as the first Olympic sporting event hosted on African soil, with organizers expressing confidence that preparations are complete despite a four-ye",
+      "link": "https://newsaf.cgtn.com/news/2026-10-31/Africa-ready-for-Olympic-debut-with-Dakar-Youth-Games-1RFd7wRQ3gA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Post-disaster resettlement efforts continue in pastoral village",
-      "description": "Post-disaster resettlement efforts continue in pastoral village",
-      "link": "https://news.cgtn.com/news/2026-10-27/Post-disaster-resettlement-efforts-continue-in-pastoral-village-1RA3MsADdbq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Death toll from Spain high-speed train collision rises to 64",
+      "description": "The death toll from a collision between two high-speed trains in Spain's Toledo province on Wednesday morning has risen to 64, the Castilla-La Mancha regional government said.",
+      "link": "https://news.cgtn.com/news/2026-10-28/news-1RBTDCxLgEU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
-      "description": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip.",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+      "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+      "description": "The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.",
+      "link": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
-      "description": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+      "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+      "description": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
-      "description": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger appear likely to win a majority. But there are still paths to a new government.",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
+      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+      "description": "The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.",
+      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 10,
-    "grammarIndex": 14,
-    "speakingIndex": 19,
+    "wordIndex": 11,
+    "grammarIndex": 15,
+    "speakingIndex": 20,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 10,
+    "wordPriorityPosition": 11,
     "wordPriorityTotal": 18
   }
 }
