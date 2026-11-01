@@ -1,83 +1,78 @@
 {
-  "date": "2026-10-31",
-  "weekday": "Saturday",
-  "generatedAt": "2026-10-31T04:23:27.225Z",
+  "date": "2026-11-01",
+  "weekday": "Sunday",
+  "generatedAt": "2026-11-01T04:42:16.898Z",
   "word": {
-    "word": "implement",
-    "phonetic": "/ˈɪmplɪment/",
-    "partOfSpeech": "v./n.",
-    "definition": "实施；执行；工具",
-    "example": "The government implemented new regulations to protect the environment.",
-    "exampleTranslation": "政府实施了新规以保护环境。",
-    "ieltsLevel": "6",
+    "word": "jeopardize",
+    "phonetic": "/ˈdʒepədaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "危及；损害",
+    "example": "Smoking can jeopardize your health and that of those around you.",
+    "exampleTranslation": "吸烟会危及你及周围人的健康。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must implement the plan before dawn.",
-      "movie": "Ocean's Eleven",
-      "year": 2001,
-      "character": "Danny Ocean"
+      "quote": "Don't jeopardize everything we've built.",
+      "movie": "The Godfather Part II",
+      "year": 1974,
+      "character": "Michael Corleone"
     },
-    "youglish": "https://youglish.com/getbyword?q=implement"
+    "youglish": "https://youglish.com/getbyword?q=jeopardize"
   },
   "grammar": {
-    "title": "独立主格结构",
-    "category": "特殊句式",
-    "explanation": "独立主格结构由名词/代词 + 分词/形容词/副词/不定式/介词短语构成，其逻辑主语与主句主语不同，作状语表伴随、原因、条件等。",
-    "structure": "名词 + 分词/形容词, 主句",
+    "title": "间接引语",
+    "category": "引语",
+    "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
+    "structure": "主语 + said/told + (that) + 宾语从句",
     "examples": [
       {
-        "sentence": "Weather permitting, we will go hiking tomorrow.",
-        "translation": "天气允许的话，我们明天去远足。",
-        "note": "名词+现在分词"
-      },
-      {
-        "sentence": "The work finished, we went home happily.",
-        "translation": "工作完成了，我们高兴地回家了。",
-        "note": "名词+过去分词"
+        "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
+        "translation": "他说：「我累了。」→ 他说他累了。",
+        "note": "时态前移"
       }
     ],
-    "ieltsTip": "雅思写作中独立主格结构是高级句式的体现，但需确保逻辑主语清晰。"
+    "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Health",
+    "part": "Part 1",
+    "topic": "Daily Routine",
     "questions": [
-      "Why are more people suffering from stress nowadays?",
-      "How can individuals maintain a healthy lifestyle?",
-      "Should governments regulate fast food?",
-      "What role does mental health play in overall well-being?"
+      "When do you usually get up?",
+      "What part of the day do you like most?",
+      "Has your routine changed much recently?",
+      "What would you like to change about your routine?"
     ],
-    "sampleAnswer": "The rising prevalence of stress can be attributed to multiple factors: demanding work schedules, constant digital connectivity that blurs the boundary between work and rest, and mounting economic pressures, particularly in urban areas. To maintain a healthy lifestyle, individuals should prioritize regular exercise, balanced nutrition, adequate sleep, and mindful practices such as meditation or simply unplugging from devices. The question of whether governments should regulate fast food is contentious; while excessive regulation risks infringing on personal choice, measures such as clearer labeling and restrictions on marketing to children seem reasonable given the public health consequences of obesity. Mental health, once stigmatized and overlooked, is now rightly recognized as inseparable from physical well-being—chronic stress, anxiety, and depression can manifest as tangible physical ailments, underscoring the need for holistic approaches to health that address both mind and body.",
+    "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
     "keywords": [
-      "prevalence",
-      "blurs",
-      "contentious",
-      "stigmatized",
-      "holistic"
+      "drag myself",
+      "undeniably",
+      "unwind",
+      "blurred",
+      "boost"
     ],
-    "tips": "健康话题常用因果和建议结构。"
+    "tips": "描述日常时使用频率副词，体现自然流畅。"
   },
   "news": [
     {
-      "title": "Climate shocks increase health risks for Africa's most vulnerable",
-      "description": "Climate change is already reshaping Africa's health landscape, as rising temperatures, erratic rainfall, droughts, and floods worsen food insecurity, heighten infectious disease risks, and strain alre",
-      "link": "https://newsaf.cgtn.com/news/2026-10-29/Climate-shocks-increase-health-risks-for-Africa-s-most-vulnerable-1RtPSYbtIFq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Russia, Ukraine discuss trilateral talks amid continued fighting",
+      "description": "Russia plans to hold trilateral talks with Ukraine in Abu Dhabi in November under US mediation, with the meeting seen as having \"decisive significance\" for resolving the Ukraine conflict, Kremlin aide",
+      "link": "https://news.cgtn.com/news/2026-10-31/Russia-Ukraine-discuss-trilateral-talks-amid-continued-fighting-1RGwD9LzDd6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Africa ready for Olympic debut with Dakar Youth Games",
-      "description": "The Dakar Youth Olympic Games are set to make history as the first Olympic sporting event hosted on African soil, with organizers expressing confidence that preparations are complete despite a four-ye",
-      "link": "https://newsaf.cgtn.com/news/2026-10-31/Africa-ready-for-Olympic-debut-with-Dakar-Youth-Games-1RFd7wRQ3gA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Top scientists debate AI at World Laureates Forum",
+      "description": "Top scientists debate AI at World Laureates Forum",
+      "link": "https://news.cgtn.com/news/2026-10-31/Top-scientists-debate-AI-at-World-Laureates-Forum-1RGZet71MIg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Death toll from Spain high-speed train collision rises to 64",
-      "description": "The death toll from a collision between two high-speed trains in Spain's Toledo province on Wednesday morning has risen to 64, the Castilla-La Mancha regional government said.",
-      "link": "https://news.cgtn.com/news/2026-10-28/news-1RBTDCxLgEU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China voices grave concern over continued Middle East tensions",
+      "description": "China has expressed grave concern over continued tensions across the Middle East, issuing an urgent plea for dialogue.",
+      "link": "https://news.cgtn.com/news/2026-10-28/China-voices-grave-concern-over-continued-Middle-East-tensions-1RBUKxA4BxK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
-      "description": "The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+      "title": "India’s Congress Party Plans Mass Protest in New Delhi",
+      "description": "Organizers are calling for one of the biggest demonstrations yet, in a string of rallies that has racked India since the summer.",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
-      "description": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+      "title": "Korean Language Picks Up in Japan",
+      "description": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.",
+      "link": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
-      "description": "The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.",
-      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+      "description": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+      "link": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 11,
-    "grammarIndex": 15,
-    "speakingIndex": 20,
+    "wordIndex": 12,
+    "grammarIndex": 16,
+    "speakingIndex": 21,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 11,
+    "wordPriorityPosition": 12,
     "wordPriorityTotal": 18
   }
 }
