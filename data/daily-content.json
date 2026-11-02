@@ -1,78 +1,83 @@
 {
-  "date": "2026-11-01",
-  "weekday": "Sunday",
-  "generatedAt": "2026-11-01T04:42:16.898Z",
+  "date": "2026-11-02",
+  "weekday": "Monday",
+  "generatedAt": "2026-11-02T04:43:45.873Z",
   "word": {
-    "word": "jeopardize",
-    "phonetic": "/ˈdʒepədaɪz/",
-    "partOfSpeech": "v.",
-    "definition": "危及；损害",
-    "example": "Smoking can jeopardize your health and that of those around you.",
-    "exampleTranslation": "吸烟会危及你及周围人的健康。",
-    "ieltsLevel": "7+",
+    "word": "lucrative",
+    "phonetic": "/ˈluːkrətɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "获利丰厚的；赚钱的",
+    "example": "Software development has become a highly lucrative career path.",
+    "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Don't jeopardize everything we've built.",
-      "movie": "The Godfather Part II",
-      "year": 1974,
-      "character": "Michael Corleone"
+      "quote": "It's a lucrative offer, but I have conditions.",
+      "movie": "The Social Network",
+      "year": 2010,
+      "character": "Sean Parker"
     },
-    "youglish": "https://youglish.com/getbyword?q=jeopardize"
+    "youglish": "https://youglish.com/getbyword?q=lucrative"
   },
   "grammar": {
-    "title": "间接引语",
-    "category": "引语",
-    "explanation": "间接引语转述他人话语时，需注意时态呼应（主句过去时，从句时态前移）、人称变化、时间地点状语变化。",
-    "structure": "主语 + said/told + (that) + 宾语从句",
+    "title": "It作形式主语/宾语",
+    "category": "特殊句式",
+    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
+    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
     "examples": [
       {
-        "sentence": "He said, \"I am tired.\" → He said (that) he was tired.",
-        "translation": "他说：「我累了。」→ 他说他累了。",
-        "note": "时态前移"
+        "sentence": "It is essential to maintain a healthy work-life balance.",
+        "translation": "保持健康的工作生活平衡是必要的。",
+        "note": "形式主语"
+      },
+      {
+        "sentence": "I find it difficult to concentrate in noisy environments.",
+        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
+        "note": "形式宾语"
       }
     ],
-    "ieltsTip": "雅思听力中常出现间接引语转述，注意时态和人称的变化。"
+    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Daily Routine",
+    "topic": "Friends",
     "questions": [
-      "When do you usually get up?",
-      "What part of the day do you like most?",
-      "Has your routine changed much recently?",
-      "What would you like to change about your routine?"
+      "Do you prefer spending time with friends or alone?",
+      "What do you usually do with your friends?",
+      "Do you think friends should have similar personalities?",
+      "How do you make new friends?"
     ],
-    "sampleAnswer": "I'm admittedly not a morning person, so I typically drag myself out of bed around 7:30. My favorite part of the day is undeniably the evening, when I can finally unwind after a long day and devote time to reading or pursuing personal projects. My routine has shifted considerably in recent months—I used to commute to an office, but now I work remotely, which has given me more flexibility but also blurred the boundaries between work and leisure. If I could change one thing, I would wake up earlier to exercise; I know it would boost my energy levels, but breaking the habit of late nights has proven challenging.",
+    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
     "keywords": [
-      "drag myself",
-      "undeniably",
-      "unwind",
-      "blurred",
-      "boost"
+      "solitude",
+      "invigorating",
+      "diverse temperaments",
+      "organically",
+      "social circle"
     ],
-    "tips": "描述日常时使用频率副词，体现自然流畅。"
+    "tips": "谈论人际关系时使用情感词汇，体现深度。"
   },
   "news": [
     {
-      "title": "Russia, Ukraine discuss trilateral talks amid continued fighting",
-      "description": "Russia plans to hold trilateral talks with Ukraine in Abu Dhabi in November under US mediation, with the meeting seen as having \"decisive significance\" for resolving the Ukraine conflict, Kremlin aide",
-      "link": "https://news.cgtn.com/news/2026-10-31/Russia-Ukraine-discuss-trilateral-talks-amid-continued-fighting-1RGwD9LzDd6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Mixed Iranian reactions to Israel’s election",
+      "description": "Mixed Iranian reactions to Israel’s election",
+      "link": "https://news.cgtn.com/news/2026-11-01/Mixed-Iranian-reactions-to-Israel-s-election-1RIBYEK69sA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Top scientists debate AI at World Laureates Forum",
-      "description": "Top scientists debate AI at World Laureates Forum",
-      "link": "https://news.cgtn.com/news/2026-10-31/Top-scientists-debate-AI-at-World-Laureates-Forum-1RGZet71MIg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Chinese, German auto companies boost cooperation amid industry shift",
+      "description": "Chinese and German auto companies on Friday explored ways to boost cooperation amid profound global transformation and fierce industry competition.",
+      "link": "https://news.cgtn.com/news/2026-11-01/Chinese-German-auto-companies-boost-cooperation-amid-industry-shift-1RIJ83dHRZe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China voices grave concern over continued Middle East tensions",
-      "description": "China has expressed grave concern over continued tensions across the Middle East, issuing an urgent plea for dialogue.",
-      "link": "https://news.cgtn.com/news/2026-10-28/China-voices-grave-concern-over-continued-Middle-East-tensions-1RBUKxA4BxK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "MOFCOM address EU's possible trade arrangement expansion to chemicals",
+      "description": "MOFCOM address EU's possible trade arrangement expansion to chemicals",
+      "link": "https://news.cgtn.com/news/2026-10-30/MOFCOM-address-EU-s-possible-trade-arrangement-expansion-to-chemicals-1RESrx4OTjW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "India’s Congress Party Plans Mass Protest in New Delhi",
-      "description": "Organizers are calling for one of the biggest demonstrations yet, in a string of rallies that has racked India since the summer.",
+      "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+      "description": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Korean Language Picks Up in Japan",
-      "description": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.",
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
+      "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
+      "description": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
+      "link": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "description": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html",
+      "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+      "description": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
+      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 12,
-    "grammarIndex": 16,
-    "speakingIndex": 21,
+    "wordIndex": 13,
+    "grammarIndex": 17,
+    "speakingIndex": 22,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 12,
+    "wordPriorityPosition": 13,
     "wordPriorityTotal": 18
   }
 }
