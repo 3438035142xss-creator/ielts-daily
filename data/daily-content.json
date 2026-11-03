@@ -1,83 +1,78 @@
 {
-  "date": "2026-11-02",
-  "weekday": "Monday",
-  "generatedAt": "2026-11-02T04:43:45.873Z",
+  "date": "2026-11-03",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-11-03T05:35:23.347Z",
   "word": {
-    "word": "lucrative",
-    "phonetic": "/ˈluːkrətɪv/",
-    "partOfSpeech": "adj.",
-    "definition": "获利丰厚的；赚钱的",
-    "example": "Software development has become a highly lucrative career path.",
-    "exampleTranslation": "软件开发已成为一条高利润的职业道路。",
-    "ieltsLevel": "7",
+    "word": "mitigate",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "partOfSpeech": "v.",
+    "definition": "减轻；缓和",
+    "example": "Planting trees can help mitigate the effects of climate change.",
+    "exampleTranslation": "植树有助于缓解气候变化的影响。",
+    "ieltsLevel": "7+",
     "priority": "high",
     "movieQuote": {
-      "quote": "It's a lucrative offer, but I have conditions.",
-      "movie": "The Social Network",
-      "year": 2010,
-      "character": "Sean Parker"
+      "quote": "We must mitigate the damage before it spreads.",
+      "movie": "Contagion",
+      "year": 2011,
+      "character": "Dr. Ellis Cheever"
     },
-    "youglish": "https://youglish.com/getbyword?q=lucrative"
+    "youglish": "https://youglish.com/getbyword?q=mitigate"
   },
   "grammar": {
-    "title": "It作形式主语/宾语",
-    "category": "特殊句式",
-    "explanation": "当真正的主语或宾语较长（如不定式短语、动名词短语、主语从句）时，用it作形式主语或形式宾语，避免头重脚轻。",
-    "structure": "It + be + adj. + to do/that从句; 主语 + v. + it + adj. + to do",
+    "title": "同位语",
+    "category": "句法",
+    "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
+    "structure": "名词 + 同位成分（名词/that从句）",
     "examples": [
       {
-        "sentence": "It is essential to maintain a healthy work-life balance.",
-        "translation": "保持健康的工作生活平衡是必要的。",
-        "note": "形式主语"
+        "sentence": "Beijing, the capital of China, is a bustling metropolis.",
+        "translation": "北京，中国的首都，是个繁华的大都市。",
+        "note": "名词作同位语"
       },
       {
-        "sentence": "I find it difficult to concentrate in noisy environments.",
-        "translation": "我发现自己在嘈杂环境中很难集中注意力。",
-        "note": "形式宾语"
+        "sentence": "The news that our team won the championship spread quickly.",
+        "translation": "我们队夺冠的消息传得很快。",
+        "note": "同位语从句"
       }
     ],
-    "ieltsTip": "雅思写作中it作形式主语是常见的高级句式，能让句子更平衡。"
+    "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Friends",
-    "questions": [
-      "Do you prefer spending time with friends or alone?",
-      "What do you usually do with your friends?",
-      "Do you think friends should have similar personalities?",
-      "How do you make new friends?"
-    ],
-    "sampleAnswer": "I value both solitude and companionship, but I lean towards spending quality time with close friends—it's invigorating to share ideas and laughter with people who truly understand me. When we meet, we often grab coffee, explore new restaurants, or simply hang out at someone's place playing board games. While similar personalities can make friendships effortless, I actually appreciate having friends with diverse temperaments and interests—they challenge my perspectives and introduce me to new experiences. Making new friends as an adult is admittedly trickier than in school, but I find that joining clubs, attending workshops, and being open to conversations with strangers all help expand my social circle organically.",
+    "part": "Part 2",
+    "topic": "Describe a useful invention",
+    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
+    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
     "keywords": [
-      "solitude",
-      "invigorating",
-      "diverse temperaments",
-      "organically",
-      "social circle"
+      "transformative",
+      "democratized",
+      "revolutionized",
+      "ubiquity",
+      "erosion"
     ],
-    "tips": "谈论人际关系时使用情感词汇，体现深度。"
+    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
   },
   "news": [
     {
-      "title": "Mixed Iranian reactions to Israel’s election",
-      "description": "Mixed Iranian reactions to Israel’s election",
-      "link": "https://news.cgtn.com/news/2026-11-01/Mixed-Iranian-reactions-to-Israel-s-election-1RIBYEK69sA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Talks to end US-Iran war continue as military tensions rise",
+      "description": "Iranian negotiators were in Doha on Sunday for a third consecutive day of talks with Qatari mediators aimed at ​pushing for a deal to end the US-Israeli war on Iran, an official ‌briefed on the discus",
+      "link": "https://news.cgtn.com/news/2026-11-02/Talks-to-end-US-Iran-war-continue-as-military-tensions-rise-1RJOwN0N2Ug/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese, German auto companies boost cooperation amid industry shift",
-      "description": "Chinese and German auto companies on Friday explored ways to boost cooperation amid profound global transformation and fierce industry competition.",
-      "link": "https://news.cgtn.com/news/2026-11-01/Chinese-German-auto-companies-boost-cooperation-amid-industry-shift-1RIJ83dHRZe/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China's top diplomat meets deputy secretary of Iran SNSC",
+      "description": "China's top diplomat meets deputy secretary of Iran SNSC",
+      "link": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-meets-deputy-secretary-of-Iran-SNSC-1RKgzMiVQqc/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "MOFCOM address EU's possible trade arrangement expansion to chemicals",
-      "description": "MOFCOM address EU's possible trade arrangement expansion to chemicals",
-      "link": "https://news.cgtn.com/news/2026-10-30/MOFCOM-address-EU-s-possible-trade-arrangement-expansion-to-chemicals-1RESrx4OTjW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Fact Check: Colombia gym video falsely linked to earthquake in Xizang",
+      "description": "A video showing people fleeing a shaking building was falsely shared on social media as footage of the magnitude-7.0 earthquake that struck southwest China's Xizang Autonomous Region in October. Fact ",
+      "link": "https://news.cgtn.com/news/2026-10-31/Fact-Check-Colombia-gym-video-falsely-linked-to-earthquake-in-Xizang-1RGVT8PfDI4/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "India’s Congress Party Holds Mass Protest in New Delhi",
-      "description": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+      "description": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-      "description": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
-      "link": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
+      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
+      "description": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-      "description": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
-      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+      "title": "Russia Senses Opportunity in Polish Political Turmoil",
+      "description": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US strikes Iran ahead of midterm elections",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 13,
-    "grammarIndex": 17,
-    "speakingIndex": 22,
+    "wordIndex": 14,
+    "grammarIndex": 18,
+    "speakingIndex": 23,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 13,
+    "wordPriorityPosition": 14,
     "wordPriorityTotal": 18
   }
 }
