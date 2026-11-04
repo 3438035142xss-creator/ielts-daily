@@ -1,78 +1,78 @@
 {
-  "date": "2026-11-03",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-11-03T05:35:23.347Z",
+  "date": "2026-11-04",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-11-04T05:03:45.929Z",
   "word": {
-    "word": "mitigate",
-    "phonetic": "/ˈmɪtɪɡeɪt/",
-    "partOfSpeech": "v.",
-    "definition": "减轻；缓和",
-    "example": "Planting trees can help mitigate the effects of climate change.",
-    "exampleTranslation": "植树有助于缓解气候变化的影响。",
-    "ieltsLevel": "7+",
+    "word": "notion",
+    "phonetic": "/ˈnəʊʃn/",
+    "partOfSpeech": "n.",
+    "definition": "概念；观念",
+    "example": "The notion of working from home was once considered unusual.",
+    "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
+    "ieltsLevel": "6",
     "priority": "high",
     "movieQuote": {
-      "quote": "We must mitigate the damage before it spreads.",
-      "movie": "Contagion",
-      "year": 2011,
-      "character": "Dr. Ellis Cheever"
+      "quote": "The notion of freedom is what we fight for.",
+      "movie": "Braveheart",
+      "year": 1995,
+      "character": "William Wallace"
     },
-    "youglish": "https://youglish.com/getbyword?q=mitigate"
+    "youglish": "https://youglish.com/getbyword?q=notion"
   },
   "grammar": {
-    "title": "同位语",
-    "category": "句法",
-    "explanation": "同位语是对前面名词的补充说明，可以是名词、代词、动名词、不定式、从句等。同位语从句常用that引导。",
-    "structure": "名词 + 同位成分（名词/that从句）",
+    "title": "将来时态的表达",
+    "category": "时态",
+    "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
+    "structure": "will do / be going to do / be to do / be about to do",
     "examples": [
       {
-        "sentence": "Beijing, the capital of China, is a bustling metropolis.",
-        "translation": "北京，中国的首都，是个繁华的大都市。",
-        "note": "名词作同位语"
+        "sentence": "Look at the clouds! It is going to rain.",
+        "translation": "看那些云！要下雨了。",
+        "note": "表迹象"
       },
       {
-        "sentence": "The news that our team won the championship spread quickly.",
-        "translation": "我们队夺冠的消息传得很快。",
-        "note": "同位语从句"
+        "sentence": "The Prime Minister is to visit China next month.",
+        "translation": "首相将于下个月访问中国。",
+        "note": "官方安排"
       }
     ],
-    "ieltsTip": "雅思阅读中同位语常用来解释生词或专有名词，识别同位语有助于猜词。"
+    "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a useful invention",
-    "cueCard": "Describe an invention that has changed how people live. You should say: what it is / how it works / who uses it / and explain why it is important.",
-    "sampleAnswer": "I'd like to talk about the smartphone, arguably the most transformative invention of the 21st century. Essentially a pocket-sized computer, it combines communication, computing, photography, navigation, and countless other functions through a touch-sensitive screen and internet connectivity. Virtually everyone—from young children to the elderly—now relies on smartphones for daily tasks ranging from messaging friends to managing finances. The importance of this invention cannot be overstated: it has democratized access to information, revolutionized industries from transportation to healthcare, and connected billions of people across the globe. However, this ubiquity comes with consequences—smartphones have also contributed to shortened attention spans, digital addiction, and the erosion of face-to-face interaction. Like any powerful tool, the smartphone's impact depends entirely on how thoughtfully we choose to use it.",
+    "topic": "Describe a goal you achieved",
+    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
+    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
     "keywords": [
-      "transformative",
-      "democratized",
-      "revolutionized",
-      "ubiquity",
-      "erosion"
+      "decidedly",
+      "accountability",
+      "overhauled",
+      "indescribable",
+      "perseverance"
     ],
-    "tips": "描述发明时既谈优点也谈缺点，体现思辨能力。"
+    "tips": "描述目标时强调努力过程，体现意志力。"
   },
   "news": [
     {
-      "title": "Talks to end US-Iran war continue as military tensions rise",
-      "description": "Iranian negotiators were in Doha on Sunday for a third consecutive day of talks with Qatari mediators aimed at ​pushing for a deal to end the US-Israeli war on Iran, an official ‌briefed on the discus",
-      "link": "https://news.cgtn.com/news/2026-11-02/Talks-to-end-US-Iran-war-continue-as-military-tensions-rise-1RJOwN0N2Ug/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Meet the APEC economies: Philippines",
+      "description": "Meet the APEC economies: Philippines",
+      "link": "https://news.cgtn.com/news/2026-11-02/Meet-the-APEC-economies-Philippines-1RJHz15lOQo/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China's top diplomat meets deputy secretary of Iran SNSC",
-      "description": "China's top diplomat meets deputy secretary of Iran SNSC",
-      "link": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-meets-deputy-secretary-of-Iran-SNSC-1RKgzMiVQqc/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "NASA astronauts vote from space",
+      "description": "NASA astronauts vote from space",
+      "link": "https://newsus.cgtn.com/news/2026-11-04/NASA-astronauts-vote-from-space-1RMUatzcRqM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Fact Check: Colombia gym video falsely linked to earthquake in Xizang",
-      "description": "A video showing people fleeing a shaking building was falsely shared on social media as footage of the magnitude-7.0 earthquake that struck southwest China's Xizang Autonomous Region in October. Fact ",
-      "link": "https://news.cgtn.com/news/2026-10-31/Fact-Check-Colombia-gym-video-falsely-linked-to-earthquake-in-Xizang-1RGVT8PfDI4/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Japanese spy drama fuels remilitarization concerns, experts warn",
+      "description": "A Japanese spy drama has sparked a backlash in China over scenes accused of distorting wartime history, with experts warning that such narratives could fuel anti-China sentiment and build support for ",
+      "link": "https://news.cgtn.com/news/2026-11-01/Japanese-spy-drama-fuels-remilitarization-concerns-experts-warn-1RIsveCGfF6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "description": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+      "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
+      "description": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
+      "link": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "description": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+      "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
+      "description": "The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.",
+      "link": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "description": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+      "title": "Poland Beefs Up Security at Border With Russia",
+      "description": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US strikes Iran ahead of midterm elections",
-      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "description": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "description": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 14,
-    "grammarIndex": 18,
-    "speakingIndex": 23,
+    "wordIndex": 15,
+    "grammarIndex": 19,
+    "speakingIndex": 24,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 14,
+    "wordPriorityPosition": 15,
     "wordPriorityTotal": 18
   }
 }
