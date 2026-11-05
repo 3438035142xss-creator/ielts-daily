@@ -1,78 +1,83 @@
 {
-  "date": "2026-11-04",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-11-04T05:03:45.929Z",
+  "date": "2026-11-05",
+  "weekday": "Thursday",
+  "generatedAt": "2026-11-05T05:25:55.511Z",
   "word": {
-    "word": "notion",
-    "phonetic": "/ˈnəʊʃn/",
-    "partOfSpeech": "n.",
-    "definition": "概念；观念",
-    "example": "The notion of working from home was once considered unusual.",
-    "exampleTranslation": "在家办公的概念曾经被认为是反常的。",
-    "ieltsLevel": "6",
+    "word": "prevalent",
+    "phonetic": "/ˈprevələnt/",
+    "partOfSpeech": "adj.",
+    "definition": "普遍的；盛行的",
+    "example": "This disease is more prevalent in tropical regions.",
+    "exampleTranslation": "这种疾病在热带地区更为普遍。",
+    "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "The notion of freedom is what we fight for.",
-      "movie": "Braveheart",
-      "year": 1995,
-      "character": "William Wallace"
+      "quote": "Corruption is prevalent in these parts.",
+      "movie": "Traffic",
+      "year": 2000,
+      "character": "Javier Rodriguez"
     },
-    "youglish": "https://youglish.com/getbyword?q=notion"
+    "youglish": "https://youglish.com/getbyword?q=prevalent"
   },
   "grammar": {
-    "title": "将来时态的表达",
-    "category": "时态",
-    "explanation": "英语表达将来有多种方式：will/shall + do（即时决定/预测）；be going to + do（计划/迹象）；be to + do（安排）；be about to + do（即将）。",
-    "structure": "will do / be going to do / be to do / be about to do",
+    "title": "冠词的用法",
+    "category": "冠词",
+    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
+    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
     "examples": [
       {
-        "sentence": "Look at the clouds! It is going to rain.",
-        "translation": "看那些云！要下雨了。",
-        "note": "表迹象"
+        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
+        "translation": "狗是忠诚的动物。（三种泛指表达）",
+        "note": "泛指的三种方式"
       },
       {
-        "sentence": "The Prime Minister is to visit China next month.",
-        "translation": "首相将于下个月访问中国。",
-        "note": "官方安排"
+        "sentence": "Love is more important than money.",
+        "translation": "爱比金钱更重要。",
+        "note": "抽象名词零冠词"
       }
     ],
-    "ieltsTip": "雅思口语Part 2描述未来计划时，准确使用将来时态表达能让语言更地道。"
+    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a goal you achieved",
-    "cueCard": "Describe a goal you set and worked hard to achieve. You should say: what the goal was / why you set it / how you achieved it / and explain how you felt when you achieved it.",
-    "sampleAnswer": "A goal that required tremendous effort was running a half marathon, which I set my sights on two years ago after years of being decidedly unfit. I chose this goal because I wanted to prove to myself that I could commit to something demanding and see it through. The training spanned six months, during which I gradually increased my weekly mileage, joined a running club for accountability, and overhauled my diet to support my physical exertion. There were moments of doubt, especially during cold winter mornings when the temptation to skip training was overwhelming. When I finally crossed the finish line, the sense of accomplishment was indescribable—part exhilaration, part relief, and a profound realization that discipline and perseverance can transform seemingly impossible aspirations into reality.",
-    "keywords": [
-      "decidedly",
-      "accountability",
-      "overhauled",
-      "indescribable",
-      "perseverance"
+    "part": "Part 3",
+    "topic": "Media",
+    "questions": [
+      "How has the media changed in recent years?",
+      "Do you trust the news media?",
+      "What responsibilities do journalists have?",
+      "How does social media influence public opinion?"
     ],
-    "tips": "描述目标时强调努力过程，体现意志力。"
+    "sampleAnswer": "The media landscape has been radically reshaped by digitalization, with traditional outlets losing ground to social platforms and independent content creators. Trust in mainstream media has declined in many countries, partly due to sensationalism, political bias, and the proliferation of misinformation that exploits social media algorithms. Journalists bear profound responsibilities: to verify facts rigorously, present multiple perspectives, and hold power to account—all while navigating commercial pressures and tight deadlines. Social media's influence on public opinion is profound but double-edged: it democratizes information sharing and gives voice to marginalized groups, yet it also creates echo chambers that reinforce existing beliefs and amplifies emotionally charged content at the expense of nuanced discussion. Cultivating media literacy has never been more essential.",
+    "keywords": [
+      "radically",
+      "sensationalism",
+      "proliferation",
+      "echo chambers",
+      "media literacy"
+    ],
+    "tips": "媒体话题常用变化和影响分析。"
   },
   "news": [
     {
-      "title": "Meet the APEC economies: Philippines",
-      "description": "Meet the APEC economies: Philippines",
-      "link": "https://news.cgtn.com/news/2026-11-02/Meet-the-APEC-economies-Philippines-1RJHz15lOQo/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China's APEC opportunities: AI-native grid, green‑energy transition",
+      "description": "China's APEC opportunities: AI-native grid, green‑energy transition",
+      "link": "https://news.cgtn.com/news/2026-11-04/China-s-APEC-opportunities-AI-native-grid-green-energy-transition-1RNif1v1JrW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "NASA astronauts vote from space",
-      "description": "NASA astronauts vote from space",
-      "link": "https://newsus.cgtn.com/news/2026-11-04/NASA-astronauts-vote-from-space-1RMUatzcRqM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Republicans, Democrats react to monumental midterm results",
+      "description": "Republicans, Democrats react to monumental midterm results",
+      "link": "https://newsus.cgtn.com/news/2026-11-05/Republicans-Democrats-react-to-monumental-midterm-results-1ROz9fmJlxm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Japanese spy drama fuels remilitarization concerns, experts warn",
-      "description": "A Japanese spy drama has sparked a backlash in China over scenes accused of distorting wartime history, with experts warning that such narratives could fuel anti-China sentiment and build support for ",
-      "link": "https://news.cgtn.com/news/2026-11-01/Japanese-spy-drama-fuels-remilitarization-concerns-experts-warn-1RIsveCGfF6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "CGTN poll: China’s opening-up experience earns wide recognition",
+      "description": "On the occasion of the 9th China International Import Expo (CIIE), CGTN, in collaboration with Renmin University of China through the New Era International Communication Research Institute, carried ou",
+      "link": "https://news.cgtn.com/news/2026-11-04/CGTN-poll-China-s-opening-up-experience-earns-wide-recognition-1RNa2TZ6CSk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
-      "description": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
-      "link": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
+      "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+      "description": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
-      "description": "The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.",
-      "link": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
+      "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "description": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Poland Beefs Up Security at Border With Russia",
-      "description": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+      "title": "Why Doctors in Thailand Fear KFC",
+      "description": "In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "description": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "description": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "description": "Democrats can vote legislation through. But Trump still has veto power.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 15,
-    "grammarIndex": 19,
-    "speakingIndex": 24,
+    "wordIndex": 16,
+    "grammarIndex": 20,
+    "speakingIndex": 25,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 15,
+    "wordPriorityPosition": 16,
     "wordPriorityTotal": 18
   }
 }
