@@ -1,83 +1,83 @@
 {
-  "date": "2026-11-05",
-  "weekday": "Thursday",
-  "generatedAt": "2026-11-05T05:25:55.511Z",
+  "date": "2026-11-06",
+  "weekday": "Friday",
+  "generatedAt": "2026-11-06T05:24:44.975Z",
   "word": {
-    "word": "prevalent",
-    "phonetic": "/ˈprevələnt/",
-    "partOfSpeech": "adj.",
-    "definition": "普遍的；盛行的",
-    "example": "This disease is more prevalent in tropical regions.",
-    "exampleTranslation": "这种疾病在热带地区更为普遍。",
+    "word": "undermine",
+    "phonetic": "/ˌʌndəˈmaɪn/",
+    "partOfSpeech": "v.",
+    "definition": "破坏；削弱",
+    "example": "Constant criticism can undermine a child's self-confidence.",
+    "exampleTranslation": "持续的批评会削弱孩子的自信心。",
     "ieltsLevel": "7",
     "priority": "high",
     "movieQuote": {
-      "quote": "Corruption is prevalent in these parts.",
-      "movie": "Traffic",
-      "year": 2000,
-      "character": "Javier Rodriguez"
+      "quote": "They will try to undermine your authority.",
+      "movie": "Lincoln",
+      "year": 2012,
+      "character": "Abraham Lincoln"
     },
-    "youglish": "https://youglish.com/getbyword?q=prevalent"
+    "youglish": "https://youglish.com/getbyword?q=undermine"
   },
   "grammar": {
-    "title": "冠词的用法",
-    "category": "冠词",
-    "explanation": "a/an用于单数可数名词前表泛指或首次提及；the用于特指；零冠词用于泛指复数或不可数名词、专有名词、抽象名词等。",
-    "structure": "a/an + 单数可数名词; the + 名词; 零冠词 + 名词",
+    "title": "分词作定语",
+    "category": "非谓语动词",
+    "explanation": "现在分词（-ing）作定语表主动或进行；过去分词（-ed）作定语表被动或完成。可前置也可后置。",
+    "structure": "名词 + -ing/-ed(短语)",
     "examples": [
       {
-        "sentence": "A dog is a loyal animal. / The dog is a loyal animal. / Dogs are loyal animals.",
-        "translation": "狗是忠诚的动物。（三种泛指表达）",
-        "note": "泛指的三种方式"
+        "sentence": "The exciting news spread quickly.",
+        "translation": "这个令人兴奋的消息传得很快。",
+        "note": "现在分词表主动"
       },
       {
-        "sentence": "Love is more important than money.",
-        "translation": "爱比金钱更重要。",
-        "note": "抽象名词零冠词"
+        "sentence": "The book written by him is a bestseller.",
+        "translation": "他写的书是畅销书。",
+        "note": "过去分词表被动"
       }
     ],
-    "ieltsTip": "冠词错误是雅思写作评分中常扣分的细节，特别是不可数名词前零冠词的使用。"
+    "ieltsTip": "雅思阅读中分词作定语常让句子变长，识别分词及其修饰对象是理解长难句的关键。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Media",
+    "topic": "Family",
     "questions": [
-      "How has the media changed in recent years?",
-      "Do you trust the news media?",
-      "What responsibilities do journalists have?",
-      "How does social media influence public opinion?"
+      "How have family structures changed in your country?",
+      "What role do grandparents play in modern families?",
+      "Is it better for children to grow up in large or small families?",
+      "How will family relationships change in the future?"
     ],
-    "sampleAnswer": "The media landscape has been radically reshaped by digitalization, with traditional outlets losing ground to social platforms and independent content creators. Trust in mainstream media has declined in many countries, partly due to sensationalism, political bias, and the proliferation of misinformation that exploits social media algorithms. Journalists bear profound responsibilities: to verify facts rigorously, present multiple perspectives, and hold power to account—all while navigating commercial pressures and tight deadlines. Social media's influence on public opinion is profound but double-edged: it democratizes information sharing and gives voice to marginalized groups, yet it also creates echo chambers that reinforce existing beliefs and amplifies emotionally charged content at the expense of nuanced discussion. Cultivating media literacy has never been more essential.",
+    "sampleAnswer": "Family structures in China have undergone significant transformations, shifting from extended multi-generational households to smaller nuclear families, particularly in urban areas where housing constraints and career demands prevail. Grandparents still play vital roles, often serving as primary caregivers for grandchildren while parents work, though this arrangement can sometimes generate intergenerational conflicts over child-rearing philosophies. Whether large or small families are preferable depends on context: large families offer richer social support and diverse role models, while small families can provide more individualized attention and resources per child. Looking ahead, I expect family relationships will become more diverse and flexible, with rising acceptance of single-parent families, blended families, and child-free couples. The fundamental function of families—providing love, support, and belonging—will endure, even as their forms multiply.",
     "keywords": [
-      "radically",
-      "sensationalism",
-      "proliferation",
-      "echo chambers",
-      "media literacy"
+      "transformations",
+      "nuclear",
+      "caregivers",
+      "intergenerational",
+      "endure"
     ],
-    "tips": "媒体话题常用变化和影响分析。"
+    "tips": "家庭话题常用对比和趋势分析。"
   },
   "news": [
     {
-      "title": "China's APEC opportunities: AI-native grid, green‑energy transition",
-      "description": "China's APEC opportunities: AI-native grid, green‑energy transition",
-      "link": "https://news.cgtn.com/news/2026-11-04/China-s-APEC-opportunities-AI-native-grid-green-energy-transition-1RNif1v1JrW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "US-Iran tensions persist amid US midterms, regional mediation",
+      "description": "With US midterm elections beginning Tuesday, tensions between Washington and Tehran remained high as both sides exchanged warnings and conditions for a possible settlement, while regional countries st",
+      "link": "https://news.cgtn.com/news/2026-11-04/US-Iran-tensions-persist-amid-US-midterms-regional-mediation-1RMVPdC1Bba/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Republicans, Democrats react to monumental midterm results",
-      "description": "Republicans, Democrats react to monumental midterm results",
-      "link": "https://newsus.cgtn.com/news/2026-11-05/Republicans-Democrats-react-to-monumental-midterm-results-1ROz9fmJlxm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Global dialogue discusses China's governance and worldwide development",
+      "description": "Global dialogue discusses China's governance and worldwide development",
+      "link": "https://newsus.cgtn.com/news/2026-11-06/Global-dialogue-discusses-China-s-governance-and-worldwide-development-1RPOeP5SiRy/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "CGTN poll: China’s opening-up experience earns wide recognition",
-      "description": "On the occasion of the 9th China International Import Expo (CIIE), CGTN, in collaboration with Renmin University of China through the New Era International Communication Research Institute, carried ou",
-      "link": "https://news.cgtn.com/news/2026-11-04/CGTN-poll-China-s-opening-up-experience-earns-wide-recognition-1RNa2TZ6CSk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Africa's El Nino readiness: From early warning to early action",
+      "description": "The intensifying El Nino weather phenomenon has divided Sub-Saharan Africa along extreme meteorological lines, precipitating a dual crisis. East Africa faces severe flooding and Southern Africa suffer",
+      "link": "https://newsaf.cgtn.com/news/2026-11-04/Africa-s-El-Nino-readiness-From-early-warning-to-early-action-1RMjIeXKeCk/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
-      "description": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+      "description": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
-      "description": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "description": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Why Doctors in Thailand Fear KFC",
-      "description": "In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
+      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "description": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "description": "Democrats can vote legislation through. But Trump still has veto power.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 16,
-    "grammarIndex": 20,
-    "speakingIndex": 25,
+    "wordIndex": 17,
+    "grammarIndex": 21,
+    "speakingIndex": 26,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "high",
-    "wordPriorityPosition": 16,
+    "wordPriorityPosition": 17,
     "wordPriorityTotal": 18
   }
 }
