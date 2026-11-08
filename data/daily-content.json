@@ -1,78 +1,78 @@
 {
-  "date": "2026-11-07",
-  "weekday": "Saturday",
-  "generatedAt": "2026-11-07T04:53:23.797Z",
+  "date": "2026-11-08",
+  "weekday": "Sunday",
+  "generatedAt": "2026-11-08T04:45:48.223Z",
   "word": {
-    "word": "viable",
-    "phonetic": "/ˈvaɪəbl/",
-    "partOfSpeech": "adj.",
-    "definition": "可行的；能存活的",
-    "example": "Solar energy is now a viable alternative to fossil fuels.",
-    "exampleTranslation": "太阳能现在是化石燃料的可行替代品。",
+    "word": "obscure",
+    "phonetic": "/əbˈskjʊə(r)/",
+    "partOfSpeech": "adj./v.",
+    "definition": "模糊的；晦涩的；使模糊",
+    "example": "The origins of this tradition remain obscure to historians.",
+    "exampleTranslation": "这一传统的起源对历史学家来说仍然模糊不清。",
     "ieltsLevel": "7",
-    "priority": "high",
+    "priority": "medium",
     "movieQuote": {
-      "quote": "Is there a viable alternative?",
-      "movie": "The Matrix",
-      "year": 1999,
-      "character": "Morpheus"
+      "quote": "His motives remain obscure to all of us.",
+      "movie": "The Imitation Game",
+      "year": 2014,
+      "character": "Alan Turing"
     },
-    "youglish": "https://youglish.com/getbyword?q=viable"
+    "youglish": "https://youglish.com/getbyword?q=obscure"
   },
   "grammar": {
-    "title": "条件句的混合用法",
+    "title": "wish和hope的用法",
     "category": "虚拟语气",
-    "explanation": "混合条件句指主从句时间不一致的条件句，需根据各自时间调整动词形式。如：与过去事实相反的条件 + 对现在的影响。",
-    "structure": "If + had done, would + do（过去条件+现在结果）",
+    "explanation": "wish表愿望，从句用虚拟语气（与现在相反用过去式，与过去相反用过去完成时）；hope表希望，从句用陈述语气。",
+    "structure": "wish + 过去式/过去完成时; hope + 现在时/将来时",
     "examples": [
       {
-        "sentence": "If I had studied medicine, I would be a doctor now.",
-        "translation": "如果我当初学医，现在就是医生了。",
-        "note": "过去条件+现在结果"
+        "sentence": "I wish I were taller. / I hope you will succeed.",
+        "translation": "我希望我能更高些。/ 我希望你会成功。",
+        "note": "wish虚拟/hope陈述"
       }
     ],
-    "ieltsTip": "雅思写作中混合条件句可体现对假设情况的深入分析，是高分句式。"
+    "ieltsTip": "雅思口语中wish和hope的区分是常见考点，注意虚拟语气的运用。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Reading",
+    "topic": "Sports",
     "questions": [
-      "Do you like reading?",
-      "What kind of books do you read?",
-      "Do you prefer e-books or paper books?",
-      "What was the last book you read?"
+      "Do you like sports?",
+      "What sports do you enjoy watching or playing?",
+      "How often do you exercise?",
+      "Did you play sports when you were a child?"
     ],
-    "sampleAnswer": "I'm an avid reader, finding few pleasures as satisfying as getting lost in a good book. My reading tastes are fairly broad, encompassing literary fiction, biographies, and popular science. When it comes to format, I have a soft spot for paper books—the tactile sensation of turning pages and the unmistakable scent of printed paper create an irreplaceable reading experience. However, I also appreciate e-books for their convenience, especially when traveling. The last book I finished was 'Sapiens' by Yuval Noah Harari, a thought-provoking exploration of human history that fundamentally challenged my understanding of how civilizations develop.",
+    "sampleAnswer": "I genuinely enjoy sports, both as a participant and a spectator. As a player, I'm particularly fond of badminton and swimming—they provide excellent cardiovascular workouts while being relatively gentle on the joints. As a spectator, I'm captivated by tennis and football, especially during major tournaments. I try to exercise at least three times a week, though work commitments sometimes interfere with this routine. As a child, I was quite active, participating in school basketball teams and spending countless afternoons cycling with friends. Those early experiences instilled in me a lifelong appreciation for physical activity and team spirit.",
     "keywords": [
-      "avid",
-      "encompassing",
-      "tactile",
-      "irreplaceable",
-      "thought-provoking"
+      "cardiovascular",
+      "captivated",
+      "tournaments",
+      "instilled",
+      "team spirit"
     ],
-    "tips": "描述阅读时使用具体书名和感受，体现真实性。"
+    "tips": "谈论运动时使用动作动词，体现活力。"
   },
   "news": [
     {
-      "title": "European left-wing figures highlight CPC's commitment to self-reform",
-      "description": "European left-wing political figures have highlighted the importance of the Communist Party of China's (CPC) commitment to self-reform, saying its experience in maintaining Party discipline and puttin",
-      "link": "https://news.cgtn.com/news/2026-11-05/European-left-wing-figures-highlight-CPC-s-commitment-to-self-reform-1ROw9KZjFja/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "1,800 dead from cholera in Ebola-hit DR Congo: WHO",
+      "description": "WHO has warned that the rainy season could accelerate cholera transmission, including in densely populated areas such as Kinshasa. The outbreak's case fatality rate stands at around three percent, an ",
+      "link": "https://newsaf.cgtn.com/news/2026-11-06/1-800-dead-from-cholera-in-Ebola-hit-DR-Congo-WHO-1RPE0N7b7wI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China's governance, global development dialogue held in Cambodia",
-      "description": "The Cambodia session of the China's Governance and Worldwide Development Global Dialogue was held in Phnom Penh on Thursday, co-hosted by China Media Group (CMG), the Chinese Embassy in Cambodia and t",
-      "link": "https://news.cgtn.com/news/2026-11-06/China-s-governance-global-development-dialogue-held-in-Cambodia-1RQZXEI5WXS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Iran's Araghchi in 48-hour diplomatic spree with 12 counterparts",
+      "description": "Iran's Foreign Minister Abbas Araghchi shared details on Saturday about a flurry of phone calls he held over the previous 48 hours with counterparts from 12 countries.",
+      "link": "https://news.cgtn.com/news/2026-11-07/Iran-s-Araghchi-in-48-hour-diplomatic-spree-with-12-counterparts-1RSFYbwUd1K/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Chinese premier meets director general of WIPO",
-      "description": "Chinese Premier Li Qiang met with World Intellectual Property Organization (WIPO) Director General Daren Tang in Beijing on Wednesday.",
-      "link": "https://news.cgtn.com/news/2026-11-04/Chinese-premier-meets-director-general-of-WIPO-1RNRvdT8L60/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China's governance, worldwide development dialogue held in Kuwait City",
+      "description": "The Kuwait edition of the Global Dialogue on China's Governance and Global Development was held in Kuwait City on Tuesday, co-hosted by China Media Group (CMG), the Chinese Embassy in Kuwait and the K",
+      "link": "https://news.cgtn.com/news/2026-11-05/China-s-governance-global-development-dialogue-held-in-Kuwait-City-1RPuKEFqI0g/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-      "description": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "description": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-      "description": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "description": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-      "description": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "description": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What we know so far after Krakow gun attack",
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "No clear winner after tight New Zealand general election",
+      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 18,
-    "grammarIndex": 22,
-    "speakingIndex": 27,
+    "wordIndex": 19,
+    "grammarIndex": 23,
+    "speakingIndex": 28,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
-    "wordPriority": "high",
-    "wordPriorityPosition": 18,
-    "wordPriorityTotal": 18
+    "wordPriority": "medium",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 11
   }
 }
