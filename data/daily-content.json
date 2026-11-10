@@ -1,78 +1,83 @@
 {
-  "date": "2026-11-09",
-  "weekday": "Monday",
-  "generatedAt": "2026-11-09T04:54:56.857Z",
+  "date": "2026-11-10",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-11-10T06:10:41.135Z",
   "word": {
-    "word": "reluctant",
-    "phonetic": "/rɪˈlʌktənt/",
+    "word": "subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "不情愿的；勉强的",
-    "example": "She was reluctant to share her personal information online.",
-    "exampleTranslation": "她不情愿在网上分享个人信息。",
+    "definition": "随后的；后来的",
+    "example": "Subsequent events proved that his prediction was correct.",
+    "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
     "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "I'm reluctant to trust anyone in this town.",
-      "movie": "Chinatown",
-      "year": 1974,
-      "character": "J.J. Gittes"
+      "quote": "Subsequent events proved me right.",
+      "movie": "Spotlight",
+      "year": 2015,
+      "character": "Walter Robinson"
     },
-    "youglish": "https://youglish.com/getbyword?q=reluctant"
+    "youglish": "https://youglish.com/getbyword?q=subsequent"
   },
   "grammar": {
-    "title": "so...that与such...that",
-    "category": "结果状语",
-    "explanation": "so + 形容词/副词 + that从句；such + (a/an) + 形容词 + 名词 + that从句。so强调程度，such强调性质。",
-    "structure": "so + adj./adv. + that; such + (a/an) + adj. + n. + that",
+    "title": "there be句型",
+    "category": "特殊句式",
+    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
+    "structure": "There + be + 主语 + 状语",
     "examples": [
       {
-        "sentence": "The film was so boring that I fell asleep.",
-        "translation": "电影太无聊了，我睡着了。",
-        "note": "so + 形容词"
+        "sentence": "There is a book and two pens on the desk.",
+        "translation": "桌上有本书和两支笔。",
+        "note": "就近原则，用is"
       },
       {
-        "sentence": "It was such a boring film that I fell asleep.",
-        "translation": "这是如此无聊的电影，我睡着了。",
-        "note": "such + 名词短语"
+        "sentence": "There exist various opinions on this issue.",
+        "translation": "在这个问题上存在各种观点。",
+        "note": "be可替换为exist/seem等"
       }
     ],
-    "ieltsTip": "雅思写作中so/such...that结构可增强表达的感染力，让论述更生动。"
+    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a piece of advice you received",
-    "cueCard": "Describe a useful piece of advice you received. You should say: what the advice was / who gave it to you / when you received it / and explain why it was useful.",
-    "sampleAnswer": "The most valuable advice I've ever received came from my grandfather when I was agonizing over which university to attend. He simply said, 'Don't choose a path because it's prestigious; choose it because it genuinely interests you.' At the time, I was tempted to pursue a law degree at a top university, partly to impress others. My grandfather's words gave me the courage to follow my true passion for environmental science, even though it meant attending a less renowned institution. This advice proved invaluable because it spared me from years of potential misery in a field I didn't love, and it set me on a career path that I find genuinely fulfilling. More broadly, it taught me to make decisions based on intrinsic motivation rather than external validation, a principle that continues to guide me in both personal and professional life.",
-    "keywords": [
-      "agonizing",
-      "prestigious",
-      "intrinsic motivation",
-      "external validation",
-      "fulfilling"
+    "part": "Part 1",
+    "topic": "Hometown",
+    "questions": [
+      "Where is your hometown?",
+      "What do you like most about your hometown?",
+      "Is there anything you dislike about your hometown?",
+      "Would you say your hometown is a good place to live?"
     ],
-    "tips": "描述建议时强调其深远影响，体现反思。"
+    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "keywords": [
+      "picturesque",
+      "blend",
+      "congestion",
+      "robust",
+      "cultural heritage"
+    ],
+    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
   },
   "news": [
     {
-      "title": "One minor, one young adult killed in French school bus accident",
-      "description": "One minor, one young adult killed in French school bus accident",
-      "link": "https://news.cgtn.com/news/2026-11-06/news-1RQWfRuoyqI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "4th Sustainable Mineral Supply Chain Conference eyes long-term growth",
+      "description": "4th Sustainable Mineral Supply Chain Conference eyes long-term growth",
+      "link": "https://news.cgtn.com/news/2026-11-07/4th-Sustainable-Mineral-Supply-Chain-Conference-eyes-long-term-growth-1RRhZaKCVAQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Report highlights China's role in sustaining peace in South China Sea",
-      "description": "A report released on Saturday highlighted China's efforts to help sustain peace and stability in the South China Sea.",
-      "link": "https://news.cgtn.com/news/2026-11-08/Report-highlights-China-s-role-in-sustaining-peace-in-South-China-Sea-1RTEAdEWHhC/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Beijing dismisses 'Chinese spy' claims over Nvidia CEO as smears",
+      "description": "The Chinese Foreign Ministry on Monday rejected recent reports by some media outlets peddling \"Chinese spy\" allegations tied to the Nvidia CEO saga.",
+      "link": "https://news.cgtn.com/news/2026-11-09/Beijing-dismisses-Chinese-spy-claims-over-Nvidia-saga-as-smears-1RVNrUyd0VW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "He Lifeng to chair China-Canada economic, financial strategic dialogue",
-      "description": "Chinese Vice Premier He Lifeng will chair the second China-Canada Economic and Financial Strategic Dialogue in Canada on November 9, the Chinese Foreign Ministry announced on Friday.",
-      "link": "https://news.cgtn.com/news/2026-11-06/He-Lifeng-to-chair-China-Canada-economic-financial-strategic-dialogue-1RQPtqcYDgA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "From resources to manufacturing: A new model of Asia-Pacific growth",
+      "description": "From resources to manufacturing: A new model of Asia-Pacific growth",
+      "link": "https://news.cgtn.com/news/2026-11-08/From-resources-to-manufacturing-A-new-model-of-Asia-Pacific-growth-1RSS9hhd94s/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
-      "description": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "description": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
-      "description": "American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said.",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+      "description": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trains Collide Near Cairo, Killing 4",
-      "description": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "description": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Homes and temples glow across India to mark Diwali",
-      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 20,
-    "grammarIndex": 24,
-    "speakingIndex": 29,
+    "wordIndex": 21,
+    "grammarIndex": 25,
+    "speakingIndex": 1,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 11
   }
 }
