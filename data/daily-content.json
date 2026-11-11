@@ -1,83 +1,83 @@
 {
-  "date": "2026-11-10",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-11-10T06:10:41.135Z",
+  "date": "2026-11-11",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-11-11T04:56:49.430Z",
   "word": {
-    "word": "subsequent",
-    "phonetic": "/ˈsʌbsɪkwənt/",
+    "word": "tangible",
+    "phonetic": "/ˈtændʒəbl/",
     "partOfSpeech": "adj.",
-    "definition": "随后的；后来的",
-    "example": "Subsequent events proved that his prediction was correct.",
-    "exampleTranslation": "随后发生的事件证明了他的预测是正确的。",
-    "ieltsLevel": "6",
+    "definition": "有形的；可触摸的；明确的",
+    "example": "The company needs to produce tangible results to attract investors.",
+    "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Subsequent events proved me right.",
-      "movie": "Spotlight",
-      "year": 2015,
-      "character": "Walter Robinson"
+      "quote": "We need tangible evidence, not theories.",
+      "movie": "Zodiac",
+      "year": 2007,
+      "character": "Robert Graysmith"
     },
-    "youglish": "https://youglish.com/getbyword?q=subsequent"
+    "youglish": "https://youglish.com/getbyword?q=tangible"
   },
   "grammar": {
-    "title": "there be句型",
-    "category": "特殊句式",
-    "explanation": "there be句型表存在，主语在be后。注意就近原则（be动词与其后第一个名词一致）；不能与have混用。",
-    "structure": "There + be + 主语 + 状语",
+    "title": "省略与替代",
+    "category": "语篇衔接",
+    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
+    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
     "examples": [
       {
-        "sentence": "There is a book and two pens on the desk.",
-        "translation": "桌上有本书和两支笔。",
-        "note": "就近原则，用is"
+        "sentence": "—Will he come? —I hope so.",
+        "translation": "—他会来吗？—我希望如此。",
+        "note": "so替代that he will come"
       },
       {
-        "sentence": "There exist various opinions on this issue.",
-        "translation": "在这个问题上存在各种观点。",
-        "note": "be可替换为exist/seem等"
+        "sentence": "I don't like this shirt. Show me a smaller one.",
+        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
+        "note": "one替代shirt"
       }
     ],
-    "ieltsTip": "雅思写作中there be句型描述现象或数据时常用，但避免与have混用是基础。"
+    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Hometown",
+    "topic": "Study / Work",
     "questions": [
-      "Where is your hometown?",
-      "What do you like most about your hometown?",
-      "Is there anything you dislike about your hometown?",
-      "Would you say your hometown is a good place to live?"
+      "Are you a student or do you work?",
+      "What is your favorite subject / aspect of your job?",
+      "Why did you choose this field?",
+      "What do you plan to do in the future?"
     ],
-    "sampleAnswer": "I was born and raised in Hangzhou, a picturesque city in eastern China famous for its West Lake. What I love most is the perfect blend of natural beauty and modern convenience—you can hike in the hills in the morning and work in a high-tech office in the afternoon. If I had to name one downside, it would be the traffic congestion during rush hours, which can be rather frustrating. Overall, though, I genuinely believe it's an excellent place to settle down, thanks to its robust economy and rich cultural heritage.",
+    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
     "keywords": [
-      "picturesque",
-      "blend",
-      "congestion",
-      "robust",
-      "cultural heritage"
+      "major in",
+      "fascinating",
+      "forefront",
+      "innovation",
+      "aspire"
     ],
-    "tips": "Part 1 回答 2-3 句即可，注意直接切题，展示词汇多样性。"
+    "tips": "用具体例子让回答生动，避免空泛。"
   },
   "news": [
     {
-      "title": "4th Sustainable Mineral Supply Chain Conference eyes long-term growth",
-      "description": "4th Sustainable Mineral Supply Chain Conference eyes long-term growth",
-      "link": "https://news.cgtn.com/news/2026-11-07/4th-Sustainable-Mineral-Supply-Chain-Conference-eyes-long-term-growth-1RRhZaKCVAQ/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Anthropic launches powerful new models ahead of Wall Street debut",
+      "description": "Anthropic launches powerful new models ahead of Wall Street debut",
+      "link": "https://news.cgtn.com/news/2026-11-11/Anthropic-launches-powerful-new-models-ahead-of-Wall-Street-debut-1RYF8UNxkGY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Beijing dismisses 'Chinese spy' claims over Nvidia CEO as smears",
-      "description": "The Chinese Foreign Ministry on Monday rejected recent reports by some media outlets peddling \"Chinese spy\" allegations tied to the Nvidia CEO saga.",
-      "link": "https://news.cgtn.com/news/2026-11-09/Beijing-dismisses-Chinese-spy-claims-over-Nvidia-saga-as-smears-1RVNrUyd0VW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "From Shapowei to Nigeria: Passing on maritime heritage",
+      "description": "Shapowei's maritime history strikes a familiar note for Akintayo Judah Aduragbemi. The Nigerian environmental engineering master's student is visiting Xiamen in southeast China's Fujian Province for t",
+      "link": "https://news.cgtn.com/news/2026-11-10/From-Shapowei-to-Nigeria-Passing-on-maritime-heritage-1RXob5b62zu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "From resources to manufacturing: A new model of Asia-Pacific growth",
-      "description": "From resources to manufacturing: A new model of Asia-Pacific growth",
-      "link": "https://news.cgtn.com/news/2026-11-08/From-resources-to-manufacturing-A-new-model-of-Asia-Pacific-growth-1RSS9hhd94s/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Japan's LDP considers disciplinary action against former PM Ishiba",
+      "description": "Japan's ruling Liberal Democratic Party (LDP) is considering disciplinary action against former Prime Minister Shigeru Ishiba and three other lawmakers who walked out before voting on a bill related t",
+      "link": "https://news.cgtn.com/news/2026-11-08/Japan-s-LDP-considers-disciplinary-action-against-former-PM-Ishiba-1RUdhl75UZO/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "description": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
-      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "description": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-      "description": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+      "description": "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
-      "description": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+      "description": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 21,
-    "grammarIndex": 25,
-    "speakingIndex": 1,
+    "wordIndex": 22,
+    "grammarIndex": 26,
+    "speakingIndex": 2,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 3,
+    "wordPriorityPosition": 4,
     "wordPriorityTotal": 11
   }
 }
