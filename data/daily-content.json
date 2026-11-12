@@ -1,83 +1,83 @@
 {
-  "date": "2026-11-11",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-11-11T04:56:49.430Z",
+  "date": "2026-11-12",
+  "weekday": "Thursday",
+  "generatedAt": "2026-11-12T05:58:58.121Z",
   "word": {
-    "word": "tangible",
-    "phonetic": "/ˈtændʒəbl/",
-    "partOfSpeech": "adj.",
-    "definition": "有形的；可触摸的；明确的",
-    "example": "The company needs to produce tangible results to attract investors.",
-    "exampleTranslation": "公司需要拿出明确的成果来吸引投资者。",
+    "word": "warrant",
+    "phonetic": "/ˈwɒrənt/",
+    "partOfSpeech": "v./n.",
+    "definition": "值得；保证；许可证",
+    "example": "The situation is serious enough to warrant immediate action.",
+    "exampleTranslation": "情况严重到值得立即采取行动。",
     "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We need tangible evidence, not theories.",
-      "movie": "Zodiac",
-      "year": 2007,
-      "character": "Robert Graysmith"
+      "quote": "We have a warrant to search the premises.",
+      "movie": "The Departed",
+      "year": 2006,
+      "character": "Colin Sullivan"
     },
-    "youglish": "https://youglish.com/getbyword?q=tangible"
+    "youglish": "https://youglish.com/getbyword?q=warrant"
   },
   "grammar": {
-    "title": "省略与替代",
-    "category": "语篇衔接",
-    "explanation": "为避免重复，英语常用省略（省略与上下文相同的部分）和替代（用do/so/one等替代上文内容）让句子简洁。",
-    "structure": "do/does/did替代动词; so替代句子; one/ones替代名词",
+    "title": "现在完成进行时",
+    "category": "时态",
+    "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
+    "structure": "have/has been + 动词-ing",
     "examples": [
       {
-        "sentence": "—Will he come? —I hope so.",
-        "translation": "—他会来吗？—我希望如此。",
-        "note": "so替代that he will come"
+        "sentence": "I have been waiting for you for two hours.",
+        "translation": "我等你等了两个小时了。",
+        "note": "强调持续和等待感"
       },
       {
-        "sentence": "I don't like this shirt. Show me a smaller one.",
-        "translation": "我不喜欢这件衬衫。给我看件小一点的。",
-        "note": "one替代shirt"
+        "sentence": "She has been working on this project since January.",
+        "translation": "她从一月起就一直在做这个项目。",
+        "note": "强调持续性"
       }
     ],
-    "ieltsTip": "雅思口语和写作中恰当使用省略与替代，可让语言更自然、更地道。"
+    "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Study / Work",
+    "topic": "Hobbies",
     "questions": [
-      "Are you a student or do you work?",
-      "What is your favorite subject / aspect of your job?",
-      "Why did you choose this field?",
-      "What do you plan to do in the future?"
+      "What do you do in your free time?",
+      "How long have you had this hobby?",
+      "Is it an expensive hobby?",
+      "Do you prefer indoor or outdoor activities?"
     ],
-    "sampleAnswer": "I'm currently a university student majoring in computer science. My favorite aspect is artificial intelligence—it's fascinating how machines can be trained to perform tasks that once required human intelligence. I chose this field because it's at the forefront of technological innovation and offers immense potential to solve real-world problems. In the future, I aspire to pursue a master's degree abroad and eventually work in an AI research lab.",
+    "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
     "keywords": [
-      "major in",
-      "fascinating",
-      "forefront",
-      "innovation",
-      "aspire"
+      "particularly fond of",
+      "indispensable",
+      "pricey",
+      "composition",
+      "unwind"
     ],
-    "tips": "用具体例子让回答生动，避免空泛。"
+    "tips": "解释原因时使用对比结构，体现逻辑性。"
   },
   "news": [
     {
-      "title": "Anthropic launches powerful new models ahead of Wall Street debut",
-      "description": "Anthropic launches powerful new models ahead of Wall Street debut",
-      "link": "https://news.cgtn.com/news/2026-11-11/Anthropic-launches-powerful-new-models-ahead-of-Wall-Street-debut-1RYF8UNxkGY/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Dire warning from UN chief at COP31",
+      "description": "The slow international response to climate change has placed the world on a path of ‘mutually-assured destruction,’ UN Secretary-General Antonio Guterres told world leaders gathered at the COP31 summi",
+      "link": "https://newsus.cgtn.com/news/2026-11-12/Dire-warning-from-UN-chief-at-COP31-1RZZT1mKNSo/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "From Shapowei to Nigeria: Passing on maritime heritage",
-      "description": "Shapowei's maritime history strikes a familiar note for Akintayo Judah Aduragbemi. The Nigerian environmental engineering master's student is visiting Xiamen in southeast China's Fujian Province for t",
-      "link": "https://news.cgtn.com/news/2026-11-10/From-Shapowei-to-Nigeria-Passing-on-maritime-heritage-1RXob5b62zu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Trilateral peace talks begin in Abu Dhabi, low hopes for progress",
+      "description": "Ukrainian President Volodymyr Zelenskyy said the first day of the trilateral peace talks among Russia, the United States and Ukraine is \"constructive,\" though no further details of the discussions hav",
+      "link": "https://news.cgtn.com/news/2026-11-11/Trilateral-peace-talks-begin-in-Abu-Dhabi-low-hopes-for-progress--1RYxC4loBqg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Japan's LDP considers disciplinary action against former PM Ishiba",
-      "description": "Japan's ruling Liberal Democratic Party (LDP) is considering disciplinary action against former Prime Minister Shigeru Ishiba and three other lawmakers who walked out before voting on a bill related t",
-      "link": "https://news.cgtn.com/news/2026-11-08/Japan-s-LDP-considers-disciplinary-action-against-former-PM-Ishiba-1RUdhl75UZO/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Beijing dismisses 'Chinese spy' claims over Nvidia CEO as smears",
+      "description": "The Chinese Foreign Ministry on Monday rejected recent reports by some media outlets peddling \"Chinese spy\" allegations tied to the Nvidia CEO saga.",
+      "link": "https://news.cgtn.com/news/2026-11-09/Beijing-dismisses-Chinese-spy-claims-over-Nvidia-saga-as-smears-1RVNrUyd0VW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "description": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "description": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-      "description": "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+      "description": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
-      "description": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "description": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "description": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "New York building collapse kills at least two, officials say",
+      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 22,
-    "grammarIndex": 26,
-    "speakingIndex": 2,
+    "wordIndex": 23,
+    "grammarIndex": 27,
+    "speakingIndex": 3,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 4,
+    "wordPriorityPosition": 5,
     "wordPriorityTotal": 11
   }
 }
