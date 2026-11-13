@@ -1,83 +1,73 @@
 {
-  "date": "2026-11-12",
-  "weekday": "Thursday",
-  "generatedAt": "2026-11-12T05:58:58.121Z",
+  "date": "2026-11-13",
+  "weekday": "Friday",
+  "generatedAt": "2026-11-13T05:22:59.709Z",
   "word": {
-    "word": "warrant",
-    "phonetic": "/ˈwɒrənt/",
+    "word": "yield",
+    "phonetic": "/jiːld/",
     "partOfSpeech": "v./n.",
-    "definition": "值得；保证；许可证",
-    "example": "The situation is serious enough to warrant immediate action.",
-    "exampleTranslation": "情况严重到值得立即采取行动。",
-    "ieltsLevel": "7",
+    "definition": "产出；屈服；产量",
+    "example": "The new farming technique yielded a record harvest this year.",
+    "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We have a warrant to search the premises.",
-      "movie": "The Departed",
-      "year": 2006,
-      "character": "Colin Sullivan"
+      "quote": "The road will not yield to your impatience.",
+      "movie": "No Country for Old Men",
+      "year": 2007,
+      "character": "Llewelyn Moss"
     },
-    "youglish": "https://youglish.com/getbyword?q=warrant"
+    "youglish": "https://youglish.com/getbyword?q=yield"
   },
   "grammar": {
-    "title": "现在完成进行时",
-    "category": "时态",
-    "explanation": "现在完成进行时强调从过去某时开始一直持续到现在的动作，并可能继续下去。结构为have/has been + doing。",
-    "structure": "have/has been + 动词-ing",
+    "title": "直接引语转间接引语",
+    "category": "引语",
+    "explanation": "直接引语转间接引语时，需注意：1)人称变化；2)时态呼应（主句过去时从句时态前移）；3)时间地点状语变化；4)疑问句语序变为陈述语序。",
+    "structure": "He said, \"...\" → He said (that) ...",
     "examples": [
       {
-        "sentence": "I have been waiting for you for two hours.",
-        "translation": "我等你等了两个小时了。",
-        "note": "强调持续和等待感"
-      },
-      {
-        "sentence": "She has been working on this project since January.",
-        "translation": "她从一月起就一直在做这个项目。",
-        "note": "强调持续性"
+        "sentence": "He asked, \"Where do you live?\" → He asked where I lived.",
+        "translation": "他问：「你住哪儿？」→ 他问我住哪儿。",
+        "note": "疑问词+陈述语序"
       }
     ],
-    "ieltsTip": "雅思口语Part 2描述持续进行的动作时，现在完成进行时比现在完成时更生动。"
+    "ieltsTip": "雅思听力Section 3/4中常出现间接引语，注意时态和语序的变化。"
   },
   "speaking": {
-    "part": "Part 1",
-    "topic": "Hobbies",
-    "questions": [
-      "What do you do in your free time?",
-      "How long have you had this hobby?",
-      "Is it an expensive hobby?",
-      "Do you prefer indoor or outdoor activities?"
-    ],
-    "sampleAnswer": "In my free time, I'm particularly fond of reading and photography. I picked up reading when I was around ten, and it's been an indispensable part of my life ever since. Photography, on the other hand, is relatively new—I started about two years ago. While cameras can be quite pricey, I manage to keep costs down by using my smartphone and focusing on composition rather than equipment. I enjoy both indoor and outdoor activities, but I lean towards outdoor ones as they help me unwind after long hours of studying.",
+    "part": "Part 2",
+    "topic": "Describe a person who has influenced you",
+    "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
+    "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
     "keywords": [
-      "particularly fond of",
-      "indispensable",
-      "pricey",
-      "composition",
-      "unwind"
+      "profoundly",
+      "unwavering",
+      "critically",
+      "fearlessly",
+      "resilience"
     ],
-    "tips": "解释原因时使用对比结构，体现逻辑性。"
+    "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
   },
   "news": [
     {
-      "title": "Dire warning from UN chief at COP31",
-      "description": "The slow international response to climate change has placed the world on a path of ‘mutually-assured destruction,’ UN Secretary-General Antonio Guterres told world leaders gathered at the COP31 summi",
-      "link": "https://newsus.cgtn.com/news/2026-11-12/Dire-warning-from-UN-chief-at-COP31-1RZZT1mKNSo/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Several schools in Italy evacuated after emailed bomb threats",
+      "description": "New bomb threat emails have been sent to schools in several parts of Italy on Thursday, including the Veneto, Liguria, Umbria and Lazio regions, as well as Sicily, local media reported.",
+      "link": "https://news.cgtn.com/news/2026-11-12/news-1S0WU96uphK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Trilateral peace talks begin in Abu Dhabi, low hopes for progress",
-      "description": "Ukrainian President Volodymyr Zelenskyy said the first day of the trilateral peace talks among Russia, the United States and Ukraine is \"constructive,\" though no further details of the discussions hav",
-      "link": "https://news.cgtn.com/news/2026-11-11/Trilateral-peace-talks-begin-in-Abu-Dhabi-low-hopes-for-progress--1RYxC4loBqg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Global leaders call for urgent climate action, finance reform at COP31",
+      "description": "The Antalya Leaders' Summit of the 31st United Nations Climate Change Conference (COP31) opened on Wednesday, with a focus on turning climate commitments into concrete action.",
+      "link": "https://news.cgtn.com/news/2026-11-12/Global-leaders-call-for-urgent-climate-action-finance-reform-at-COP31-1S0sfls2GeA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Beijing dismisses 'Chinese spy' claims over Nvidia CEO as smears",
-      "description": "The Chinese Foreign Ministry on Monday rejected recent reports by some media outlets peddling \"Chinese spy\" allegations tied to the Nvidia CEO saga.",
-      "link": "https://news.cgtn.com/news/2026-11-09/Beijing-dismisses-Chinese-spy-claims-over-Nvidia-saga-as-smears-1RVNrUyd0VW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Will Trump’s grand Washington D.C. arch become a reality?",
+      "description": "Will Trump’s grand Washington D.C. arch become a reality?",
+      "link": "https://newsus.cgtn.com/news/2026-11-11/Will-Trump-s-grand-Washington-D-C-arch-become-a-reality--1RYvixPdyo0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +97,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-      "description": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
-      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "description": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-      "description": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+      "description": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "description": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+      "description": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "description": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "New York building collapse kills at least two, officials say",
-      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +149,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 23,
-    "grammarIndex": 27,
-    "speakingIndex": 3,
+    "wordIndex": 24,
+    "grammarIndex": 28,
+    "speakingIndex": 4,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 5,
+    "wordPriorityPosition": 6,
     "wordPriorityTotal": 11
   }
 }
