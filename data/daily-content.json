@@ -1,73 +1,78 @@
 {
-  "date": "2026-11-13",
-  "weekday": "Friday",
-  "generatedAt": "2026-11-13T05:22:59.709Z",
+  "date": "2026-11-14",
+  "weekday": "Saturday",
+  "generatedAt": "2026-11-14T05:13:04.386Z",
   "word": {
-    "word": "yield",
-    "phonetic": "/jiːld/",
-    "partOfSpeech": "v./n.",
-    "definition": "产出；屈服；产量",
-    "example": "The new farming technique yielded a record harvest this year.",
-    "exampleTranslation": "新的农业技术今年产出了创纪录的收成。",
-    "ieltsLevel": "6",
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "partOfSpeech": "adj.",
+    "definition": "模棱两可的；含糊的",
+    "example": "The politician gave an ambiguous answer to the reporter's question.",
+    "exampleTranslation": "这位政治家对记者的问题给出了模棱两可的回答。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "The road will not yield to your impatience.",
-      "movie": "No Country for Old Men",
-      "year": 2007,
-      "character": "Llewelyn Moss"
+      "quote": "His answer was deliberately ambiguous.",
+      "movie": "Tinker Tailor Soldier Spy",
+      "year": 2011,
+      "character": "George Smiley"
     },
-    "youglish": "https://youglish.com/getbyword?q=yield"
+    "youglish": "https://youglish.com/getbyword?q=ambiguous"
   },
   "grammar": {
-    "title": "直接引语转间接引语",
-    "category": "引语",
-    "explanation": "直接引语转间接引语时，需注意：1)人称变化；2)时态呼应（主句过去时从句时态前移）；3)时间地点状语变化；4)疑问句语序变为陈述语序。",
-    "structure": "He said, \"...\" → He said (that) ...",
+    "title": "used to与be used to",
+    "category": "习惯表达",
+    "explanation": "used to + 动词原形，表示过去经常做（现已不如此）；be used to + 名词/动名词，表示习惯于做某事。",
+    "structure": "used to + do; be/get used to + doing",
     "examples": [
       {
-        "sentence": "He asked, \"Where do you live?\" → He asked where I lived.",
-        "translation": "他问：「你住哪儿？」→ 他问我住哪儿。",
-        "note": "疑问词+陈述语序"
+        "sentence": "I used to play basketball, but now I prefer reading.",
+        "translation": "我过去常打篮球，但现在更喜欢阅读。",
+        "note": "used to + do"
+      },
+      {
+        "sentence": "I am used to getting up early.",
+        "translation": "我习惯早起。",
+        "note": "be used to + doing"
       }
     ],
-    "ieltsTip": "雅思听力Section 3/4中常出现间接引语，注意时态和语序的变化。"
+    "ieltsTip": "雅思口语描述生活习惯变化时，used to和be used to是高频结构，注意区分。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a person who has influenced you",
-    "cueCard": "Describe a person who has had a significant influence on your life. You should say: who this person is / how you know them / what they are like / and explain why they have influenced you so much.",
-    "sampleAnswer": "I'd like to talk about my high school English teacher, Ms. Chen, who has profoundly shaped the person I am today. I first met her when I was fifteen, struggling with self-confidence after a string of poor grades. What struck me about Ms. Chen was her unwavering belief in every student's potential—she never gave up on anyone, no matter how poorly they performed. Rather than simply teaching grammar and vocabulary, she encouraged us to think critically and express ourselves fearlessly. I vividly remember her telling me, 'Mistakes are proof that you're trying.' That single sentence transformed my attitude towards learning. Thanks to her guidance, I not only improved my English but also developed the resilience to face challenges head-on. Even now, years after graduation, her words continue to inspire me whenever I encounter difficulties.",
+    "topic": "Describe a memorable journey",
+    "cueCard": "Describe a journey you remember well. You should say: where you went / how you traveled / what you did there / and explain why it was memorable.",
+    "sampleAnswer": "The most memorable journey I've ever taken was a solo trip to Yunnan Province last summer. I flew to Kunming and then took a scenic train ride to Dali, where I spent five days exploring ancient towns, cycling around Erhai Lake, and chatting with locals. What made this trip unforgettable was a chance encounter with an elderly Bai minority artisan who invited me into his workshop and taught me the traditional art of tie-dyeing. Despite the language barrier, we communicated through gestures and laughter, and I left with a beautiful handmade scarf and a heart full of stories. This journey taught me that the most precious travel experiences often come not from famous landmarks, but from unexpected human connections.",
     "keywords": [
-      "profoundly",
-      "unwavering",
-      "critically",
-      "fearlessly",
-      "resilience"
+      "solo trip",
+      "scenic",
+      "chance encounter",
+      "language barrier",
+      "precious"
     ],
-    "tips": "Part 2 要讲满 1-2 分钟，注意细节描写让故事生动。"
+    "tips": "讲述故事时使用过去时态，注意时间顺序词的使用。"
   },
   "news": [
     {
-      "title": "Several schools in Italy evacuated after emailed bomb threats",
-      "description": "New bomb threat emails have been sent to schools in several parts of Italy on Thursday, including the Veneto, Liguria, Umbria and Lazio regions, as well as Sicily, local media reported.",
-      "link": "https://news.cgtn.com/news/2026-11-12/news-1S0WU96uphK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China looks to APEC leaders' declaration at Shenzhen meeting",
+      "description": "The 33rd APEC Economic Leaders' Meeting will be held in Shenzhen in south China from November 18 to 19.",
+      "link": "https://news.cgtn.com/news/2026-11-13/China-looks-to-APEC-leaders-declaration-at-Shenzhen-meeting-1S2u2xsPhSw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Global leaders call for urgent climate action, finance reform at COP31",
-      "description": "The Antalya Leaders' Summit of the 31st United Nations Climate Change Conference (COP31) opened on Wednesday, with a focus on turning climate commitments into concrete action.",
-      "link": "https://news.cgtn.com/news/2026-11-12/Global-leaders-call-for-urgent-climate-action-finance-reform-at-COP31-1S0sfls2GeA/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Live streams light up Double 11 sales in Brazil",
+      "description": "Live streams light up Double 11 sales in Brazil",
+      "link": "https://newsus.cgtn.com/news/2026-11-12/Live-streams-light-up-Double-11-sales-in-Brazil-1S03KLQ3l6M/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Will Trump’s grand Washington D.C. arch become a reality?",
-      "description": "Will Trump’s grand Washington D.C. arch become a reality?",
-      "link": "https://newsus.cgtn.com/news/2026-11-11/Will-Trump-s-grand-Washington-D-C-arch-become-a-reality--1RYvixPdyo0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "COP31 unveils English report on China's green development",
+      "description": "COP31 unveils English report on China's green development",
+      "link": "https://news.cgtn.com/news/2026-11-11/COP31-unveils-English-report-on-China-s-green-development-1RZai5JXvJ6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -97,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-      "description": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+      "description": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
+      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "description": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "description": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
+      "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
-      "description": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.",
-      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+      "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+      "description": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.",
+      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -149,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 24,
-    "grammarIndex": 28,
-    "speakingIndex": 4,
+    "wordIndex": 25,
+    "grammarIndex": 29,
+    "speakingIndex": 5,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 6,
+    "wordPriorityPosition": 7,
     "wordPriorityTotal": 11
   }
 }
