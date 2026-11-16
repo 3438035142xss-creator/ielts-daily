@@ -1,78 +1,83 @@
 {
-  "date": "2026-11-15",
-  "weekday": "Sunday",
-  "generatedAt": "2026-11-15T05:05:25.534Z",
+  "date": "2026-11-16",
+  "weekday": "Monday",
+  "generatedAt": "2026-11-16T05:02:56.050Z",
   "word": {
-    "word": "bolster",
-    "phonetic": "/ˈbəʊlstə(r)/",
-    "partOfSpeech": "v.",
-    "definition": "支持；加强",
-    "example": "The positive economic data bolstered investor confidence.",
-    "exampleTranslation": "积极的经济数据增强了投资者信心。",
-    "ieltsLevel": "7+",
+    "word": "conducive",
+    "phonetic": "/kənˈdjuːsɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "有助于...的；有益的",
+    "example": "A quiet environment is conducive to effective studying.",
+    "exampleTranslation": "安静的环境有助于高效学习。",
+    "ieltsLevel": "7",
     "priority": "medium",
     "movieQuote": {
-      "quote": "We must bolster our defenses before nightfall.",
-      "movie": "The Lord of the Rings: The Two Towers",
-      "year": 2002,
-      "character": "Aragorn"
+      "quote": "This setting is hardly conducive to clear thinking.",
+      "movie": "A Beautiful Mind",
+      "year": 2001,
+      "character": "John Nash"
     },
-    "youglish": "https://youglish.com/getbyword?q=bolster"
+    "youglish": "https://youglish.com/getbyword?q=conducive"
   },
   "grammar": {
-    "title": "as的多种用法",
-    "category": "连词",
-    "explanation": "as可作：1)时间状语（当...时/一边...一边）；2)原因状语（因为）；3)方式状语（按照）；4)让步状语（尽管，需倒装）；5)比较（as...as）。",
-    "structure": "as + 从句（多重含义）",
+    "title": "现在完成时 vs 一般过去时",
+    "category": "时态",
+    "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
+    "structure": "have/has + 过去分词 vs 动词过去式",
     "examples": [
       {
-        "sentence": "As a child, he lived in the countryside. / As he was tired, he went to bed early.",
-        "translation": "小时候他住在乡下。/ 因为累了，他早睡了。",
-        "note": "时间/原因"
+        "sentence": "I have lived in London for five years.",
+        "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
+        "note": "强调持续到现在"
       },
       {
-        "sentence": "Tired as he was, he continued working.",
-        "translation": "尽管累了，他还是继续工作。",
-        "note": "让步（倒装）"
+        "sentence": "I lived in London for five years.",
+        "translation": "我在伦敦住过五年。（现在已不住那里）",
+        "note": "仅陈述过去经历"
       }
     ],
-    "ieltsTip": "雅思阅读中as的多义性是理解长难句的难点，需结合语境判断。"
+    "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
   },
   "speaking": {
-    "part": "Part 2",
-    "topic": "Describe a book that influenced you",
-    "cueCard": "Describe a book you read that had a significant effect on you. You should say: what the book is / when you read it / what it is about / and explain why it affected you so much.",
-    "sampleAnswer": "I'd like to share about 'Man's Search for Meaning' by Viktor Frankl, which I read during my second year of university. The book is a powerful account of the author's experiences in Nazi concentration camps and the psychological insights he derived from them. Frankl argues that even in the most horrific circumstances, humans can find meaning through suffering, love, and courage. This idea profoundly challenged my previous belief that happiness depends on external conditions. Reading it during a particularly difficult period in my life gave me a new perspective—I realized that I have the power to choose my attitude regardless of my situation. Since then, I've recommended this book to countless friends, and its philosophy continues to guide me through life's inevitable challenges.",
-    "keywords": [
-      "powerful account",
-      "derived",
-      "profoundly",
-      "perspective",
-      "inevitable"
+    "part": "Part 3",
+    "topic": "Education",
+    "questions": [
+      "How has education changed in your country in recent years?",
+      "What role should technology play in education?",
+      "Do you think traditional schools will be replaced by online learning?",
+      "How can education systems better prepare students for the future?"
     ],
-    "tips": "描述书时不要只讲情节，重点放在它对你的影响。"
+    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "keywords": [
+      "undergone",
+      "holistic",
+      "complementary",
+      "mentorship",
+      "obsolete"
+    ],
+    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
   },
   "news": [
     {
-      "title": "From Karakoram to Arabian Sea, Ep. 7: Woven Together",
-      "description": "From Karakoram to Arabian Sea, Ep. 7: Woven Together",
-      "link": "https://news.cgtn.com/news/2026-11-14/From-Karakoram-to-Arabian-Sea-Ep-7-Woven-Together-1S4cQePUc5G/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Xi to hold China-Russia-US Summit with Putin and Trump in Shenzhen",
+      "description": "Xi to hold China-Russia-US Summit with Putin and Trump in Shenzhen",
+      "link": "https://news.cgtn.com/news/2026-11-16/Chinese-Russian-US-heads-of-state-to-meet-in-China-s-Shenzhen-on-November-19-1S6WcbHn3qg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Hamas says senior armed commander killed in Israeli strike",
-      "description": "Hamas says senior armed commander killed in Israeli strike",
-      "link": "https://news.cgtn.com/news/2026-11-15/Hamas-says-senior-armed-commander-killed-in-Israeli-strike-1S5gM102H28/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Canada weighs impact of US midterm elections on bilateral ties",
+      "description": "Canada weighs impact of US midterm elections on bilateral ties",
+      "link": "https://newsus.cgtn.com/news/2026-11-16/Canada-weighs-impact-of-US-midterm-elections-on-bilateral-ties--1S6wSGl1CN2/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "China, US maintain close communication on tariff reduction arrangement",
-      "description": "China and the United States are maintaining close communication on implementing a reciprocal tariff-reduction framework that would cover $30 billion worth of products from each side, China's Ministry ",
-      "link": "https://news.cgtn.com/news/2026-11-12/China-US-maintain-close-communication-on-tariff-reduction-arrangement-1S0KbRF7Adi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "COP31 delegates: China proves green growth is possible",
+      "description": "COP31 delegates: China proves green growth is possible",
+      "link": "https://news.cgtn.com/news/2026-11-13/COP31-delegates-China-proves-green-growth-is-possible-1S2rBYPY4CI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "description": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+      "description": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "description": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-      "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "description": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
-      "description": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "description": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 26,
-    "grammarIndex": 30,
-    "speakingIndex": 6,
+    "wordIndex": 27,
+    "grammarIndex": 1,
+    "speakingIndex": 7,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 8,
+    "wordPriorityPosition": 9,
     "wordPriorityTotal": 11
   }
 }
