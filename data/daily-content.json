@@ -1,83 +1,78 @@
 {
-  "date": "2026-11-16",
-  "weekday": "Monday",
-  "generatedAt": "2026-11-16T05:02:56.050Z",
+  "date": "2026-11-17",
+  "weekday": "Tuesday",
+  "generatedAt": "2026-11-17T06:51:03.934Z",
   "word": {
-    "word": "conducive",
-    "phonetic": "/kənˈdjuːsɪv/",
+    "word": "eloquent",
+    "phonetic": "/ˈeləkwənt/",
     "partOfSpeech": "adj.",
-    "definition": "有助于...的；有益的",
-    "example": "A quiet environment is conducive to effective studying.",
-    "exampleTranslation": "安静的环境有助于高效学习。",
-    "ieltsLevel": "7",
+    "definition": "雄辩的；有说服力的",
+    "example": "She gave an eloquent speech that moved the entire audience.",
+    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
+    "ieltsLevel": "7+",
     "priority": "medium",
     "movieQuote": {
-      "quote": "This setting is hardly conducive to clear thinking.",
-      "movie": "A Beautiful Mind",
-      "year": 2001,
-      "character": "John Nash"
+      "quote": "Your silence has been more eloquent than any words.",
+      "movie": "The King's Speech",
+      "year": 2010,
+      "character": "King George VI"
     },
-    "youglish": "https://youglish.com/getbyword?q=conducive"
+    "youglish": "https://youglish.com/getbyword?q=eloquent"
   },
   "grammar": {
-    "title": "现在完成时 vs 一般过去时",
-    "category": "时态",
-    "explanation": "现在完成时强调过去动作对现在的影响或持续到现在的经历；一般过去时仅陈述过去发生的事实，与现在无关。",
-    "structure": "have/has + 过去分词 vs 动词过去式",
+    "title": "虚拟语气（与现在事实相反）",
+    "category": "虚拟语气",
+    "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
+    "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
     "examples": [
       {
-        "sentence": "I have lived in London for five years.",
-        "translation": "我在伦敦住了五年了。（现在仍住在伦敦）",
-        "note": "强调持续到现在"
-      },
-      {
-        "sentence": "I lived in London for five years.",
-        "translation": "我在伦敦住过五年。（现在已不住那里）",
-        "note": "仅陈述过去经历"
+        "sentence": "If I were the mayor, I would invest more in public transport.",
+        "translation": "如果我是市长，我会投资更多在公共交通上。",
+        "note": "与现在事实相反"
       }
     ],
-    "ieltsTip": "雅思写作Task 1描述数据变化时，描述至今为止的变化用现在完成时；描述过去某时间点的数据用一般过去时。"
+    "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
   },
   "speaking": {
     "part": "Part 3",
-    "topic": "Education",
+    "topic": "Environment",
     "questions": [
-      "How has education changed in your country in recent years?",
-      "What role should technology play in education?",
-      "Do you think traditional schools will be replaced by online learning?",
-      "How can education systems better prepare students for the future?"
+      "What are the most serious environmental problems in your country?",
+      "Who is more responsible for environmental protection: individuals or governments?",
+      "Do you think technological development harms or helps the environment?",
+      "What can be done to encourage people to be more environmentally friendly?"
     ],
-    "sampleAnswer": "Education in China has undergone tremendous changes in recent years, shifting from rote memorization towards a more holistic approach that emphasizes critical thinking and creativity. Technology, in my view, should serve as a complementary tool rather than a replacement for teachers—it can personalize learning and provide access to world-class resources, but it cannot replicate the mentorship and emotional support that human educators offer. While online learning will undoubtedly continue to grow, I doubt it will completely replace traditional schools, because schools fulfill vital social functions: they teach collaboration, discipline, and citizenship. To better prepare students for the future, education systems should focus on developing adaptable skills—such as problem-solving, communication, and emotional intelligence—rather than merely transmitting knowledge that may soon become obsolete.",
+    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
     "keywords": [
-      "undergone",
-      "holistic",
-      "complementary",
-      "mentorship",
-      "obsolete"
+      "pressing",
+      "legislative",
+      "double-edged sword",
+      "degradation",
+      "collective"
     ],
-    "tips": "Part 3 要展现批判性思维，讨论多角度，避免绝对化。"
+    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
   },
   "news": [
     {
-      "title": "Xi to hold China-Russia-US Summit with Putin and Trump in Shenzhen",
-      "description": "Xi to hold China-Russia-US Summit with Putin and Trump in Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-16/Chinese-Russian-US-heads-of-state-to-meet-in-China-s-Shenzhen-on-November-19-1S6WcbHn3qg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "3rd US aircraft carrier arrives in Middle East amid Iran tensions",
+      "description": "The USS Theodore Roosevelt aircraft carrier has arrived in the Middle East, bringing the number of US carrier strike groups in the region to three amid continued tensions with Iran, a US official conf",
+      "link": "https://news.cgtn.com/news/2026-11-17/3rd-US-aircraft-carrier-arrives-in-Middle-East-amid-Iran-tensions-1S8xGcYFjUI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Canada weighs impact of US midterm elections on bilateral ties",
-      "description": "Canada weighs impact of US midterm elections on bilateral ties",
-      "link": "https://newsus.cgtn.com/news/2026-11-16/Canada-weighs-impact-of-US-midterm-elections-on-bilateral-ties--1S6wSGl1CN2/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "COP31 chief urges climate finance action, highlights China's role",
+      "description": "COP31 chief urges climate finance action, highlights China's role",
+      "link": "https://news.cgtn.com/news/2026-11-17/COP31-chief-urges-climate-finance-action-highlights-China-s-role-1S8z60bLbvq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "COP31 delegates: China proves green growth is possible",
-      "description": "COP31 delegates: China proves green growth is possible",
-      "link": "https://news.cgtn.com/news/2026-11-13/COP31-delegates-China-proves-green-growth-is-possible-1S2rBYPY4CI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "President Xi Jinping's key quotes on advancing APEC cooperation",
+      "description": "Chinese President Xi Jinping has repeatedly called for greater openness and cooperation to promote shared prosperity in the Asia-Pacific.",
+      "link": "https://news.cgtn.com/news/2026-11-14/President-Xi-Jinping-s-key-quotes-on-advancing-APEC-cooperation-1S3KpqcrJTi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-      "description": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
+      "description": "The onetime foreign minister, Karin Kneissl, has lauded her new home for its “genuine freedom” and used it as a perch to attack her old one.",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
-      "description": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
-      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+      "description": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
-      "description": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "title": "10 Numbers That Might Change How You See Asia",
+      "description": "From semiconductor dominance to new power grids, defense deals and K-pop, the region — beyond China — is becoming increasingly interconnected and self-reliant.",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "description": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-      "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 27,
-    "grammarIndex": 1,
-    "speakingIndex": 7,
+    "wordIndex": 28,
+    "grammarIndex": 2,
+    "speakingIndex": 8,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 9,
+    "wordPriorityPosition": 10,
     "wordPriorityTotal": 11
   }
 }
