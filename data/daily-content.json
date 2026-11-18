@@ -1,78 +1,83 @@
 {
-  "date": "2026-11-17",
-  "weekday": "Tuesday",
-  "generatedAt": "2026-11-17T06:51:03.934Z",
+  "date": "2026-11-18",
+  "weekday": "Wednesday",
+  "generatedAt": "2026-11-18T06:10:09.309Z",
   "word": {
-    "word": "eloquent",
-    "phonetic": "/ˈeləkwənt/",
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
     "partOfSpeech": "adj.",
-    "definition": "雄辩的；有说服力的",
-    "example": "She gave an eloquent speech that moved the entire audience.",
-    "exampleTranslation": "她发表了一篇雄辩的演讲，感动了全场观众。",
-    "ieltsLevel": "7+",
+    "definition": "可行的；可能的",
+    "example": "We need to determine whether the project is feasible within budget.",
+    "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
+    "ieltsLevel": "6",
     "priority": "medium",
     "movieQuote": {
-      "quote": "Your silence has been more eloquent than any words.",
-      "movie": "The King's Speech",
-      "year": 2010,
-      "character": "King George VI"
+      "quote": "We need a feasible plan within 48 hours.",
+      "movie": "Apollo 13",
+      "year": 1995,
+      "character": "Jim Lovell"
     },
-    "youglish": "https://youglish.com/getbyword?q=eloquent"
+    "youglish": "https://youglish.com/getbyword?q=feasible"
   },
   "grammar": {
-    "title": "虚拟语气（与现在事实相反）",
-    "category": "虚拟语气",
-    "explanation": "表达与现在事实相反的假设时，if从句用一般过去时（be动词一律用were），主句用would/could/should/might + 动词原形。",
-    "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
+    "title": "定语从句：that vs which",
+    "category": "从句",
+    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
+    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
     "examples": [
       {
-        "sentence": "If I were the mayor, I would invest more in public transport.",
-        "translation": "如果我是市长，我会投资更多在公共交通上。",
-        "note": "与现在事实相反"
+        "sentence": "The book that/which I bought yesterday is excellent.",
+        "translation": "我昨天买的那本书很棒。",
+        "note": "限制性，that/which均可"
+      },
+      {
+        "sentence": "The book, which I bought yesterday, is excellent.",
+        "translation": "这本书，我昨天买的，很棒。",
+        "note": "非限制性，只能用which"
       }
     ],
-    "ieltsTip": "雅思写作讨论解决方案时，使用虚拟语气可展现对语气的把控能力，提升语言分。"
+    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
   },
   "speaking": {
-    "part": "Part 3",
-    "topic": "Environment",
+    "part": "Part 1",
+    "topic": "Food",
     "questions": [
-      "What are the most serious environmental problems in your country?",
-      "Who is more responsible for environmental protection: individuals or governments?",
-      "Do you think technological development harms or helps the environment?",
-      "What can be done to encourage people to be more environmentally friendly?"
+      "What is your favorite food?",
+      "Do you like cooking?",
+      "Are there any foods you dislike?",
+      "Has your taste in food changed over the years?"
     ],
-    "sampleAnswer": "Air pollution and water contamination rank among the most pressing environmental challenges in China, particularly in industrial regions. While both individuals and governments share responsibility, I believe governments must take the lead, as they have the legislative power and resources to implement large-scale changes such as transitioning to renewable energy and enforcing emission standards. That said, technological development is a double-edged sword—it has caused environmental degradation through industrialization, yet it also offers solutions like solar panels and electric vehicles. To encourage eco-friendly behavior, a combination of incentives and education is most effective: subsidies for green products make sustainable choices affordable, while awareness campaigns help people understand the long-term consequences of their actions. Ultimately, environmental protection requires a collective effort across all levels of society.",
+    "sampleAnswer": "My absolute favorite is hotpot, especially the spicy Sichuan style. I find the communal aspect of gathering around a steaming pot with friends incredibly appealing. While I enjoy cooking occasionally, I wouldn't call myself a skilled chef—I tend to stick to simple dishes like stir-fried vegetables and steamed fish. As for dislikes, I'm not particularly fond of overly sweet desserts or anything with a strong cilantro flavor. Over the years, my palate has definitely expanded; as a child, I avoided anything spicy, but now I've grown to appreciate the complexity of bold flavors.",
     "keywords": [
-      "pressing",
-      "legislative",
-      "double-edged sword",
-      "degradation",
-      "collective"
+      "communal",
+      "appealing",
+      "particularly fond of",
+      "palate",
+      "complexity"
     ],
-    "tips": "环境话题常用因果和解决方案结构，注意使用连接词。"
+    "tips": "描述食物时多用感官词汇，让回答生动。"
   },
   "news": [
     {
-      "title": "3rd US aircraft carrier arrives in Middle East amid Iran tensions",
-      "description": "The USS Theodore Roosevelt aircraft carrier has arrived in the Middle East, bringing the number of US carrier strike groups in the region to three amid continued tensions with Iran, a US official conf",
-      "link": "https://news.cgtn.com/news/2026-11-17/3rd-US-aircraft-carrier-arrives-in-Middle-East-amid-Iran-tensions-1S8xGcYFjUI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Vance: Trump won’t let  Iran become a “forever war”",
+      "description": "Vance: Trump won’t let  Iran become a “forever war”",
+      "link": "https://newsus.cgtn.com/news/2026-11-18/Vance-Trump-won-t-let-Iran-become-a-forever-war--1Sa5NdqYosU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "COP31 chief urges climate finance action, highlights China's role",
-      "description": "COP31 chief urges climate finance action, highlights China's role",
-      "link": "https://news.cgtn.com/news/2026-11-17/COP31-chief-urges-climate-finance-action-highlights-China-s-role-1S8z60bLbvq/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Blisters and hope: Migrants continue caravan after US Midterms",
+      "description": "Blisters and hope: Migrants continue caravan after US Midterms",
+      "link": "https://newsus.cgtn.com/news/2026-11-18/Blisters-and-hope-Migrants-continue-caravan-after-US-Midterms-1Sa8wRdCxiw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "President Xi Jinping's key quotes on advancing APEC cooperation",
-      "description": "Chinese President Xi Jinping has repeatedly called for greater openness and cooperation to promote shared prosperity in the Asia-Pacific.",
-      "link": "https://news.cgtn.com/news/2026-11-14/President-Xi-Jinping-s-key-quotes-on-advancing-APEC-cooperation-1S3KpqcrJTi/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Study finds global cryosphere degradation accelerating",
+      "description": "Study finds global cryosphere degradation accelerating",
+      "link": "https://news.cgtn.com/news/2026-11-15/Study-finds-global-cryosphere-degradation-accelerating-1S69jKGaeVG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
-      "description": "The onetime foreign minister, Karin Kneissl, has lauded her new home for its “genuine freedom” and used it as a perch to attack her old one.",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
+      "title": "Trump Meets Philippine Leader Before Flying to China",
+      "description": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "description": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+      "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+      "description": "The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.",
+      "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "10 Numbers That Might Change How You See Asia",
-      "description": "From semiconductor dominance to new power grids, defense deals and K-pop, the region — beyond China — is becoming increasingly interconnected and self-reliant.",
-      "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
+      "description": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "description": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 28,
-    "grammarIndex": 2,
-    "speakingIndex": 8,
+    "wordIndex": 29,
+    "grammarIndex": 3,
+    "speakingIndex": 9,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "medium",
-    "wordPriorityPosition": 10,
+    "wordPriorityPosition": 11,
     "wordPriorityTotal": 11
   }
 }
