@@ -1,83 +1,83 @@
 {
-  "date": "2026-11-18",
-  "weekday": "Wednesday",
-  "generatedAt": "2026-11-18T06:10:09.309Z",
+  "date": "2026-11-19",
+  "weekday": "Thursday",
+  "generatedAt": "2026-11-19T06:10:52.119Z",
   "word": {
-    "word": "feasible",
-    "phonetic": "/ˈfiːzəbl/",
+    "word": "quintessential",
+    "phonetic": "/ˌkwɪntɪˈsenʃl/",
     "partOfSpeech": "adj.",
-    "definition": "可行的；可能的",
-    "example": "We need to determine whether the project is feasible within budget.",
-    "exampleTranslation": "我们需要确定该项目在预算内是否可行。",
-    "ieltsLevel": "6",
-    "priority": "medium",
+    "definition": "典型的；精髓的",
+    "example": "Paris is the quintessential romantic city in many people's eyes.",
+    "exampleTranslation": "在许多人眼中，巴黎是典型的浪漫之都。",
+    "ieltsLevel": "7+",
+    "priority": "low",
     "movieQuote": {
-      "quote": "We need a feasible plan within 48 hours.",
-      "movie": "Apollo 13",
-      "year": 1995,
-      "character": "Jim Lovell"
+      "quote": "He is the quintessential English gentleman.",
+      "movie": "Kingsman: The Secret Service",
+      "year": 2014,
+      "character": "Harry Hart"
     },
-    "youglish": "https://youglish.com/getbyword?q=feasible"
+    "youglish": "https://youglish.com/getbyword?q=quintessential"
   },
   "grammar": {
-    "title": "定语从句：that vs which",
-    "category": "从句",
-    "explanation": "限制性定语从句用that或which均可；非限制性定语从句（有逗号隔开）只能用which，不能用that。",
-    "structure": "名词 + that/which + 从句（限制性）；名词, which + 从句（非限制性）",
+    "title": "被动语态",
+    "category": "语态",
+    "explanation": "当动作的执行者不重要或未知，或想强调动作承受者时使用被动语态。结构为be + 过去分词。",
+    "structure": "主语 + be + 过去分词 (+ by + 执行者)",
     "examples": [
       {
-        "sentence": "The book that/which I bought yesterday is excellent.",
-        "translation": "我昨天买的那本书很棒。",
-        "note": "限制性，that/which均可"
+        "sentence": "The bridge was built in 1998.",
+        "translation": "这座桥建于1998年。",
+        "note": "强调承受者，执行者不重要"
       },
       {
-        "sentence": "The book, which I bought yesterday, is excellent.",
-        "translation": "这本书，我昨天买的，很棒。",
-        "note": "非限制性，只能用which"
+        "sentence": "The report will be submitted by next Friday.",
+        "translation": "报告将于下周五前提交。",
+        "note": "正式文体常用被动"
       }
     ],
-    "ieltsTip": "雅思阅读中正确区分限制性与非限制性定语从句，有助于准确理解句意。"
+    "ieltsTip": "雅思写作Task 1流程图描述和学术写作中，被动语态是体现客观性的重要手段。"
   },
   "speaking": {
     "part": "Part 1",
-    "topic": "Food",
+    "topic": "Travel",
     "questions": [
-      "What is your favorite food?",
-      "Do you like cooking?",
-      "Are there any foods you dislike?",
-      "Has your taste in food changed over the years?"
+      "Do you like traveling?",
+      "Where did you go on your last holiday?",
+      "Do you prefer traveling alone or with others?",
+      "What is your dream destination?"
     ],
-    "sampleAnswer": "My absolute favorite is hotpot, especially the spicy Sichuan style. I find the communal aspect of gathering around a steaming pot with friends incredibly appealing. While I enjoy cooking occasionally, I wouldn't call myself a skilled chef—I tend to stick to simple dishes like stir-fried vegetables and steamed fish. As for dislikes, I'm not particularly fond of overly sweet desserts or anything with a strong cilantro flavor. Over the years, my palate has definitely expanded; as a child, I avoided anything spicy, but now I've grown to appreciate the complexity of bold flavors.",
+    "sampleAnswer": "I'm absolutely passionate about traveling—there's nothing quite like exploring new places and immersing myself in different cultures. My last holiday took me to Xi'an, where I was captivated by the Terracotta Warriors and the city's rich historical atmosphere. When it comes to traveling companions, I prefer going with close friends; shared experiences tend to be more enjoyable, and navigating unfamiliar places together strengthens bonds. As for my dream destination, it would have to be Iceland—I've always been fascinated by its otherworldly landscapes, especially the Northern Lights and the geothermal hot springs.",
     "keywords": [
-      "communal",
-      "appealing",
-      "particularly fond of",
-      "palate",
-      "complexity"
+      "passionate",
+      "immersing",
+      "captivated",
+      "navigating",
+      "otherworldly"
     ],
-    "tips": "描述食物时多用感官词汇，让回答生动。"
+    "tips": "表达偏好时给出具体原因，避免单一答案。"
   },
   "news": [
     {
-      "title": "Vance: Trump won’t let  Iran become a “forever war”",
-      "description": "Vance: Trump won’t let  Iran become a “forever war”",
-      "link": "https://newsus.cgtn.com/news/2026-11-18/Vance-Trump-won-t-let-Iran-become-a-forever-war--1Sa5NdqYosU/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Africa in pictures: Maasai Festival showcases Kenya's culture",
+      "description": "In Kenya's Maasai Mara, culture is more than a way of life. It is an identity deeply rooted in the land, livestock and wildlife that have sustained generations of Maa communities.",
+      "link": "https://newsaf.cgtn.com/news/2026-11-18/Africa-in-pictures-Maasai-Festival-showcases-Kenya-s-culture-1S9snJEVonS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Blisters and hope: Migrants continue caravan after US Midterms",
-      "description": "Blisters and hope: Migrants continue caravan after US Midterms",
-      "link": "https://newsus.cgtn.com/news/2026-11-18/Blisters-and-hope-Migrants-continue-caravan-after-US-Midterms-1Sa8wRdCxiw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Shenzhen-made electronics find growing market in Kenya",
+      "description": "From household blenders to smart televisions, phones and other electronic gadgets, products manufactured in China's southern city of Shenzhen are finding a growing market in Kenya, driven largely by a",
+      "link": "https://newsaf.cgtn.com/news/2026-11-18/Shenzhen-made-electronics-find-growing-market-in-Kenya-1SaPmtO48Lu/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Study finds global cryosphere degradation accelerating",
-      "description": "Study finds global cryosphere degradation accelerating",
-      "link": "https://news.cgtn.com/news/2026-11-15/Study-finds-global-cryosphere-degradation-accelerating-1S69jKGaeVG/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Papua New Guinea PM arrives in Shenzhen for 33rd APEC Economic Leaders' Meeting",
+      "description": "Papua New Guinea PM arrives in Shenzhen for 33rd APEC Economic Leaders' Meeting",
+      "link": "https://news.cgtn.com/news/2026-11-16/Papua-New-Guinea-PM-arrives-in-Shenzhen-for-33rd-APEC-Economic-Leaders-Meeting-1S7Lbi0U73G/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -107,49 +107,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Trump Meets Philippine Leader Before Flying to China",
-      "description": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+      "description": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-      "description": "The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.",
-      "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "description": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vlad",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-      "description": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "description": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "description": "No state has ever been found guilty by an international court of committing genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -159,16 +159,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 29,
-    "grammarIndex": 3,
-    "speakingIndex": 9,
+    "wordIndex": 30,
+    "grammarIndex": 4,
+    "speakingIndex": 10,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
-    "wordPriority": "medium",
-    "wordPriorityPosition": 11,
-    "wordPriorityTotal": 11
+    "wordPriority": "low",
+    "wordPriorityPosition": 1,
+    "wordPriorityTotal": 3
   }
 }
