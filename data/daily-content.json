@@ -1,78 +1,78 @@
 {
-  "date": "2026-11-20",
-  "weekday": "Friday",
-  "generatedAt": "2026-11-20T05:57:02.466Z",
+  "date": "2026-11-21",
+  "weekday": "Saturday",
+  "generatedAt": "2026-11-21T05:51:58.885Z",
   "word": {
-    "word": "gregarious",
-    "phonetic": "/ɡrɪˈɡeəriəs/",
+    "word": "diligent",
+    "phonetic": "/ˈdɪlɪdʒənt/",
     "partOfSpeech": "adj.",
-    "definition": "爱交际的；群居的",
-    "example": "His gregarious personality made him popular at social gatherings.",
-    "exampleTranslation": "他爱交际的性格使他在社交场合很受欢迎。",
-    "ieltsLevel": "7+",
+    "definition": "勤奋的；用功的",
+    "example": "The diligent student completed all assignments ahead of schedule.",
+    "exampleTranslation": "这位勤奋的学生提前完成了所有作业。",
+    "ieltsLevel": "6",
     "priority": "low",
     "movieQuote": {
-      "quote": "She was always the gregarious one in the family.",
-      "movie": "Amélie",
-      "year": 2001,
-      "character": "Amélie Poulain"
+      "quote": "Stay diligent, and the truth will reveal itself.",
+      "movie": "The Pursuit of Happyness",
+      "year": 2006,
+      "character": "Chris Gardner"
     },
-    "youglish": "https://youglish.com/getbyword?q=gregarious"
+    "youglish": "https://youglish.com/getbyword?q=diligent"
   },
   "grammar": {
-    "title": "现在分词作状语",
-    "category": "非谓语动词",
-    "explanation": "现在分词（-ing形式）作状语，可表示时间、原因、条件、让步、结果等，其逻辑主语须与主句主语一致。",
-    "structure": "现在分词(短语), 主句",
+    "title": "倒装句",
+    "category": "特殊句式",
+    "explanation": "否定副词（never, hardly, seldom, rarely等）置于句首时，主句需部分倒装（助动词提前）。",
+    "structure": "Never/Hardly/Seldom + 助动词 + 主语 + 动词",
     "examples": [
       {
-        "sentence": "Having finished the assignment, she went out for a walk.",
-        "translation": "完成作业后，她出去散步了。",
-        "note": "完成时分词表示动作先于主句"
+        "sentence": "Never have I seen such a breathtaking landscape.",
+        "translation": "我从未见过如此令人惊叹的风景。",
+        "note": "否定词提前，部分倒装"
       },
       {
-        "sentence": "Not knowing the answer, he remained silent.",
-        "translation": "因为不知道答案，他保持沉默。",
-        "note": "表原因"
+        "sentence": "Hardly had he arrived when the meeting started.",
+        "translation": "他刚到，会议就开始了。",
+        "note": "Hardly...when...结构"
       }
     ],
-    "ieltsTip": "雅思写作中合理使用分词结构，可让句子更紧凑、更有变化，避免全是并列句。"
+    "ieltsTip": "雅思写作中恰当使用倒装句，是体现语言高级感的有效手段，但不宜滥用。"
   },
   "speaking": {
     "part": "Part 2",
-    "topic": "Describe a skill you want to learn",
-    "cueCard": "Describe a skill you would like to learn. You should say: what the skill is / why you want to learn it / how you would learn it / and explain how this skill would benefit you.",
-    "sampleAnswer": "A skill I've been eager to acquire is sign language. I became interested in it after watching a documentary about the deaf community, which opened my eyes to the barriers they face in daily communication. To learn it, I plan to enroll in online courses offered by reputable institutions and practice regularly with members of the deaf community through language exchange programs. Mastering sign language would benefit me in multiple ways: professionally, it would allow me to work more inclusively as an educator; personally, it would enable me to connect with a community that is often marginalized. Moreover, learning sign language would give me a deeper appreciation for the diversity of human communication and challenge my assumptions about how language works. Ultimately, I believe this skill would make me not only a more effective communicator but also a more empathetic person.",
+    "topic": "Describe an important decision you made",
+    "cueCard": "Describe an important decision you had to make. You should say: what the decision was / when you made it / what the result was / and explain why it was important.",
+    "sampleAnswer": "One of the most significant decisions I've ever made was choosing to study abroad for my postgraduate degree rather than entering the workforce immediately after graduation. I made this decision during the final year of my undergraduate studies, after countless discussions with my family and mentors. The result was a transformative two years in the UK, where I gained not only specialized knowledge in my field but also a broader worldview and lifelong friendships. This decision was crucial because it fundamentally altered the trajectory of my career—exposure to different educational methodologies and international perspectives made me more competitive in the job market. Moreover, living independently in a foreign country fostered my personal growth, teaching me resilience and adaptability. Looking back, I'm certain that this decision, though daunting at the time, was one of the best I've ever made.",
     "keywords": [
-      "acquire",
-      "barriers",
-      "reputable",
-      "inclusively",
-      "marginalized"
+      "transformative",
+      "trajectory",
+      "exposure",
+      "competitive",
+      "daunting"
     ],
-    "tips": "描述未来计划时使用 would/will，注意条件句的运用。"
+    "tips": "讲述决定时强调过程和结果，体现反思能力。"
   },
   "news": [
     {
-      "title": "Somalia asks UAE ambassador to leave within 72 hours",
-      "description": "Somalia has ordered the United Arab Emirates (UAE) ambassador to leave the country within 72 hours and recalled its own envoy from Abu Dhabi, accusing the Gulf state of violating its sovereignty.",
-      "link": "https://newsaf.cgtn.com/news/2026-11-19/Somalia-asks-UAE-ambassador-to-leave-within-72-hours-1ScLHe2diXS/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "China-Russia-US summit: Injecting stability into a turbulent world",
+      "description": "This step forward, driven by China, confirms a long-held judgment of Beijing: in a multipolar world, dialogue rather than division is the sustainable option, and a viable path to meet the internationa",
+      "link": "https://news.cgtn.com/news/2026-11-20/China-Russia-US-summit-Injecting-stability-into-a-turbulent-world-1Se6ZGk47kI/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Mexico sees opportunities for business at APEC in Shenzhen",
-      "description": "Mexico sees opportunities for business at APEC in Shenzhen",
-      "link": "https://newsus.cgtn.com/news/2026-11-20/Mexico-sees-opportunities-for-business-at-APEC-in-Shenzhen-1Sdk1deFshW/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Ghana opens vaccine research and DNA laboratories",
+      "description": "The new facilities at the Noguchi Memorial Institute for Medical Research will strengthen Ghana's capacity for vaccine development and domestic DNA testing, addressing challenges highlighted by the 20",
+      "link": "https://newsaf.cgtn.com/news/2026-11-20/Ghana-opens-vaccine-research-and-DNA-laboratories-1Se5CheKacw/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
     },
     {
-      "title": "Trump arrives at venue for meeting with Xi in Shenzhen",
-      "description": "Trump arrives at venue for meeting with Xi in Shenzhen",
-      "link": "https://news.cgtn.com/news/2026-11-19/Trump-arrives-at-venue-for-meeting-with-Xi-in-Shenzhen-1SccMOdOLmM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
+      "title": "Seven candidates make their case to lead WHO amid growing challenges",
+      "description": "Seven candidates began outlining their visions for leading the World Health Organization at a two-day forum in Geneva, as the agency's next director-general is expected to face financial pressures, ge",
+      "link": "https://newsaf.cgtn.com/news/2026-11-18/Seven-candidates-make-their-case-to-lead-WHO-amid-growing-challenges-1SaKmFL8rFm/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World",
       "source": "CGTN - World",
       "language": "en",
       "category": "中国英文媒体"
@@ -102,49 +102,49 @@
       "category": "中文媒体"
     },
     {
-      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
-      "description": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "description": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "description": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "description": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of f",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-      "description": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "description": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
       "source": "NYT - World",
       "language": "en",
       "category": "国际综合"
     },
     {
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "description": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
     },
     {
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News - World",
       "language": "en",
       "category": "英文外刊"
@@ -154,16 +154,16 @@
     "totalWords": 32,
     "totalGrammar": 30,
     "totalSpeaking": 29,
-    "wordIndex": 31,
-    "grammarIndex": 5,
-    "speakingIndex": 11,
+    "wordIndex": 32,
+    "grammarIndex": 6,
+    "speakingIndex": 12,
     "priorityCounts": {
       "high": 18,
       "medium": 11,
       "low": 3
     },
     "wordPriority": "low",
-    "wordPriorityPosition": 2,
+    "wordPriorityPosition": 3,
     "wordPriorityTotal": 3
   }
 }
